@@ -14,6 +14,33 @@ function mockHomeFetch() {
           ? input.toString()
           : (input as Request).url
 
+    if (URL.canParse(url)) {
+      const parsedUrl = new URL(url)
+      if (parsedUrl.hostname === 'prts.wiki' && parsedUrl.pathname === '/api.php') {
+        const page = parsedUrl.searchParams.get('page') ?? ''
+        if (page === '购物清单') {
+          return buildRuntimeWikiParseResponse({
+            title: '购物清单',
+            textlog: ['[Image(image="cg_a")]', '秘录正文。'].join('\n'),
+            resources: 'cg_a,/assets/storyline/cg-a.png',
+          })
+        }
+
+        if (page === '加班券') {
+          return buildRuntimeWikiParseResponse({
+            title: '加班券',
+            textlog: [
+              '[Background(image="60_g12_rhodesdeck_cloudy")]',
+              '伦蒂尼姆的工业产能仍然弥足珍贵。',
+              '[name="凯尔希"]亚历山德莉娜议长阁下。',
+              '父级后续正文。',
+            ].join('\n'),
+            resources: '',
+          })
+        }
+      }
+    }
+
     if (url.endsWith('/data/zh_CN/manifest.json')) {
       return new Response(
         JSON.stringify({
@@ -386,6 +413,37 @@ function mockHomeFetch() {
 
     return new Response('not found', { status: 404 })
   })
+}
+
+function buildRuntimeWikiParseResponse({
+  title,
+  textlog,
+  resources,
+}: {
+  title: string
+  textlog: string
+  resources: string
+}) {
+  return new Response(
+    JSON.stringify({
+      parse: {
+        title,
+        text: {
+          '*': [
+            `<pre id="datas_txt">${escapeHtml(textlog)}</pre>`,
+            `<pre id="datas_back">${escapeHtml(resources)}</pre>`,
+          ].join(''),
+        },
+      },
+    })
+  )
+}
+
+function escapeHtml(value: string): string {
+  return value
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
 }
 
 describe('HomePage 22.6 四分区与干员入口行为', () => {
@@ -764,7 +822,7 @@ describe('HomePage 22.6 四分区与干员入口行为', () => {
     })
   })
 
-  it('uses reader sequence gating for nested operator confidential choices', async () => {
+  it('renders runtime operator confidential textlog in reading order', async () => {
     vi.stubGlobal('fetch', mockHomeFetch())
     window.history.pushState({}, '', '/zh_CN/operators/opr-a')
 
@@ -780,21 +838,7 @@ describe('HomePage 22.6 四分区与干员入口行为', () => {
     fireEvent.click(screen.getByRole('menuitem', { name: '秘录 · 加班券' }))
 
     expect(await screen.findByText('伦蒂尼姆的工业产能仍然弥足珍贵。')).toBeInTheDocument()
-    expect(screen.getByRole('button', { name: '查看照片' })).toBeInTheDocument()
-    expect(screen.queryByText('亚历山德莉娜议长阁下。')).not.toBeInTheDocument()
-    expect(screen.queryByText('看照片的人不会知道你怎么称呼维娜。')).not.toBeInTheDocument()
-    expect(screen.queryByText('父级后续正文。')).not.toBeInTheDocument()
-
-    fireEvent.click(screen.getByRole('button', { name: '查看照片' }))
     expect(screen.getByText('亚历山德莉娜议长阁下。')).toBeInTheDocument()
-    expect(screen.getByRole('button', { name: '继续追问' })).toBeInTheDocument()
-    expect(screen.queryByText('看照片的人不会知道你怎么称呼维娜。')).not.toBeInTheDocument()
-    expect(screen.queryByText('内层选项后的同级正文。')).not.toBeInTheDocument()
-    expect(screen.queryByText('父级后续正文。')).not.toBeInTheDocument()
-
-    fireEvent.click(screen.getByRole('button', { name: '继续追问' }))
-    expect(screen.getByText('看照片的人不会知道你怎么称呼维娜。')).toBeInTheDocument()
-    expect(screen.getByText('内层选项后的同级正文。')).toBeInTheDocument()
     expect(screen.getByText('父级后续正文。')).toBeInTheDocument()
   })
 
