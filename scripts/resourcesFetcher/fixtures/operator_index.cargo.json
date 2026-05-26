@@ -1,0 +1,22 @@
+{
+  "cargoquery": [
+    {
+      "title": {
+        "name": "可露希尔",
+        "page": "可露希尔",
+        "profession": "辅助",
+        "rarity": "5",
+        "faction": "罗德岛"
+      }
+    },
+    {
+      "title": {
+        "name": "测试干员无秘录",
+        "page": "测试干员无秘录",
+        "profession": "近卫",
+        "rarity": "4",
+        "faction": "罗德岛"
+      }
+    }
+  ]
+}

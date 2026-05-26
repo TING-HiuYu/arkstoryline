@@ -1,0 +1,18 @@
+{
+  "cargoquery": [
+    {
+      "title": {
+        "title": "危机合约：旧约",
+        "page": "危机合约/CC/旧约",
+        "category": "危机合约"
+      }
+    },
+    {
+      "title": {
+        "title": "主线 EP11",
+        "page": "主线/EP11/EP11_BEG",
+        "storySetType": "MAINLINE"
+      }
+    }
+  ]
+}
