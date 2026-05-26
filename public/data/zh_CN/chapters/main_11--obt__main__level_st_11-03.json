@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "11-21",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-21_不可避免/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-21_%E4%B8%8D%E5%8F%AF%E9%81%BF%E5%85%8D/NBT"
+  },
+  "id": "main_11--obt__main__level_st_11-03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "main_11--obt__main__level_main_11-17_end"
+  },
+  "subtitle": "11-21",
+  "summary": "info/obt/main/level_st_11-03",
+  "title": "不可避免"
+}

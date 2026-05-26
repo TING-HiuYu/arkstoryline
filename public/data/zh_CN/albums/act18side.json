@@ -1,0 +1,345 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act18side",
+      "avgTag": "幕间",
+      "code": "LE-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-ST-1_华丽大圆舞曲/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-ST-1_%E5%8D%8E%E4%B8%BD%E5%A4%A7%E5%9C%86%E8%88%9E%E6%9B%B2/NBT"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_st01",
+      "path": "chapters/act18side--activities__act18side__level_act18side_st01.json",
+      "sort": 1,
+      "title": "华丽大圆舞曲"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "行动前",
+      "code": "LE-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-1_闲聊波尔卡/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-1_%E9%97%B2%E8%81%8A%E6%B3%A2%E5%B0%94%E5%8D%A1/BEG"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_01_beg",
+      "path": "chapters/act18side--activities__act18side__level_act18side_01_beg.json",
+      "sort": 2,
+      "title": "闲聊波尔卡"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "行动后",
+      "code": "LE-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-1_闲聊波尔卡/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-1_%E9%97%B2%E8%81%8A%E6%B3%A2%E5%B0%94%E5%8D%A1/END"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_01_end",
+      "path": "chapters/act18side--activities__act18side__level_act18side_01_end.json",
+      "sort": 3,
+      "title": "闲聊波尔卡"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "行动前",
+      "code": "LE-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-2_热情，或悲怆/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-2_%E7%83%AD%E6%83%85%EF%BC%8C%E6%88%96%E6%82%B2%E6%80%86/BEG"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_02_beg",
+      "path": "chapters/act18side--activities__act18side__level_act18side_02_beg.json",
+      "sort": 4,
+      "title": "热情，或悲怆"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "行动后",
+      "code": "LE-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-2_热情，或悲怆/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-2_%E7%83%AD%E6%83%85%EF%BC%8C%E6%88%96%E6%82%B2%E6%80%86/END"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_02_end",
+      "path": "chapters/act18side--activities__act18side__level_act18side_02_end.json",
+      "sort": 5,
+      "title": "热情，或悲怆"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "行动前",
+      "code": "LE-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-3_自由射手/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-3_%E8%87%AA%E7%94%B1%E5%B0%84%E6%89%8B/BEG"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_03_beg",
+      "path": "chapters/act18side--activities__act18side__level_act18side_03_beg.json",
+      "sort": 6,
+      "title": "自由射手"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "行动后",
+      "code": "LE-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-3_自由射手/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-3_%E8%87%AA%E7%94%B1%E5%B0%84%E6%89%8B/END"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_03_end",
+      "path": "chapters/act18side--activities__act18side__level_act18side_03_end.json",
+      "sort": 7,
+      "title": "自由射手"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "行动前",
+      "code": "LE-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-4_惊愕/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-4_%E6%83%8A%E6%84%95/BEG"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_04_beg",
+      "path": "chapters/act18side--activities__act18side__level_act18side_04_beg.json",
+      "sort": 8,
+      "title": "惊愕"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "行动后",
+      "code": "LE-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-4_惊愕/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-4_%E6%83%8A%E6%84%95/END"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_04_end",
+      "path": "chapters/act18side--activities__act18side__level_act18side_04_end.json",
+      "sort": 9,
+      "title": "惊愕"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "幕间",
+      "code": "LE-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-ST-2_春之祭/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-ST-2_%E6%98%A5%E4%B9%8B%E7%A5%AD/NBT"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_st02",
+      "path": "chapters/act18side--activities__act18side__level_act18side_st02.json",
+      "sort": 10,
+      "title": "春之祭"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "行动前",
+      "code": "LE-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-5_月光/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-5_%E6%9C%88%E5%85%89/BEG"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_05_beg",
+      "path": "chapters/act18side--activities__act18side__level_act18side_05_beg.json",
+      "sort": 11,
+      "title": "月光"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "行动后",
+      "code": "LE-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-5_月光/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-5_%E6%9C%88%E5%85%89/END"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_05_end",
+      "path": "chapters/act18side--activities__act18side__level_act18side_05_end.json",
+      "sort": 12,
+      "title": "月光"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "行动前",
+      "code": "LE-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-6_骷髅之舞/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-6_%E9%AA%B7%E9%AB%85%E4%B9%8B%E8%88%9E/BEG"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_06_beg",
+      "path": "chapters/act18side--activities__act18side__level_act18side_06_beg.json",
+      "sort": 13,
+      "title": "骷髅之舞"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "行动后",
+      "code": "LE-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-6_骷髅之舞/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-6_%E9%AA%B7%E9%AB%85%E4%B9%8B%E8%88%9E/END"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_06_end",
+      "path": "chapters/act18side--activities__act18side__level_act18side_06_end.json",
+      "sort": 14,
+      "title": "骷髅之舞"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "行动前",
+      "code": "LE-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-7_升华之夜/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-7_%E5%8D%87%E5%8D%8E%E4%B9%8B%E5%A4%9C/BEG"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_07_beg",
+      "path": "chapters/act18side--activities__act18side__level_act18side_07_beg.json",
+      "sort": 15,
+      "title": "升华之夜"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "行动后",
+      "code": "LE-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-7_升华之夜/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-7_%E5%8D%87%E5%8D%8E%E4%B9%8B%E5%A4%9C/END"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_07_end",
+      "path": "chapters/act18side--activities__act18side__level_act18side_07_end.json",
+      "sort": 16,
+      "title": "升华之夜"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "行动前",
+      "code": "LE-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-8_命运/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-8_%E5%91%BD%E8%BF%90/BEG"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_08_beg",
+      "path": "chapters/act18side--activities__act18side__level_act18side_08_beg.json",
+      "sort": 17,
+      "title": "命运"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "行动后",
+      "code": "LE-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-8_命运/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-8_%E5%91%BD%E8%BF%90/END"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_08_end",
+      "path": "chapters/act18side--activities__act18side__level_act18side_08_end.json",
+      "sort": 18,
+      "title": "命运"
+    },
+    {
+      "albumId": "act18side",
+      "avgTag": "幕间",
+      "code": "LE-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LE-ST-3_自新大陆/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LE-ST-3_%E8%87%AA%E6%96%B0%E5%A4%A7%E9%99%86/NBT"
+      },
+      "downloadable": true,
+      "id": "act18side--activities__act18side__level_act18side_st03",
+      "path": "chapters/act18side--activities__act18side__level_act18side_st03.json",
+      "sort": 19,
+      "title": "自新大陆"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_lingering_echoes",
+    "primaryImageId": "kv_lingering_echoes",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act18side",
+    "titleImageId": "title_lingering_echoes",
+    "url": "https://media.prts.wiki/1/11/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E5%B0%98%E5%BD%B1%E4%BD%99%E9%9F%B3.png"
+  },
+  "extras": [],
+  "gameOrderRank": 4001,
+  "homeSection": "sideStory",
+  "id": "act18side",
+  "music": {
+    "arcTitle": "高塔迷影",
+    "movementTitle": "高塔迷影",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_11",
+      "tag_13",
+      "tag_14"
+    ]
+  },
+  "slug": "act18side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1654747200,
+  "summary": "莱塔尼亚，高塔林立的国度，智识与音乐的故乡。\n旧日阴影不再，晨曦洒满街巷。\n维谢海姆，夕照厅内。\n濒临断裂的琴弦即将奏响最后一曲。\n黑白殊途的琴键被命定的谱线禁锢。\n遗落尘世的旋律在执念中暗自发芽。\n听，欢乐的音符仍在霞光里飘扬，无人留意夕阳渐沉。",
+  "timelineRank": 1654747200,
+  "title": "尘影余音"
+}

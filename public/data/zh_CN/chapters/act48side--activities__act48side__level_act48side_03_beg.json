@@ -1,0 +1,21 @@
+{
+  "albumId": "act48side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "ME-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ME-3_无解的谜题/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ME-3_%E6%97%A0%E8%A7%A3%E7%9A%84%E8%B0%9C%E9%A2%98/BEG"
+  },
+  "id": "act48side--activities__act48side__level_act48side_03_beg",
+  "navigation": {
+    "nextChapterId": "act48side--activities__act48side__level_act48side_03_end",
+    "previousChapterId": "act48side--activities__act48side__level_act48side_02_end"
+  },
+  "subtitle": "ME-3",
+  "summary": "info/activities/act48side/level_act48side_03_beg",
+  "title": "无解的谜题"
+}

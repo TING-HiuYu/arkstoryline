@@ -1,0 +1,21 @@
+{
+  "albumId": "act19side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DV-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DV-4_无人的小巷/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DV-4_%E6%97%A0%E4%BA%BA%E7%9A%84%E5%B0%8F%E5%B7%B7/END"
+  },
+  "id": "act19side--activities__act19side__level_act19side_04_end",
+  "navigation": {
+    "nextChapterId": "act19side--activities__act19side__level_act19side_05_beg",
+    "previousChapterId": "act19side--activities__act19side__level_act19side_04_beg"
+  },
+  "subtitle": "DV-4",
+  "summary": "info/activities/act19side/level_act19side_04_end",
+  "title": "无人的小巷"
+}

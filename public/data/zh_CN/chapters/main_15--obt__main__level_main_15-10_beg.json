@@ -1,0 +1,21 @@
+{
+  "albumId": "main_15",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "15-11",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "15-11_一段长梦将醒/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-11_%E4%B8%80%E6%AE%B5%E9%95%BF%E6%A2%A6%E5%B0%86%E9%86%92/BEG"
+  },
+  "id": "main_15--obt__main__level_main_15-10_beg",
+  "navigation": {
+    "nextChapterId": "main_15--obt__main__level_main_15-10_end",
+    "previousChapterId": "main_15--obt__main__level_main_15-08_end"
+  },
+  "subtitle": "15-11",
+  "summary": "info/obt/main/level_main_15-10_beg",
+  "title": "一段长梦将醒"
+}

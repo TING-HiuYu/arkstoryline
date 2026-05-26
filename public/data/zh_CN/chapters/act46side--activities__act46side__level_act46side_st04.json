@@ -1,0 +1,21 @@
+{
+  "albumId": "act46side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "OS-ST-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OS-ST-4_“降临”/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OS-ST-4_%E2%80%9C%E9%99%8D%E4%B8%B4%E2%80%9D/NBT"
+  },
+  "id": "act46side--activities__act46side__level_act46side_st04",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act46side--activities__act46side__level_act46side_10_end"
+  },
+  "subtitle": "OS-ST-4",
+  "summary": "info/activities/act46side/level_act46side_st04",
+  "title": "“降临”"
+}

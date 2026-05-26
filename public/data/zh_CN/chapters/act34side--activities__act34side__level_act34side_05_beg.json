@@ -1,0 +1,21 @@
+{
+  "albumId": "act34side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "BP-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BP-5_不治的命运/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BP-5_%E4%B8%8D%E6%B2%BB%E7%9A%84%E5%91%BD%E8%BF%90/BEG"
+  },
+  "id": "act34side--activities__act34side__level_act34side_05_beg",
+  "navigation": {
+    "nextChapterId": "act34side--activities__act34side__level_act34side_05_end",
+    "previousChapterId": "act34side--activities__act34side__level_act34side_04_end"
+  },
+  "subtitle": "BP-5",
+  "summary": "info/activities/act34side/level_act34side_05_beg",
+  "title": "不治的命运"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act11d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "TW-S-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TW-S-1_三座巨像/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TW-S-1_%E4%B8%89%E5%BA%A7%E5%B7%A8%E5%83%8F/END"
+  },
+  "id": "act11d0--activities__act11d0__level_act11d0_sub-1-1_end",
+  "navigation": {
+    "nextChapterId": "act11d0--activities__act11d0__level_act11d0_sub-1-2_end",
+    "previousChapterId": "act11d0--activities__act11d0__level_act11d0_st02"
+  },
+  "subtitle": "TW-S-1",
+  "summary": "info/activities/act11d0/level_act11d0_sub-1-1_end",
+  "title": "三座巨像"
+}

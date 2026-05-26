@@ -1,0 +1,21 @@
+{
+  "albumId": "act5d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CB-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CB-1_6:44P.M./BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-1_6%3A44P.M./BEG"
+  },
+  "id": "act5d0--activities__act5d0__level_act5d0_01_beg",
+  "navigation": {
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_01_end",
+    "previousChapterId": "act5d0--activities__act5d0__ui_act5d0_firstenter"
+  },
+  "subtitle": "CB-1",
+  "summary": "info/activities/act5d0/level_act5d0_01_beg",
+  "title": "6:44P.M."
+}

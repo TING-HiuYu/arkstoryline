@@ -1,0 +1,21 @@
+{
+  "albumId": "act30side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RS-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RS-6_补票！/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RS-6_%E8%A1%A5%E7%A5%A8%EF%BC%81/END"
+  },
+  "id": "act30side--activities__act30side__level_act30side_06_end",
+  "navigation": {
+    "nextChapterId": "act30side--activities__act30side__level_act30side_07_beg",
+    "previousChapterId": "act30side--activities__act30side__level_act30side_06_beg"
+  },
+  "subtitle": "RS-6",
+  "summary": "info/activities/act30side/level_act30side_06_end",
+  "title": "补票！"
+}

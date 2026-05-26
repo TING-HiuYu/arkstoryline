@@ -1,0 +1,21 @@
+{
+  "albumId": "main_6",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "6-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "6-8_只是从天而降！/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/6-8_%E5%8F%AA%E6%98%AF%E4%BB%8E%E5%A4%A9%E8%80%8C%E9%99%8D%EF%BC%81/BEG"
+  },
+  "id": "main_6--obt__main__level_main_06-07_beg",
+  "navigation": {
+    "nextChapterId": "main_6--obt__main__level_main_06-07_end",
+    "previousChapterId": "main_6--obt__main__level_main_06-06_end"
+  },
+  "subtitle": "6-8",
+  "summary": "info/obt/main/level_main_06-07_beg",
+  "title": "只是从天而降！"
+}

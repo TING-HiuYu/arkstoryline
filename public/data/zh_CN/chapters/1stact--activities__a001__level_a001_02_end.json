@@ -1,0 +1,21 @@
+{
+  "albumId": "1stact",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "GT-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GT-2_察言观色/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GT-2_%E5%AF%9F%E8%A8%80%E8%A7%82%E8%89%B2/END"
+  },
+  "id": "1stact--activities__a001__level_a001_02_end",
+  "navigation": {
+    "nextChapterId": "1stact--activities__a001__level_a001_03_beg",
+    "previousChapterId": "1stact--activities__a001__level_a001_02_beg"
+  },
+  "subtitle": "GT-2",
+  "summary": "info/activities/a001/level_a001_02_end",
+  "title": "察言观色"
+}

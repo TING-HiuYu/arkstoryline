@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-2_演出继续/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-2_%E6%BC%94%E5%87%BA%E7%BB%A7%E7%BB%AD/BEG"
+  },
+  "id": "act3d0--activities__act3d0__level_act3d0_02_beg",
+  "navigation": {
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_02_end",
+    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_st02"
+  },
+  "subtitle": "OF-2",
+  "summary": "info/activities/act3d0/level_act3d0_02_beg",
+  "title": "演出继续"
+}

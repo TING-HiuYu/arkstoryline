@@ -1,0 +1,19 @@
+{
+  "albumId": "act20mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CG-ST5_未至之音/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CG-ST5_%E6%9C%AA%E8%87%B3%E4%B9%8B%E9%9F%B3/NBT"
+  },
+  "id": "act20mini--activities__act20mini__level_act20mini_st05",
+  "navigation": {
+    "nextChapterId": "act20mini--activities__act20mini__level_act20mini_st06",
+    "previousChapterId": "act20mini--activities__act20mini__level_act20mini_st04"
+  },
+  "summary": "info/activities/act20mini/level_act20mini_st05",
+  "title": "未至之音"
+}

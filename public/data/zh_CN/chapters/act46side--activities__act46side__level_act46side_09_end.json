@@ -1,0 +1,21 @@
+{
+  "albumId": "act46side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OS-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OS-9_凛刃出匣/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OS-9_%E5%87%9B%E5%88%83%E5%87%BA%E5%8C%A3/END"
+  },
+  "id": "act46side--activities__act46side__level_act46side_09_end",
+  "navigation": {
+    "nextChapterId": "act46side--activities__act46side__level_act46side_10_beg",
+    "previousChapterId": "act46side--activities__act46side__level_act46side_09_beg"
+  },
+  "subtitle": "OS-9",
+  "summary": "info/activities/act46side/level_act46side_09_end",
+  "title": "凛刃出匣"
+}

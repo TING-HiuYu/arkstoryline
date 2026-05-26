@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "14-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-8_抵近支援作战/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-8_%E6%8A%B5%E8%BF%91%E6%94%AF%E6%8F%B4%E4%BD%9C%E6%88%98/END"
+  },
+  "id": "main_14--obt__main__level_main_14-07_end",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-08_beg",
+    "previousChapterId": "main_14--obt__main__level_main_14-07_beg"
+  },
+  "subtitle": "14-8",
+  "summary": "info/obt/main/level_main_14-07_end",
+  "title": "抵近支援作战"
+}

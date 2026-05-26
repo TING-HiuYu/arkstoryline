@@ -1,0 +1,21 @@
+{
+  "albumId": "main_6",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "6-13",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "6-13_没有火,没有光/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/6-13_%E6%B2%A1%E6%9C%89%E7%81%AB%2C%E6%B2%A1%E6%9C%89%E5%85%89/NBT"
+  },
+  "id": "main_6--obt__main__level_st_06-02",
+  "navigation": {
+    "nextChapterId": "main_6--obt__main__level_main_06-13_beg",
+    "previousChapterId": "main_6--obt__main__level_main_06-12_end"
+  },
+  "subtitle": "6-13",
+  "summary": "info/obt/main/level_st_06-02",
+  "title": "没有火,没有光"
+}

@@ -1,0 +1,436 @@
+{
+  "albumKind": "mainline",
+  "chapters": [
+    {
+      "albumId": "main_16",
+      "avgTag": "幕间",
+      "code": "16-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-1_庸人的救济/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-1_%E5%BA%B8%E4%BA%BA%E7%9A%84%E6%95%91%E6%B5%8E/NBT"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_st_16-01",
+      "path": "chapters/main_16--obt__main__level_st_16-01.json",
+      "sort": 236,
+      "title": "庸人的救济"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动前",
+      "code": "16-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-2_晨曦遥远/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-2_%E6%99%A8%E6%9B%A6%E9%81%A5%E8%BF%9C/BEG"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-01_beg",
+      "path": "chapters/main_16--obt__main__level_main_16-01_beg.json",
+      "sort": 237,
+      "title": "晨曦遥远"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动前",
+      "code": "16-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-3_道路以目/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-3_%E9%81%93%E8%B7%AF%E4%BB%A5%E7%9B%AE/BEG"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-03_beg",
+      "path": "chapters/main_16--obt__main__level_main_16-03_beg.json",
+      "sort": 238,
+      "title": "道路以目"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动前",
+      "code": "16-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-4_友人成众/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-4_%E5%8F%8B%E4%BA%BA%E6%88%90%E4%BC%97/BEG"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-04_beg",
+      "path": "chapters/main_16--obt__main__level_main_16-04_beg.json",
+      "sort": 239,
+      "title": "友人成众"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动后",
+      "code": "16-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-4_友人成众/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-4_%E5%8F%8B%E4%BA%BA%E6%88%90%E4%BC%97/END"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-04_end",
+      "path": "chapters/main_16--obt__main__level_main_16-04_end.json",
+      "sort": 240,
+      "title": "友人成众"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动前",
+      "code": "16-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-5_分水岭线/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-5_%E5%88%86%E6%B0%B4%E5%B2%AD%E7%BA%BF/BEG"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-05_beg",
+      "path": "chapters/main_16--obt__main__level_main_16-05_beg.json",
+      "sort": 241,
+      "title": "分水岭线"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动后",
+      "code": "16-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-6_痛觉明灭/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-6_%E7%97%9B%E8%A7%89%E6%98%8E%E7%81%AD/END"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-06_end",
+      "path": "chapters/main_16--obt__main__level_main_16-06_end.json",
+      "sort": 242,
+      "title": "痛觉明灭"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动前",
+      "code": "16-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-7_最后欢愉/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-7_%E6%9C%80%E5%90%8E%E6%AC%A2%E6%84%89/BEG"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-07_beg",
+      "path": "chapters/main_16--obt__main__level_main_16-07_beg.json",
+      "sort": 243,
+      "title": "最后欢愉"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动后",
+      "code": "16-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-8_无处可寻/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-8_%E6%97%A0%E5%A4%84%E5%8F%AF%E5%AF%BB/END"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-08_end",
+      "path": "chapters/main_16--obt__main__level_main_16-08_end.json",
+      "sort": 244,
+      "title": "无处可寻"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动前",
+      "code": "16-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-9_疯人的辩护/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-9_%E7%96%AF%E4%BA%BA%E7%9A%84%E8%BE%A9%E6%8A%A4/BEG"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-09_beg",
+      "path": "chapters/main_16--obt__main__level_main_16-09_beg.json",
+      "sort": 245,
+      "title": "疯人的辩护"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动后",
+      "code": "16-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-9_疯人的辩护/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-9_%E7%96%AF%E4%BA%BA%E7%9A%84%E8%BE%A9%E6%8A%A4/END"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-09_end",
+      "path": "chapters/main_16--obt__main__level_main_16-09_end.json",
+      "sort": 246,
+      "title": "疯人的辩护"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动前",
+      "code": "16-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-10_哭声渐息/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-10_%E5%93%AD%E5%A3%B0%E6%B8%90%E6%81%AF/BEG"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-10_beg",
+      "path": "chapters/main_16--obt__main__level_main_16-10_beg.json",
+      "sort": 247,
+      "title": "哭声渐息"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动后",
+      "code": "16-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-11_来到坟茔/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-11_%E6%9D%A5%E5%88%B0%E5%9D%9F%E8%8C%94/END"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-11_end",
+      "path": "chapters/main_16--obt__main__level_main_16-11_end.json",
+      "sort": 248,
+      "title": "来到坟茔"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动前",
+      "code": "16-12",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-12_深埋地底/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-12_%E6%B7%B1%E5%9F%8B%E5%9C%B0%E5%BA%95/BEG"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-12_beg",
+      "path": "chapters/main_16--obt__main__level_main_16-12_beg.json",
+      "sort": 249,
+      "title": "深埋地底"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动前",
+      "code": "16-13",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-13_不曾遗忘/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-13_%E4%B8%8D%E6%9B%BE%E9%81%97%E5%BF%98/BEG"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-13_beg",
+      "path": "chapters/main_16--obt__main__level_main_16-13_beg.json",
+      "sort": 250,
+      "title": "不曾遗忘"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动前",
+      "code": "16-14",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-14_唯有坦途/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-14_%E5%94%AF%E6%9C%89%E5%9D%A6%E9%80%94/BEG"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-14_beg",
+      "path": "chapters/main_16--obt__main__level_main_16-14_beg.json",
+      "sort": 251,
+      "title": "唯有坦途"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动前",
+      "code": "16-15",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-15_旷野轰鸣/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-15_%E6%97%B7%E9%87%8E%E8%BD%B0%E9%B8%A3/BEG"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-15_beg",
+      "path": "chapters/main_16--obt__main__level_main_16-15_beg.json",
+      "sort": 252,
+      "title": "旷野轰鸣"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动前",
+      "code": "16-16",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-16_示我以真/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-16_%E7%A4%BA%E6%88%91%E4%BB%A5%E7%9C%9F/BEG"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-16_beg",
+      "path": "chapters/main_16--obt__main__level_main_16-16_beg.json",
+      "sort": 253,
+      "title": "示我以真"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动前",
+      "code": "16-17",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-17_力竭声嘶/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-17_%E5%8A%9B%E7%AB%AD%E5%A3%B0%E5%98%B6/BEG"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-17_beg",
+      "path": "chapters/main_16--obt__main__level_main_16-17_beg.json",
+      "sort": 254,
+      "title": "力竭声嘶"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "行动后",
+      "code": "16-18",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-18_红日留驻/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-18_%E7%BA%A2%E6%97%A5%E7%95%99%E9%A9%BB/END"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_main_16-18_end",
+      "path": "chapters/main_16--obt__main__level_main_16-18_end.json",
+      "sort": 255,
+      "title": "红日留驻"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "幕间",
+      "code": "16-19",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "16-19_狂人的誓言/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/16-19_%E7%8B%82%E4%BA%BA%E7%9A%84%E8%AA%93%E8%A8%80/NBT"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_st_16-02",
+      "path": "chapters/main_16--obt__main__level_st_16-02.json",
+      "sort": 256,
+      "title": "狂人的誓言"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "幕间",
+      "code": "EG-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EG-7_来信/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EG-7_%E6%9D%A5%E4%BF%A1/NBT"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_spst_16-01",
+      "path": "chapters/main_16--obt__main__level_spst_16-01.json",
+      "sort": 257,
+      "title": "来信"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "幕间",
+      "code": "EG-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EG-8_往事/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EG-8_%E5%BE%80%E4%BA%8B/NBT"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_spst_16-02",
+      "path": "chapters/main_16--obt__main__level_spst_16-02.json",
+      "sort": 258,
+      "title": "往事"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "幕间",
+      "code": "EG-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EG-9_归乡/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EG-9_%E5%BD%92%E4%B9%A1/NBT"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_spst_16-03",
+      "path": "chapters/main_16--obt__main__level_spst_16-03.json",
+      "sort": 259,
+      "title": "归乡"
+    },
+    {
+      "albumId": "main_16",
+      "avgTag": "幕间",
+      "code": "EG-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EG-10_无前/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EG-10_%E6%97%A0%E5%89%8D/NBT"
+      },
+      "downloadable": true,
+      "id": "main_16--obt__main__level_spst_16-04",
+      "path": "chapters/main_16--obt__main__level_spst_16-04.json",
+      "sort": 260,
+      "title": "无前"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_abnormal_spectrum",
+    "primaryImageId": "kv_abnormal_spectrum",
+    "source": "stage-kv",
+    "titleImageId": "title_abnormal_spectrum",
+    "url": "https://media.prts.wiki/8/88/%E7%AB%A0%E8%8A%82%E5%90%8D%E7%A7%B0_%E7%AC%AC%E5%8D%81%E5%85%AD%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 7004,
+  "homeSection": "mainline",
+  "id": "main_16",
+  "music": {
+    "arcTitle": "Ⅲ 裂变",
+    "movementTitle": "Ⅲ 裂变",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "main-16",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": -1,
+  "summary": "试图逃离雪原之人，连晨昏线也将其抛弃在后。\n他们追逐日出，追逐炉火，追逐自由。\n在笼罩万物的幕布上翻腾呼啸的光芒，\n它来自血滴落进积雪时的倒影，\n也来自每一次呼吸哭喊时凝结的冰晶。",
+  "timelineRank": -1,
+  "title": "反常光谱"
+}

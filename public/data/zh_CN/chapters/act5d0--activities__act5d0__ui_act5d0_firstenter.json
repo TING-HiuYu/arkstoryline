@@ -1,0 +1,15 @@
+{
+  "id": "act5d0--activities__act5d0__ui_act5d0_firstenter",
+  "albumId": "act5d0",
+  "title": "序章",
+  "subtitle": "ENTRY",
+  "code": "ENTRY",
+  "avgTag": "幕间",
+  "summary": "info/activities/act5d0/ui_act5d0_firstenter",
+  "navigation": {
+    "previousChapterId": null,
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_01_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d3",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SV-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SV-7_守护者/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-7_%E5%AE%88%E6%8A%A4%E8%80%85/END"
+  },
+  "id": "act18d3--activities__act18d3__level_act18d3_07_end",
+  "navigation": {
+    "nextChapterId": "act18d3--activities__act18d3__level_act18d3_st01",
+    "previousChapterId": "act18d3--activities__act18d3__level_act18d3_07_beg"
+  },
+  "subtitle": "SV-7",
+  "summary": "info/activities/act18d3/level_act18d3_07_end",
+  "title": "守护者"
+}

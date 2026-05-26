@@ -1,0 +1,21 @@
+{
+  "albumId": "act11d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "TW-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TW-8_月光沉沦/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TW-8_%E6%9C%88%E5%85%89%E6%B2%89%E6%B2%A6/END"
+  },
+  "id": "act11d0--activities__act11d0__level_act11d0_08_end",
+  "navigation": {
+    "nextChapterId": "act11d0--activities__act11d0__level_act11d0_st02",
+    "previousChapterId": "act11d0--activities__act11d0__level_act11d0_08_beg"
+  },
+  "subtitle": "TW-8",
+  "summary": "info/activities/act11d0/level_act11d0_08_end",
+  "title": "月光沉沦"
+}

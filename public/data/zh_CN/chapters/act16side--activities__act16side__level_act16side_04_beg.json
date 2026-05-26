@@ -1,0 +1,21 @@
+{
+  "albumId": "act16side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "GA-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GA-4_安魂教堂/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GA-4_%E5%AE%89%E9%AD%82%E6%95%99%E5%A0%82/BEG"
+  },
+  "id": "act16side--activities__act16side__level_act16side_04_beg",
+  "navigation": {
+    "nextChapterId": "act16side--activities__act16side__level_act16side_04_end",
+    "previousChapterId": "act16side--activities__act16side__level_act16side_03_end"
+  },
+  "subtitle": "GA-4",
+  "summary": "info/activities/act16side/level_act16side_04_beg",
+  "title": "安魂教堂"
+}

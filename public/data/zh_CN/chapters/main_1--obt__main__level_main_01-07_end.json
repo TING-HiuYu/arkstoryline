@@ -1,0 +1,21 @@
+{
+  "albumId": "main_1",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "1-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "1-7_暴君/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/1-7_%E6%9A%B4%E5%90%9B/END"
+  },
+  "id": "main_1--obt__main__level_main_01-07_end",
+  "navigation": {
+    "nextChapterId": "main_1--obt__main__level_main_01-08_beg",
+    "previousChapterId": "main_1--obt__main__level_main_01-07_beg"
+  },
+  "subtitle": "1-7",
+  "summary": "info/obt/main/level_main_01-07_end",
+  "title": "暴君"
+}

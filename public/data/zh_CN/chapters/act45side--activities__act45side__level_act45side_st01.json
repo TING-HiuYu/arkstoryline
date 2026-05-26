@@ -1,0 +1,21 @@
+{
+  "albumId": "act45side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "SS-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SS-ST-1_路口的红绿灯/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SS-ST-1_%E8%B7%AF%E5%8F%A3%E7%9A%84%E7%BA%A2%E7%BB%BF%E7%81%AF/NBT"
+  },
+  "id": "act45side--activities__act45side__level_act45side_st01",
+  "navigation": {
+    "nextChapterId": "act45side--activities__act45side__level_act45side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "SS-ST-1",
+  "summary": "info/activities/act45side/level_act45side_st01",
+  "title": "路口的红绿灯"
+}

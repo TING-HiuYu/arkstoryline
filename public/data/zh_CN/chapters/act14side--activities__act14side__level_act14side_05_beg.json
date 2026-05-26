@@ -1,0 +1,21 @@
+{
+  "albumId": "act14side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "BI-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BI-5_猎场/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BI-5_%E7%8C%8E%E5%9C%BA/BEG"
+  },
+  "id": "act14side--activities__act14side__level_act14side_05_beg",
+  "navigation": {
+    "nextChapterId": "act14side--activities__act14side__level_act14side_05_end",
+    "previousChapterId": "act14side--activities__act14side__level_act14side_04_end"
+  },
+  "subtitle": "BI-5",
+  "summary": "info/activities/act14side/level_act14side_05_beg",
+  "title": "猎场"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act22side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "FC-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FC-ST-3_一声呜咽/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FC-ST-3_%E4%B8%80%E5%A3%B0%E5%91%9C%E5%92%BD/NBT"
+  },
+  "id": "act22side--activities__act22side__level_act22side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act22side--activities__act22side__level_act22side_08_end"
+  },
+  "subtitle": "FC-ST-3",
+  "summary": "info/activities/act22side/level_act22side_st03",
+  "title": "一声呜咽"
+}

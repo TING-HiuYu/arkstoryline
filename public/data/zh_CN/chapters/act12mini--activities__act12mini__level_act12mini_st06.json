@@ -1,0 +1,19 @@
+{
+  "albumId": "act12mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AW-ST6_空盔甲/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AW-ST6_%E7%A9%BA%E7%9B%94%E7%94%B2/NBT"
+  },
+  "id": "act12mini--activities__act12mini__level_act12mini_st06",
+  "navigation": {
+    "nextChapterId": "act12mini--activities__act12mini__level_act12mini_st07",
+    "previousChapterId": "act12mini--activities__act12mini__level_act12mini_st05"
+  },
+  "summary": "info/activities/act12mini/level_act12mini_st06",
+  "title": "空盔甲"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act28side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CV-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CV-5_疑惑之影/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CV-5_%E7%96%91%E6%83%91%E4%B9%8B%E5%BD%B1/END"
+  },
+  "id": "act28side--activities__act28side__level_act28side_05_end",
+  "navigation": {
+    "nextChapterId": "act28side--activities__act28side__level_act28side_06_beg",
+    "previousChapterId": "act28side--activities__act28side__level_act28side_05_beg"
+  },
+  "subtitle": "CV-5",
+  "summary": "info/activities/act28side/level_act28side_05_end",
+  "title": "疑惑之影"
+}

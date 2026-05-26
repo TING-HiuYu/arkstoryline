@@ -1,0 +1,19 @@
+{
+  "albumId": "act15mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FD-ST2_冰原的女儿/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FD-ST2_%E5%86%B0%E5%8E%9F%E7%9A%84%E5%A5%B3%E5%84%BF/NBT"
+  },
+  "id": "act15mini--activities__act15mini__level_act15mini_st02",
+  "navigation": {
+    "nextChapterId": "act15mini--activities__act15mini__level_act15mini_st03",
+    "previousChapterId": "act15mini--activities__act15mini__level_act15mini_st01"
+  },
+  "summary": "info/activities/act15mini/level_act15mini_st02",
+  "title": "冰原的女儿"
+}

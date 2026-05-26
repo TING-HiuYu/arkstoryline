@@ -1,0 +1,21 @@
+{
+  "albumId": "act17side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SN-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SN-10_礼仪广场/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-10_%E7%A4%BC%E4%BB%AA%E5%B9%BF%E5%9C%BA/END"
+  },
+  "id": "act17side--activities__act17side__level_act17side_10_end",
+  "navigation": {
+    "nextChapterId": "act17side--activities__act17side__level_act17side_st12",
+    "previousChapterId": "act17side--activities__act17side__level_act17side_10_beg"
+  },
+  "subtitle": "SN-10",
+  "summary": "info/activities/act17side/level_act17side_10_end",
+  "title": "礼仪广场"
+}

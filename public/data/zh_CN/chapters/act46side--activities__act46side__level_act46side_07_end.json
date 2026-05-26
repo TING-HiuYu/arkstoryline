@@ -1,0 +1,21 @@
+{
+  "albumId": "act46side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OS-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OS-7_焚心灼影/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OS-7_%E7%84%9A%E5%BF%83%E7%81%BC%E5%BD%B1/END"
+  },
+  "id": "act46side--activities__act46side__level_act46side_07_end",
+  "navigation": {
+    "nextChapterId": "act46side--activities__act46side__level_act46side_08_beg",
+    "previousChapterId": "act46side--activities__act46side__level_act46side_07_beg"
+  },
+  "subtitle": "OS-7",
+  "summary": "info/activities/act46side/level_act46side_07_end",
+  "title": "焚心灼影"
+}

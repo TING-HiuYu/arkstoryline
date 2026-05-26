@@ -1,0 +1,21 @@
+{
+  "albumId": "act29side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "ZT-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ZT-5_奏鸣曲“秋日”/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ZT-5_%E5%A5%8F%E9%B8%A3%E6%9B%B2%E2%80%9C%E7%A7%8B%E6%97%A5%E2%80%9D/END"
+  },
+  "id": "act29side--activities__act29side__level_act29side_05_end",
+  "navigation": {
+    "nextChapterId": "act29side--activities__act29side__level_act29side_06_beg",
+    "previousChapterId": "act29side--activities__act29side__level_act29side_05_beg"
+  },
+  "subtitle": "ZT-5",
+  "summary": "info/activities/act29side/level_act29side_05_end",
+  "title": "奏鸣曲“秋日”"
+}

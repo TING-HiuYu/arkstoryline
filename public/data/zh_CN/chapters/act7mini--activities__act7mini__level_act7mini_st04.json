@@ -1,0 +1,19 @@
+{
+  "albumId": "act7mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PL-ST4_遗落灯塔/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PL-ST4_%E9%81%97%E8%90%BD%E7%81%AF%E5%A1%94/NBT"
+  },
+  "id": "act7mini--activities__act7mini__level_act7mini_st04",
+  "navigation": {
+    "nextChapterId": "act7mini--activities__act7mini__level_act7mini_st05",
+    "previousChapterId": "act7mini--activities__act7mini__level_act7mini_st03"
+  },
+  "summary": "info/activities/act7mini/level_act7mini_st04",
+  "title": "遗落灯塔"
+}

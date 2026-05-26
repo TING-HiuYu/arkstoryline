@@ -1,0 +1,345 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act41side",
+      "avgTag": "幕间",
+      "code": "EA-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-ST-1_涉过寒夜/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-ST-1_%E6%B6%89%E8%BF%87%E5%AF%92%E5%A4%9C/NBT"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_st01",
+      "path": "chapters/act41side--activities__act41side__level_act41side_st01.json",
+      "sort": 1,
+      "title": "涉过寒夜"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "行动前",
+      "code": "EA-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-1_扉页所见/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-1_%E6%89%89%E9%A1%B5%E6%89%80%E8%A7%81/BEG"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_01_beg",
+      "path": "chapters/act41side--activities__act41side__level_act41side_01_beg.json",
+      "sort": 2,
+      "title": "扉页所见"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "行动后",
+      "code": "EA-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-1_扉页所见/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-1_%E6%89%89%E9%A1%B5%E6%89%80%E8%A7%81/END"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_01_end",
+      "path": "chapters/act41side--activities__act41side__level_act41side_01_end.json",
+      "sort": 3,
+      "title": "扉页所见"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "行动前",
+      "code": "EA-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-2_不过别离/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-2_%E4%B8%8D%E8%BF%87%E5%88%AB%E7%A6%BB/BEG"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_02_beg",
+      "path": "chapters/act41side--activities__act41side__level_act41side_02_beg.json",
+      "sort": 4,
+      "title": "不过别离"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "行动后",
+      "code": "EA-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-2_不过别离/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-2_%E4%B8%8D%E8%BF%87%E5%88%AB%E7%A6%BB/END"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_02_end",
+      "path": "chapters/act41side--activities__act41side__level_act41side_02_end.json",
+      "sort": 5,
+      "title": "不过别离"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "行动前",
+      "code": "EA-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-3_惶惑与冲动/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-3_%E6%83%B6%E6%83%91%E4%B8%8E%E5%86%B2%E5%8A%A8/BEG"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_03_beg",
+      "path": "chapters/act41side--activities__act41side__level_act41side_03_beg.json",
+      "sort": 6,
+      "title": "惶惑与冲动"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "行动后",
+      "code": "EA-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-3_惶惑与冲动/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-3_%E6%83%B6%E6%83%91%E4%B8%8E%E5%86%B2%E5%8A%A8/END"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_03_end",
+      "path": "chapters/act41side--activities__act41side__level_act41side_03_end.json",
+      "sort": 7,
+      "title": "惶惑与冲动"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "行动前",
+      "code": "EA-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-4_旧舞步/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-4_%E6%97%A7%E8%88%9E%E6%AD%A5/BEG"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_04_beg",
+      "path": "chapters/act41side--activities__act41side__level_act41side_04_beg.json",
+      "sort": 8,
+      "title": "旧舞步"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "行动后",
+      "code": "EA-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-4_旧舞步/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-4_%E6%97%A7%E8%88%9E%E6%AD%A5/END"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_04_end",
+      "path": "chapters/act41side--activities__act41side__level_act41side_04_end.json",
+      "sort": 9,
+      "title": "旧舞步"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "行动前",
+      "code": "EA-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-5_溺火/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-5_%E6%BA%BA%E7%81%AB/BEG"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_05_beg",
+      "path": "chapters/act41side--activities__act41side__level_act41side_05_beg.json",
+      "sort": 10,
+      "title": "溺火"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "行动后",
+      "code": "EA-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-5_溺火/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-5_%E6%BA%BA%E7%81%AB/END"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_05_end",
+      "path": "chapters/act41side--activities__act41side__level_act41side_05_end.json",
+      "sort": 11,
+      "title": "溺火"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "行动前",
+      "code": "EA-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-6_失路人/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-6_%E5%A4%B1%E8%B7%AF%E4%BA%BA/BEG"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_06_beg",
+      "path": "chapters/act41side--activities__act41side__level_act41side_06_beg.json",
+      "sort": 12,
+      "title": "失路人"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "行动后",
+      "code": "EA-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-6_失路人/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-6_%E5%A4%B1%E8%B7%AF%E4%BA%BA/END"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_06_end",
+      "path": "chapters/act41side--activities__act41side__level_act41side_06_end.json",
+      "sort": 13,
+      "title": "失路人"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "幕间",
+      "code": "EA-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-ST-2_罗曼史已死/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-ST-2_%E7%BD%97%E6%9B%BC%E5%8F%B2%E5%B7%B2%E6%AD%BB/NBT"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_st02",
+      "path": "chapters/act41side--activities__act41side__level_act41side_st02.json",
+      "sort": 14,
+      "title": "罗曼史已死"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "行动前",
+      "code": "EA-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-7_烧灯者/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-7_%E7%83%A7%E7%81%AF%E8%80%85/BEG"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_07_beg",
+      "path": "chapters/act41side--activities__act41side__level_act41side_07_beg.json",
+      "sort": 15,
+      "title": "烧灯者"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "行动后",
+      "code": "EA-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-7_烧灯者/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-7_%E7%83%A7%E7%81%AF%E8%80%85/END"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_07_end",
+      "path": "chapters/act41side--activities__act41side__level_act41side_07_end.json",
+      "sort": 16,
+      "title": "烧灯者"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "行动前",
+      "code": "EA-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-8_夜尽之时/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-8_%E5%A4%9C%E5%B0%BD%E4%B9%8B%E6%97%B6/BEG"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_08_beg",
+      "path": "chapters/act41side--activities__act41side__level_act41side_08_beg.json",
+      "sort": 17,
+      "title": "夜尽之时"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "行动后",
+      "code": "EA-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-8_夜尽之时/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-8_%E5%A4%9C%E5%B0%BD%E4%B9%8B%E6%97%B6/END"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_08_end",
+      "path": "chapters/act41side--activities__act41side__level_act41side_08_end.json",
+      "sort": 18,
+      "title": "夜尽之时"
+    },
+    {
+      "albumId": "act41side",
+      "avgTag": "幕间",
+      "code": "EA-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EA-ST-3_封底纪事/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EA-ST-3_%E5%B0%81%E5%BA%95%E7%BA%AA%E4%BA%8B/NBT"
+      },
+      "downloadable": true,
+      "id": "act41side--activities__act41side__level_act41side_st03",
+      "path": "chapters/act41side--activities__act41side__level_act41side_st03.json",
+      "sort": 19,
+      "title": "封底纪事"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_when_elegies_are_ashes",
+    "primaryImageId": "kv_when_elegies_are_ashes",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act41side",
+    "titleImageId": "title_when_elegies_are_ashes",
+    "url": "https://media.prts.wiki/a/a1/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%8C%BD%E6%AD%8C%E7%87%83%E7%83%A7%E6%AE%86%E5%B0%BD.png"
+  },
+  "extras": [],
+  "gameOrderRank": 6009,
+  "homeSection": "sideStory",
+  "id": "act41side",
+  "music": {
+    "arcTitle": "薪火重燃",
+    "movementTitle": "薪火重燃",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_12",
+      "tag_13",
+      "tag_16"
+    ]
+  },
+  "slug": "act41side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1741320000,
+  "summary": "纳斯尔纱，一座饱经摧残的城市，一颗疲惫的心脏......\n一个被密林与迷雾守护的秘密。\n拉芙希妮怀揣对和平的愿景，应约而至。\n而那个操纵死火的人，已备好了足以长谈的故事。\n由红龙杀死红龙，将祝福还给赐者，让逝者归于火中，\n至那时，火焰为塔拉带来的，会是一个怎样的未来？",
+  "timelineRank": 1741320000,
+  "title": "挽歌燃烧殆尽"
+}

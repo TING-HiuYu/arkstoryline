@@ -1,0 +1,426 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act17side",
+      "avgTag": "幕间",
+      "code": "SN-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-ST-1_古井/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-ST-1_%E5%8F%A4%E4%BA%95/NBT"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_st01",
+      "path": "chapters/act17side--activities__act17side__level_act17side_st01.json",
+      "sort": 1,
+      "title": "古井"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "行动前",
+      "code": "SN-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-1_中心广场/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-1_%E4%B8%AD%E5%BF%83%E5%B9%BF%E5%9C%BA/BEG"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_01_beg",
+      "path": "chapters/act17side--activities__act17side__level_act17side_01_beg.json",
+      "sort": 2,
+      "title": "中心广场"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "行动后",
+      "code": "SN-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-1_中心广场/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-1_%E4%B8%AD%E5%BF%83%E5%B9%BF%E5%9C%BA/END"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_01_end",
+      "path": "chapters/act17side--activities__act17side__level_act17side_01_end.json",
+      "sort": 3,
+      "title": "中心广场"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "幕间",
+      "code": "SN-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-ST-2_海滨小道/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-ST-2_%E6%B5%B7%E6%BB%A8%E5%B0%8F%E9%81%93/NBT"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_st02",
+      "path": "chapters/act17side--activities__act17side__level_act17side_st02.json",
+      "sort": 4,
+      "title": "海滨小道"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "行动后",
+      "code": "SN-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-2_广场南路/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-2_%E5%B9%BF%E5%9C%BA%E5%8D%97%E8%B7%AF/END"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_02_end",
+      "path": "chapters/act17side--activities__act17side__level_act17side_02_end.json",
+      "sort": 5,
+      "title": "广场南路"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "幕间",
+      "code": "SN-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-ST-3_空旷的大街/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-ST-3_%E7%A9%BA%E6%97%B7%E7%9A%84%E5%A4%A7%E8%A1%97/NBT"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_st03",
+      "path": "chapters/act17side--activities__act17side__level_act17side_st03.json",
+      "sort": 6,
+      "title": "空旷的大街"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "行动后",
+      "code": "SN-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-3_安静的步道/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-3_%E5%AE%89%E9%9D%99%E7%9A%84%E6%AD%A5%E9%81%93/END"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_03_end",
+      "path": "chapters/act17side--activities__act17side__level_act17side_03_end.json",
+      "sort": 7,
+      "title": "安静的步道"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "幕间",
+      "code": "SN-ST-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-ST-4_临海长街/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-ST-4_%E4%B8%B4%E6%B5%B7%E9%95%BF%E8%A1%97/NBT"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_st04",
+      "path": "chapters/act17side--activities__act17side__level_act17side_st04.json",
+      "sort": 8,
+      "title": "临海长街"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "幕间",
+      "code": "SN-ST-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-ST-5_登陆点/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-ST-5_%E7%99%BB%E9%99%86%E7%82%B9/NBT"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_st05",
+      "path": "chapters/act17side--activities__act17side__level_act17side_st05.json",
+      "sort": 9,
+      "title": "登陆点"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "行动后",
+      "code": "SN-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-4_灯塔入口/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-4_%E7%81%AF%E5%A1%94%E5%85%A5%E5%8F%A3/END"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_04_end",
+      "path": "chapters/act17side--activities__act17side__level_act17side_04_end.json",
+      "sort": 10,
+      "title": "灯塔入口"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "行动前",
+      "code": "SN-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-5_灯塔控制室/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-5_%E7%81%AF%E5%A1%94%E6%8E%A7%E5%88%B6%E5%AE%A4/BEG"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_05_beg",
+      "path": "chapters/act17side--activities__act17side__level_act17side_05_beg.json",
+      "sort": 11,
+      "title": "灯塔控制室"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "行动后",
+      "code": "SN-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-5_灯塔控制室/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-5_%E7%81%AF%E5%A1%94%E6%8E%A7%E5%88%B6%E5%AE%A4/END"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_05_end",
+      "path": "chapters/act17side--activities__act17side__level_act17side_05_end.json",
+      "sort": 12,
+      "title": "灯塔控制室"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "行动前",
+      "code": "SN-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-6_中央通道/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-6_%E4%B8%AD%E5%A4%AE%E9%80%9A%E9%81%93/BEG"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_06_beg",
+      "path": "chapters/act17side--activities__act17side__level_act17side_06_beg.json",
+      "sort": 13,
+      "title": "中央通道"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "幕间",
+      "code": "SN-ST-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-ST-6_下层大厅/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-ST-6_%E4%B8%8B%E5%B1%82%E5%A4%A7%E5%8E%85/NBT"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_st06",
+      "path": "chapters/act17side--activities__act17side__level_act17side_st06.json",
+      "sort": 14,
+      "title": "下层大厅"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "幕间",
+      "code": "SN-ST-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-ST-7_宴会厅/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-ST-7_%E5%AE%B4%E4%BC%9A%E5%8E%85/NBT"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_st07",
+      "path": "chapters/act17side--activities__act17side__level_act17side_st07.json",
+      "sort": 15,
+      "title": "宴会厅"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "行动后",
+      "code": "SN-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-7_黄金回廊/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-7_%E9%BB%84%E9%87%91%E5%9B%9E%E5%BB%8A/END"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_07_end",
+      "path": "chapters/act17side--activities__act17side__level_act17side_07_end.json",
+      "sort": 16,
+      "title": "黄金回廊"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "幕间",
+      "code": "SN-ST-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-ST-8_指挥大厅/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-ST-8_%E6%8C%87%E6%8C%A5%E5%A4%A7%E5%8E%85/NBT"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_st08",
+      "path": "chapters/act17side--activities__act17side__level_act17side_st08.json",
+      "sort": 17,
+      "title": "指挥大厅"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "幕间",
+      "code": "SN-ST-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-ST-9_主舰桥/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-ST-9_%E4%B8%BB%E8%88%B0%E6%A1%A5/NBT"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_st09",
+      "path": "chapters/act17side--activities__act17side__level_act17side_st09.json",
+      "sort": 18,
+      "title": "主舰桥"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "行动后",
+      "code": "SN-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-8_观测所/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-8_%E8%A7%82%E6%B5%8B%E6%89%80/END"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_08_end",
+      "path": "chapters/act17side--activities__act17side__level_act17side_08_end.json",
+      "sort": 19,
+      "title": "观测所"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "幕间",
+      "code": "SN-ST-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-ST-10_甲板室/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-ST-10_%E7%94%B2%E6%9D%BF%E5%AE%A4/NBT"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_st10",
+      "path": "chapters/act17side--activities__act17side__level_act17side_st10.json",
+      "sort": 20,
+      "title": "甲板室"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "幕间",
+      "code": "SN-ST-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-ST-11_主桅杆/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-ST-11_%E4%B8%BB%E6%A1%85%E6%9D%86/NBT"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_st11",
+      "path": "chapters/act17side--activities__act17side__level_act17side_st11.json",
+      "sort": 21,
+      "title": "主桅杆"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "行动前",
+      "code": "SN-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-10_礼仪广场/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-10_%E7%A4%BC%E4%BB%AA%E5%B9%BF%E5%9C%BA/BEG"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_10_beg",
+      "path": "chapters/act17side--activities__act17side__level_act17side_10_beg.json",
+      "sort": 22,
+      "title": "礼仪广场"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "行动后",
+      "code": "SN-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-10_礼仪广场/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-10_%E7%A4%BC%E4%BB%AA%E5%B9%BF%E5%9C%BA/END"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_10_end",
+      "path": "chapters/act17side--activities__act17side__level_act17side_10_end.json",
+      "sort": 23,
+      "title": "礼仪广场"
+    },
+    {
+      "albumId": "act17side",
+      "avgTag": "幕间",
+      "code": "SN-ST-12",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SN-ST-12_格兰法洛/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SN-ST-12_%E6%A0%BC%E5%85%B0%E6%B3%95%E6%B4%9B/NBT"
+      },
+      "downloadable": true,
+      "id": "act17side--activities__act17side__level_act17side_st12",
+      "path": "chapters/act17side--activities__act17side__level_act17side_st12.json",
+      "sort": 24,
+      "title": "格兰法洛"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_stultifera_navis",
+    "primaryImageId": "kv_stultifera_navis",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act17side",
+    "titleImageId": "title_stultifera_navis",
+    "url": "https://media.prts.wiki/f/f5/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%84%9A%E4%BA%BA%E5%8F%B7.png"
+  },
+  "extras": [],
+  "gameOrderRank": 3012,
+  "homeSection": "sideStory",
+  "id": "act17side",
+  "music": {
+    "arcTitle": "自海渊的一瞥",
+    "movementTitle": "自海渊的一瞥",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_03",
+      "tag_11",
+      "tag_14",
+      "tag_16"
+    ]
+  },
+  "slug": "act17side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1651388400,
+  "summary": "在静谧中沉没的国度，将他们的明珠遗落海上。\n猎人们循着传说寻找同胞遗产，线索汇聚，指向一处。\n斯图提斐拉，黄金的大船，文明的丰碑。\n人类必须联成一线，凯尔希如此警告。\n伊比利亚早已看不见大海，阿戈尔亦遭异血洗礼。\n唯有海洋，孕育生命；唯有海洋，亘古不变。",
+  "timelineRank": 1651388400,
+  "title": "愚人号"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act47side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "UR-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "UR-8_栖脚地/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/UR-8_%E6%A0%96%E8%84%9A%E5%9C%B0/END"
+  },
+  "id": "act47side--activities__act47side__level_act47side_08_end",
+  "navigation": {
+    "nextChapterId": "act47side--activities__act47side__level_act47side_st03",
+    "previousChapterId": "act47side--activities__act47side__level_act47side_08_beg"
+  },
+  "subtitle": "UR-8",
+  "summary": "info/activities/act47side/level_act47side_08_end",
+  "title": "栖脚地"
+}

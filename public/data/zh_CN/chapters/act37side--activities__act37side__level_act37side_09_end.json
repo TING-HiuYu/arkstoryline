@@ -1,0 +1,21 @@
+{
+  "albumId": "act37side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "GO-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GO-9_英雄的落幕/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GO-9_%E8%8B%B1%E9%9B%84%E7%9A%84%E8%90%BD%E5%B9%95/END"
+  },
+  "id": "act37side--activities__act37side__level_act37side_09_end",
+  "navigation": {
+    "nextChapterId": "act37side--activities__act37side__level_act37side_st02",
+    "previousChapterId": "act37side--activities__act37side__level_act37side_09_beg"
+  },
+  "subtitle": "GO-9",
+  "summary": "info/activities/act37side/level_act37side_09_end",
+  "title": "英雄的落幕"
+}

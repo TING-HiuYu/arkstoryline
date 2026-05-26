@@ -1,0 +1,19 @@
+{
+  "albumId": "act18mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SE-ST6_未明启示/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SE-ST6_%E6%9C%AA%E6%98%8E%E5%90%AF%E7%A4%BA/NBT"
+  },
+  "id": "act18mini--activities__act18mini__level_act18mini_st06",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act18mini--activities__act18mini__level_act18mini_st05"
+  },
+  "summary": "info/activities/act18mini/level_act18mini_st06",
+  "title": "未明启示"
+}

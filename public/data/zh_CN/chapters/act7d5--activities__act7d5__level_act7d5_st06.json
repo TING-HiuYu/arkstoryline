@@ -1,0 +1,19 @@
+{
+  "albumId": "act7d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SA-ST6_向前走/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SA-ST6_%E5%90%91%E5%89%8D%E8%B5%B0/NBT"
+  },
+  "id": "act7d5--activities__act7d5__level_act7d5_st06",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act7d5--activities__act7d5__level_act7d5_st05"
+  },
+  "summary": "info/activities/act7d5/level_act7d5_st06",
+  "title": "向前走"
+}

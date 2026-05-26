@@ -1,0 +1,19 @@
+{
+  "albumId": "act11mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TC-ST6_真实故事/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TC-ST6_%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B/NBT"
+  },
+  "id": "act11mini--activities__act11mini__level_act11mini_st06",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act11mini--activities__act11mini__level_act11mini_st05"
+  },
+  "summary": "info/activities/act11mini/level_act11mini_st06",
+  "title": "真实故事"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_2",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "2-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "2-9_操作暗箱/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/2-9_%E6%93%8D%E4%BD%9C%E6%9A%97%E7%AE%B1/BEG"
+  },
+  "id": "main_2--obt__main__level_main_02-09_beg",
+  "navigation": {
+    "nextChapterId": "main_2--obt__main__level_main_02-09_end",
+    "previousChapterId": "main_2--obt__main__level_main_02-08_end"
+  },
+  "subtitle": "2-9",
+  "summary": "info/obt/main/level_main_02-09_beg",
+  "title": "操作暗箱"
+}

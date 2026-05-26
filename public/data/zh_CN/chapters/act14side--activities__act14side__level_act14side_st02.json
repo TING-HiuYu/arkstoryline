@@ -1,0 +1,21 @@
+{
+  "albumId": "act14side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "BI-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BI-ST-2_山雪欲来/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BI-ST-2_%E5%B1%B1%E9%9B%AA%E6%AC%B2%E6%9D%A5/NBT"
+  },
+  "id": "act14side--activities__act14side__level_act14side_st02",
+  "navigation": {
+    "nextChapterId": "act14side--activities__act14side__level_act14side_04_beg",
+    "previousChapterId": "act14side--activities__act14side__level_act14side_03_end"
+  },
+  "subtitle": "BI-ST-2",
+  "summary": "info/activities/act14side/level_act14side_st02",
+  "title": "山雪欲来"
+}

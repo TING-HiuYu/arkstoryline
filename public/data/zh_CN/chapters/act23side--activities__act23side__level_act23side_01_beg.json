@@ -1,0 +1,21 @@
+{
+  "albumId": "act23side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "WB-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WB-1_塞上春来/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WB-1_%E5%A1%9E%E4%B8%8A%E6%98%A5%E6%9D%A5/BEG"
+  },
+  "id": "act23side--activities__act23side__level_act23side_01_beg",
+  "navigation": {
+    "nextChapterId": "act23side--activities__act23side__level_act23side_01_end",
+    "previousChapterId": "act23side--activities__act23side__level_act23side_st01"
+  },
+  "subtitle": "WB-1",
+  "summary": "info/activities/act23side/level_act23side_01_beg",
+  "title": "塞上春来"
+}

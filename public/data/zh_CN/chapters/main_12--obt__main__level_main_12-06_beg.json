@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "12-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-7_平议生死/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-7_%E5%B9%B3%E8%AE%AE%E7%94%9F%E6%AD%BB/BEG"
+  },
+  "id": "main_12--obt__main__level_main_12-06_beg",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_main_12-07_end",
+    "previousChapterId": "main_12--obt__main__level_main_12-05_end"
+  },
+  "subtitle": "12-7",
+  "summary": "info/obt/main/level_main_12-06_beg",
+  "title": "平议生死"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act18side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "LE-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "LE-2_热情，或悲怆/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/LE-2_%E7%83%AD%E6%83%85%EF%BC%8C%E6%88%96%E6%82%B2%E6%80%86/END"
+  },
+  "id": "act18side--activities__act18side__level_act18side_02_end",
+  "navigation": {
+    "nextChapterId": "act18side--activities__act18side__level_act18side_03_beg",
+    "previousChapterId": "act18side--activities__act18side__level_act18side_02_beg"
+  },
+  "subtitle": "LE-2",
+  "summary": "info/activities/act18side/level_act18side_02_end",
+  "title": "热情，或悲怆"
+}

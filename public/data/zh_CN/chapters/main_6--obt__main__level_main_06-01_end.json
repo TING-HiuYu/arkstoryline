@@ -1,0 +1,21 @@
+{
+  "albumId": "main_6",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "6-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "6-1_僵局/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/6-1_%E5%83%B5%E5%B1%80/END"
+  },
+  "id": "main_6--obt__main__level_main_06-01_end",
+  "navigation": {
+    "nextChapterId": "main_6--obt__main__level_main_06-02_beg",
+    "previousChapterId": "main_6--obt__main__level_main_06-01_beg"
+  },
+  "subtitle": "6-1",
+  "summary": "info/obt/main/level_main_06-01_end",
+  "title": "僵局"
+}

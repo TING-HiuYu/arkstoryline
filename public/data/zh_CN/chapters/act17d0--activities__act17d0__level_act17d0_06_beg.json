@@ -1,0 +1,21 @@
+{
+  "albumId": "act17d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "OD-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OD-6_领主宅邸攻防战/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OD-6_%E9%A2%86%E4%B8%BB%E5%AE%85%E9%82%B8%E6%94%BB%E9%98%B2%E6%88%98/BEG"
+  },
+  "id": "act17d0--activities__act17d0__level_act17d0_06_beg",
+  "navigation": {
+    "nextChapterId": "act17d0--activities__act17d0__level_act17d0_06_end",
+    "previousChapterId": "act17d0--activities__act17d0__level_act17d0_05_end"
+  },
+  "subtitle": "OD-6",
+  "summary": "info/activities/act17d0/level_act17d0_06_beg",
+  "title": "领主宅邸攻防战"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_16",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "16-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "16-2_晨曦遥远/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/16-2_%E6%99%A8%E6%9B%A6%E9%81%A5%E8%BF%9C/BEG"
+  },
+  "id": "main_16--obt__main__level_main_16-01_beg",
+  "navigation": {
+    "nextChapterId": "main_16--obt__main__level_main_16-03_beg",
+    "previousChapterId": "main_16--obt__main__level_st_16-01"
+  },
+  "subtitle": "16-2",
+  "summary": "info/obt/main/level_main_16-01_beg",
+  "title": "晨曦遥远"
+}

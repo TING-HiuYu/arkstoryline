@@ -1,0 +1,356 @@
+{
+  "albumKind": "mainline",
+  "chapters": [
+    {
+      "albumId": "main_4",
+      "avgTag": "行动前",
+      "code": "4-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-1_免费拥抱/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-1_%E5%85%8D%E8%B4%B9%E6%8B%A5%E6%8A%B1/BEG"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-01_beg",
+      "path": "chapters/main_4--obt__main__level_main_04-01_beg.json",
+      "sort": 1,
+      "title": "免费拥抱"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动后",
+      "code": "4-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-1_免费拥抱/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-1_%E5%85%8D%E8%B4%B9%E6%8B%A5%E6%8A%B1/END"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-01_end",
+      "path": "chapters/main_4--obt__main__level_main_04-01_end.json",
+      "sort": 2,
+      "title": "免费拥抱"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动前",
+      "code": "4-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-2_雨中漫步/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-2_%E9%9B%A8%E4%B8%AD%E6%BC%AB%E6%AD%A5/BEG"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-02_beg",
+      "path": "chapters/main_4--obt__main__level_main_04-02_beg.json",
+      "sort": 3,
+      "title": "雨中漫步"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动后",
+      "code": "4-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-2_雨中漫步/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-2_%E9%9B%A8%E4%B8%AD%E6%BC%AB%E6%AD%A5/END"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-02_end",
+      "path": "chapters/main_4--obt__main__level_main_04-02_end.json",
+      "sort": 4,
+      "title": "雨中漫步"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动前",
+      "code": "4-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-3_人工制冷/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-3_%E4%BA%BA%E5%B7%A5%E5%88%B6%E5%86%B7/BEG"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-03_beg",
+      "path": "chapters/main_4--obt__main__level_main_04-03_beg.json",
+      "sort": 5,
+      "title": "人工制冷"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动后",
+      "code": "4-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-3_人工制冷/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-3_%E4%BA%BA%E5%B7%A5%E5%88%B6%E5%86%B7/END"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-03_end",
+      "path": "chapters/main_4--obt__main__level_main_04-03_end.json",
+      "sort": 6,
+      "title": "人工制冷"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动前",
+      "code": "4-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-4_不要恐慌/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-4_%E4%B8%8D%E8%A6%81%E6%81%90%E6%85%8C/BEG"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-04_beg",
+      "path": "chapters/main_4--obt__main__level_main_04-04_beg.json",
+      "sort": 7,
+      "title": "不要恐慌"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动后",
+      "code": "4-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-4_不要恐慌/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-4_%E4%B8%8D%E8%A6%81%E6%81%90%E6%85%8C/END"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-04_end",
+      "path": "chapters/main_4--obt__main__level_main_04-04_end.json",
+      "sort": 8,
+      "title": "不要恐慌"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动前",
+      "code": "4-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-5_官僚主义/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-5_%E5%AE%98%E5%83%9A%E4%B8%BB%E4%B9%89/BEG"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-05_beg",
+      "path": "chapters/main_4--obt__main__level_main_04-05_beg.json",
+      "sort": 9,
+      "title": "官僚主义"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动后",
+      "code": "4-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-5_官僚主义/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-5_%E5%AE%98%E5%83%9A%E4%B8%BB%E4%B9%89/END"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-05_end",
+      "path": "chapters/main_4--obt__main__level_main_04-05_end.json",
+      "sort": 10,
+      "title": "官僚主义"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动前",
+      "code": "4-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-6_少见多怪/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-6_%E5%B0%91%E8%A7%81%E5%A4%9A%E6%80%AA/BEG"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-06_beg",
+      "path": "chapters/main_4--obt__main__level_main_04-06_beg.json",
+      "sort": 11,
+      "title": "少见多怪"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动后",
+      "code": "4-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-6_少见多怪/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-6_%E5%B0%91%E8%A7%81%E5%A4%9A%E6%80%AA/END"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-06_end",
+      "path": "chapters/main_4--obt__main__level_main_04-06_end.json",
+      "sort": 12,
+      "title": "少见多怪"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动前",
+      "code": "4-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-7_各取所需/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-7_%E5%90%84%E5%8F%96%E6%89%80%E9%9C%80/BEG"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-07_beg",
+      "path": "chapters/main_4--obt__main__level_main_04-07_beg.json",
+      "sort": 13,
+      "title": "各取所需"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动后",
+      "code": "4-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-7_各取所需/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-7_%E5%90%84%E5%8F%96%E6%89%80%E9%9C%80/END"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-07_end",
+      "path": "chapters/main_4--obt__main__level_main_04-07_end.json",
+      "sort": 14,
+      "title": "各取所需"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动前",
+      "code": "4-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-8_应激反应/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-8_%E5%BA%94%E6%BF%80%E5%8F%8D%E5%BA%94/BEG"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-08_beg",
+      "path": "chapters/main_4--obt__main__level_main_04-08_beg.json",
+      "sort": 15,
+      "title": "应激反应"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动后",
+      "code": "4-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-8_应激反应/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-8_%E5%BA%94%E6%BF%80%E5%8F%8D%E5%BA%94/END"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-08_end",
+      "path": "chapters/main_4--obt__main__level_main_04-08_end.json",
+      "sort": 16,
+      "title": "应激反应"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动前",
+      "code": "4-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-9_彻入骨髓/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-9_%E5%BD%BB%E5%85%A5%E9%AA%A8%E9%AB%93/BEG"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-09_beg",
+      "path": "chapters/main_4--obt__main__level_main_04-09_beg.json",
+      "sort": 17,
+      "title": "彻入骨髓"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动后",
+      "code": "4-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-9_彻入骨髓/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-9_%E5%BD%BB%E5%85%A5%E9%AA%A8%E9%AB%93/END"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-09_end",
+      "path": "chapters/main_4--obt__main__level_main_04-09_end.json",
+      "sort": 18,
+      "title": "彻入骨髓"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动前",
+      "code": "4-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-10_灯火将熄/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-10_%E7%81%AF%E7%81%AB%E5%B0%86%E7%86%84/BEG"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-10_beg",
+      "path": "chapters/main_4--obt__main__level_main_04-10_beg.json",
+      "sort": 19,
+      "title": "灯火将熄"
+    },
+    {
+      "albumId": "main_4",
+      "avgTag": "行动后",
+      "code": "4-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "4-10_灯火将熄/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/4-10_%E7%81%AF%E7%81%AB%E5%B0%86%E7%86%84/END"
+      },
+      "downloadable": true,
+      "id": "main_4--obt__main__level_main_04-10_end",
+      "path": "chapters/main_4--obt__main__level_main_04-10_end.json",
+      "sort": 20,
+      "title": "灯火将熄"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_burning_run",
+    "primaryImageId": "kv_burning_run",
+    "source": "stage-kv",
+    "titleImageId": "title_burning_run",
+    "url": "https://media.prts.wiki/4/49/%E7%AB%A0%E8%8A%82%E5%90%8D%E7%A7%B0_%E7%AC%AC%E5%9B%9B%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 1005,
+  "homeSection": "mainline",
+  "id": "main_4",
+  "music": {
+    "arcTitle": "Ⅰ 幻灭",
+    "movementTitle": "Ⅰ 幻灭",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "main-4",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": -1,
+  "summary": "两名“碎骨”的死让阿米娅陷入了迷茫，\n可战场从不会给人喘息的机会。\n陨星小队在废城遭遇袭击，阿米娅必须即刻前往支援。\n“雪怪”的传说在乌萨斯的土地上流传，\n刺骨的寒气正在切实地逼近每一个人。",
+  "timelineRank": -1,
+  "title": "急性衰竭"
+}

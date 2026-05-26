@@ -1,0 +1,21 @@
+{
+  "albumId": "main_6",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "6-11",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "6-11_“这种事”/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/6-11_%E2%80%9C%E8%BF%99%E7%A7%8D%E4%BA%8B%E2%80%9D/BEG"
+  },
+  "id": "main_6--obt__main__level_main_06-10_beg",
+  "navigation": {
+    "nextChapterId": "main_6--obt__main__level_main_06-10_end",
+    "previousChapterId": "main_6--obt__main__level_main_06-09_end"
+  },
+  "subtitle": "6-11",
+  "summary": "info/obt/main/level_main_06-10_beg",
+  "title": "“这种事”"
+}

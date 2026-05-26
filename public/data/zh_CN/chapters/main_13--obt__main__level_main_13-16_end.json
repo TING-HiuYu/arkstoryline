@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "13-18",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "13-18_挺起胸膛/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-18_%E6%8C%BA%E8%B5%B7%E8%83%B8%E8%86%9B/END"
+  },
+  "id": "main_13--obt__main__level_main_13-16_end",
+  "navigation": {
+    "nextChapterId": "main_13--obt__main__level_main_13-18_end",
+    "previousChapterId": "main_13--obt__main__level_main_13-15_beg"
+  },
+  "subtitle": "13-18",
+  "summary": "info/obt/main/level_main_13-16_end",
+  "title": "挺起胸膛"
+}

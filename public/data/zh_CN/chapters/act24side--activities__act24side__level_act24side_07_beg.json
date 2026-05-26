@@ -1,0 +1,21 @@
+{
+  "albumId": "act24side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CF-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CF-7_锥心之刺/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CF-7_%E9%94%A5%E5%BF%83%E4%B9%8B%E5%88%BA/BEG"
+  },
+  "id": "act24side--activities__act24side__level_act24side_07_beg",
+  "navigation": {
+    "nextChapterId": "act24side--activities__act24side__level_act24side_07_end",
+    "previousChapterId": "act24side--activities__act24side__level_act24side_06_end"
+  },
+  "subtitle": "CF-7",
+  "summary": "info/activities/act24side/level_act24side_07_beg",
+  "title": "锥心之刺"
+}

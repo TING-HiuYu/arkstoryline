@@ -1,0 +1,3348 @@
+{
+  "generatedAt": "2026-05-26T17:06:53.916971+00:00",
+  "operators": [
+    {
+      "faction": "Ave Mujica",
+      "name": "八幡海铃",
+      "page": "八幡海铃",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-008ee0cff1"
+    },
+    {
+      "faction": "炎-龙门",
+      "name": "林",
+      "page": "林",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-020ff479d2"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "假日威龙陈",
+      "page": "假日威龙陈",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-030ff5ab2f"
+    },
+    {
+      "faction": "雷姆必拓",
+      "name": "四月",
+      "page": "四月",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-03ce1d5613"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "谜图",
+      "page": "谜图",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-03d919f30d"
+    },
+    {
+      "faction": "雷姆必拓",
+      "name": "莱恩哈特",
+      "page": "莱恩哈特",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-040c92a13e"
+    },
+    {
+      "faction": "伊比利亚",
+      "name": "瑰盐",
+      "page": "瑰盐",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-056616866f"
+    },
+    {
+      "faction": "雷姆必拓",
+      "name": "蜜莓",
+      "page": "蜜莓",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-05dde4f3e4"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "鸿雪",
+      "page": "鸿雪",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-061302f1b1"
+    },
+    {
+      "faction": "黑钢国际",
+      "name": "香草",
+      "page": "香草",
+      "profession": "先锋",
+      "rarity": "2",
+      "slug": "operator-0681f87f02"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "泡泡",
+      "page": "泡泡",
+      "profession": "重装",
+      "rarity": "3",
+      "slug": "operator-08742c4982"
+    },
+    {
+      "faction": "东",
+      "name": "松桐",
+      "page": "松桐",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-08b01fe0ef"
+    },
+    {
+      "faction": "黑钢国际",
+      "name": "芙兰卡",
+      "page": "芙兰卡",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-08b28eab79"
+    },
+    {
+      "faction": "伊比利亚",
+      "name": "蓝毒",
+      "page": "蓝毒",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-08d9e61c81"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "梅",
+      "page": "梅",
+      "profession": "狙击",
+      "rarity": "3",
+      "slug": "operator-093a6f6e57"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "撷英调香师",
+      "page": "撷英调香师",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-09a24987c1"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "维娜·维多利亚",
+      "page": "维娜·维多利亚",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-0aae5b5471"
+    },
+    {
+      "faction": "炎-岁",
+      "name": "望",
+      "page": "望",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-0c45066b64"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "缇缇",
+      "page": "缇缇",
+      "profession": "医疗",
+      "rarity": "5",
+      "slug": "operator-0d147d6cbf"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "山",
+      "page": "山",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-0e248e5603"
+    },
+    {
+      "faction": "罗德岛-精英干员",
+      "name": "烛煌",
+      "page": "烛煌",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-0f1ebf6d2e"
+    },
+    {
+      "faction": "乌萨斯",
+      "name": "乌啾",
+      "page": "乌啾",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-102423ea57"
+    },
+    {
+      "faction": "东",
+      "name": "赤冬",
+      "page": "赤冬",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-10506f9285"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "石英",
+      "page": "石英",
+      "profession": "近卫",
+      "rarity": "3",
+      "slug": "operator-113eb5f1ca"
+    },
+    {
+      "faction": "莱茵生命",
+      "name": "缪尔赛思",
+      "page": "缪尔赛思",
+      "profession": "先锋",
+      "rarity": "5",
+      "slug": "operator-11fbc91549"
+    },
+    {
+      "faction": "喀兰贸易",
+      "name": "银灰",
+      "page": "银灰",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-130f5f1095"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "Mon3tr",
+      "page": "Mon3tr",
+      "profession": "医疗",
+      "rarity": "5",
+      "slug": "operator-135f5fd52f"
+    },
+    {
+      "faction": "叙拉古",
+      "name": "铃兰",
+      "page": "铃兰",
+      "profession": "辅助",
+      "rarity": "5",
+      "slug": "operator-1366aedc56"
+    },
+    {
+      "faction": "行动组A4",
+      "name": "巡林者",
+      "page": "巡林者",
+      "profession": "狙击",
+      "rarity": "1",
+      "slug": "operator-142821c5b1"
+    },
+    {
+      "faction": "叙拉古",
+      "name": "复奏",
+      "page": "复奏",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-14df15fcc9"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "卡达",
+      "page": "卡达",
+      "profession": "术师",
+      "rarity": "3",
+      "slug": "operator-150a86245b"
+    },
+    {
+      "faction": "汐斯塔",
+      "name": "黑",
+      "page": "黑",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-1518fc4aa7"
+    },
+    {
+      "faction": "使徒",
+      "name": "夜莺",
+      "page": "夜莺",
+      "profession": "医疗",
+      "rarity": "5",
+      "slug": "operator-1569de8ae5"
+    },
+    {
+      "faction": "莱茵生命",
+      "name": "麦哲伦",
+      "page": "麦哲伦",
+      "profession": "辅助",
+      "rarity": "5",
+      "slug": "operator-160745518f"
+    },
+    {
+      "faction": "贾维团伙",
+      "name": "奥斯塔",
+      "page": "奥斯塔",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-165964f111"
+    },
+    {
+      "faction": "东",
+      "name": "嵯峨",
+      "page": "嵯峨",
+      "profession": "先锋",
+      "rarity": "5",
+      "slug": "operator-169bb3e1b6"
+    },
+    {
+      "faction": "乌萨斯",
+      "name": "冬时",
+      "page": "冬时",
+      "profession": "先锋",
+      "rarity": "3",
+      "slug": "operator-16dfd50b56"
+    },
+    {
+      "faction": "伊比利亚",
+      "name": "棘刺",
+      "page": "棘刺",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-17461ca065"
+    },
+    {
+      "faction": "莱茵生命",
+      "name": "白面鸮",
+      "page": "白面鸮",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-1782c2ecdf"
+    },
+    {
+      "faction": "雷姆必拓",
+      "name": "石棉",
+      "page": "石棉",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-18b0bc5350"
+    },
+    {
+      "faction": "喀兰贸易",
+      "name": "讯使",
+      "page": "讯使",
+      "profession": "先锋",
+      "rarity": "3",
+      "slug": "operator-19f09fbfdf"
+    },
+    {
+      "faction": "彩虹小队",
+      "name": "艾拉",
+      "page": "艾拉",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-1a1845686b"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "蜜蜡",
+      "page": "蜜蜡",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-1a1884d53a"
+    },
+    {
+      "faction": "莱茵生命",
+      "name": "淬羽赫默",
+      "page": "淬羽赫默",
+      "profession": "辅助",
+      "rarity": "5",
+      "slug": "operator-1a230c8c07"
+    },
+    {
+      "faction": "莱塔尼亚",
+      "name": "深律",
+      "page": "深律",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-1a54b69fae"
+    },
+    {
+      "faction": "萨米",
+      "name": "雪绒",
+      "page": "雪绒",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-1b9c496369"
+    },
+    {
+      "faction": "格拉斯哥帮",
+      "name": "摩根",
+      "page": "摩根",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-1bf74f4f5b"
+    },
+    {
+      "faction": "卡西米尔",
+      "name": "但书",
+      "page": "但书",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-1c567dac0a"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "夏栎",
+      "page": "夏栎",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-1cb4951120"
+    },
+    {
+      "faction": "莱茵生命",
+      "name": "赫默",
+      "page": "赫默",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-1cdf6db5c5"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "哈洛德",
+      "page": "哈洛德",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-1d76d5f544"
+    },
+    {
+      "faction": "炎-龙门",
+      "name": "雪雉",
+      "page": "雪雉",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-1d81cb940f"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "休谟斯",
+      "page": "休谟斯",
+      "profession": "近卫",
+      "rarity": "3",
+      "slug": "operator-1dc742d813"
+    },
+    {
+      "faction": "黑钢国际",
+      "name": "涤火杰西卡",
+      "page": "涤火杰西卡",
+      "profession": "重装",
+      "rarity": "5",
+      "slug": "operator-1e5c342312"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "锡人",
+      "page": "锡人",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-1e89e612e8"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "澄闪",
+      "page": "澄闪",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-1f60af876e"
+    },
+    {
+      "faction": "深海猎人",
+      "name": "歌蕾蒂娅",
+      "page": "歌蕾蒂娅",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-20cf3821f3"
+    },
+    {
+      "faction": "巴别塔",
+      "name": "赫德雷",
+      "page": "赫德雷",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-217c76196c"
+    },
+    {
+      "faction": "红松骑士团",
+      "name": "远牙",
+      "page": "远牙",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-21a168da9f"
+    },
+    {
+      "faction": "行动预备组A1",
+      "name": "芙蓉",
+      "page": "芙蓉",
+      "profession": "医疗",
+      "rarity": "2",
+      "slug": "operator-21cf84a3bb"
+    },
+    {
+      "faction": "莱茵生命",
+      "name": "塞雷娅",
+      "page": "塞雷娅",
+      "profession": "重装",
+      "rarity": "5",
+      "slug": "operator-21ff36a9c9"
+    },
+    {
+      "faction": "Ave Mujica",
+      "name": "若叶睦",
+      "page": "若叶睦",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-223d751db6"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "承曦格雷伊",
+      "page": "承曦格雷伊",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-226241063c"
+    },
+    {
+      "faction": "行动预备组A4",
+      "name": "玫兰莎",
+      "page": "玫兰莎",
+      "profession": "近卫",
+      "rarity": "2",
+      "slug": "operator-233ad248ed"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "诺威尔",
+      "page": "诺威尔",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-236df59609"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "风笛",
+      "page": "风笛",
+      "profession": "先锋",
+      "rarity": "5",
+      "slug": "operator-241a3b7544"
+    },
+    {
+      "faction": "萨米",
+      "name": "提丰",
+      "page": "提丰",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-25050c7b03"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "隐德来希",
+      "page": "隐德来希",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-26403fa3ab"
+    },
+    {
+      "faction": "巴别塔",
+      "name": "伊内丝",
+      "page": "伊内丝",
+      "profession": "先锋",
+      "rarity": "5",
+      "slug": "operator-27558c98c1"
+    },
+    {
+      "faction": "彩虹小队",
+      "name": "灰烬",
+      "page": "灰烬",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-27808f4717"
+    },
+    {
+      "faction": "黑钢国际",
+      "name": "雷蛇",
+      "page": "雷蛇",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-27bd948c09"
+    },
+    {
+      "faction": "深海猎人",
+      "name": "斯卡蒂",
+      "page": "斯卡蒂",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-29797e46ca"
+    },
+    {
+      "faction": "格拉斯哥帮",
+      "name": "推进之王",
+      "page": "推进之王",
+      "profession": "先锋",
+      "rarity": "5",
+      "slug": "operator-29ed5dd0e2"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "蚀清",
+      "page": "蚀清",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-2af2429ca8"
+    },
+    {
+      "faction": "莱塔尼亚",
+      "name": "卡涅利安",
+      "page": "卡涅利安",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-3022e640ed"
+    },
+    {
+      "faction": "东",
+      "name": "白雪",
+      "page": "白雪",
+      "profession": "狙击",
+      "rarity": "3",
+      "slug": "operator-30822d593e"
+    },
+    {
+      "faction": "乌萨斯学生自治团",
+      "name": "苦艾",
+      "page": "苦艾",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-30c22f5c61"
+    },
+    {
+      "faction": "炎",
+      "name": "左乐",
+      "page": "左乐",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-30d951b4c2"
+    },
+    {
+      "faction": "炎",
+      "name": "铎铃",
+      "page": "铎铃",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-30f8b6a0b8"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "松果",
+      "page": "松果",
+      "profession": "狙击",
+      "rarity": "3",
+      "slug": "operator-3164984860"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "波登可",
+      "page": "波登可",
+      "profession": "辅助",
+      "rarity": "3",
+      "slug": "operator-31cbb3ca50"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "红豆",
+      "page": "红豆",
+      "profession": "先锋",
+      "rarity": "3",
+      "slug": "operator-324ddb68ca"
+    },
+    {
+      "faction": "行动组A4",
+      "name": "杜林",
+      "page": "杜林",
+      "profession": "术师",
+      "rarity": "1",
+      "slug": "operator-32f1e5ce6c"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "布丁",
+      "page": "布丁",
+      "profession": "术师",
+      "rarity": "3",
+      "slug": "operator-331fc04211"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "明椒",
+      "page": "明椒",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-331ffc3b60"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "寒芒克洛丝",
+      "page": "寒芒克洛丝",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-3379d48d24"
+    },
+    {
+      "faction": "彩虹小队",
+      "name": "闪击",
+      "page": "闪击",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-3488bbe17a"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "炎狱炎熔",
+      "page": "炎狱炎熔",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-3490e401ac"
+    },
+    {
+      "faction": "罗德岛-精英干员",
+      "name": "逻各斯",
+      "page": "逻各斯",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-35a254be0a"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "哈蒂娅",
+      "page": "哈蒂娅",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-35c3d0feb5"
+    },
+    {
+      "faction": "鲤氏侦探事务所",
+      "name": "阿",
+      "page": "阿",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-35e6854c00"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "至简",
+      "page": "至简",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-35fa5dbb72"
+    },
+    {
+      "faction": "东",
+      "name": "水月",
+      "page": "水月",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-362c35f66c"
+    },
+    {
+      "faction": "伊比利亚",
+      "name": "海沫",
+      "page": "海沫",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-36c553b75d"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "史尔特尔",
+      "page": "史尔特尔",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-373ed2b8f7"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "特米米",
+      "page": "特米米",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-3770708cf8"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "稀音",
+      "page": "稀音",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-37ac1df973"
+    },
+    {
+      "faction": "东",
+      "name": "绮良",
+      "page": "绮良",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-384363b61a"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "贝娜",
+      "page": "贝娜",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-385304f9eb"
+    },
+    {
+      "faction": "莱欧斯小队",
+      "name": "森西",
+      "page": "森西",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-3905f92422"
+    },
+    {
+      "faction": "炎-岁",
+      "name": "夕",
+      "page": "夕",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-396fddaec6"
+    },
+    {
+      "faction": "炎-龙门",
+      "name": "拜松",
+      "page": "拜松",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-397838d01d"
+    },
+    {
+      "faction": "深海猎人",
+      "name": "归溟幽灵鲨",
+      "page": "归溟幽灵鲨",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-3a2429950d"
+    },
+    {
+      "faction": "行动预备组A4",
+      "name": "安赛尔",
+      "page": "安赛尔",
+      "profession": "医疗",
+      "rarity": "2",
+      "slug": "operator-3a5a5dba87"
+    },
+    {
+      "faction": "莱欧斯小队",
+      "name": "齐尔查克",
+      "page": "齐尔查克",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-3a921cd110"
+    },
+    {
+      "faction": "拉特兰",
+      "name": "翎羽",
+      "page": "翎羽",
+      "profession": "先锋",
+      "rarity": "2",
+      "slug": "operator-3bc1e52a10"
+    },
+    {
+      "faction": "伊比利亚",
+      "name": "艾丽妮",
+      "page": "艾丽妮",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-3bc8ba0144"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "钼铅",
+      "page": "钼铅",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-3c38e3e181"
+    },
+    {
+      "faction": "塔拉",
+      "name": "焰影苇草",
+      "page": "焰影苇草",
+      "profession": "医疗",
+      "rarity": "5",
+      "slug": "operator-3c6903792e"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "号角",
+      "page": "号角",
+      "profession": "重装",
+      "rarity": "5",
+      "slug": "operator-3c7cb40107"
+    },
+    {
+      "faction": "莱塔尼亚",
+      "name": "黑键",
+      "page": "黑键",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-3d01232634"
+    },
+    {
+      "faction": "炎",
+      "name": "风絮",
+      "page": "风絮",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-3d0e5bfebe"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "艾丝黛尔",
+      "page": "艾丝黛尔",
+      "profession": "近卫",
+      "rarity": "3",
+      "slug": "operator-3e90d17d10"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "奥达",
+      "page": "奥达",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-3efd8301f1"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "亚叶",
+      "page": "亚叶",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-3f67c00a25"
+    },
+    {
+      "faction": "黑钢国际",
+      "name": "杰西卡",
+      "page": "杰西卡",
+      "profession": "狙击",
+      "rarity": "3",
+      "slug": "operator-3fed1325b1"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "云迹",
+      "page": "云迹",
+      "profession": "特种",
+      "rarity": "3",
+      "slug": "operator-405440080b"
+    },
+    {
+      "faction": "行动组A4",
+      "name": "夜刀",
+      "page": "夜刀",
+      "profession": "先锋",
+      "rarity": "1",
+      "slug": "operator-40e23c7d2b"
+    },
+    {
+      "faction": "拉特兰",
+      "name": "菲亚梅塔",
+      "page": "菲亚梅塔",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-410f89ac9b"
+    },
+    {
+      "faction": "米诺斯",
+      "name": "摆渡人",
+      "page": "摆渡人",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-416700dbf7"
+    },
+    {
+      "faction": "龙门近卫局",
+      "name": "斩业星熊",
+      "page": "斩业星熊",
+      "profession": "重装",
+      "rarity": "5",
+      "slug": "operator-41b4eef69e"
+    },
+    {
+      "faction": "叙拉古",
+      "name": "安洁莉娜",
+      "page": "安洁莉娜",
+      "profession": "辅助",
+      "rarity": "5",
+      "slug": "operator-426cc605fa"
+    },
+    {
+      "faction": "炎",
+      "name": "录武官",
+      "page": "录武官",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-431200d46f"
+    },
+    {
+      "faction": "炎-龙门",
+      "name": "孑",
+      "page": "孑",
+      "profession": "特种",
+      "rarity": "3",
+      "slug": "operator-4682162b3c"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "波卜",
+      "page": "波卜",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-4694909906"
+    },
+    {
+      "faction": "行动预备组A6",
+      "name": "斑点",
+      "page": "斑点",
+      "profession": "重装",
+      "rarity": "2",
+      "slug": "operator-4883dbe51f"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "洛洛",
+      "page": "洛洛",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-48d73c0d7d"
+    },
+    {
+      "faction": "炎",
+      "name": "司霆惊蛰",
+      "page": "司霆惊蛰",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-49166341cf"
+    },
+    {
+      "faction": "Ave Mujica",
+      "name": "三角初华",
+      "page": "三角初华",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-4987d43b73"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "陨星",
+      "page": "陨星",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-4989297b7c"
+    },
+    {
+      "faction": "鲤氏侦探事务所",
+      "name": "槐琥",
+      "page": "槐琥",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-4993e66042"
+    },
+    {
+      "faction": "叙拉古",
+      "name": "红云",
+      "page": "红云",
+      "profession": "狙击",
+      "rarity": "3",
+      "slug": "operator-4a2a890141"
+    },
+    {
+      "faction": "伊比利亚",
+      "name": "深靛",
+      "page": "深靛",
+      "profession": "术师",
+      "rarity": "3",
+      "slug": "operator-4a44c5db75"
+    },
+    {
+      "faction": "萨米",
+      "name": "远山",
+      "page": "远山",
+      "profession": "术师",
+      "rarity": "3",
+      "slug": "operator-4a8c3b8760"
+    },
+    {
+      "faction": "莱茵生命",
+      "name": "梅尔",
+      "page": "梅尔",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-4aac1fe227"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "戴菲恩",
+      "page": "戴菲恩",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-4c923f778d"
+    },
+    {
+      "faction": "雷姆必拓",
+      "name": "温米",
+      "page": "温米",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-4ca23db6d3"
+    },
+    {
+      "faction": "卡西米尔",
+      "name": "砾",
+      "page": "砾",
+      "profession": "特种",
+      "rarity": "3",
+      "slug": "operator-4cddbfacd0"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "玫拉",
+      "page": "玫拉",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-4cec97ab46"
+    },
+    {
+      "faction": "萨米",
+      "name": "柏喙",
+      "page": "柏喙",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-4d5f2f23a2"
+    },
+    {
+      "faction": "叙拉古",
+      "name": "斥罪",
+      "page": "斥罪",
+      "profession": "重装",
+      "rarity": "5",
+      "slug": "operator-4d7af87086"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "可露希尔",
+      "page": "可露希尔",
+      "profession": "先锋",
+      "rarity": "5",
+      "slug": "operator-4db0fec6c4"
+    },
+    {
+      "faction": "行动预备组A4",
+      "name": "史都华德",
+      "page": "史都华德",
+      "profession": "术师",
+      "rarity": "2",
+      "slug": "operator-4e40ff7da0"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "暴雨",
+      "page": "暴雨",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-4e6275c4b5"
+    },
+    {
+      "faction": "玻利瓦尔",
+      "name": "露托",
+      "page": "露托",
+      "profession": "重装",
+      "rarity": "3",
+      "slug": "operator-4eeb5327e3"
+    },
+    {
+      "faction": "卡西米尔",
+      "name": "鞭刃",
+      "page": "鞭刃",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-4f2e618af1"
+    },
+    {
+      "faction": "拉特兰",
+      "name": "空构",
+      "page": "空构",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-4fd0176fb8"
+    },
+    {
+      "faction": "萨米",
+      "name": "寒檀",
+      "page": "寒檀",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-505139f0f1"
+    },
+    {
+      "faction": "拉特兰",
+      "name": "圣约送葬人",
+      "page": "圣约送葬人",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-507fda43d5"
+    },
+    {
+      "faction": "鲤氏侦探事务所",
+      "name": "吽",
+      "page": "吽",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-50e17695dd"
+    },
+    {
+      "faction": "叙拉古",
+      "name": "阿罗玛",
+      "page": "阿罗玛",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-51104c0890"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "图耶",
+      "page": "图耶",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-5239cb02ce"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "阿米娅(医疗)",
+      "page": "阿米娅(医疗)",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-52fe09fa25"
+    },
+    {
+      "faction": "使徒",
+      "name": "临光",
+      "page": "临光",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-5409148380"
+    },
+    {
+      "faction": "汐斯塔",
+      "name": "苍苔",
+      "page": "苍苔",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-541c5ed709"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "灰喉",
+      "page": "灰喉",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-54304122b5"
+    },
+    {
+      "faction": "莱塔尼亚",
+      "name": "协律",
+      "page": "协律",
+      "profession": "术师",
+      "rarity": "3",
+      "slug": "operator-547ba10f1c"
+    },
+    {
+      "faction": "乌萨斯学生自治团",
+      "name": "真理",
+      "page": "真理",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-551611cf94"
+    },
+    {
+      "faction": "彩虹小队",
+      "name": "医生",
+      "page": "医生",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-552caeb5bd"
+    },
+    {
+      "faction": "喀兰贸易",
+      "name": "灵知",
+      "page": "灵知",
+      "profession": "辅助",
+      "rarity": "5",
+      "slug": "operator-554cc0ba22"
+    },
+    {
+      "faction": "S.W.E.E.P.",
+      "name": "清道夫",
+      "page": "清道夫",
+      "profession": "先锋",
+      "rarity": "3",
+      "slug": "operator-559c962aec"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "12F",
+      "page": "12F",
+      "profession": "术师",
+      "rarity": "1",
+      "slug": "operator-56a81da85e"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "濯尘芙蓉",
+      "page": "濯尘芙蓉",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-56a9f4bc2f"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "调香师",
+      "page": "调香师",
+      "profession": "医疗",
+      "rarity": "3",
+      "slug": "operator-56ea09dcb9"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "罗宾",
+      "page": "罗宾",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-56ef80d549"
+    },
+    {
+      "faction": "伊比利亚",
+      "name": "絮雨",
+      "page": "絮雨",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-5ce6388523"
+    },
+    {
+      "faction": "S.W.E.E.P.",
+      "name": "阿斯卡纶",
+      "page": "阿斯卡纶",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-5db9accc66"
+    },
+    {
+      "faction": "S.W.E.E.P.",
+      "name": "红",
+      "page": "红",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-5e3127724b"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "红隼",
+      "page": "红隼",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-5e563046a8"
+    },
+    {
+      "faction": "企鹅物流",
+      "name": "能天使",
+      "page": "能天使",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-5eff4c2f0b"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "熔泉",
+      "page": "熔泉",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-5f3c50921b"
+    },
+    {
+      "faction": "卡西米尔",
+      "name": "耀骑士临光",
+      "page": "耀骑士临光",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-607fcca067"
+    },
+    {
+      "faction": "行动预备组A6",
+      "name": "月见夜",
+      "page": "月见夜",
+      "profession": "近卫",
+      "rarity": "2",
+      "slug": "operator-61b016f916"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "狮蝎",
+      "page": "狮蝎",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-61b8b01968"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "苏苏洛",
+      "page": "苏苏洛",
+      "profession": "医疗",
+      "rarity": "3",
+      "slug": "operator-61ff913e2b"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "慑砂",
+      "page": "慑砂",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-623c5353d4"
+    },
+    {
+      "faction": "伊比利亚",
+      "name": "格劳克斯",
+      "page": "格劳克斯",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-6277dd2049"
+    },
+    {
+      "faction": "炎",
+      "name": "桑葚",
+      "page": "桑葚",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-631af319b7"
+    },
+    {
+      "faction": "炎",
+      "name": "截云",
+      "page": "截云",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-660dd51a9f"
+    },
+    {
+      "faction": "莱塔尼亚",
+      "name": "艾雅法拉",
+      "page": "艾雅法拉",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-6626a758db"
+    },
+    {
+      "faction": "炎",
+      "name": "罗小黑",
+      "page": "罗小黑",
+      "profession": "近卫",
+      "rarity": "3",
+      "slug": "operator-66b1284375"
+    },
+    {
+      "faction": "米诺斯",
+      "name": "帕拉斯",
+      "page": "帕拉斯",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-679d552c9d"
+    },
+    {
+      "faction": "拉特兰",
+      "name": "蕾缪安",
+      "page": "蕾缪安",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-691b91e48d"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "THRM-EX",
+      "page": "THRM-EX",
+      "profession": "特种",
+      "rarity": "0",
+      "slug": "operator-698df410b1"
+    },
+    {
+      "faction": "龙门近卫局",
+      "name": "陈",
+      "page": "陈",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-6a5d848e0d"
+    },
+    {
+      "faction": "行动组A4",
+      "name": "麒麟R夜刀",
+      "page": "麒麟R夜刀",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-6b8db6bc07"
+    },
+    {
+      "faction": "阿戈尔",
+      "name": "海霓",
+      "page": "海霓",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-6c5cf0ebd0"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "夜魔",
+      "page": "夜魔",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-6cbc696abc"
+    },
+    {
+      "faction": "拉特兰",
+      "name": "见行者",
+      "page": "见行者",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-6dbb07e93c"
+    },
+    {
+      "faction": "炎",
+      "name": "矩",
+      "page": "矩",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-6dd97f4fd8"
+    },
+    {
+      "faction": "米诺斯",
+      "name": "埃拉托",
+      "page": "埃拉托",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-6eebbe86c4"
+    },
+    {
+      "faction": "炎-岁",
+      "name": "年",
+      "page": "年",
+      "profession": "重装",
+      "rarity": "5",
+      "slug": "operator-6f14c2641c"
+    },
+    {
+      "faction": "叙拉古",
+      "name": "贝洛内",
+      "page": "贝洛内",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-7009ea9b44"
+    },
+    {
+      "faction": "行动预备组A1",
+      "name": "芬",
+      "page": "芬",
+      "profession": "先锋",
+      "rarity": "2",
+      "slug": "operator-7068735a4d"
+    },
+    {
+      "faction": "叙拉古",
+      "name": "巫恋",
+      "page": "巫恋",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-72df75d7f5"
+    },
+    {
+      "faction": "谢拉格",
+      "name": "雪猎",
+      "page": "雪猎",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-740165ae06"
+    },
+    {
+      "faction": "拉特兰",
+      "name": "信仰搅拌机",
+      "page": "信仰搅拌机",
+      "profession": "重装",
+      "rarity": "5",
+      "slug": "operator-741bd98c8e"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "娜仁图亚",
+      "page": "娜仁图亚",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-74a85fb443"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "温蒂",
+      "page": "温蒂",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-75024fbeb8"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "褐果",
+      "page": "褐果",
+      "profession": "医疗",
+      "rarity": "3",
+      "slug": "operator-75cf449667"
+    },
+    {
+      "faction": "巴别塔",
+      "name": "维什戴尔",
+      "page": "维什戴尔",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-75fd42870a"
+    },
+    {
+      "faction": "罗德岛-精英干员",
+      "name": "迷迭香",
+      "page": "迷迭香",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-761b020fce"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "慕斯",
+      "page": "慕斯",
+      "profession": "近卫",
+      "rarity": "3",
+      "slug": "operator-76d99c3805"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "维荻",
+      "page": "维荻",
+      "profession": "特种",
+      "rarity": "3",
+      "slug": "operator-785df27f65"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "霍尔海雅",
+      "page": "霍尔海雅",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-78e6c9ce94"
+    },
+    {
+      "faction": "拉特兰",
+      "name": "送葬人",
+      "page": "送葬人",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-791361df78"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "泥岩",
+      "page": "泥岩",
+      "profession": "重装",
+      "rarity": "5",
+      "slug": "operator-79b9fef366"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "蒂比",
+      "page": "蒂比",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-79bf5de50c"
+    },
+    {
+      "faction": "彩虹小队",
+      "name": "霜华",
+      "page": "霜华",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-7a574286de"
+    },
+    {
+      "faction": "Ave Mujica",
+      "name": "祐天寺若麦",
+      "page": "祐天寺若麦",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-7b9d15dd98"
+    },
+    {
+      "faction": "黑钢国际",
+      "name": "杏仁",
+      "page": "杏仁",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-7bbddd18cb"
+    },
+    {
+      "faction": "炎-岁",
+      "name": "黍",
+      "page": "黍",
+      "profession": "重装",
+      "rarity": "5",
+      "slug": "operator-7c8ea94bba"
+    },
+    {
+      "faction": "莱塔尼亚",
+      "name": "纯烬艾雅法拉",
+      "page": "纯烬艾雅法拉",
+      "profession": "医疗",
+      "rarity": "5",
+      "slug": "operator-7cef32bd37"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "莎草",
+      "page": "莎草",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-7d03917d98"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "晓歌",
+      "page": "晓歌",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-7e21937def"
+    },
+    {
+      "faction": "汐斯塔",
+      "name": "青枳",
+      "page": "青枳",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-7e3192a2dc"
+    },
+    {
+      "faction": "乌萨斯学生自治团",
+      "name": "凛冬",
+      "page": "凛冬",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-7e59c16679"
+    },
+    {
+      "faction": "塔拉",
+      "name": "和弦",
+      "page": "和弦",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-7eedc94c84"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "菲莱",
+      "page": "菲莱",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-7f8372f86d"
+    },
+    {
+      "faction": "炎",
+      "name": "小满",
+      "page": "小满",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-7fd75cfe62"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "蛇屠箱",
+      "page": "蛇屠箱",
+      "profession": "重装",
+      "rarity": "3",
+      "slug": "operator-808c807530"
+    },
+    {
+      "faction": "贾维团伙",
+      "name": "贾维",
+      "page": "贾维",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-80bd0c7711"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "PhonoR-0",
+      "page": "PhonoR-0",
+      "profession": "辅助",
+      "rarity": "0",
+      "slug": "operator-8217cacde8"
+    },
+    {
+      "faction": "企鹅物流",
+      "name": "空",
+      "page": "空",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-82ca4a6ba6"
+    },
+    {
+      "faction": "玻利瓦尔",
+      "name": "格雷伊",
+      "page": "格雷伊",
+      "profession": "术师",
+      "rarity": "3",
+      "slug": "operator-83ce56ce93"
+    },
+    {
+      "faction": "炎",
+      "name": "仇白",
+      "page": "仇白",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-83d36f357c"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "U-Official",
+      "page": "U-Official",
+      "profession": "辅助",
+      "rarity": "0",
+      "slug": "operator-843054f6a5"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "坚雷",
+      "page": "坚雷",
+      "profession": "重装",
+      "rarity": "3",
+      "slug": "operator-84b3c2d22a"
+    },
+    {
+      "faction": "深海猎人",
+      "name": "乌尔比安",
+      "page": "乌尔比安",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-851f83326b"
+    },
+    {
+      "faction": "龙门近卫局",
+      "name": "星熊",
+      "page": "星熊",
+      "profession": "重装",
+      "rarity": "5",
+      "slug": "operator-855ef776f8"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "凯瑟琳",
+      "page": "凯瑟琳",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-8569a3d58e"
+    },
+    {
+      "faction": "阿戈尔",
+      "name": "深海色",
+      "page": "深海色",
+      "profession": "辅助",
+      "rarity": "3",
+      "slug": "operator-85ce9b8946"
+    },
+    {
+      "faction": "炎",
+      "name": "九色鹿",
+      "page": "九色鹿",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-862f254ee1"
+    },
+    {
+      "faction": "东",
+      "name": "风丸",
+      "page": "风丸",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-88079190a0"
+    },
+    {
+      "faction": "雷姆必拓",
+      "name": "火哨",
+      "page": "火哨",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-8b1fb897ec"
+    },
+    {
+      "faction": "谢拉格",
+      "name": "凛御银灰",
+      "page": "凛御银灰",
+      "profession": "先锋",
+      "rarity": "5",
+      "slug": "operator-8bcf173f58"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "桃金娘",
+      "page": "桃金娘",
+      "profession": "先锋",
+      "rarity": "3",
+      "slug": "operator-8d34f4233e"
+    },
+    {
+      "faction": "莱欧斯小队",
+      "name": "莱欧斯",
+      "page": "莱欧斯",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-8d56b3099a"
+    },
+    {
+      "faction": "红松骑士团",
+      "name": "灰毫",
+      "page": "灰毫",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-8e0783eb04"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "泰拉大陆调查团",
+      "page": "泰拉大陆调查团",
+      "profession": "狙击",
+      "rarity": "0",
+      "slug": "operator-8ebb7e3e01"
+    },
+    {
+      "faction": "乌萨斯学生自治团",
+      "name": "烈夏",
+      "page": "烈夏",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-8f3687181c"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "酒神",
+      "page": "酒神",
+      "profession": "辅助",
+      "rarity": "5",
+      "slug": "operator-8fc136e498"
+    },
+    {
+      "faction": "拉特兰",
+      "name": "空弦",
+      "page": "空弦",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-902bd20b16"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "酸糖",
+      "page": "酸糖",
+      "profession": "狙击",
+      "rarity": "3",
+      "slug": "operator-9148d9c023"
+    },
+    {
+      "faction": "喀兰贸易",
+      "name": "角峰",
+      "page": "角峰",
+      "profession": "重装",
+      "rarity": "3",
+      "slug": "operator-91855364b5"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "GALLUS²",
+      "page": "GALLUS²",
+      "profession": "术师",
+      "rarity": "0",
+      "slug": "operator-927a4922e1"
+    },
+    {
+      "faction": "卡西米尔",
+      "name": "流星",
+      "page": "流星",
+      "profession": "狙击",
+      "rarity": "3",
+      "slug": "operator-9295b0419b"
+    },
+    {
+      "faction": "卡西米尔",
+      "name": "玛恩纳",
+      "page": "玛恩纳",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-92c3a7b339"
+    },
+    {
+      "faction": "企鹅物流",
+      "name": "可颂",
+      "page": "可颂",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-92d51c409e"
+    },
+    {
+      "faction": "雷姆必拓",
+      "name": "阿兰娜",
+      "page": "阿兰娜",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-9338b1aec9"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "豆苗",
+      "page": "豆苗",
+      "profession": "先锋",
+      "rarity": "3",
+      "slug": "operator-93620b7764"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "刺玫",
+      "page": "刺玫",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-93e9fc493c"
+    },
+    {
+      "faction": "叙拉古",
+      "name": "子月",
+      "page": "子月",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-944c092406"
+    },
+    {
+      "faction": "莱塔尼亚",
+      "name": "止颂",
+      "page": "止颂",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-979b98ad42"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "凯尔希·思衡托",
+      "page": "凯尔希·思衡托",
+      "profession": "医疗",
+      "rarity": "5",
+      "slug": "operator-98bbdac023"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "天火",
+      "page": "天火",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-9950798f9b"
+    },
+    {
+      "faction": "炎-岁",
+      "name": "余",
+      "page": "余",
+      "profession": "重装",
+      "rarity": "5",
+      "slug": "operator-998dcba759"
+    },
+    {
+      "faction": "乌萨斯",
+      "name": "猎蜂",
+      "page": "猎蜂",
+      "profession": "近卫",
+      "rarity": "3",
+      "slug": "operator-9a3390df80"
+    },
+    {
+      "faction": "乌萨斯学生自治团",
+      "name": "古米",
+      "page": "古米",
+      "profession": "重装",
+      "rarity": "3",
+      "slug": "operator-9abc7d420d"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "杜宾",
+      "page": "杜宾",
+      "profession": "近卫",
+      "rarity": "3",
+      "slug": "operator-9bd48b8dc7"
+    },
+    {
+      "faction": "叙拉古",
+      "name": "拉普兰德",
+      "page": "拉普兰德",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-9c49b82348"
+    },
+    {
+      "faction": "玻利瓦尔",
+      "name": "羽毛笔",
+      "page": "羽毛笔",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-9c4a42a19d"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "燧石",
+      "page": "燧石",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-9d6ba9f1cb"
+    },
+    {
+      "faction": "喀兰贸易",
+      "name": "锏",
+      "page": "锏",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-9d863af21c"
+    },
+    {
+      "faction": "彩虹小队",
+      "name": "导火索",
+      "page": "导火索",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-9e3579deba"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "炎客",
+      "page": "炎客",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-a0553f4041"
+    },
+    {
+      "faction": "东",
+      "name": "缠丸",
+      "page": "缠丸",
+      "profession": "近卫",
+      "rarity": "3",
+      "slug": "operator-a0b6567d5b"
+    },
+    {
+      "faction": "米诺斯",
+      "name": "断罪者",
+      "page": "断罪者",
+      "profession": "近卫",
+      "rarity": "3",
+      "slug": "operator-a0ce59bb3d"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "凯尔希",
+      "page": "凯尔希",
+      "profession": "医疗",
+      "rarity": "5",
+      "slug": "operator-a117bea22c"
+    },
+    {
+      "faction": "叙拉古",
+      "name": "普罗旺斯",
+      "page": "普罗旺斯",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-a17656e108"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "Miss.Christine",
+      "page": "Miss.Christine",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-a19130c173"
+    },
+    {
+      "faction": "卡西米尔",
+      "name": "瑕光",
+      "page": "瑕光",
+      "profession": "重装",
+      "rarity": "5",
+      "slug": "operator-a2f1abdfd0"
+    },
+    {
+      "faction": "行动预备组A6",
+      "name": "泡普卡",
+      "page": "泡普卡",
+      "profession": "近卫",
+      "rarity": "2",
+      "slug": "operator-a3d0aa1df5"
+    },
+    {
+      "faction": "雷姆必拓",
+      "name": "洋灰",
+      "page": "洋灰",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-a41587eba3"
+    },
+    {
+      "faction": "谢拉格",
+      "name": "耶拉",
+      "page": "耶拉",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-a48be29c1d"
+    },
+    {
+      "faction": "萨米",
+      "name": "凛视",
+      "page": "凛视",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-a4a91a642a"
+    },
+    {
+      "faction": "塔拉",
+      "name": "死芒",
+      "page": "死芒",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-a50ed95b41"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "刻刀",
+      "page": "刻刀",
+      "profession": "近卫",
+      "rarity": "3",
+      "slug": "operator-a55add3321"
+    },
+    {
+      "faction": "Ave Mujica",
+      "name": "丰川祥子",
+      "page": "丰川祥子",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-a5bd03549e"
+    },
+    {
+      "faction": "叙拉古",
+      "name": "忍冬",
+      "page": "忍冬",
+      "profession": "先锋",
+      "rarity": "5",
+      "slug": "operator-a78976de98"
+    },
+    {
+      "faction": "炎",
+      "name": "骋风",
+      "page": "骋风",
+      "profession": "近卫",
+      "rarity": "3",
+      "slug": "operator-a7be8daeed"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "阿米娅",
+      "page": "阿米娅",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-a89a0a66cb"
+    },
+    {
+      "faction": "使徒",
+      "name": "闪灵",
+      "page": "闪灵",
+      "profession": "医疗",
+      "rarity": "5",
+      "slug": "operator-a919494387"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "微风",
+      "page": "微风",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-a9f17921ad"
+    },
+    {
+      "faction": "拉特兰",
+      "name": "莫斯提马",
+      "page": "莫斯提马",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-aa58f3a3b9"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "铅踝",
+      "page": "铅踝",
+      "profession": "狙击",
+      "rarity": "3",
+      "slug": "operator-aad0115561"
+    },
+    {
+      "faction": "拉特兰",
+      "name": "安比尔",
+      "page": "安比尔",
+      "profession": "狙击",
+      "rarity": "3",
+      "slug": "operator-ad255ebc54"
+    },
+    {
+      "faction": "贾维团伙",
+      "name": "布洛卡",
+      "page": "布洛卡",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-add959dc1b"
+    },
+    {
+      "faction": "炎",
+      "name": "万顷",
+      "page": "万顷",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-ae0766df6d"
+    },
+    {
+      "faction": "雷姆必拓",
+      "name": "暴行",
+      "page": "暴行",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-ae5526dd11"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "Castle-3",
+      "page": "Castle-3",
+      "profession": "近卫",
+      "rarity": "0",
+      "slug": "operator-ae96125d8a"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "华法琳",
+      "page": "华法琳",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-af1f98110f"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "暮落",
+      "page": "暮落",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-b019ec99b6"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "格拉尼",
+      "page": "格拉尼",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-b032ea21f8"
+    },
+    {
+      "faction": "叙拉古",
+      "name": "荒芜拉普兰德",
+      "page": "荒芜拉普兰德",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-b0827c7d2e"
+    },
+    {
+      "faction": "乌萨斯",
+      "name": "折桠",
+      "page": "折桠",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-b3174a2745"
+    },
+    {
+      "faction": "玻利瓦尔",
+      "name": "龙舌兰",
+      "page": "龙舌兰",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-b3e09d4151"
+    },
+    {
+      "faction": "炎-龙门",
+      "name": "暗索",
+      "page": "暗索",
+      "profession": "特种",
+      "rarity": "3",
+      "slug": "operator-b43cd45724"
+    },
+    {
+      "faction": "塔拉",
+      "name": "水灯心",
+      "page": "水灯心",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-b454adb6bb"
+    },
+    {
+      "faction": "龙门近卫局",
+      "name": "诗怀雅",
+      "page": "诗怀雅",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-b46ce9b548"
+    },
+    {
+      "faction": "红松骑士团",
+      "name": "焰尾",
+      "page": "焰尾",
+      "profession": "先锋",
+      "rarity": "5",
+      "slug": "operator-b4fd9f89d5"
+    },
+    {
+      "faction": "格拉斯哥帮",
+      "name": "因陀罗",
+      "page": "因陀罗",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-b50b5781e2"
+    },
+    {
+      "faction": "阿戈尔",
+      "name": "浊心斯卡蒂",
+      "page": "浊心斯卡蒂",
+      "profession": "辅助",
+      "rarity": "5",
+      "slug": "operator-b55bc06ce5"
+    },
+    {
+      "faction": "雷姆必拓",
+      "name": "夜半",
+      "page": "夜半",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-b626628155"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "末药",
+      "page": "末药",
+      "profession": "医疗",
+      "rarity": "3",
+      "slug": "operator-b64240ebe3"
+    },
+    {
+      "faction": "乌萨斯",
+      "name": "维伊",
+      "page": "维伊",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-b6aab277d3"
+    },
+    {
+      "faction": "格拉斯哥帮",
+      "name": "达格达",
+      "page": "达格达",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-b6bded1d06"
+    },
+    {
+      "faction": "炎",
+      "name": "行箸",
+      "page": "行箸",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-b71f138baa"
+    },
+    {
+      "faction": "行动预备组A4",
+      "name": "卡缇",
+      "page": "卡缇",
+      "profession": "重装",
+      "rarity": "2",
+      "slug": "operator-b758b6fab0"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "薄绿",
+      "page": "薄绿",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-b86ae7cd56"
+    },
+    {
+      "faction": "行动预备组A6",
+      "name": "空爆",
+      "page": "空爆",
+      "profession": "狙击",
+      "rarity": "2",
+      "slug": "operator-b88361b15f"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "Lancet-2",
+      "page": "Lancet-2",
+      "profession": "医疗",
+      "rarity": "0",
+      "slug": "operator-b90c01c198"
+    },
+    {
+      "faction": "莱茵生命",
+      "name": "星源",
+      "page": "星源",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-ba64d38c53"
+    },
+    {
+      "faction": "深海猎人",
+      "name": "幽灵鲨",
+      "page": "幽灵鲨",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-bac660657e"
+    },
+    {
+      "faction": "炎-岁",
+      "name": "令",
+      "page": "令",
+      "profession": "辅助",
+      "rarity": "5",
+      "slug": "operator-bd65e37c34"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "异客",
+      "page": "异客",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-bd81e2f2a5"
+    },
+    {
+      "faction": "莱塔尼亚",
+      "name": "地灵",
+      "page": "地灵",
+      "profession": "辅助",
+      "rarity": "3",
+      "slug": "operator-bdb8429233"
+    },
+    {
+      "faction": "乌萨斯",
+      "name": "赫拉格",
+      "page": "赫拉格",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-bdbb76899d"
+    },
+    {
+      "faction": "玻利瓦尔",
+      "name": "聆音",
+      "page": "聆音",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-c062c3da7f"
+    },
+    {
+      "faction": "莱塔尼亚",
+      "name": "折光",
+      "page": "折光",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-c1a6cdb78d"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "伊桑",
+      "page": "伊桑",
+      "profession": "特种",
+      "rarity": "3",
+      "slug": "operator-c1ef8968a5"
+    },
+    {
+      "faction": "企鹅物流",
+      "name": "新约能天使",
+      "page": "新约能天使",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-c27a763a32"
+    },
+    {
+      "faction": "玻利瓦尔",
+      "name": "跃跃",
+      "page": "跃跃",
+      "profession": "狙击",
+      "rarity": "3",
+      "slug": "operator-c285b7a2bd"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "星极",
+      "page": "星极",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-c3726123e4"
+    },
+    {
+      "faction": "汐斯塔",
+      "name": "锡兰",
+      "page": "锡兰",
+      "profession": "医疗",
+      "rarity": "4",
+      "slug": "operator-c4a02acb04"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "极境",
+      "page": "极境",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-c4d9cff039"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "天空盒",
+      "page": "天空盒",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-c63cdb40f7"
+    },
+    {
+      "faction": "行动预备组A1",
+      "name": "克洛丝",
+      "page": "克洛丝",
+      "profession": "狙击",
+      "rarity": "2",
+      "slug": "operator-c669fc1e3c"
+    },
+    {
+      "faction": "乌萨斯",
+      "name": "裂响",
+      "page": "裂响",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-c6a94223ee"
+    },
+    {
+      "faction": "叙拉古",
+      "name": "裁度",
+      "page": "裁度",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-c6e34b48fb"
+    },
+    {
+      "faction": "莱塔尼亚",
+      "name": "薇薇安娜",
+      "page": "薇薇安娜",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-c6f16d91f2"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "海蒂",
+      "page": "海蒂",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-c7ba29f107"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "杰克",
+      "page": "杰克",
+      "profession": "近卫",
+      "rarity": "3",
+      "slug": "operator-c7e3f2bec4"
+    },
+    {
+      "faction": "乌萨斯学生自治团",
+      "name": "怒潮凛冬",
+      "page": "怒潮凛冬",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-c91ec71c8c"
+    },
+    {
+      "faction": "企鹅物流",
+      "name": "缄默德克萨斯",
+      "page": "缄默德克萨斯",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-c95ce7922d"
+    },
+    {
+      "faction": "莱塔尼亚",
+      "name": "车尔尼",
+      "page": "车尔尼",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-c9f7976cd9"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "傀影",
+      "page": "傀影",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-ca43beceb0"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "渡桥",
+      "page": "渡桥",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-caae678335"
+    },
+    {
+      "faction": "行动预备组A1",
+      "name": "炎熔",
+      "page": "炎熔",
+      "profession": "术师",
+      "rarity": "2",
+      "slug": "operator-cb765e0faf"
+    },
+    {
+      "faction": "炎-龙门",
+      "name": "琳琅诗怀雅",
+      "page": "琳琅诗怀雅",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-cd035ffa81"
+    },
+    {
+      "faction": "米诺斯",
+      "name": "铸铁",
+      "page": "铸铁",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-cdd1d0563c"
+    },
+    {
+      "faction": "彩虹小队",
+      "name": "战车",
+      "page": "战车",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-cf3b65223e"
+    },
+    {
+      "faction": "东",
+      "name": "遥",
+      "page": "遥",
+      "profession": "辅助",
+      "rarity": "5",
+      "slug": "operator-d019b42e0e"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "妮芙",
+      "page": "妮芙",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-d0596e6e8f"
+    },
+    {
+      "faction": "红松骑士团",
+      "name": "正义骑士号",
+      "page": "正义骑士号",
+      "profession": "狙击",
+      "rarity": "0",
+      "slug": "operator-d0a9405e87"
+    },
+    {
+      "faction": "东",
+      "name": "吉星",
+      "page": "吉星",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-d1828c16de"
+    },
+    {
+      "faction": "炎",
+      "name": "乌有",
+      "page": "乌有",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-d1d5730bca"
+    },
+    {
+      "faction": "企鹅物流",
+      "name": "德克萨斯",
+      "page": "德克萨斯",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-d2099c9a7e"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "苇草",
+      "page": "苇草",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-d21a1028de"
+    },
+    {
+      "faction": "莱茵生命",
+      "name": "娜斯提",
+      "page": "娜斯提",
+      "profession": "辅助",
+      "rarity": "5",
+      "slug": "operator-d33889de5e"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "白铁",
+      "page": "白铁",
+      "profession": "辅助",
+      "rarity": "5",
+      "slug": "operator-d3fd68ccc1"
+    },
+    {
+      "faction": "拉特兰",
+      "name": "塑心",
+      "page": "塑心",
+      "profession": "辅助",
+      "rarity": "5",
+      "slug": "operator-d66a8d2587"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "魔王",
+      "page": "魔王",
+      "profession": "辅助",
+      "rarity": "5",
+      "slug": "operator-d7437b3d20"
+    },
+    {
+      "faction": "鲤氏侦探事务所",
+      "name": "老鲤",
+      "page": "老鲤",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-d74ebb1e9a"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "爱丽丝",
+      "page": "爱丽丝",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-d7c8c02252"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "掠风",
+      "page": "掠风",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-d89b3d7554"
+    },
+    {
+      "faction": "罗德岛-精英干员",
+      "name": "煌",
+      "page": "煌",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-d8a435ab94"
+    },
+    {
+      "faction": "行动组A4",
+      "name": "火龙S黑角",
+      "page": "火龙S黑角",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-d8d8203137"
+    },
+    {
+      "faction": "炎",
+      "name": "清流",
+      "page": "清流",
+      "profession": "医疗",
+      "rarity": "3",
+      "slug": "operator-d96a15e01d"
+    },
+    {
+      "faction": "谢拉格",
+      "name": "初雪",
+      "page": "初雪",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-d9737f7f2d"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "阿米娅(近卫)",
+      "page": "阿米娅(近卫)",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-dad1803a3f"
+    },
+    {
+      "faction": "莱茵生命",
+      "name": "多萝西",
+      "page": "多萝西",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-dbc0710b4c"
+    },
+    {
+      "faction": "谢拉格",
+      "name": "崖心",
+      "page": "崖心",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-dce2c49389"
+    },
+    {
+      "faction": "东",
+      "name": "月禾",
+      "page": "月禾",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-dcf6932801"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "卡夫卡",
+      "page": "卡夫卡",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-de37c99b28"
+    },
+    {
+      "faction": "拉特兰",
+      "name": "芳汀",
+      "page": "芳汀",
+      "profession": "近卫",
+      "rarity": "3",
+      "slug": "operator-de3bc84d11"
+    },
+    {
+      "faction": "罗德岛-精英干员",
+      "name": "真言",
+      "page": "真言",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-de3efd52f0"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "响石",
+      "page": "响石",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-de4b4cce3a"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "森蚺",
+      "page": "森蚺",
+      "profession": "重装",
+      "rarity": "5",
+      "slug": "operator-e10cee5933"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "罗比菈塔",
+      "page": "罗比菈塔",
+      "profession": "辅助",
+      "rarity": "3",
+      "slug": "operator-e152155ccb"
+    },
+    {
+      "faction": "炎-龙门",
+      "name": "阿消",
+      "page": "阿消",
+      "profession": "特种",
+      "rarity": "3",
+      "slug": "operator-e18cde3d76"
+    },
+    {
+      "faction": "巴别塔",
+      "name": "W",
+      "page": "W",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-e2415cb7f6"
+    },
+    {
+      "faction": "红松骑士团",
+      "name": "野鬃",
+      "page": "野鬃",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-e25acbad58"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "刻俄柏",
+      "page": "刻俄柏",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-e27efbea61"
+    },
+    {
+      "faction": "彩虹小队",
+      "name": "双月",
+      "page": "双月",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-e2c982ec38"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "佩佩",
+      "page": "佩佩",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-e3b682861f"
+    },
+    {
+      "faction": "雷姆必拓",
+      "name": "断崖",
+      "page": "断崖",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-e4491f87cf"
+    },
+    {
+      "faction": "卡西米尔",
+      "name": "白金",
+      "page": "白金",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-e506cf878f"
+    },
+    {
+      "faction": "莱欧斯小队",
+      "name": "玛露西尔",
+      "page": "玛露西尔",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-e6398bb7f0"
+    },
+    {
+      "faction": "炎",
+      "name": "惊蛰",
+      "page": "惊蛰",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-e641ed6191"
+    },
+    {
+      "faction": "伊比利亚",
+      "name": "引星棘刺",
+      "page": "引星棘刺",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-e6706a66a0"
+    },
+    {
+      "faction": "玻利瓦尔",
+      "name": "特克诺",
+      "page": "特克诺",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-e67e3a71bb"
+    },
+    {
+      "faction": "炎-龙门",
+      "name": "食铁兽",
+      "page": "食铁兽",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-e862b082fc"
+    },
+    {
+      "faction": "谢拉格",
+      "name": "圣聆初雪",
+      "page": "圣聆初雪",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-e9b5f4d55c"
+    },
+    {
+      "faction": "行动组A4",
+      "name": "黑角",
+      "page": "黑角",
+      "profession": "重装",
+      "rarity": "1",
+      "slug": "operator-ea81e214ff"
+    },
+    {
+      "faction": "炎-岁",
+      "name": "重岳",
+      "page": "重岳",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-ee19019dbc"
+    },
+    {
+      "faction": "行动预备组A1",
+      "name": "米格鲁",
+      "page": "米格鲁",
+      "profession": "重装",
+      "rarity": "2",
+      "slug": "operator-ee1b736d8e"
+    },
+    {
+      "faction": "东",
+      "name": "宴",
+      "page": "宴",
+      "profession": "近卫",
+      "rarity": "3",
+      "slug": "operator-eef50cce2d"
+    },
+    {
+      "faction": "谢拉格",
+      "name": "极光",
+      "page": "极光",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-ef4ed95b84"
+    },
+    {
+      "faction": "米诺斯",
+      "name": "火神",
+      "page": "火神",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-f029fe4ae0"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "历阵锐枪芬",
+      "page": "历阵锐枪芬",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-f06a92620a"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "弑君者",
+      "page": "弑君者",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-f0a350be56"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "夜烟",
+      "page": "夜烟",
+      "profession": "术师",
+      "rarity": "3",
+      "slug": "operator-f18251ebc7"
+    },
+    {
+      "faction": "莱茵生命",
+      "name": "溯光星源",
+      "page": "溯光星源",
+      "profession": "辅助",
+      "rarity": "5",
+      "slug": "operator-f2332a4e5e"
+    },
+    {
+      "faction": "雷姆必拓",
+      "name": "莱伊",
+      "page": "莱伊",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-f3d869b8e0"
+    },
+    {
+      "faction": "深海猎人",
+      "name": "安哲拉",
+      "page": "安哲拉",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-f3e2d99a95"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "Friston-3",
+      "page": "Friston-3",
+      "profession": "重装",
+      "rarity": "0",
+      "slug": "operator-f42ebdfa47"
+    },
+    {
+      "faction": "维多利亚",
+      "name": "琴柳",
+      "page": "琴柳",
+      "profession": "先锋",
+      "rarity": "5",
+      "slug": "operator-f54bf52489"
+    },
+    {
+      "faction": "莱茵生命",
+      "name": "伊芙利特",
+      "page": "伊芙利特",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-f65b81469a"
+    },
+    {
+      "faction": "拉特兰",
+      "name": "隐现",
+      "page": "隐现",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-f6ece87b05"
+    },
+    {
+      "faction": "罗德岛-精英干员",
+      "name": "电弧",
+      "page": "电弧",
+      "profession": "辅助",
+      "rarity": "5",
+      "slug": "operator-f71b70d299"
+    },
+    {
+      "faction": "叙拉古",
+      "name": "伺夜",
+      "page": "伺夜",
+      "profession": "先锋",
+      "rarity": "5",
+      "slug": "operator-f8b969cdb1"
+    },
+    {
+      "faction": "哥伦比亚",
+      "name": "冰酿",
+      "page": "冰酿",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-f8daa671fc"
+    },
+    {
+      "faction": "阿戈尔",
+      "name": "深巡",
+      "page": "深巡",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-f912958e07"
+    },
+    {
+      "faction": "萨尔贡",
+      "name": "衡沙",
+      "page": "衡沙",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-f964e88be8"
+    },
+    {
+      "faction": "炎",
+      "name": "赤刃明霄陈",
+      "page": "赤刃明霄陈",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-f978c33a3e"
+    },
+    {
+      "faction": "伊比利亚",
+      "name": "流明",
+      "page": "流明",
+      "profession": "医疗",
+      "rarity": "5",
+      "slug": "operator-fa068ef885"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "守林人",
+      "page": "守林人",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-fb2dfee49e"
+    },
+    {
+      "faction": "拉特兰",
+      "name": "CONFESS-47",
+      "page": "CONFESS-47",
+      "profession": "先锋",
+      "rarity": "0",
+      "slug": "operator-fb8c863323"
+    },
+    {
+      "faction": "行动预备组A6",
+      "name": "梓兰",
+      "page": "梓兰",
+      "profession": "辅助",
+      "rarity": "2",
+      "slug": "operator-fbaada3fea"
+    },
+    {
+      "faction": "黑钢国际",
+      "name": "寻澜",
+      "page": "寻澜",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-fce72346d5"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "百炼嘉维尔",
+      "page": "百炼嘉维尔",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-fcee59c19a"
+    },
+    {
+      "faction": "乌萨斯",
+      "name": "伯塔尼",
+      "page": "伯塔尼",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-fdbe749ee7"
+    },
+    {
+      "faction": "乌萨斯学生自治团",
+      "name": "早露",
+      "page": "早露",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-fe1df505a3"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "霜叶",
+      "page": "霜叶",
+      "profession": "近卫",
+      "rarity": "3",
+      "slug": "operator-ff180aba3f"
+    },
+    {
+      "faction": "罗德岛",
+      "name": "嘉维尔",
+      "page": "嘉维尔",
+      "profession": "医疗",
+      "rarity": "3",
+      "slug": "operator-ff57217c07"
+    },
+    {
+      "faction": "行动预备组A4",
+      "name": "安德切尔",
+      "page": "安德切尔",
+      "profession": "狙击",
+      "rarity": "2",
+      "slug": "operator-ff9cb13733"
+    }
+  ],
+  "schemaVersion": 1,
+  "source": {
+    "method": "rendered",
+    "oldid": "335492",
+    "page": "干员一览",
+    "providerId": "arknights-wiki"
+  }
+}

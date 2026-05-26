@@ -1,0 +1,19 @@
+{
+  "albumId": "act4d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SW-ST7_和光同尘/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SW-ST7_%E5%92%8C%E5%85%89%E5%90%8C%E5%B0%98/NBT"
+  },
+  "id": "act4d0--activities__act4d0__level_act4d0_st07",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act4d0--activities__act4d0__level_act4d0_st06"
+  },
+  "summary": "info/activities/act4d0/level_act4d0_st07",
+  "title": "和光同尘"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "0-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "0-1_坍塌/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/0-1_%E5%9D%8D%E5%A1%8C/BEG"
+  },
+  "id": "main_0--obt__main__level_main_00-01_beg",
+  "navigation": {
+    "nextChapterId": "main_0--obt__main__level_main_00-01_end",
+    "previousChapterId": "main_0--obt__guide__beg__2_guide_to_home"
+  },
+  "subtitle": "0-1",
+  "summary": "info/obt/main/level_main_00-01_beg",
+  "title": "坍塌"
+}

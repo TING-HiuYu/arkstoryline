@@ -1,0 +1,21 @@
+{
+  "albumId": "main_2",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "2-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "2-1_龙门之行/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/2-1_%E9%BE%99%E9%97%A8%E4%B9%8B%E8%A1%8C/END"
+  },
+  "id": "main_2--obt__main__level_main_02-01_end",
+  "navigation": {
+    "nextChapterId": "main_2--obt__main__level_main_02-02_beg",
+    "previousChapterId": "main_2--obt__main__level_main_02-01_beg"
+  },
+  "subtitle": "2-1",
+  "summary": "info/obt/main/level_main_02-01_end",
+  "title": "龙门之行"
+}

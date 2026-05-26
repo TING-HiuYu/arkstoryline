@@ -1,0 +1,21 @@
+{
+  "albumId": "act46side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OS-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OS-10_耶拉冈德在上/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OS-10_%E8%80%B6%E6%8B%89%E5%86%88%E5%BE%B7%E5%9C%A8%E4%B8%8A/END"
+  },
+  "id": "act46side--activities__act46side__level_act46side_10_end",
+  "navigation": {
+    "nextChapterId": "act46side--activities__act46side__level_act46side_st04",
+    "previousChapterId": "act46side--activities__act46side__level_act46side_10_beg"
+  },
+  "subtitle": "OS-10",
+  "summary": "info/activities/act46side/level_act46side_10_end",
+  "title": "耶拉冈德在上"
+}

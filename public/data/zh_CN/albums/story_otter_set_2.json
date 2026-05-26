@@ -1,0 +1,33 @@
+{
+  "id": "story_otter_set_2",
+  "slug": "story-otter-set-2",
+  "title": "造物之心",
+  "sourceEntryType": "UNKNOWN",
+  "albumKind": "operatorRecord",
+  "homeSection": "operatorRecord",
+  "timelineRank": 0,
+  "cover": {
+    "url": "https://media.prts.wiki/0/0e/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E9%80%A0%E7%89%A9%E4%B9%8B%E5%BF%83.png",
+    "source": "none",
+    "assetStatus": "missing",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 0,
+  "chapters": [
+    {
+      "id": "story_otter_set_2--obt__memory__story_otter_2_1",
+      "albumId": "story_otter_set_2",
+      "title": "造物之心",
+      "avgTag": "幕间",
+      "sort": 0,
+      "path": "chapters/story_otter_set_2--obt__memory__story_otter_2_1.json",
+      "downloadable": true
+    }
+  ],
+  "source": {
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
+  },
+  "extras": []
+}

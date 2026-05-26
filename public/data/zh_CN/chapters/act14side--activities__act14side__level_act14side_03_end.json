@@ -1,0 +1,21 @@
+{
+  "albumId": "act14side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "BI-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BI-3_人心难测/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BI-3_%E4%BA%BA%E5%BF%83%E9%9A%BE%E6%B5%8B/END"
+  },
+  "id": "act14side--activities__act14side__level_act14side_03_end",
+  "navigation": {
+    "nextChapterId": "act14side--activities__act14side__level_act14side_st02",
+    "previousChapterId": "act14side--activities__act14side__level_act14side_03_beg"
+  },
+  "subtitle": "BI-3",
+  "summary": "info/activities/act14side/level_act14side_03_end",
+  "title": "人心难测"
+}

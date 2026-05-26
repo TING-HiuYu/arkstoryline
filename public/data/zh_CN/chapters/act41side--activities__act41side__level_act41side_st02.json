@@ -1,0 +1,21 @@
+{
+  "albumId": "act41side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "EA-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EA-ST-2_罗曼史已死/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-ST-2_%E7%BD%97%E6%9B%BC%E5%8F%B2%E5%B7%B2%E6%AD%BB/NBT"
+  },
+  "id": "act41side--activities__act41side__level_act41side_st02",
+  "navigation": {
+    "nextChapterId": "act41side--activities__act41side__level_act41side_07_beg",
+    "previousChapterId": "act41side--activities__act41side__level_act41side_06_end"
+  },
+  "subtitle": "EA-ST-2",
+  "summary": "info/activities/act41side/level_act41side_st02",
+  "title": "罗曼史已死"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act15d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "MB-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MB-ST-1_邀请/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MB-ST-1_%E9%82%80%E8%AF%B7/NBT"
+  },
+  "id": "act15d0--activities__act15d0__level_act15d0_st01",
+  "navigation": {
+    "nextChapterId": "act15d0--activities__act15d0__level_act15d0_04_beg",
+    "previousChapterId": "act15d0--activities__act15d0__level_act15d0_03_end"
+  },
+  "subtitle": "MB-ST-1",
+  "summary": "info/activities/act15d0/level_act15d0_st01",
+  "title": "邀请"
+}

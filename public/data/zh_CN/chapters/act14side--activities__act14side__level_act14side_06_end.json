@@ -1,0 +1,21 @@
+{
+  "albumId": "act14side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "BI-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BI-6_歧路/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BI-6_%E6%AD%A7%E8%B7%AF/END"
+  },
+  "id": "act14side--activities__act14side__level_act14side_06_end",
+  "navigation": {
+    "nextChapterId": "act14side--activities__act14side__level_act14side_07_beg",
+    "previousChapterId": "act14side--activities__act14side__level_act14side_06_beg"
+  },
+  "subtitle": "BI-6",
+  "summary": "info/activities/act14side/level_act14side_06_end",
+  "title": "歧路"
+}

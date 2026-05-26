@@ -1,0 +1,19 @@
+{
+  "albumId": "act16mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TG-ST3_狂奔的瓶树/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TG-ST3_%E7%8B%82%E5%A5%94%E7%9A%84%E7%93%B6%E6%A0%91/NBT"
+  },
+  "id": "act16mini--activities__act16mini__level_act16mini_st03",
+  "navigation": {
+    "nextChapterId": "act16mini--activities__act16mini__level_act16mini_st04",
+    "previousChapterId": "act16mini--activities__act16mini__level_act16mini_st02"
+  },
+  "summary": "info/activities/act16mini/level_act16mini_st03",
+  "title": "狂奔的瓶树"
+}

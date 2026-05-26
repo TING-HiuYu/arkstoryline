@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "13-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "13-3_不得暂歇/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-3_%E4%B8%8D%E5%BE%97%E6%9A%82%E6%AD%87/END"
+  },
+  "id": "main_13--obt__main__level_main_13-02_end",
+  "navigation": {
+    "nextChapterId": "main_13--obt__main__level_main_13-03_beg",
+    "previousChapterId": "main_13--obt__main__level_main_13-02_beg"
+  },
+  "subtitle": "13-3",
+  "summary": "info/obt/main/level_main_13-02_end",
+  "title": "不得暂歇"
+}

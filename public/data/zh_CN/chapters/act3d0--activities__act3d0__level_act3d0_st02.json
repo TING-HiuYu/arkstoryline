@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-ST2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-ST2_冲破藩篱/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-ST2_%E5%86%B2%E7%A0%B4%E8%97%A9%E7%AF%B1/NBT"
+  },
+  "id": "act3d0--activities__act3d0__level_act3d0_st02",
+  "navigation": {
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_02_beg",
+    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_01_end"
+  },
+  "subtitle": "OF-ST2",
+  "summary": "info/activities/act3d0/level_act3d0_st02",
+  "title": "冲破藩篱"
+}

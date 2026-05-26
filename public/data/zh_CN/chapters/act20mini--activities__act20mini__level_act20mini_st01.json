@@ -1,0 +1,19 @@
+{
+  "albumId": "act20mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CG-ST1_红酒谋杀案/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CG-ST1_%E7%BA%A2%E9%85%92%E8%B0%8B%E6%9D%80%E6%A1%88/NBT"
+  },
+  "id": "act20mini--activities__act20mini__level_act20mini_st01",
+  "navigation": {
+    "nextChapterId": "act20mini--activities__act20mini__level_act20mini_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act20mini/level_act20mini_st01",
+  "title": "红酒谋杀案"
+}

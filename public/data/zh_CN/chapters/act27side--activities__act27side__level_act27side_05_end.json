@@ -1,0 +1,21 @@
+{
+  "albumId": "act27side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SL-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SL-5_我会唱一首彩虹/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SL-5_%E6%88%91%E4%BC%9A%E5%94%B1%E4%B8%80%E9%A6%96%E5%BD%A9%E8%99%B9/END"
+  },
+  "id": "act27side--activities__act27side__level_act27side_05_end",
+  "navigation": {
+    "nextChapterId": "act27side--activities__act27side__level_act27side_st02",
+    "previousChapterId": "act27side--activities__act27side__level_act27side_05_beg"
+  },
+  "subtitle": "SL-5",
+  "summary": "info/activities/act27side/level_act27side_05_end",
+  "title": "我会唱一首彩虹"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act29side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "ZT-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ZT-6_华尔兹“假面”/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ZT-6_%E5%8D%8E%E5%B0%94%E5%85%B9%E2%80%9C%E5%81%87%E9%9D%A2%E2%80%9D/BEG"
+  },
+  "id": "act29side--activities__act29side__level_act29side_06_beg",
+  "navigation": {
+    "nextChapterId": "act29side--activities__act29side__level_act29side_06_end",
+    "previousChapterId": "act29side--activities__act29side__level_act29side_05_end"
+  },
+  "subtitle": "ZT-6",
+  "summary": "info/activities/act29side/level_act29side_06_beg",
+  "title": "华尔兹“假面”"
+}

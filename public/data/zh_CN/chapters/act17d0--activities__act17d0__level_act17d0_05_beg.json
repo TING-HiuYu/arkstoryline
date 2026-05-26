@@ -1,0 +1,21 @@
+{
+  "albumId": "act17d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "OD-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OD-5_物资回收计划/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OD-5_%E7%89%A9%E8%B5%84%E5%9B%9E%E6%94%B6%E8%AE%A1%E5%88%92/BEG"
+  },
+  "id": "act17d0--activities__act17d0__level_act17d0_05_beg",
+  "navigation": {
+    "nextChapterId": "act17d0--activities__act17d0__level_act17d0_05_end",
+    "previousChapterId": "act17d0--activities__act17d0__level_act17d0_03_end"
+  },
+  "subtitle": "OD-5",
+  "summary": "info/activities/act17d0/level_act17d0_05_beg",
+  "title": "物资回收计划"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act29side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "ZT-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ZT-3_练习曲“奇遇”/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ZT-3_%E7%BB%83%E4%B9%A0%E6%9B%B2%E2%80%9C%E5%A5%87%E9%81%87%E2%80%9D/END"
+  },
+  "id": "act29side--activities__act29side__level_act29side_03_end",
+  "navigation": {
+    "nextChapterId": "act29side--activities__act29side__level_act29side_st02",
+    "previousChapterId": "act29side--activities__act29side__level_act29side_03_beg"
+  },
+  "subtitle": "ZT-3",
+  "summary": "info/activities/act29side/level_act29side_03_end",
+  "title": "练习曲“奇遇”"
+}

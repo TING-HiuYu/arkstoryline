@@ -1,0 +1,21 @@
+{
+  "albumId": "act37side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "GO-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GO-1_仇怨残余/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GO-1_%E4%BB%87%E6%80%A8%E6%AE%8B%E4%BD%99/END"
+  },
+  "id": "act37side--activities__act37side__level_act37side_01_end",
+  "navigation": {
+    "nextChapterId": "act37side--activities__act37side__level_act37side_02_beg",
+    "previousChapterId": "act37side--activities__act37side__level_act37side_01_beg"
+  },
+  "subtitle": "GO-1",
+  "summary": "info/activities/act37side/level_act37side_01_end",
+  "title": "仇怨残余"
+}

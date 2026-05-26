@@ -1,0 +1,21 @@
+{
+  "albumId": "act40side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OR-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OR-3_油泼扯面/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OR-3_%E6%B2%B9%E6%B3%BC%E6%89%AF%E9%9D%A2/END"
+  },
+  "id": "act40side--activities__act40side__level_act40side_03_end",
+  "navigation": {
+    "nextChapterId": "act40side--activities__act40side__level_act40side_04_beg",
+    "previousChapterId": "act40side--activities__act40side__level_act40side_03_beg"
+  },
+  "subtitle": "OR-3",
+  "summary": "info/activities/act40side/level_act40side_03_end",
+  "title": "油泼扯面"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "R8-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "R8-9_相逢，总是离别/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/R8-9_%E7%9B%B8%E9%80%A2%EF%BC%8C%E6%80%BB%E6%98%AF%E7%A6%BB%E5%88%AB/BEG"
+  },
+  "id": "main_8--obt__main__level_main_08-10_beg",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_main_08-10_end",
+    "previousChapterId": "main_8--obt__main__level_main_08-09_end"
+  },
+  "subtitle": "R8-9",
+  "summary": "info/obt/main/level_main_08-10_beg",
+  "title": "相逢，总是离别"
+}

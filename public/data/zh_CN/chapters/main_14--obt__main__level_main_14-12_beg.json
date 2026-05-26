@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "14-14",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-14_高空拒阻行动/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-14_%E9%AB%98%E7%A9%BA%E6%8B%92%E9%98%BB%E8%A1%8C%E5%8A%A8/BEG"
+  },
+  "id": "main_14--obt__main__level_main_14-12_beg",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-13_end",
+    "previousChapterId": "main_14--obt__main__level_st_14-02"
+  },
+  "subtitle": "14-14",
+  "summary": "info/obt/main/level_main_14-12_beg",
+  "title": "高空拒阻行动"
+}

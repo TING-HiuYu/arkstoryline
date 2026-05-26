@@ -1,0 +1,21 @@
+{
+  "albumId": "act17side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "SN-ST-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SN-ST-4_临海长街/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-ST-4_%E4%B8%B4%E6%B5%B7%E9%95%BF%E8%A1%97/NBT"
+  },
+  "id": "act17side--activities__act17side__level_act17side_st04",
+  "navigation": {
+    "nextChapterId": "act17side--activities__act17side__level_act17side_st05",
+    "previousChapterId": "act17side--activities__act17side__level_act17side_03_end"
+  },
+  "subtitle": "SN-ST-4",
+  "summary": "info/activities/act17side/level_act17side_st04",
+  "title": "临海长街"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_15",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "15-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "15-2_执此剑者/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-2_%E6%89%A7%E6%AD%A4%E5%89%91%E8%80%85/BEG"
+  },
+  "id": "main_15--obt__main__level_main_15-01_beg",
+  "navigation": {
+    "nextChapterId": "main_15--obt__main__level_main_15-01_end",
+    "previousChapterId": "main_15--obt__main__level_st_15-01"
+  },
+  "subtitle": "15-2",
+  "summary": "info/obt/main/level_main_15-01_beg",
+  "title": "执此剑者"
+}

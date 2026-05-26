@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d3",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "SV-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SV-9_笃信者/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-9_%E7%AC%83%E4%BF%A1%E8%80%85/BEG"
+  },
+  "id": "act18d3--activities__act18d3__level_act18d3_09_beg",
+  "navigation": {
+    "nextChapterId": "act18d3--activities__act18d3__level_act18d3_09_end",
+    "previousChapterId": "act18d3--activities__act18d3__level_act18d3_08_end"
+  },
+  "subtitle": "SV-9",
+  "summary": "info/activities/act18d3/level_act18d3_09_beg",
+  "title": "笃信者"
+}

@@ -1,0 +1,19 @@
+{
+  "albumId": "act13mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BW-ST5_一次重逢/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BW-ST5_%E4%B8%80%E6%AC%A1%E9%87%8D%E9%80%A2/NBT"
+  },
+  "id": "act13mini--activities__act13mini__level_act13mini_st05",
+  "navigation": {
+    "nextChapterId": "act13mini--activities__act13mini__level_act13mini_st06",
+    "previousChapterId": "act13mini--activities__act13mini__level_act13mini_st04"
+  },
+  "summary": "info/activities/act13mini/level_act13mini_st05",
+  "title": "一次重逢"
+}

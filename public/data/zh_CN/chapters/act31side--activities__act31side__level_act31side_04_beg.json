@@ -1,0 +1,21 @@
+{
+  "albumId": "act31side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "HS-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HS-4_话桑麻/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HS-4_%E8%AF%9D%E6%A1%91%E9%BA%BB/BEG"
+  },
+  "id": "act31side--activities__act31side__level_act31side_04_beg",
+  "navigation": {
+    "nextChapterId": "act31side--activities__act31side__level_act31side_04_end",
+    "previousChapterId": "act31side--activities__act31side__level_act31side_03_end"
+  },
+  "subtitle": "HS-4",
+  "summary": "info/activities/act31side/level_act31side_04_beg",
+  "title": "话桑麻"
+}

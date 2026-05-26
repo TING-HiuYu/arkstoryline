@@ -1,0 +1,298 @@
+{
+  "albumKind": "sidestory",
+  "chapters": [
+    {
+      "albumId": "act45side",
+      "avgTag": "幕间",
+      "code": "SS-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-ST-1_路口的红绿灯/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-ST-1_%E8%B7%AF%E5%8F%A3%E7%9A%84%E7%BA%A2%E7%BB%BF%E7%81%AF/NBT"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_st01",
+      "path": "chapters/act45side--activities__act45side__level_act45side_st01.json",
+      "sort": 1,
+      "title": "路口的红绿灯"
+    },
+    {
+      "albumId": "act45side",
+      "avgTag": "行动前",
+      "code": "SS-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-1_花格窗边的梦想/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-1_%E8%8A%B1%E6%A0%BC%E7%AA%97%E8%BE%B9%E7%9A%84%E6%A2%A6%E6%83%B3/BEG"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_01_beg",
+      "path": "chapters/act45side--activities__act45side__level_act45side_01_beg.json",
+      "sort": 2,
+      "title": "花格窗边的梦想"
+    },
+    {
+      "albumId": "act45side",
+      "avgTag": "行动后",
+      "code": "SS-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-1_花格窗边的梦想/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-1_%E8%8A%B1%E6%A0%BC%E7%AA%97%E8%BE%B9%E7%9A%84%E6%A2%A6%E6%83%B3/END"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_01_end",
+      "path": "chapters/act45side--activities__act45side__level_act45side_01_end.json",
+      "sort": 3,
+      "title": "花格窗边的梦想"
+    },
+    {
+      "albumId": "act45side",
+      "avgTag": "行动前",
+      "code": "SS-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-2_寂静长廊的两端/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-2_%E5%AF%82%E9%9D%99%E9%95%BF%E5%BB%8A%E7%9A%84%E4%B8%A4%E7%AB%AF/BEG"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_02_beg",
+      "path": "chapters/act45side--activities__act45side__level_act45side_02_beg.json",
+      "sort": 4,
+      "title": "寂静长廊的两端"
+    },
+    {
+      "albumId": "act45side",
+      "avgTag": "行动后",
+      "code": "SS-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-2_寂静长廊的两端/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-2_%E5%AF%82%E9%9D%99%E9%95%BF%E5%BB%8A%E7%9A%84%E4%B8%A4%E7%AB%AF/END"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_02_end",
+      "path": "chapters/act45side--activities__act45side__level_act45side_02_end.json",
+      "sort": 5,
+      "title": "寂静长廊的两端"
+    },
+    {
+      "albumId": "act45side",
+      "avgTag": "行动前",
+      "code": "SS-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-3_音乐室内的光芒/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-3_%E9%9F%B3%E4%B9%90%E5%AE%A4%E5%86%85%E7%9A%84%E5%85%89%E8%8A%92/BEG"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_03_beg",
+      "path": "chapters/act45side--activities__act45side__level_act45side_03_beg.json",
+      "sort": 6,
+      "title": "音乐室内的光芒"
+    },
+    {
+      "albumId": "act45side",
+      "avgTag": "行动后",
+      "code": "SS-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-3_音乐室内的光芒/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-3_%E9%9F%B3%E4%B9%90%E5%AE%A4%E5%86%85%E7%9A%84%E5%85%89%E8%8A%92/END"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_03_end",
+      "path": "chapters/act45side--activities__act45side__level_act45side_03_end.json",
+      "sort": 7,
+      "title": "音乐室内的光芒"
+    },
+    {
+      "albumId": "act45side",
+      "avgTag": "行动前",
+      "code": "SS-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-4_名为客房区的迷宫/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-4_%E5%90%8D%E4%B8%BA%E5%AE%A2%E6%88%BF%E5%8C%BA%E7%9A%84%E8%BF%B7%E5%AE%AB/BEG"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_04_beg",
+      "path": "chapters/act45side--activities__act45side__level_act45side_04_beg.json",
+      "sort": 8,
+      "title": "名为客房区的迷宫"
+    },
+    {
+      "albumId": "act45side",
+      "avgTag": "行动后",
+      "code": "SS-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-4_名为客房区的迷宫/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-4_%E5%90%8D%E4%B8%BA%E5%AE%A2%E6%88%BF%E5%8C%BA%E7%9A%84%E8%BF%B7%E5%AE%AB/END"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_04_end",
+      "path": "chapters/act45side--activities__act45side__level_act45side_04_end.json",
+      "sort": 9,
+      "title": "名为客房区的迷宫"
+    },
+    {
+      "albumId": "act45side",
+      "avgTag": "行动前",
+      "code": "SS-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-5_通往舞会的邀请函/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-5_%E9%80%9A%E5%BE%80%E8%88%9E%E4%BC%9A%E7%9A%84%E9%82%80%E8%AF%B7%E5%87%BD/BEG"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_05_beg",
+      "path": "chapters/act45side--activities__act45side__level_act45side_05_beg.json",
+      "sort": 10,
+      "title": "通往舞会的邀请函"
+    },
+    {
+      "albumId": "act45side",
+      "avgTag": "行动后",
+      "code": "SS-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-5_通往舞会的邀请函/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-5_%E9%80%9A%E5%BE%80%E8%88%9E%E4%BC%9A%E7%9A%84%E9%82%80%E8%AF%B7%E5%87%BD/END"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_05_end",
+      "path": "chapters/act45side--activities__act45side__level_act45side_05_end.json",
+      "sort": 11,
+      "title": "通往舞会的邀请函"
+    },
+    {
+      "albumId": "act45side",
+      "avgTag": "行动前",
+      "code": "SS-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-6_回声飘荡的大厅/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-6_%E5%9B%9E%E5%A3%B0%E9%A3%98%E8%8D%A1%E7%9A%84%E5%A4%A7%E5%8E%85/BEG"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_06_beg",
+      "path": "chapters/act45side--activities__act45side__level_act45side_06_beg.json",
+      "sort": 12,
+      "title": "回声飘荡的大厅"
+    },
+    {
+      "albumId": "act45side",
+      "avgTag": "行动后",
+      "code": "SS-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-6_回声飘荡的大厅/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-6_%E5%9B%9E%E5%A3%B0%E9%A3%98%E8%8D%A1%E7%9A%84%E5%A4%A7%E5%8E%85/END"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_06_end",
+      "path": "chapters/act45side--activities__act45side__level_act45side_06_end.json",
+      "sort": 13,
+      "title": "回声飘荡的大厅"
+    },
+    {
+      "albumId": "act45side",
+      "avgTag": "行动前",
+      "code": "SS-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-7_永恒绚烂的藏品/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-7_%E6%B0%B8%E6%81%92%E7%BB%9A%E7%83%82%E7%9A%84%E8%97%8F%E5%93%81/BEG"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_07_beg",
+      "path": "chapters/act45side--activities__act45side__level_act45side_07_beg.json",
+      "sort": 14,
+      "title": "永恒绚烂的藏品"
+    },
+    {
+      "albumId": "act45side",
+      "avgTag": "行动后",
+      "code": "SS-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-7_永恒绚烂的藏品/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-7_%E6%B0%B8%E6%81%92%E7%BB%9A%E7%83%82%E7%9A%84%E8%97%8F%E5%93%81/END"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_07_end",
+      "path": "chapters/act45side--activities__act45side__level_act45side_07_end.json",
+      "sort": 15,
+      "title": "永恒绚烂的藏品"
+    },
+    {
+      "albumId": "act45side",
+      "avgTag": "行动前",
+      "code": "SS-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-8_童话的开场/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-8_%E7%AB%A5%E8%AF%9D%E7%9A%84%E5%BC%80%E5%9C%BA/BEG"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_08_beg",
+      "path": "chapters/act45side--activities__act45side__level_act45side_08_beg.json",
+      "sort": 16,
+      "title": "童话的开场"
+    },
+    {
+      "albumId": "act45side",
+      "avgTag": "行动后",
+      "code": "SS-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SS-8_童话的开场/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SS-8_%E7%AB%A5%E8%AF%9D%E7%9A%84%E5%BC%80%E5%9C%BA/END"
+      },
+      "downloadable": true,
+      "id": "act45side--activities__act45side__level_act45side_08_end",
+      "path": "chapters/act45side--activities__act45side__level_act45side_08_end.json",
+      "sort": 17,
+      "title": "童话的开场"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "primaryImageId": "storyEntryPic_act45side",
+    "source": "review-entry-pic",
+    "storyEntryPicId": "storyEntryPic_act45side",
+    "url": "https://media.prts.wiki/f/f4/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%97%A0%E5%BF%A7%E6%A2%A6%E5%91%93.png"
+  },
+  "extras": [],
+  "homeSection": "sideStory",
+  "id": "act45side",
+  "slug": "act45side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1756958400,
+  "timelineRank": 1756958400,
+  "title": "无忧梦呓"
+}

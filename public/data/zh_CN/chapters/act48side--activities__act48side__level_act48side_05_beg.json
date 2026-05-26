@@ -1,0 +1,21 @@
+{
+  "albumId": "act48side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "ME-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ME-5_汇流/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ME-5_%E6%B1%87%E6%B5%81/BEG"
+  },
+  "id": "act48side--activities__act48side__level_act48side_05_beg",
+  "navigation": {
+    "nextChapterId": "act48side--activities__act48side__level_act48side_05_end",
+    "previousChapterId": "act48side--activities__act48side__level_act48side_st02"
+  },
+  "subtitle": "ME-5",
+  "summary": "info/activities/act48side/level_act48side_05_beg",
+  "title": "汇流"
+}

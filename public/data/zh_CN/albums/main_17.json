@@ -1,0 +1,420 @@
+{
+  "albumKind": "mainline",
+  "chapters": [
+    {
+      "albumId": "main_17",
+      "avgTag": "幕间",
+      "code": "17-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-1_大地的呼吸/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-1_%E5%A4%A7%E5%9C%B0%E7%9A%84%E5%91%BC%E5%90%B8/NBT"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_st_17-01",
+      "path": "chapters/main_17--obt__main__level_st_17-01.json",
+      "sort": 261,
+      "title": "大地的呼吸"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动前",
+      "code": "17-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-2_救赎迟来/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-2_%E6%95%91%E8%B5%8E%E8%BF%9F%E6%9D%A5/BEG"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-01_beg",
+      "path": "chapters/main_17--obt__main__level_main_17-01_beg.json",
+      "sort": 262,
+      "title": "救赎迟来"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动后",
+      "code": "TR-28",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TR-28_无权责问/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TR-28_%E6%97%A0%E6%9D%83%E8%B4%A3%E9%97%AE/END"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_tr28_end",
+      "path": "chapters/main_17--obt__main__level_main_tr28_end.json",
+      "sort": 263,
+      "title": "无权责问"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动前",
+      "code": "17-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-3_良心之刺/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-3_%E8%89%AF%E5%BF%83%E4%B9%8B%E5%88%BA/BEG"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-02_beg",
+      "path": "chapters/main_17--obt__main__level_main_17-02_beg.json",
+      "sort": 264,
+      "title": "良心之刺"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动后",
+      "code": "17-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-4_沉默众生/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-4_%E6%B2%89%E9%BB%98%E4%BC%97%E7%94%9F/END"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-03_end",
+      "path": "chapters/main_17--obt__main__level_main_17-03_end.json",
+      "sort": 265,
+      "title": "沉默众生"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动前",
+      "code": "17-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-5_不过空壳/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-5_%E4%B8%8D%E8%BF%87%E7%A9%BA%E5%A3%B3/BEG"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-04_beg",
+      "path": "chapters/main_17--obt__main__level_main_17-04_beg.json",
+      "sort": 266,
+      "title": "不过空壳"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动后",
+      "code": "17-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-6_风波暗涌/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-6_%E9%A3%8E%E6%B3%A2%E6%9A%97%E6%B6%8C/END"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-05_end",
+      "path": "chapters/main_17--obt__main__level_main_17-05_end.json",
+      "sort": 267,
+      "title": "风波暗涌"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动前",
+      "code": "17-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-7_理性失衡/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-7_%E7%90%86%E6%80%A7%E5%A4%B1%E8%A1%A1/BEG"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-06_beg",
+      "path": "chapters/main_17--obt__main__level_main_17-06_beg.json",
+      "sort": 268,
+      "title": "理性失衡"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动后",
+      "code": "17-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-8_历史洪流/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-8_%E5%8E%86%E5%8F%B2%E6%B4%AA%E6%B5%81/END"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-07_end",
+      "path": "chapters/main_17--obt__main__level_main_17-07_end.json",
+      "sort": 269,
+      "title": "历史洪流"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动前",
+      "code": "17-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-9_永不祈祷/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-9_%E6%B0%B8%E4%B8%8D%E7%A5%88%E7%A5%B7/BEG"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-08_beg",
+      "path": "chapters/main_17--obt__main__level_main_17-08_beg.json",
+      "sort": 270,
+      "title": "永不祈祷"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动后",
+      "code": "17-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-10_爱的尺度/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-10_%E7%88%B1%E7%9A%84%E5%B0%BA%E5%BA%A6/END"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-09_end",
+      "path": "chapters/main_17--obt__main__level_main_17-09_end.json",
+      "sort": 271,
+      "title": "爱的尺度"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动前",
+      "code": "17-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-11_孤寂生地/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-11_%E5%AD%A4%E5%AF%82%E7%94%9F%E5%9C%B0/BEG"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-10_beg",
+      "path": "chapters/main_17--obt__main__level_main_17-10_beg.json",
+      "sort": 272,
+      "title": "孤寂生地"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动后",
+      "code": "17-12",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-12_初次握手/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-12_%E5%88%9D%E6%AC%A1%E6%8F%A1%E6%89%8B/END"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-11_end",
+      "path": "chapters/main_17--obt__main__level_main_17-11_end.json",
+      "sort": 273,
+      "title": "初次握手"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动前",
+      "code": "17-13",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-13_并非独行/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-13_%E5%B9%B6%E9%9D%9E%E7%8B%AC%E8%A1%8C/BEG"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-12_beg",
+      "path": "chapters/main_17--obt__main__level_main_17-12_beg.json",
+      "sort": 274,
+      "title": "并非独行"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动前",
+      "code": "17-14",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-14_难如雪覆/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-14_%E9%9A%BE%E5%A6%82%E9%9B%AA%E8%A6%86/BEG"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-13_beg",
+      "path": "chapters/main_17--obt__main__level_main_17-13_beg.json",
+      "sort": 275,
+      "title": "难如雪覆"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动前",
+      "code": "17-15",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-15_人的价值/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-15_%E4%BA%BA%E7%9A%84%E4%BB%B7%E5%80%BC/BEG"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-14_beg",
+      "path": "chapters/main_17--obt__main__level_main_17-14_beg.json",
+      "sort": 276,
+      "title": "人的价值"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动前",
+      "code": "17-16",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-16_唯有向前/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-16_%E5%94%AF%E6%9C%89%E5%90%91%E5%89%8D/BEG"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-15_beg",
+      "path": "chapters/main_17--obt__main__level_main_17-15_beg.json",
+      "sort": 277,
+      "title": "唯有向前"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动后",
+      "code": "17-17",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-17_不曾怀疑/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-17_%E4%B8%8D%E6%9B%BE%E6%80%80%E7%96%91/END"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-16_end",
+      "path": "chapters/main_17--obt__main__level_main_17-16_end.json",
+      "sort": 278,
+      "title": "不曾怀疑"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动前",
+      "code": "17-18",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-18_灵魂悄然/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-18_%E7%81%B5%E9%AD%82%E6%82%84%E7%84%B6/BEG"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-17_beg",
+      "path": "chapters/main_17--obt__main__level_main_17-17_beg.json",
+      "sort": 279,
+      "title": "灵魂悄然"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "行动后",
+      "code": "17-18",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-18_灵魂悄然/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-18_%E7%81%B5%E9%AD%82%E6%82%84%E7%84%B6/END"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_main_17-17_end",
+      "path": "chapters/main_17--obt__main__level_main_17-17_end.json",
+      "sort": 280,
+      "title": "灵魂悄然"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "幕间",
+      "code": "17-19",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-19_面向旷野呼号/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-19_%E9%9D%A2%E5%90%91%E6%97%B7%E9%87%8E%E5%91%BC%E5%8F%B7/NBT"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_st_17-02",
+      "path": "chapters/main_17--obt__main__level_st_17-02.json",
+      "sort": 281,
+      "title": "面向旷野呼号"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "幕间",
+      "code": "17-20",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-20_罪与罚的先声/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-20_%E7%BD%AA%E4%B8%8E%E7%BD%9A%E7%9A%84%E5%85%88%E5%A3%B0/NBT"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_st_17-03",
+      "path": "chapters/main_17--obt__main__level_st_17-03.json",
+      "sort": 282,
+      "title": "罪与罚的先声"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "幕间",
+      "code": "17-21",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "17-21_在暗夜中燃烧/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/17-21_%E5%9C%A8%E6%9A%97%E5%A4%9C%E4%B8%AD%E7%87%83%E7%83%A7/NBT"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_st_17-04",
+      "path": "chapters/main_17--obt__main__level_st_17-04.json",
+      "sort": 283,
+      "title": "在暗夜中燃烧"
+    },
+    {
+      "albumId": "main_17",
+      "avgTag": "幕间",
+      "code": "EG-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EG-11_时间之后/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EG-11_%E6%97%B6%E9%97%B4%E4%B9%8B%E5%90%8E/NBT"
+      },
+      "downloadable": true,
+      "id": "main_17--obt__main__level_spst_17-01",
+      "path": "chapters/main_17--obt__main__level_spst_17-01.json",
+      "sort": 284,
+      "title": "时间之后"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_one_day_more",
+    "primaryImageId": "kv_one_day_more",
+    "source": "stage-kv",
+    "titleImageId": "title_one_day_more",
+    "url": "https://media.prts.wiki/9/9f/%E7%AB%A0%E8%8A%82%E5%90%8D%E7%A7%B0_%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 8001,
+  "homeSection": "mainline",
+  "id": "main_17",
+  "music": {
+    "arcTitle": "Ⅲ 裂变",
+    "movementTitle": "Ⅲ 裂变",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "main-17",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": -1,
+  "summary": "当往日的造物化作毁灭的种子，\n当人们在危机四伏的阴影中酣眠，\n让沾有干涸水泥的十指，掘出迎风的道路。\n城市不再是城市，永恒不再是永恒。\n我们用苍白的细线编织了新生。",
+  "timelineRank": -1,
+  "title": "相变临界"
+}

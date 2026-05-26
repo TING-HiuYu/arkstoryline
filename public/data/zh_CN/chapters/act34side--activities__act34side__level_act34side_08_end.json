@@ -1,0 +1,21 @@
+{
+  "albumId": "act34side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "BP-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BP-8_“何谓存续？”/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BP-8_%E2%80%9C%E4%BD%95%E8%B0%93%E5%AD%98%E7%BB%AD%EF%BC%9F%E2%80%9D/END"
+  },
+  "id": "act34side--activities__act34side__level_act34side_08_end",
+  "navigation": {
+    "nextChapterId": "act34side--activities__act34side__level_act34side_st03",
+    "previousChapterId": "act34side--activities__act34side__level_act34side_08_beg"
+  },
+  "subtitle": "BP-8",
+  "summary": "info/activities/act34side/level_act34side_08_end",
+  "title": "“何谓存续？”"
+}

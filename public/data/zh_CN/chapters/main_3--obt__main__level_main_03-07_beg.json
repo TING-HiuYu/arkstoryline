@@ -1,0 +1,21 @@
+{
+  "albumId": "main_3",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "3-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "3-7_轰鸣/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/3-7_%E8%BD%B0%E9%B8%A3/BEG"
+  },
+  "id": "main_3--obt__main__level_main_03-07_beg",
+  "navigation": {
+    "nextChapterId": "main_3--obt__main__level_main_03-07_end",
+    "previousChapterId": "main_3--obt__main__level_main_03-06_end"
+  },
+  "subtitle": "3-7",
+  "summary": "info/obt/main/level_main_03-07_beg",
+  "title": "轰鸣"
+}

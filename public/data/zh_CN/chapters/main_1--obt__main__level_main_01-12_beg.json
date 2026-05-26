@@ -1,0 +1,21 @@
+{
+  "albumId": "main_1",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "1-12",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "1-12_代价/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/1-12_%E4%BB%A3%E4%BB%B7/BEG"
+  },
+  "id": "main_1--obt__main__level_main_01-12_beg",
+  "navigation": {
+    "nextChapterId": "main_1--obt__main__level_main_01-12_end",
+    "previousChapterId": "main_1--obt__main__level_main_01-10_end"
+  },
+  "subtitle": "1-12",
+  "summary": "info/obt/main/level_main_01-12_beg",
+  "title": "代价"
+}

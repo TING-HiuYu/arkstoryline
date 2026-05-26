@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "13-16",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "13-16_“我们”/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-16_%E2%80%9C%E6%88%91%E4%BB%AC%E2%80%9D/END"
+  },
+  "id": "main_13--obt__main__level_main_13-14_end",
+  "navigation": {
+    "nextChapterId": "main_13--obt__main__level_main_13-15_beg",
+    "previousChapterId": "main_13--obt__main__level_main_13-14_beg"
+  },
+  "subtitle": "13-16",
+  "summary": "info/obt/main/level_main_13-14_end",
+  "title": "“我们”"
+}

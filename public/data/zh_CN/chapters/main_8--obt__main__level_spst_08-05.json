@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "EG-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EG-5_燃烧的片段5/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EG-5_%E7%87%83%E7%83%A7%E7%9A%84%E7%89%87%E6%AE%B55/NBT"
+  },
+  "id": "main_8--obt__main__level_spst_08-05",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "main_8--obt__main__level_spst_08-04"
+  },
+  "subtitle": "EG-5",
+  "summary": "info/obt/main/level_spst_08-05",
+  "title": "燃烧的片段5"
+}

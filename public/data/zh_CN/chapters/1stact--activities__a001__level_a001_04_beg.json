@@ -1,0 +1,21 @@
+{
+  "albumId": "1stact",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "GT-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GT-4_污点证人/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GT-4_%E6%B1%A1%E7%82%B9%E8%AF%81%E4%BA%BA/BEG"
+  },
+  "id": "1stact--activities__a001__level_a001_04_beg",
+  "navigation": {
+    "nextChapterId": "1stact--activities__a001__level_a001_04_end",
+    "previousChapterId": "1stact--activities__a001__level_a001_03_end"
+  },
+  "subtitle": "GT-4",
+  "summary": "info/activities/a001/level_a001_04_beg",
+  "title": "污点证人"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act19side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "DV-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DV-1_特里蒙街道/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DV-1_%E7%89%B9%E9%87%8C%E8%92%99%E8%A1%97%E9%81%93/BEG"
+  },
+  "id": "act19side--activities__act19side__level_act19side_01_beg",
+  "navigation": {
+    "nextChapterId": "act19side--activities__act19side__level_act19side_01_end",
+    "previousChapterId": "act19side--activities__act19side__level_act19side_st01"
+  },
+  "subtitle": "DV-1",
+  "summary": "info/activities/act19side/level_act19side_01_beg",
+  "title": "特里蒙街道"
+}

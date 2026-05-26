@@ -1,0 +1,69 @@
+{
+  "albumKind": "otherStory",
+  "chapters": [
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RA-END-1/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RA-END-1/NBT"
+      },
+      "id": "other-story-沙中之火-99519d0bf1--ra-end-1-nbt",
+      "sort": 1,
+      "title": "结局1"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RA-END-2/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RA-END-2/NBT"
+      },
+      "id": "other-story-沙中之火-99519d0bf1--ra-end-2-nbt",
+      "sort": 2,
+      "title": "结局2"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RA-END-3/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RA-END-3/NBT"
+      },
+      "id": "other-story-沙中之火-99519d0bf1--ra-end-3-nbt",
+      "sort": 3,
+      "title": "结局3"
+    },
+    {
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RA/ENTRY",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RA/ENTRY"
+      },
+      "id": "other-story-沙中之火-99519d0bf1--ra-entry",
+      "sort": 4,
+      "title": "沙中之火"
+    }
+  ],
+  "gameOrderRank": 900000013,
+  "homeSection": "otherStory",
+  "id": "other-story-沙中之火-99519d0bf1",
+  "otherStory": {
+    "albumTitle": "沙中之火",
+    "groupTitle": "生息演算",
+    "sourceSection": "other"
+  },
+  "slug": "other-story-沙中之火-99519d0bf1",
+  "source": {
+    "path": "storyline.index.sections.other",
+    "providerId": "prts",
+    "revision": "2026-05-26T20:55:23.000119+00:00"
+  },
+  "sourceEntryType": "ARCHIVE_EXTRA",
+  "timelineRank": 900000013,
+  "title": "沙中之火"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act39side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "EP-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EP-ST-3_别了，大地/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EP-ST-3_%E5%88%AB%E4%BA%86%EF%BC%8C%E5%A4%A7%E5%9C%B0/NBT"
+  },
+  "id": "act39side--activities__act39side__level_act39side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act39side--activities__act39side__level_act39side_08_end"
+  },
+  "subtitle": "EP-ST-3",
+  "summary": "info/activities/act39side/level_act39side_st03",
+  "title": "别了，大地"
+}

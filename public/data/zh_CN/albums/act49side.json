@@ -1,0 +1,427 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act49side",
+      "avgTag": "幕间",
+      "code": "TA-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-ST-1_蒙不失诵/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-ST-1_%E8%92%99%E4%B8%8D%E5%A4%B1%E8%AF%B5/NBT"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_st01",
+      "path": "chapters/act49side--activities__act49side__level_act49side_st01.json",
+      "sort": 1,
+      "title": "蒙不失诵"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动前",
+      "code": "TA-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-1_激石波/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-1_%E6%BF%80%E7%9F%B3%E6%B3%A2/BEG"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_01_beg",
+      "path": "chapters/act49side--activities__act49side__level_act49side_01_beg.json",
+      "sort": 2,
+      "title": "激石波"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动后",
+      "code": "TA-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-1_激石波/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-1_%E6%BF%80%E7%9F%B3%E6%B3%A2/END"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_01_end",
+      "path": "chapters/act49side--activities__act49side__level_act49side_01_end.json",
+      "sort": 3,
+      "title": "激石波"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动前",
+      "code": "TA-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-2_大头鬼/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-2_%E5%A4%A7%E5%A4%B4%E9%AC%BC/BEG"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_02_beg",
+      "path": "chapters/act49side--activities__act49side__level_act49side_02_beg.json",
+      "sort": 4,
+      "title": "大头鬼"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动后",
+      "code": "TA-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-2_大头鬼/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-2_%E5%A4%A7%E5%A4%B4%E9%AC%BC/END"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_02_end",
+      "path": "chapters/act49side--activities__act49side__level_act49side_02_end.json",
+      "sort": 5,
+      "title": "大头鬼"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动前",
+      "code": "TA-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-3_聚墨痕/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-3_%E8%81%9A%E5%A2%A8%E7%97%95/BEG"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_03_beg",
+      "path": "chapters/act49side--activities__act49side__level_act49side_03_beg.json",
+      "sort": 6,
+      "title": "聚墨痕"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动后",
+      "code": "TA-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-3_聚墨痕/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-3_%E8%81%9A%E5%A2%A8%E7%97%95/END"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_03_end",
+      "path": "chapters/act49side--activities__act49side__level_act49side_03_end.json",
+      "sort": 7,
+      "title": "聚墨痕"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动前",
+      "code": "TA-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-4_小雪崩/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-4_%E5%B0%8F%E9%9B%AA%E5%B4%A9/BEG"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_04_beg",
+      "path": "chapters/act49side--activities__act49side__level_act49side_04_beg.json",
+      "sort": 8,
+      "title": "小雪崩"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动后",
+      "code": "TA-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-4_小雪崩/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-4_%E5%B0%8F%E9%9B%AA%E5%B4%A9/END"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_04_end",
+      "path": "chapters/act49side--activities__act49side__level_act49side_04_end.json",
+      "sort": 9,
+      "title": "小雪崩"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动前",
+      "code": "TA-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-5_双飞燕/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-5_%E5%8F%8C%E9%A3%9E%E7%87%95/BEG"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_05_beg",
+      "path": "chapters/act49side--activities__act49side__level_act49side_05_beg.json",
+      "sort": 10,
+      "title": "双飞燕"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动后",
+      "code": "TA-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-5_双飞燕/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-5_%E5%8F%8C%E9%A3%9E%E7%87%95/END"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_05_end",
+      "path": "chapters/act49side--activities__act49side__level_act49side_05_end.json",
+      "sort": 11,
+      "title": "双飞燕"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动前",
+      "code": "TA-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-6_裹锋/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-6_%E8%A3%B9%E9%94%8B/BEG"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_06_beg",
+      "path": "chapters/act49side--activities__act49side__level_act49side_06_beg.json",
+      "sort": 12,
+      "title": "裹锋"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动后",
+      "code": "TA-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-6_裹锋/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-6_%E8%A3%B9%E9%94%8B/END"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_06_end",
+      "path": "chapters/act49side--activities__act49side__level_act49side_06_end.json",
+      "sort": 13,
+      "title": "裹锋"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动前",
+      "code": "TA-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-7_相思断/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-7_%E7%9B%B8%E6%80%9D%E6%96%AD/BEG"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_07_beg",
+      "path": "chapters/act49side--activities__act49side__level_act49side_07_beg.json",
+      "sort": 14,
+      "title": "相思断"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动后",
+      "code": "TA-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-7_相思断/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-7_%E7%9B%B8%E6%80%9D%E6%96%AD/END"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_07_end",
+      "path": "chapters/act49side--activities__act49side__level_act49side_07_end.json",
+      "sort": 15,
+      "title": "相思断"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动前",
+      "code": "TA-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-8_金错刀/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-8_%E9%87%91%E9%94%99%E5%88%80/BEG"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_08_beg",
+      "path": "chapters/act49side--activities__act49side__level_act49side_08_beg.json",
+      "sort": 16,
+      "title": "金错刀"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动后",
+      "code": "TA-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-8_金错刀/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-8_%E9%87%91%E9%94%99%E5%88%80/END"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_08_end",
+      "path": "chapters/act49side--activities__act49side__level_act49side_08_end.json",
+      "sort": 17,
+      "title": "金错刀"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动前",
+      "code": "TA-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-9_气合/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-9_%E6%B0%94%E5%90%88/BEG"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_09_beg",
+      "path": "chapters/act49side--activities__act49side__level_act49side_09_beg.json",
+      "sort": 18,
+      "title": "气合"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动后",
+      "code": "TA-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-9_气合/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-9_%E6%B0%94%E5%90%88/END"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_09_end",
+      "path": "chapters/act49side--activities__act49side__level_act49side_09_end.json",
+      "sort": 19,
+      "title": "气合"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动前",
+      "code": "TA-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-10_镇神头/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-10_%E9%95%87%E7%A5%9E%E5%A4%B4/BEG"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_10_beg",
+      "path": "chapters/act49side--activities__act49side__level_act49side_10_beg.json",
+      "sort": 20,
+      "title": "镇神头"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动后",
+      "code": "TA-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-10_镇神头/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-10_%E9%95%87%E7%A5%9E%E5%A4%B4/END"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_10_end",
+      "path": "chapters/act49side--activities__act49side__level_act49side_10_end.json",
+      "sort": 21,
+      "title": "镇神头"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动前",
+      "code": "TA-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-11_长生劫/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-11_%E9%95%BF%E7%94%9F%E5%8A%AB/BEG"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_11_beg",
+      "path": "chapters/act49side--activities__act49side__level_act49side_11_beg.json",
+      "sort": 22,
+      "title": "长生劫"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "行动后",
+      "code": "TA-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-11_长生劫/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-11_%E9%95%BF%E7%94%9F%E5%8A%AB/END"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_11_end",
+      "path": "chapters/act49side--activities__act49side__level_act49side_11_end.json",
+      "sort": 23,
+      "title": "长生劫"
+    },
+    {
+      "albumId": "act49side",
+      "avgTag": "幕间",
+      "code": "TA-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TA-ST-2_史不失书/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TA-ST-2_%E5%8F%B2%E4%B8%8D%E5%A4%B1%E4%B9%A6/NBT"
+      },
+      "downloadable": true,
+      "id": "act49side--activities__act49side__level_act49side_st02",
+      "path": "chapters/act49side--activities__act49side__level_act49side_st02.json",
+      "sort": 24,
+      "title": "史不失书"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_first_of_a_thousand_autumns",
+    "primaryImageId": "kv_first_of_a_thousand_autumns",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act49side",
+    "titleImageId": "title_first_of_a_thousand_autumns",
+    "url": "https://media.prts.wiki/d/d5/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E8%BE%9E%E5%B2%81%E8%A1%8C.png"
+  },
+  "extras": [],
+  "gameOrderRank": 7008,
+  "homeSection": "sideStory",
+  "id": "act49side",
+  "music": {
+    "arcTitle": "岁岁今朝",
+    "movementTitle": "岁岁今朝",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_11",
+      "tag_12",
+      "tag_13",
+      "tag_14",
+      "tag_15"
+    ]
+  },
+  "slug": "act49side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1770678000,
+  "summary": "一柄尘封的书刀，惊起天镜阁内外的剑戟。\n一缕自遗忘中摘回的生机，唤醒了凝滞百年的烟云。\n千载春秋，未分晦朔。庙堂争执，只为拼凑一个解法。\n而那位以身铸子的棋手，即将给出他的回答。\n自恃演化的“梦想者”啊，何不踏入棋枰？\n我是谁？汝是我，汝非我，争知我？\n凭栏处，望乾坤重整，天地重秋。",
+  "timelineRank": 1770678000,
+  "title": "辞岁行"
+}

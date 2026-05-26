@@ -1,0 +1,21 @@
+{
+  "albumId": "main_10",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "10-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "10-6_虽非同族/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-6_%E8%99%BD%E9%9D%9E%E5%90%8C%E6%97%8F/END"
+  },
+  "id": "main_10--obt__main__level_main_10-05_end",
+  "navigation": {
+    "nextChapterId": "main_10--obt__main__level_main_10-06_beg",
+    "previousChapterId": "main_10--obt__main__level_main_10-05_beg"
+  },
+  "subtitle": "10-6",
+  "summary": "info/obt/main/level_main_10-05_end",
+  "title": "虽非同族"
+}

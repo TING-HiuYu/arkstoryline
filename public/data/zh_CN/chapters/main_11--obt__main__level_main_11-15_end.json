@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "11-17",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-17_回答我/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-17_%E5%9B%9E%E7%AD%94%E6%88%91/END"
+  },
+  "id": "main_11--obt__main__level_main_11-15_end",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_main_11-17_beg",
+    "previousChapterId": "main_11--obt__main__level_main_11-15_beg"
+  },
+  "subtitle": "11-17",
+  "summary": "info/obt/main/level_main_11-15_end",
+  "title": "回答我"
+}

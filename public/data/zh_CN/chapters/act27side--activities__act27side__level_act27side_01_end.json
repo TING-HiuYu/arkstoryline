@@ -1,0 +1,21 @@
+{
+  "albumId": "act27side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SL-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SL-1_你的耳朵长不长？/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SL-1_%E4%BD%A0%E7%9A%84%E8%80%B3%E6%9C%B5%E9%95%BF%E4%B8%8D%E9%95%BF%EF%BC%9F/END"
+  },
+  "id": "act27side--activities__act27side__level_act27side_01_end",
+  "navigation": {
+    "nextChapterId": "act27side--activities__act27side__level_act27side_02_beg",
+    "previousChapterId": "act27side--activities__act27side__level_act27side_01_beg"
+  },
+  "subtitle": "SL-1",
+  "summary": "info/activities/act27side/level_act27side_01_end",
+  "title": "你的耳朵长不长？"
+}

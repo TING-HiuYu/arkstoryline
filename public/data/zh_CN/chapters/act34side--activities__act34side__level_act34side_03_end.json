@@ -1,0 +1,21 @@
+{
+  "albumId": "act34side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "BP-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BP-3_如海雪纷散/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BP-3_%E5%A6%82%E6%B5%B7%E9%9B%AA%E7%BA%B7%E6%95%A3/END"
+  },
+  "id": "act34side--activities__act34side__level_act34side_03_end",
+  "navigation": {
+    "nextChapterId": "act34side--activities__act34side__level_act34side_04_beg",
+    "previousChapterId": "act34side--activities__act34side__level_act34side_03_beg"
+  },
+  "subtitle": "BP-3",
+  "summary": "info/activities/act34side/level_act34side_03_end",
+  "title": "如海雪纷散"
+}

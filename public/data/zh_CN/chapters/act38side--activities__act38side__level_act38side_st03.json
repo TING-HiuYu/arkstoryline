@@ -1,0 +1,21 @@
+{
+  "albumId": "act38side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "PV-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PV-ST-3_《狂欢节章程》/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-ST-3_%E3%80%8A%E7%8B%82%E6%AC%A2%E8%8A%82%E7%AB%A0%E7%A8%8B%E3%80%8B/NBT"
+  },
+  "id": "act38side--activities__act38side__level_act38side_st03",
+  "navigation": {
+    "nextChapterId": "act38side--activities__act38side__level_act38side_09_beg",
+    "previousChapterId": "act38side--activities__act38side__level_act38side_08_end"
+  },
+  "subtitle": "PV-ST-3",
+  "summary": "info/activities/act38side/level_act38side_st03",
+  "title": "《狂欢节章程》"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act15side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "IW-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IW-2_无寻处/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-2_%E6%97%A0%E5%AF%BB%E5%A4%84/BEG"
+  },
+  "id": "act15side--activities__act15side__level_act15side_02_beg",
+  "navigation": {
+    "nextChapterId": "act15side--activities__act15side__level_act15side_02_end",
+    "previousChapterId": "act15side--activities__act15side__level_act15side_01_end"
+  },
+  "subtitle": "IW-2",
+  "summary": "info/activities/act15side/level_act15side_02_beg",
+  "title": "无寻处"
+}

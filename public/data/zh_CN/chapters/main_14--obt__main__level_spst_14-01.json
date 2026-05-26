@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "EG-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EG-6_慈悲遗愿/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EG-6_%E6%85%88%E6%82%B2%E9%81%97%E6%84%BF/NBT"
+  },
+  "id": "main_14--obt__main__level_spst_14-01",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "main_14--obt__main__level_st_14-03"
+  },
+  "subtitle": "EG-6",
+  "summary": "info/obt/main/level_spst_14-01",
+  "title": "慈悲遗愿"
+}

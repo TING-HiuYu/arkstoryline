@@ -1,0 +1,21 @@
+{
+  "albumId": "act14side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "BI-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BI-8_将军/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BI-8_%E5%B0%86%E5%86%9B/END"
+  },
+  "id": "act14side--activities__act14side__level_act14side_08_end",
+  "navigation": {
+    "nextChapterId": "act14side--activities__act14side__level_act14side_st04",
+    "previousChapterId": "act14side--activities__act14side__level_act14side_08_beg"
+  },
+  "subtitle": "BI-8",
+  "summary": "info/activities/act14side/level_act14side_08_end",
+  "title": "将军"
+}

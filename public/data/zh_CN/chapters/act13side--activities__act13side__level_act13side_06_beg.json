@@ -1,0 +1,21 @@
+{
+  "albumId": "act13side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "NL-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "NL-6_被包围者/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/NL-6_%E8%A2%AB%E5%8C%85%E5%9B%B4%E8%80%85/BEG"
+  },
+  "id": "act13side--activities__act13side__level_act13side_06_beg",
+  "navigation": {
+    "nextChapterId": "act13side--activities__act13side__level_act13side_06_end",
+    "previousChapterId": "act13side--activities__act13side__level_act13side_05_end"
+  },
+  "subtitle": "NL-6",
+  "summary": "info/activities/act13side/level_act13side_06_beg",
+  "title": "被包围者"
+}

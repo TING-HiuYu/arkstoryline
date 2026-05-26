@@ -1,0 +1,21 @@
+{
+  "albumId": "act48side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "ME-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ME-7_奔袭/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ME-7_%E5%A5%94%E8%A2%AD/BEG"
+  },
+  "id": "act48side--activities__act48side__level_act48side_07_beg",
+  "navigation": {
+    "nextChapterId": "act48side--activities__act48side__level_act48side_07_end",
+    "previousChapterId": "act48side--activities__act48side__level_act48side_06_end"
+  },
+  "subtitle": "ME-7",
+  "summary": "info/activities/act48side/level_act48side_07_beg",
+  "title": "奔袭"
+}

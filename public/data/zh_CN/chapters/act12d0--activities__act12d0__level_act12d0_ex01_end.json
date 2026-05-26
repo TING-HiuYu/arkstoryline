@@ -1,0 +1,21 @@
+{
+  "albumId": "act12d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RI-EX-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RI-EX-1_声东击西/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RI-EX-1_%E5%A3%B0%E4%B8%9C%E5%87%BB%E8%A5%BF/END"
+  },
+  "id": "act12d0--activities__act12d0__level_act12d0_ex01_end",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act12d0--activities__act12d0__level_act12d0_09_end"
+  },
+  "subtitle": "RI-EX-1",
+  "summary": "info/activities/act12d0/level_act12d0_ex01_end",
+  "title": "声东击西"
+}

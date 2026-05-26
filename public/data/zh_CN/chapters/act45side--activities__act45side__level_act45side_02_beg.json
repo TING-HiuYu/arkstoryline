@@ -1,0 +1,21 @@
+{
+  "albumId": "act45side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "SS-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SS-2_寂静长廊的两端/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SS-2_%E5%AF%82%E9%9D%99%E9%95%BF%E5%BB%8A%E7%9A%84%E4%B8%A4%E7%AB%AF/BEG"
+  },
+  "id": "act45side--activities__act45side__level_act45side_02_beg",
+  "navigation": {
+    "nextChapterId": "act45side--activities__act45side__level_act45side_02_end",
+    "previousChapterId": "act45side--activities__act45side__level_act45side_01_end"
+  },
+  "subtitle": "SS-2",
+  "summary": "info/activities/act45side/level_act45side_02_beg",
+  "title": "寂静长廊的两端"
+}

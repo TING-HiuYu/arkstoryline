@@ -1,0 +1,21 @@
+{
+  "albumId": "main_15",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "15-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "15-5_喧哗争端/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-5_%E5%96%A7%E5%93%97%E4%BA%89%E7%AB%AF/BEG"
+  },
+  "id": "main_15--obt__main__level_main_15-04_beg",
+  "navigation": {
+    "nextChapterId": "main_15--obt__main__level_main_15-05_end",
+    "previousChapterId": "main_15--obt__main__level_main_15-03_end"
+  },
+  "subtitle": "15-5",
+  "summary": "info/obt/main/level_main_15-04_beg",
+  "title": "喧哗争端"
+}

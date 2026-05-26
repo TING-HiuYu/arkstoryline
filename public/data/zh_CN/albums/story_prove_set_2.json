@@ -1,0 +1,33 @@
+{
+  "id": "story_prove_set_2",
+  "slug": "story-prove-set-2",
+  "title": "崎路前行",
+  "sourceEntryType": "UNKNOWN",
+  "albumKind": "operatorRecord",
+  "homeSection": "operatorRecord",
+  "timelineRank": 0,
+  "cover": {
+    "url": "https://media.prts.wiki/3/33/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E5%B4%8E%E8%B7%AF%E5%89%8D%E8%A1%8C.png",
+    "source": "none",
+    "assetStatus": "missing",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 0,
+  "chapters": [
+    {
+      "id": "story_prove_set_2--obt__memory__story_prove_2_1",
+      "albumId": "story_prove_set_2",
+      "title": "崎路前行",
+      "avgTag": "幕间",
+      "sort": 0,
+      "path": "chapters/story_prove_set_2--obt__memory__story_prove_2_1.json",
+      "downloadable": true
+    }
+  ],
+  "source": {
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
+  },
+  "extras": []
+}

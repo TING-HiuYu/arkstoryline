@@ -1,0 +1,21 @@
+{
+  "albumId": "act15side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "IW-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IW-6_传说/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-6_%E4%BC%A0%E8%AF%B4/BEG"
+  },
+  "id": "act15side--activities__act15side__level_act15side_06_beg",
+  "navigation": {
+    "nextChapterId": "act15side--activities__act15side__level_act15side_06_end",
+    "previousChapterId": "act15side--activities__act15side__level_act15side_05_end"
+  },
+  "subtitle": "IW-6",
+  "summary": "info/activities/act15side/level_act15side_06_beg",
+  "title": "传说"
+}

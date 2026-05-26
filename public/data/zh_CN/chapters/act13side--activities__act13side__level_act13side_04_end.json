@@ -1,0 +1,21 @@
+{
+  "albumId": "act13side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "NL-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "NL-4_诗的容貌/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/NL-4_%E8%AF%97%E7%9A%84%E5%AE%B9%E8%B2%8C/END"
+  },
+  "id": "act13side--activities__act13side__level_act13side_04_end",
+  "navigation": {
+    "nextChapterId": "act13side--activities__act13side__level_act13side_st02",
+    "previousChapterId": "act13side--activities__act13side__level_act13side_04_beg"
+  },
+  "subtitle": "NL-4",
+  "summary": "info/activities/act13side/level_act13side_04_end",
+  "title": "诗的容貌"
+}

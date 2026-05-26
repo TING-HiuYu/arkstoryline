@@ -1,0 +1,21 @@
+{
+  "albumId": "act9d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "DM-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DM-1_埋藏/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DM-1_%E5%9F%8B%E8%97%8F/BEG"
+  },
+  "id": "act9d0--activities__act9d0__level_act9d0_01_beg",
+  "navigation": {
+    "nextChapterId": "act9d0--activities__act9d0__level_act9d0_01_end",
+    "previousChapterId": null
+  },
+  "subtitle": "DM-1",
+  "summary": "info/activities/act9d0/level_act9d0_01_beg",
+  "title": "埋藏"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d3",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "SV-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SV-4_海洋/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-4_%E6%B5%B7%E6%B4%8B/BEG"
+  },
+  "id": "act18d3--activities__act18d3__level_act18d3_04_beg",
+  "navigation": {
+    "nextChapterId": "act18d3--activities__act18d3__level_act18d3_05_end",
+    "previousChapterId": "act18d3--activities__act18d3__level_act18d3_03_end"
+  },
+  "subtitle": "SV-4",
+  "summary": "info/activities/act18d3/level_act18d3_04_beg",
+  "title": "海洋"
+}

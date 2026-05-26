@@ -1,0 +1,21 @@
+{
+  "albumId": "act29side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "ZT-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ZT-10_弥撒“君王”/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ZT-10_%E5%BC%A5%E6%92%92%E2%80%9C%E5%90%9B%E7%8E%8B%E2%80%9D/END"
+  },
+  "id": "act29side--activities__act29side__level_act29side_10_end",
+  "navigation": {
+    "nextChapterId": "act29side--activities__act29side__level_act29side_st03",
+    "previousChapterId": "act29side--activities__act29side__level_act29side_10_beg"
+  },
+  "subtitle": "ZT-10",
+  "summary": "info/activities/act29side/level_act29side_10_end",
+  "title": "弥撒“君王”"
+}

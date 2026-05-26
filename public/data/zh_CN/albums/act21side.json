@@ -1,0 +1,424 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act21side",
+      "avgTag": "幕间",
+      "code": "IS-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-ST-1_沉疴/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-ST-1_%E6%B2%89%E7%96%B4/NBT"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_st01",
+      "path": "chapters/act21side--activities__act21side__level_act21side_st01.json",
+      "sort": 1,
+      "title": "沉疴"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动前",
+      "code": "IS-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-1_雨落无声/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-1_%E9%9B%A8%E8%90%BD%E6%97%A0%E5%A3%B0/BEG"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_01_beg",
+      "path": "chapters/act21side--activities__act21side__level_act21side_01_beg.json",
+      "sort": 2,
+      "title": "雨落无声"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动后",
+      "code": "IS-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-1_雨落无声/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-1_%E9%9B%A8%E8%90%BD%E6%97%A0%E5%A3%B0/END"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_01_end",
+      "path": "chapters/act21side--activities__act21side__level_act21side_01_end.json",
+      "sort": 3,
+      "title": "雨落无声"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动前",
+      "code": "IS-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-2_荣誉之人/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-2_%E8%8D%A3%E8%AA%89%E4%B9%8B%E4%BA%BA/BEG"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_02_beg",
+      "path": "chapters/act21side--activities__act21side__level_act21side_02_beg.json",
+      "sort": 4,
+      "title": "荣誉之人"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动后",
+      "code": "IS-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-2_荣誉之人/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-2_%E8%8D%A3%E8%AA%89%E4%B9%8B%E4%BA%BA/END"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_02_end",
+      "path": "chapters/act21side--activities__act21side__level_act21side_02_end.json",
+      "sort": 5,
+      "title": "荣誉之人"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动前",
+      "code": "IS-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-3_万箭所指/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-3_%E4%B8%87%E7%AE%AD%E6%89%80%E6%8C%87/BEG"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_03_beg",
+      "path": "chapters/act21side--activities__act21side__level_act21side_03_beg.json",
+      "sort": 6,
+      "title": "万箭所指"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动后",
+      "code": "IS-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-3_万箭所指/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-3_%E4%B8%87%E7%AE%AD%E6%89%80%E6%8C%87/END"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_03_end",
+      "path": "chapters/act21side--activities__act21side__level_act21side_03_end.json",
+      "sort": 7,
+      "title": "万箭所指"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动前",
+      "code": "IS-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-4_苦夜惊雷/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-4_%E8%8B%A6%E5%A4%9C%E6%83%8A%E9%9B%B7/BEG"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_04_beg",
+      "path": "chapters/act21side--activities__act21side__level_act21side_04_beg.json",
+      "sort": 8,
+      "title": "苦夜惊雷"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动后",
+      "code": "IS-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-4_苦夜惊雷/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-4_%E8%8B%A6%E5%A4%9C%E6%83%8A%E9%9B%B7/END"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_04_end",
+      "path": "chapters/act21side--activities__act21side__level_act21side_04_end.json",
+      "sort": 9,
+      "title": "苦夜惊雷"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "幕间",
+      "code": "IS-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-ST-2_切开/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-ST-2_%E5%88%87%E5%BC%80/NBT"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_st02",
+      "path": "chapters/act21side--activities__act21side__level_act21side_st02.json",
+      "sort": 10,
+      "title": "切开"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动前",
+      "code": "IS-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-5_恒久法则/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-5_%E6%81%92%E4%B9%85%E6%B3%95%E5%88%99/BEG"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_05_beg",
+      "path": "chapters/act21side--activities__act21side__level_act21side_05_beg.json",
+      "sort": 11,
+      "title": "恒久法则"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动后",
+      "code": "IS-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-5_恒久法则/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-5_%E6%81%92%E4%B9%85%E6%B3%95%E5%88%99/END"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_05_end",
+      "path": "chapters/act21side--activities__act21side__level_act21side_05_end.json",
+      "sort": 12,
+      "title": "恒久法则"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动前",
+      "code": "IS-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-6_旧日碾轧/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-6_%E6%97%A7%E6%97%A5%E7%A2%BE%E8%BD%A7/BEG"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_06_beg",
+      "path": "chapters/act21side--activities__act21side__level_act21side_06_beg.json",
+      "sort": 13,
+      "title": "旧日碾轧"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动后",
+      "code": "IS-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-6_旧日碾轧/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-6_%E6%97%A7%E6%97%A5%E7%A2%BE%E8%BD%A7/END"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_06_end",
+      "path": "chapters/act21side--activities__act21side__level_act21side_06_end.json",
+      "sort": 14,
+      "title": "旧日碾轧"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动前",
+      "code": "IS-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-7_何以忘却/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-7_%E4%BD%95%E4%BB%A5%E5%BF%98%E5%8D%B4/BEG"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_07_beg",
+      "path": "chapters/act21side--activities__act21side__level_act21side_07_beg.json",
+      "sort": 15,
+      "title": "何以忘却"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动后",
+      "code": "IS-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-7_何以忘却/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-7_%E4%BD%95%E4%BB%A5%E5%BF%98%E5%8D%B4/END"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_07_end",
+      "path": "chapters/act21side--activities__act21side__level_act21side_07_end.json",
+      "sort": 16,
+      "title": "何以忘却"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动前",
+      "code": "IS-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-8_危如累卵/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-8_%E5%8D%B1%E5%A6%82%E7%B4%AF%E5%8D%B5/BEG"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_08_beg",
+      "path": "chapters/act21side--activities__act21side__level_act21side_08_beg.json",
+      "sort": 17,
+      "title": "危如累卵"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动后",
+      "code": "IS-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-8_危如累卵/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-8_%E5%8D%B1%E5%A6%82%E7%B4%AF%E5%8D%B5/END"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_08_end",
+      "path": "chapters/act21side--activities__act21side__level_act21side_08_end.json",
+      "sort": 18,
+      "title": "危如累卵"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "幕间",
+      "code": "IS-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-ST-3_剜刺/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-ST-3_%E5%89%9C%E5%88%BA/NBT"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_st03",
+      "path": "chapters/act21side--activities__act21side__level_act21side_st03.json",
+      "sort": 19,
+      "title": "剜刺"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动前",
+      "code": "IS-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-9_文明的谎言/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-9_%E6%96%87%E6%98%8E%E7%9A%84%E8%B0%8E%E8%A8%80/BEG"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_09_beg",
+      "path": "chapters/act21side--activities__act21side__level_act21side_09_beg.json",
+      "sort": 20,
+      "title": "文明的谎言"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动后",
+      "code": "IS-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-9_文明的谎言/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-9_%E6%96%87%E6%98%8E%E7%9A%84%E8%B0%8E%E8%A8%80/END"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_09_end",
+      "path": "chapters/act21side--activities__act21side__level_act21side_09_end.json",
+      "sort": 21,
+      "title": "文明的谎言"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动前",
+      "code": "IS-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-10_“狼之主”/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-10_%E2%80%9C%E7%8B%BC%E4%B9%8B%E4%B8%BB%E2%80%9D/BEG"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_10_beg",
+      "path": "chapters/act21side--activities__act21side__level_act21side_10_beg.json",
+      "sort": 22,
+      "title": "“狼之主”"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "行动后",
+      "code": "IS-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-10_“狼之主”/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-10_%E2%80%9C%E7%8B%BC%E4%B9%8B%E4%B8%BB%E2%80%9D/END"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_10_end",
+      "path": "chapters/act21side--activities__act21side__level_act21side_10_end.json",
+      "sort": 23,
+      "title": "“狼之主”"
+    },
+    {
+      "albumId": "act21side",
+      "avgTag": "幕间",
+      "code": "IS-ST-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IS-ST-4_缝合/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IS-ST-4_%E7%BC%9D%E5%90%88/NBT"
+      },
+      "downloadable": true,
+      "id": "act21side--activities__act21side__level_act21side_st04",
+      "path": "chapters/act21side--activities__act21side__level_act21side_st04.json",
+      "sort": 24,
+      "title": "缝合"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_il_siracusano",
+    "primaryImageId": "kv_il_siracusano",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act21side",
+    "titleImageId": "title_il_siracusano",
+    "url": "https://media.prts.wiki/0/03/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E5%8F%99%E6%8B%89%E5%8F%A4%E4%BA%BA.png"
+  },
+  "extras": [],
+  "gameOrderRank": 4007,
+  "homeSection": "sideStory",
+  "id": "act21side",
+  "music": {
+    "arcTitle": "七丘的新芽",
+    "movementTitle": "七丘的新芽",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_11",
+      "tag_15"
+    ]
+  },
+  "slug": "act21side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1667275200,
+  "summary": "这是一个意料之外的邀请，但她知道它迟早会来。\n这是一场蓄谋已久的爆炸，但他清楚它早晚会发生。\n这是一声响彻云霄的铳响，而他等待了几十年。\n这是一次迟来许久的诀别，她背过身，没有任何停留。\n这是一座正逢雨季的城市，来的时候，别忘了带伞。",
+  "timelineRank": 1667275200,
+  "title": "叙拉古人"
+}

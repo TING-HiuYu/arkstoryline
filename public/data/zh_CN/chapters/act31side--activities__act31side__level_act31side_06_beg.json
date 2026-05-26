@@ -1,0 +1,21 @@
+{
+  "albumId": "act31side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "HS-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HS-6_卷赤霞/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HS-6_%E5%8D%B7%E8%B5%A4%E9%9C%9E/BEG"
+  },
+  "id": "act31side--activities__act31side__level_act31side_06_beg",
+  "navigation": {
+    "nextChapterId": "act31side--activities__act31side__level_act31side_07_end",
+    "previousChapterId": "act31side--activities__act31side__level_act31side_st02"
+  },
+  "subtitle": "HS-6",
+  "summary": "info/activities/act31side/level_act31side_06_beg",
+  "title": "卷赤霞"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "14-12",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-12_使徒/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-12_%E4%BD%BF%E5%BE%92/END"
+  },
+  "id": "main_14--obt__main__level_main_14-11_end",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_st_14-02",
+    "previousChapterId": "main_14--obt__main__level_main_14-11_beg"
+  },
+  "subtitle": "14-12",
+  "summary": "info/obt/main/level_main_14-11_end",
+  "title": "使徒"
+}

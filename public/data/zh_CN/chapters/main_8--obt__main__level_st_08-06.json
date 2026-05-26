@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "END8-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "END8-1_尾声，抑或开始/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/END8-1_%E5%B0%BE%E5%A3%B0%EF%BC%8C%E6%8A%91%E6%88%96%E5%BC%80%E5%A7%8B/NBT"
+  },
+  "id": "main_8--obt__main__level_st_08-06",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_spst_08-01",
+    "previousChapterId": "main_8--obt__main__level_main_08-17_end"
+  },
+  "subtitle": "END8-1",
+  "summary": "info/obt/main/level_st_08-06",
+  "title": "尾声，抑或开始"
+}

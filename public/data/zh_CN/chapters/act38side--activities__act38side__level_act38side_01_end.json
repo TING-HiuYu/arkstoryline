@@ -1,0 +1,21 @@
+{
+  "albumId": "act38side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "PV-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PV-1_失途/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-1_%E5%A4%B1%E9%80%94/END"
+  },
+  "id": "act38side--activities__act38side__level_act38side_01_end",
+  "navigation": {
+    "nextChapterId": "act38side--activities__act38side__level_act38side_02_beg",
+    "previousChapterId": "act38side--activities__act38side__level_act38side_01_beg"
+  },
+  "subtitle": "PV-1",
+  "summary": "info/activities/act38side/level_act38side_01_end",
+  "title": "失途"
+}

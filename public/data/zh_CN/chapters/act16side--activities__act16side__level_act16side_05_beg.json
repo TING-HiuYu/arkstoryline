@@ -1,0 +1,21 @@
+{
+  "albumId": "act16side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "GA-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GA-5_葬礼/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GA-5_%E8%91%AC%E7%A4%BC/BEG"
+  },
+  "id": "act16side--activities__act16side__level_act16side_05_beg",
+  "navigation": {
+    "nextChapterId": "act16side--activities__act16side__level_act16side_05_end",
+    "previousChapterId": "act16side--activities__act16side__level_act16side_04_end"
+  },
+  "subtitle": "GA-5",
+  "summary": "info/activities/act16side/level_act16side_05_beg",
+  "title": "葬礼"
+}

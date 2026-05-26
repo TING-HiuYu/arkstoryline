@@ -1,0 +1,21 @@
+{
+  "albumId": "main_15",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "15-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "15-4_深渊之侧/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-4_%E6%B7%B1%E6%B8%8A%E4%B9%8B%E4%BE%A7/END"
+  },
+  "id": "main_15--obt__main__level_main_15-03_end",
+  "navigation": {
+    "nextChapterId": "main_15--obt__main__level_main_15-04_beg",
+    "previousChapterId": "main_15--obt__main__level_main_15-02_beg"
+  },
+  "subtitle": "15-4",
+  "summary": "info/obt/main/level_main_15-03_end",
+  "title": "深渊之侧"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_16",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "16-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "16-1_庸人的救济/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/16-1_%E5%BA%B8%E4%BA%BA%E7%9A%84%E6%95%91%E6%B5%8E/NBT"
+  },
+  "id": "main_16--obt__main__level_st_16-01",
+  "navigation": {
+    "nextChapterId": "main_16--obt__main__level_main_16-01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "16-1",
+  "summary": "info/obt/main/level_st_16-01",
+  "title": "庸人的救济"
+}

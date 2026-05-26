@@ -1,0 +1,21 @@
+{
+  "albumId": "main_0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "0-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "0-10_困境/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/0-10_%E5%9B%B0%E5%A2%83/BEG"
+  },
+  "id": "main_0--obt__main__level_main_00-10_beg",
+  "navigation": {
+    "nextChapterId": "main_0--obt__main__level_main_00-11_end",
+    "previousChapterId": "main_0--obt__main__level_main_00-09_end"
+  },
+  "subtitle": "0-10",
+  "summary": "info/obt/main/level_main_00-10_beg",
+  "title": "困境"
+}

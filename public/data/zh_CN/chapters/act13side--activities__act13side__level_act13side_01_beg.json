@@ -1,0 +1,21 @@
+{
+  "albumId": "act13side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "NL-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "NL-1_金盏花/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/NL-1_%E9%87%91%E7%9B%8F%E8%8A%B1/BEG"
+  },
+  "id": "act13side--activities__act13side__level_act13side_01_beg",
+  "navigation": {
+    "nextChapterId": "act13side--activities__act13side__level_act13side_01_end",
+    "previousChapterId": "act13side--activities__act13side__level_act13side_st01"
+  },
+  "subtitle": "NL-1",
+  "summary": "info/activities/act13side/level_act13side_01_beg",
+  "title": "金盏花"
+}

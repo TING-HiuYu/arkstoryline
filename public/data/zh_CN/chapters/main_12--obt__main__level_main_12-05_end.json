@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "12-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-6_谁的战争/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-6_%E8%B0%81%E7%9A%84%E6%88%98%E4%BA%89/END"
+  },
+  "id": "main_12--obt__main__level_main_12-05_end",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_main_12-06_beg",
+    "previousChapterId": "main_12--obt__main__level_main_12-04_beg"
+  },
+  "subtitle": "12-6",
+  "summary": "info/obt/main/level_main_12-05_end",
+  "title": "谁的战争"
+}

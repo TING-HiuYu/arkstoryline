@@ -1,0 +1,21 @@
+{
+  "albumId": "act33side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "BB-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BB-ST-2_在疲惫中苏醒/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BB-ST-2_%E5%9C%A8%E7%96%B2%E6%83%AB%E4%B8%AD%E8%8B%8F%E9%86%92/NBT"
+  },
+  "id": "act33side--activities__act33side__level_act33side_st02",
+  "navigation": {
+    "nextChapterId": "act33side--activities__act33side__level_act33side_04_beg",
+    "previousChapterId": "act33side--activities__act33side__level_act33side_03_end"
+  },
+  "subtitle": "BB-ST-2",
+  "summary": "info/activities/act33side/level_act33side_st02",
+  "title": "在疲惫中苏醒"
+}

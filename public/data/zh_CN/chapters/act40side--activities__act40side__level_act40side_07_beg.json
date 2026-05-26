@@ -1,0 +1,21 @@
+{
+  "albumId": "act40side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "OR-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OR-7_五省盘/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OR-7_%E4%BA%94%E7%9C%81%E7%9B%98/BEG"
+  },
+  "id": "act40side--activities__act40side__level_act40side_07_beg",
+  "navigation": {
+    "nextChapterId": "act40side--activities__act40side__level_act40side_07_end",
+    "previousChapterId": "act40side--activities__act40side__level_act40side_06_end"
+  },
+  "subtitle": "OR-7",
+  "summary": "info/activities/act40side/level_act40side_07_beg",
+  "title": "五省盘"
+}

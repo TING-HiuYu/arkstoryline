@@ -1,0 +1,19 @@
+{
+  "albumId": "act4d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SW-ST3_射击训练/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SW-ST3_%E5%B0%84%E5%87%BB%E8%AE%AD%E7%BB%83/NBT"
+  },
+  "id": "act4d0--activities__act4d0__level_act4d0_st03",
+  "navigation": {
+    "nextChapterId": "act4d0--activities__act4d0__level_act4d0_st04",
+    "previousChapterId": "act4d0--activities__act4d0__level_act4d0_st02"
+  },
+  "summary": "info/activities/act4d0/level_act4d0_st03",
+  "title": "射击训练"
+}

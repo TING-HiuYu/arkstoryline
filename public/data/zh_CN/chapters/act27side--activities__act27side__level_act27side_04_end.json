@@ -1,0 +1,21 @@
+{
+  "albumId": "act27side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SL-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SL-4_一个水手出海了/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SL-4_%E4%B8%80%E4%B8%AA%E6%B0%B4%E6%89%8B%E5%87%BA%E6%B5%B7%E4%BA%86/END"
+  },
+  "id": "act27side--activities__act27side__level_act27side_04_end",
+  "navigation": {
+    "nextChapterId": "act27side--activities__act27side__level_act27side_05_beg",
+    "previousChapterId": "act27side--activities__act27side__level_act27side_04_beg"
+  },
+  "subtitle": "SL-4",
+  "summary": "info/activities/act27side/level_act27side_04_end",
+  "title": "一个水手出海了"
+}

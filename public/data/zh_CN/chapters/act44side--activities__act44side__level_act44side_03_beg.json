@@ -1,0 +1,21 @@
+{
+  "albumId": "act44side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "AT-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AT-3_夜逃通告/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AT-3_%E5%A4%9C%E9%80%83%E9%80%9A%E5%91%8A/BEG"
+  },
+  "id": "act44side--activities__act44side__level_act44side_03_beg",
+  "navigation": {
+    "nextChapterId": "act44side--activities__act44side__level_act44side_03_end",
+    "previousChapterId": "act44side--activities__act44side__level_act44side_02_end"
+  },
+  "subtitle": "AT-3",
+  "summary": "info/activities/act44side/level_act44side_03_beg",
+  "title": "夜逃通告"
+}

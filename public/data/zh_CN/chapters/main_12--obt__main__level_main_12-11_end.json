@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "12-13",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-13_逆光阴影/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-13_%E9%80%86%E5%85%89%E9%98%B4%E5%BD%B1/END"
+  },
+  "id": "main_12--obt__main__level_main_12-11_end",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_main_12-12_beg",
+    "previousChapterId": "main_12--obt__main__level_main_12-10_beg"
+  },
+  "subtitle": "12-13",
+  "summary": "info/obt/main/level_main_12-11_end",
+  "title": "逆光阴影"
+}

@@ -1,0 +1,143 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act19mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FM-ST1_胡君/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FM-ST1_%E8%83%A1%E5%90%9B/NBT"
+      },
+      "downloadable": true,
+      "id": "act19mini--activities__act19mini__level_act19mini_st01",
+      "path": "chapters/act19mini--activities__act19mini__level_act19mini_st01.json",
+      "sort": 1,
+      "title": "胡君"
+    },
+    {
+      "albumId": "act19mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FM-ST2_蒲先生/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FM-ST2_%E8%92%B2%E5%85%88%E7%94%9F/NBT"
+      },
+      "downloadable": true,
+      "id": "act19mini--activities__act19mini__level_act19mini_st02",
+      "path": "chapters/act19mini--activities__act19mini__level_act19mini_st02.json",
+      "sort": 2,
+      "title": "蒲先生"
+    },
+    {
+      "albumId": "act19mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FM-ST3_石头记/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FM-ST3_%E7%9F%B3%E5%A4%B4%E8%AE%B0/NBT"
+      },
+      "downloadable": true,
+      "id": "act19mini--activities__act19mini__level_act19mini_st03",
+      "path": "chapters/act19mini--activities__act19mini__level_act19mini_st03.json",
+      "sort": 3,
+      "title": "石头记"
+    },
+    {
+      "albumId": "act19mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FM-ST4_白锦/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FM-ST4_%E7%99%BD%E9%94%A6/NBT"
+      },
+      "downloadable": true,
+      "id": "act19mini--activities__act19mini__level_act19mini_st04",
+      "path": "chapters/act19mini--activities__act19mini__level_act19mini_st04.json",
+      "sort": 4,
+      "title": "白锦"
+    },
+    {
+      "albumId": "act19mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FM-ST5_失剑客/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FM-ST5_%E5%A4%B1%E5%89%91%E5%AE%A2/NBT"
+      },
+      "downloadable": true,
+      "id": "act19mini--activities__act19mini__level_act19mini_st05",
+      "path": "chapters/act19mini--activities__act19mini__level_act19mini_st05.json",
+      "sort": 5,
+      "title": "失剑客"
+    },
+    {
+      "albumId": "act19mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FM-ST6_凌绝顶/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FM-ST6_%E5%87%8C%E7%BB%9D%E9%A1%B6/NBT"
+      },
+      "downloadable": true,
+      "id": "act19mini--activities__act19mini__level_act19mini_st06",
+      "path": "chapters/act19mini--activities__act19mini__level_act19mini_st06.json",
+      "sort": 6,
+      "title": "凌绝顶"
+    },
+    {
+      "albumId": "act19mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FM-ST7_小镇志/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FM-ST7_%E5%B0%8F%E9%95%87%E5%BF%97/NBT"
+      },
+      "downloadable": true,
+      "id": "act19mini--activities__act19mini__level_act19mini_st07",
+      "path": "chapters/act19mini--activities__act19mini__level_act19mini_st07.json",
+      "sort": 7,
+      "title": "小镇志"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_fantasy_in_the_mirage",
+    "primaryImageId": "kv_fantasy_in_the_mirage",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act19mini",
+    "storyPicId": "storyPic_act19mini",
+    "titleImageId": "title_fantasy_in_the_mirage",
+    "url": "https://media.prts.wiki/6/65/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E9%95%9C%E4%B8%AD%E9%9B%86.png"
+  },
+  "extras": [],
+  "gameOrderRank": 7002,
+  "homeSection": "sideStory",
+  "id": "act19mini",
+  "music": {
+    "arcTitle": "岁岁今朝",
+    "movementTitle": "岁岁今朝",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act19mini",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1751947200,
+  "summary": "邙山脚下，一个不为人知的小镇，处处透露着古怪。\n诵书朗朗，室无人迹，茶沸闻香，壶自斟酌。\n大好山河，缱绻思恋，叹今生，个中滋味，弃之不舍。\n所求不过，长留人世。",
+  "timelineRank": 1751947200,
+  "title": "镜中集"
+}

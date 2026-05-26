@@ -1,0 +1,21 @@
+{
+  "albumId": "act46side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "OS-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OS-4_并蒂生/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OS-4_%E5%B9%B6%E8%92%82%E7%94%9F/BEG"
+  },
+  "id": "act46side--activities__act46side__level_act46side_04_beg",
+  "navigation": {
+    "nextChapterId": "act46side--activities__act46side__level_act46side_04_end",
+    "previousChapterId": "act46side--activities__act46side__level_act46side_03_end"
+  },
+  "subtitle": "OS-4",
+  "summary": "info/activities/act46side/level_act46side_04_beg",
+  "title": "并蒂生"
+}

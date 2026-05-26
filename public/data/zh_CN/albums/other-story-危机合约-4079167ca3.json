@@ -1,0 +1,55 @@
+{
+  "albumKind": "otherStory",
+  "chapters": [
+    {
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "危机合约/剧情",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/%E5%8D%B1%E6%9C%BA%E5%90%88%E7%BA%A6/%E5%89%A7%E6%83%85"
+      },
+      "id": "other-story-危机合约-4079167ca3--危机合约-剧情",
+      "sort": 1,
+      "title": "危机合约"
+    },
+    {
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "荒芜行动/剧情1",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/%E8%8D%92%E8%8A%9C%E8%A1%8C%E5%8A%A8/%E5%89%A7%E6%83%851"
+      },
+      "id": "other-story-危机合约-4079167ca3--荒芜行动-剧情1",
+      "sort": 2,
+      "title": "荒芜行动 P1"
+    },
+    {
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "荒芜行动/剧情2",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/%E8%8D%92%E8%8A%9C%E8%A1%8C%E5%8A%A8/%E5%89%A7%E6%83%852"
+      },
+      "id": "other-story-危机合约-4079167ca3--荒芜行动-剧情2",
+      "sort": 3,
+      "title": "荒芜行动 P2"
+    }
+  ],
+  "gameOrderRank": 900000009,
+  "homeSection": "otherStory",
+  "id": "other-story-危机合约-4079167ca3",
+  "otherStory": {
+    "albumTitle": "危机合约",
+    "groupTitle": "特殊",
+    "sourceSection": "other"
+  },
+  "slug": "other-story-危机合约-4079167ca3",
+  "source": {
+    "path": "storyline.index.sections.other",
+    "providerId": "prts",
+    "revision": "2026-05-26T20:55:23.000119+00:00"
+  },
+  "sourceEntryType": "ARCHIVE_EXTRA",
+  "timelineRank": 900000009,
+  "title": "危机合约"
+}

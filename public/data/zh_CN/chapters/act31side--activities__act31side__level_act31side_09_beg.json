@@ -1,0 +1,21 @@
+{
+  "albumId": "act31side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "HS-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HS-9_得果/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HS-9_%E5%BE%97%E6%9E%9C/BEG"
+  },
+  "id": "act31side--activities__act31side__level_act31side_09_beg",
+  "navigation": {
+    "nextChapterId": "act31side--activities__act31side__level_act31side_09_end",
+    "previousChapterId": "act31side--activities__act31side__level_act31side_08_end"
+  },
+  "subtitle": "HS-9",
+  "summary": "info/activities/act31side/level_act31side_09_beg",
+  "title": "得果"
+}

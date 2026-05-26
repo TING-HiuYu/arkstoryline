@@ -1,0 +1,21 @@
+{
+  "albumId": "act16d5",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "WR-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WR-5_拙山/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WR-5_%E6%8B%99%E5%B1%B1/BEG"
+  },
+  "id": "act16d5--activities__act16d5__level_act16d5_05_beg",
+  "navigation": {
+    "nextChapterId": "act16d5--activities__act16d5__level_act16d5_05_end",
+    "previousChapterId": "act16d5--activities__act16d5__level_act16d5_04_end"
+  },
+  "subtitle": "WR-5",
+  "summary": "info/activities/act16d5/level_act16d5_05_beg",
+  "title": "拙山"
+}

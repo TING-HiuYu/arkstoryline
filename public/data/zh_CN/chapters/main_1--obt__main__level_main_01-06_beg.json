@@ -1,0 +1,21 @@
+{
+  "albumId": "main_1",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "1-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "1-6_灾难/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/1-6_%E7%81%BE%E9%9A%BE/BEG"
+  },
+  "id": "main_1--obt__main__level_main_01-06_beg",
+  "navigation": {
+    "nextChapterId": "main_1--obt__main__level_main_01-07_beg",
+    "previousChapterId": "main_1--obt__main__level_main_01-04_beg"
+  },
+  "subtitle": "1-6",
+  "summary": "info/obt/main/level_main_01-06_beg",
+  "title": "灾难"
+}

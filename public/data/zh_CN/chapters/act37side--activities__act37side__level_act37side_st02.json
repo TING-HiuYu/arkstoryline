@@ -1,0 +1,21 @@
+{
+  "albumId": "act37side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "GO-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GO-ST-2_童话的结局/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GO-ST-2_%E7%AB%A5%E8%AF%9D%E7%9A%84%E7%BB%93%E5%B1%80/NBT"
+  },
+  "id": "act37side--activities__act37side__level_act37side_st02",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act37side--activities__act37side__level_act37side_09_end"
+  },
+  "subtitle": "GO-ST-2",
+  "summary": "info/activities/act37side/level_act37side_st02",
+  "title": "童话的结局"
+}

@@ -1,0 +1,19 @@
+{
+  "albumId": "act11mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TC-ST3_狼与狼群/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TC-ST3_%E7%8B%BC%E4%B8%8E%E7%8B%BC%E7%BE%A4/NBT"
+  },
+  "id": "act11mini--activities__act11mini__level_act11mini_st03",
+  "navigation": {
+    "nextChapterId": "act11mini--activities__act11mini__level_act11mini_st04",
+    "previousChapterId": "act11mini--activities__act11mini__level_act11mini_st02"
+  },
+  "summary": "info/activities/act11mini/level_act11mini_st03",
+  "title": "狼与狼群"
+}

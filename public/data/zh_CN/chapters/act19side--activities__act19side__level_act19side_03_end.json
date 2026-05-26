@@ -1,0 +1,21 @@
+{
+  "albumId": "act19side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DV-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DV-3_动力装甲/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DV-3_%E5%8A%A8%E5%8A%9B%E8%A3%85%E7%94%B2/END"
+  },
+  "id": "act19side--activities__act19side__level_act19side_03_end",
+  "navigation": {
+    "nextChapterId": "act19side--activities__act19side__level_act19side_04_beg",
+    "previousChapterId": "act19side--activities__act19side__level_act19side_03_beg"
+  },
+  "subtitle": "DV-3",
+  "summary": "info/activities/act19side/level_act19side_03_end",
+  "title": "动力装甲"
+}

@@ -1,0 +1,19 @@
+{
+  "albumId": "story_totter_set_2",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FD-ST5_归乡/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FD-ST5_%E5%BD%92%E4%B9%A1/NBT"
+  },
+  "id": "story_totter_set_2--obt__memory__story_totter_2_1",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": null
+  },
+  "summary": "info/obt/memory/story_totter_2_1",
+  "title": "归乡"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act29side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "ZT-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ZT-6_华尔兹“假面”/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ZT-6_%E5%8D%8E%E5%B0%94%E5%85%B9%E2%80%9C%E5%81%87%E9%9D%A2%E2%80%9D/END"
+  },
+  "id": "act29side--activities__act29side__level_act29side_06_end",
+  "navigation": {
+    "nextChapterId": "act29side--activities__act29side__level_act29side_07_beg",
+    "previousChapterId": "act29side--activities__act29side__level_act29side_06_beg"
+  },
+  "subtitle": "ZT-6",
+  "summary": "info/activities/act29side/level_act29side_06_end",
+  "title": "华尔兹“假面”"
+}

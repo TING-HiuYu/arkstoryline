@@ -1,0 +1,21 @@
+{
+  "albumId": "act27side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "SL-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SL-2_小蓝孩/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SL-2_%E5%B0%8F%E8%93%9D%E5%AD%A9/BEG"
+  },
+  "id": "act27side--activities__act27side__level_act27side_02_beg",
+  "navigation": {
+    "nextChapterId": "act27side--activities__act27side__level_act27side_02_end",
+    "previousChapterId": "act27side--activities__act27side__level_act27side_01_end"
+  },
+  "subtitle": "SL-2",
+  "summary": "info/activities/act27side/level_act27side_02_beg",
+  "title": "小蓝孩"
+}

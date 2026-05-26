@@ -1,0 +1,21 @@
+{
+  "albumId": "act17d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OD-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OD-2_扩大防守范围/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OD-2_%E6%89%A9%E5%A4%A7%E9%98%B2%E5%AE%88%E8%8C%83%E5%9B%B4/END"
+  },
+  "id": "act17d0--activities__act17d0__level_act17d0_02_end",
+  "navigation": {
+    "nextChapterId": "act17d0--activities__act17d0__level_act17d0_03_beg",
+    "previousChapterId": "act17d0--activities__act17d0__level_act17d0_02_beg"
+  },
+  "subtitle": "OD-2",
+  "summary": "info/activities/act17d0/level_act17d0_02_end",
+  "title": "扩大防守范围"
+}

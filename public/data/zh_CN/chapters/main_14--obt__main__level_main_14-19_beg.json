@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "14-21",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-21_万千愿景/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-21_%E4%B8%87%E5%8D%83%E6%84%BF%E6%99%AF/BEG"
+  },
+  "id": "main_14--obt__main__level_main_14-19_beg",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-19_end",
+    "previousChapterId": "main_14--obt__main__level_main_14-18_end"
+  },
+  "subtitle": "14-21",
+  "summary": "info/obt/main/level_main_14-19_beg",
+  "title": "万千愿景"
+}

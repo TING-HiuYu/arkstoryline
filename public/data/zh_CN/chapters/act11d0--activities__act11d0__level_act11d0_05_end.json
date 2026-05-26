@@ -1,0 +1,21 @@
+{
+  "albumId": "act11d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "TW-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TW-5_冬灵挽歌/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TW-5_%E5%86%AC%E7%81%B5%E6%8C%BD%E6%AD%8C/END"
+  },
+  "id": "act11d0--activities__act11d0__level_act11d0_05_end",
+  "navigation": {
+    "nextChapterId": "act11d0--activities__act11d0__level_act11d0_06_beg",
+    "previousChapterId": "act11d0--activities__act11d0__level_act11d0_05_beg"
+  },
+  "subtitle": "TW-5",
+  "summary": "info/activities/act11d0/level_act11d0_05_end",
+  "title": "冬灵挽歌"
+}

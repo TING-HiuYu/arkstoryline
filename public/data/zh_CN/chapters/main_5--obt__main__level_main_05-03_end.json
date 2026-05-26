@@ -1,0 +1,21 @@
+{
+  "albumId": "main_5",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "5-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "5-3_义胆凡躯/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/5-3_%E4%B9%89%E8%83%86%E5%87%A1%E8%BA%AF/END"
+  },
+  "id": "main_5--obt__main__level_main_05-03_end",
+  "navigation": {
+    "nextChapterId": "main_5--obt__main__level_main_05-04_beg",
+    "previousChapterId": "main_5--obt__main__level_main_05-03_beg"
+  },
+  "subtitle": "5-3",
+  "summary": "info/obt/main/level_main_05-03_end",
+  "title": "义胆凡躯"
+}

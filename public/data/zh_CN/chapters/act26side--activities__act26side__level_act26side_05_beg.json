@@ -1,0 +1,21 @@
+{
+  "albumId": "act26side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "HE-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HE-5_主在圣殿中/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HE-5_%E4%B8%BB%E5%9C%A8%E5%9C%A3%E6%AE%BF%E4%B8%AD/BEG"
+  },
+  "id": "act26side--activities__act26side__level_act26side_05_beg",
+  "navigation": {
+    "nextChapterId": "act26side--activities__act26side__level_act26side_05_end",
+    "previousChapterId": "act26side--activities__act26side__level_act26side_04_end"
+  },
+  "subtitle": "HE-5",
+  "summary": "info/activities/act26side/level_act26side_05_beg",
+  "title": "主在圣殿中"
+}

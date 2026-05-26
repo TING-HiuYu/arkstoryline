@@ -1,0 +1,21 @@
+{
+  "albumId": "act32side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CR-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CR-3_假面舞池/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CR-3_%E5%81%87%E9%9D%A2%E8%88%9E%E6%B1%A0/BEG"
+  },
+  "id": "act32side--activities__act32side__level_act32side_03_beg",
+  "navigation": {
+    "nextChapterId": "act32side--activities__act32side__level_act32side_03_end",
+    "previousChapterId": "act32side--activities__act32side__level_act32side_02_end"
+  },
+  "subtitle": "CR-3",
+  "summary": "info/activities/act32side/level_act32side_03_beg",
+  "title": "假面舞池"
+}

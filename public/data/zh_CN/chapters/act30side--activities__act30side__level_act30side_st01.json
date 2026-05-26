@@ -1,0 +1,21 @@
+{
+  "albumId": "act30side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "RS-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RS-ST-1_候车大厅/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RS-ST-1_%E5%80%99%E8%BD%A6%E5%A4%A7%E5%8E%85/NBT"
+  },
+  "id": "act30side--activities__act30side__level_act30side_st01",
+  "navigation": {
+    "nextChapterId": "act30side--activities__act30side__level_act30side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "RS-ST-1",
+  "summary": "info/activities/act30side/level_act30side_st01",
+  "title": "候车大厅"
+}

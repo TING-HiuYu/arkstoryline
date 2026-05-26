@@ -1,0 +1,94 @@
+{
+  "albumKind": "otherStory",
+  "chapters": [
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RO4-BEG/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RO4-BEG/NBT"
+      },
+      "id": "other-story-萨卡兹的无终奇语-6505326ff7--ro4-beg-nbt",
+      "sort": 1,
+      "title": "序章"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RO4-END-1/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RO4-END-1/NBT"
+      },
+      "id": "other-story-萨卡兹的无终奇语-6505326ff7--ro4-end-1-nbt",
+      "sort": 2,
+      "title": "憧憬未来"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RO4-END-2/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RO4-END-2/NBT"
+      },
+      "id": "other-story-萨卡兹的无终奇语-6505326ff7--ro4-end-2-nbt",
+      "sort": 3,
+      "title": "双王记"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RO4-END-3/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RO4-END-3/NBT"
+      },
+      "id": "other-story-萨卡兹的无终奇语-6505326ff7--ro4-end-3-nbt",
+      "sort": 4,
+      "title": "天使之城"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RO4-END-4/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RO4-END-4/NBT"
+      },
+      "id": "other-story-萨卡兹的无终奇语-6505326ff7--ro4-end-4-nbt",
+      "sort": 5,
+      "title": "遁入阇那"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RO4-END-5/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RO4-END-5/NBT"
+      },
+      "id": "other-story-萨卡兹的无终奇语-6505326ff7--ro4-end-5-nbt",
+      "sort": 6,
+      "title": "无瑕之日"
+    }
+  ],
+  "gameOrderRank": 900000021,
+  "homeSection": "otherStory",
+  "id": "other-story-萨卡兹的无终奇语-6505326ff7",
+  "otherStory": {
+    "albumTitle": "萨卡兹的无终奇语",
+    "groupTitle": "集成战略",
+    "sourceSection": "other"
+  },
+  "slug": "other-story-萨卡兹的无终奇语-6505326ff7",
+  "source": {
+    "path": "storyline.index.sections.other",
+    "providerId": "prts",
+    "revision": "2026-05-26T20:55:23.000119+00:00"
+  },
+  "sourceEntryType": "ARCHIVE_EXTRA",
+  "timelineRank": 900000021,
+  "title": "萨卡兹的无终奇语"
+}

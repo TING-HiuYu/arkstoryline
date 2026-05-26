@@ -1,0 +1,328 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act51side",
+      "avgTag": "幕间",
+      "code": "PA-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-ST-1_群氓/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-ST-1_%E7%BE%A4%E6%B0%93/NBT"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_st01",
+      "path": "chapters/act51side--activities__act51side__level_act51side_st01.json",
+      "sort": 1,
+      "title": "群氓"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "行动前",
+      "code": "PA-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-1_“卡托加区欢迎你”/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-1_%E2%80%9C%E5%8D%A1%E6%89%98%E5%8A%A0%E5%8C%BA%E6%AC%A2%E8%BF%8E%E4%BD%A0%E2%80%9D/BEG"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_01_beg",
+      "path": "chapters/act51side--activities__act51side__level_act51side_01_beg.json",
+      "sort": 2,
+      "title": "“卡托加区欢迎你”"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "行动后",
+      "code": "PA-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-1_“卡托加区欢迎你”/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-1_%E2%80%9C%E5%8D%A1%E6%89%98%E5%8A%A0%E5%8C%BA%E6%AC%A2%E8%BF%8E%E4%BD%A0%E2%80%9D/END"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_01_end",
+      "path": "chapters/act51side--activities__act51side__level_act51side_01_end.json",
+      "sort": 3,
+      "title": "“卡托加区欢迎你”"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "行动前",
+      "code": "PA-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-2_枷锁之中/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-2_%E6%9E%B7%E9%94%81%E4%B9%8B%E4%B8%AD/BEG"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_02_beg",
+      "path": "chapters/act51side--activities__act51side__level_act51side_02_beg.json",
+      "sort": 4,
+      "title": "枷锁之中"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "行动后",
+      "code": "PA-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-2_枷锁之中/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-2_%E6%9E%B7%E9%94%81%E4%B9%8B%E4%B8%AD/END"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_02_end",
+      "path": "chapters/act51side--activities__act51side__level_act51side_02_end.json",
+      "sort": 5,
+      "title": "枷锁之中"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "行动前",
+      "code": "PA-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-3_阳光照耀圣骏堡/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-3_%E9%98%B3%E5%85%89%E7%85%A7%E8%80%80%E5%9C%A3%E9%AA%8F%E5%A0%A1/BEG"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_03_beg",
+      "path": "chapters/act51side--activities__act51side__level_act51side_03_beg.json",
+      "sort": 6,
+      "title": "阳光照耀圣骏堡"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "行动后",
+      "code": "PA-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-3_阳光照耀圣骏堡/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-3_%E9%98%B3%E5%85%89%E7%85%A7%E8%80%80%E5%9C%A3%E9%AA%8F%E5%A0%A1/END"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_03_end",
+      "path": "chapters/act51side--activities__act51side__level_act51side_03_end.json",
+      "sort": 7,
+      "title": "阳光照耀圣骏堡"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "行动前",
+      "code": "PA-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-4_一墙之隔/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-4_%E4%B8%80%E5%A2%99%E4%B9%8B%E9%9A%94/BEG"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_04_beg",
+      "path": "chapters/act51side--activities__act51side__level_act51side_04_beg.json",
+      "sort": 8,
+      "title": "一墙之隔"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "行动后",
+      "code": "PA-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-4_一墙之隔/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-4_%E4%B8%80%E5%A2%99%E4%B9%8B%E9%9A%94/END"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_04_end",
+      "path": "chapters/act51side--activities__act51side__level_act51side_04_end.json",
+      "sort": 9,
+      "title": "一墙之隔"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "行动前",
+      "code": "PA-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-5_高尚的背叛/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-5_%E9%AB%98%E5%B0%9A%E7%9A%84%E8%83%8C%E5%8F%9B/BEG"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_05_beg",
+      "path": "chapters/act51side--activities__act51side__level_act51side_05_beg.json",
+      "sort": 10,
+      "title": "高尚的背叛"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "行动后",
+      "code": "PA-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-5_高尚的背叛/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-5_%E9%AB%98%E5%B0%9A%E7%9A%84%E8%83%8C%E5%8F%9B/END"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_05_end",
+      "path": "chapters/act51side--activities__act51side__level_act51side_05_end.json",
+      "sort": 11,
+      "title": "高尚的背叛"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "行动前",
+      "code": "PA-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-6_各自流亡/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-6_%E5%90%84%E8%87%AA%E6%B5%81%E4%BA%A1/BEG"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_06_beg",
+      "path": "chapters/act51side--activities__act51side__level_act51side_06_beg.json",
+      "sort": 12,
+      "title": "各自流亡"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "行动后",
+      "code": "PA-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-6_各自流亡/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-6_%E5%90%84%E8%87%AA%E6%B5%81%E4%BA%A1/END"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_06_end",
+      "path": "chapters/act51side--activities__act51side__level_act51side_06_end.json",
+      "sort": 13,
+      "title": "各自流亡"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "行动前",
+      "code": "PA-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-7_死结两端/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-7_%E6%AD%BB%E7%BB%93%E4%B8%A4%E7%AB%AF/BEG"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_07_beg",
+      "path": "chapters/act51side--activities__act51side__level_act51side_07_beg.json",
+      "sort": 14,
+      "title": "死结两端"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "行动后",
+      "code": "PA-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-7_死结两端/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-7_%E6%AD%BB%E7%BB%93%E4%B8%A4%E7%AB%AF/END"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_07_end",
+      "path": "chapters/act51side--activities__act51side__level_act51side_07_end.json",
+      "sort": 15,
+      "title": "死结两端"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "行动前",
+      "code": "PA-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-8_一千年后/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-8_%E4%B8%80%E5%8D%83%E5%B9%B4%E5%90%8E/BEG"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_08_beg",
+      "path": "chapters/act51side--activities__act51side__level_act51side_08_beg.json",
+      "sort": 16,
+      "title": "一千年后"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "行动后",
+      "code": "PA-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-8_一千年后/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-8_%E4%B8%80%E5%8D%83%E5%B9%B4%E5%90%8E/END"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_08_end",
+      "path": "chapters/act51side--activities__act51side__level_act51side_08_end.json",
+      "sort": 17,
+      "title": "一千年后"
+    },
+    {
+      "albumId": "act51side",
+      "avgTag": "幕间",
+      "code": "PA-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PA-ST-2_完整的缺损/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PA-ST-2_%E5%AE%8C%E6%95%B4%E7%9A%84%E7%BC%BA%E6%8D%9F/NBT"
+      },
+      "downloadable": true,
+      "id": "act51side--activities__act51side__level_act51side_st02",
+      "path": "chapters/act51side--activities__act51side__level_act51side_st02.json",
+      "sort": 18,
+      "title": "完整的缺损"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_people_a_people",
+    "primaryImageId": "kv_people_a_people",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act51side",
+    "titleImageId": "title_people_a_people",
+    "url": "https://media.prts.wiki/1/1d/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E4%BA%BA%E4%BB%AC%EF%BC%8C%E6%88%91%E4%BB%AC.png"
+  },
+  "extras": [],
+  "gameOrderRank": 7010,
+  "homeSection": "sideStory",
+  "id": "act51side",
+  "music": {
+    "arcTitle": "燎原",
+    "movementTitle": "燎原",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_13",
+      "tag_14"
+    ]
+  },
+  "slug": "act51side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1775516400,
+  "summary": "来自乌萨斯远北的声音在宏伟的圣骏堡上空回响，\n而权贵在舞会上晃动酒杯，将城市划为监狱。\n高墙分割挚友，法令粉饰罪恶，\n鲜血催熟了那些焦虑而天真的灵魂。\n当一个人因愤怒握紧了拳头，\n当一个人、当更多人将怒拳挥向不公——\n从此人们会记住，那是乌萨斯学生自治团的标志。",
+  "timelineRank": 1775516400,
+  "title": "人们，我们"
+}

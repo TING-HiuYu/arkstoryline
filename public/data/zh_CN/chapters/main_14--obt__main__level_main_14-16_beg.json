@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "14-18",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-18_在炽燃间咆哮/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-18_%E5%9C%A8%E7%82%BD%E7%87%83%E9%97%B4%E5%92%86%E5%93%AE/BEG"
+  },
+  "id": "main_14--obt__main__level_main_14-16_beg",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-16_end",
+    "previousChapterId": "main_14--obt__main__level_main_14-15_beg"
+  },
+  "subtitle": "14-18",
+  "summary": "info/obt/main/level_main_14-16_beg",
+  "title": "在炽燃间咆哮"
+}

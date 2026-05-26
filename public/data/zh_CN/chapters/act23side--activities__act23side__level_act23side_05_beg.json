@@ -1,0 +1,21 @@
+{
+  "albumId": "act23side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "WB-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WB-5_风雨欲来/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WB-5_%E9%A3%8E%E9%9B%A8%E6%AC%B2%E6%9D%A5/BEG"
+  },
+  "id": "act23side--activities__act23side__level_act23side_05_beg",
+  "navigation": {
+    "nextChapterId": "act23side--activities__act23side__level_act23side_06_end",
+    "previousChapterId": "act23side--activities__act23side__level_act23side_st02"
+  },
+  "subtitle": "WB-5",
+  "summary": "info/activities/act23side/level_act23side_05_beg",
+  "title": "风雨欲来"
+}

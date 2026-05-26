@@ -1,0 +1,21 @@
+{
+  "albumId": "act41side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "EA-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EA-5_溺火/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-5_%E6%BA%BA%E7%81%AB/END"
+  },
+  "id": "act41side--activities__act41side__level_act41side_05_end",
+  "navigation": {
+    "nextChapterId": "act41side--activities__act41side__level_act41side_06_beg",
+    "previousChapterId": "act41side--activities__act41side__level_act41side_05_beg"
+  },
+  "subtitle": "EA-5",
+  "summary": "info/activities/act41side/level_act41side_05_end",
+  "title": "溺火"
+}

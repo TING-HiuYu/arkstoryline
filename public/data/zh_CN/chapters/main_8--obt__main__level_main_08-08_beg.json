@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "R8-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "R8-8_人心，向背无常/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/R8-8_%E4%BA%BA%E5%BF%83%EF%BC%8C%E5%90%91%E8%83%8C%E6%97%A0%E5%B8%B8/BEG"
+  },
+  "id": "main_8--obt__main__level_main_08-08_beg",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_main_08-08_end",
+    "previousChapterId": "main_8--obt__main__level_st_08-05"
+  },
+  "subtitle": "R8-8",
+  "summary": "info/obt/main/level_main_08-08_beg",
+  "title": "人心，向背无常"
+}

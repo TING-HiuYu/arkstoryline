@@ -1,0 +1,21 @@
+{
+  "albumId": "act39side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "EP-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EP-7_我的罗盘/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EP-7_%E6%88%91%E7%9A%84%E7%BD%97%E7%9B%98/BEG"
+  },
+  "id": "act39side--activities__act39side__level_act39side_07_beg",
+  "navigation": {
+    "nextChapterId": "act39side--activities__act39side__level_act39side_07_end",
+    "previousChapterId": "act39side--activities__act39side__level_act39side_st02"
+  },
+  "subtitle": "EP-7",
+  "summary": "info/activities/act39side/level_act39side_07_beg",
+  "title": "我的罗盘"
+}

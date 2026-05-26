@@ -1,0 +1,21 @@
+{
+  "albumId": "act43side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "AD-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AD-4_一个荒唐的早晨/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AD-4_%E4%B8%80%E4%B8%AA%E8%8D%92%E5%94%90%E7%9A%84%E6%97%A9%E6%99%A8/END"
+  },
+  "id": "act43side--activities__act43side__level_act43side_04_end",
+  "navigation": {
+    "nextChapterId": "act43side--activities__act43side__level_act43side_st02",
+    "previousChapterId": "act43side--activities__act43side__level_act43side_04_beg"
+  },
+  "subtitle": "AD-4",
+  "summary": "info/activities/act43side/level_act43side_04_end",
+  "title": "一个荒唐的早晨"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act24side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CF-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CF-3_迎头痛击/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CF-3_%E8%BF%8E%E5%A4%B4%E7%97%9B%E5%87%BB/BEG"
+  },
+  "id": "act24side--activities__act24side__level_act24side_03_beg",
+  "navigation": {
+    "nextChapterId": "act24side--activities__act24side__level_act24side_04_end",
+    "previousChapterId": "act24side--activities__act24side__level_act24side_02_end"
+  },
+  "subtitle": "CF-3",
+  "summary": "info/activities/act24side/level_act24side_03_beg",
+  "title": "迎头痛击"
+}

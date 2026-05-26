@@ -1,0 +1,21 @@
+{
+  "albumId": "act15d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "MB-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MB-8_激战之末/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MB-8_%E6%BF%80%E6%88%98%E4%B9%8B%E6%9C%AB/BEG"
+  },
+  "id": "act15d0--activities__act15d0__level_act15d0_08_beg",
+  "navigation": {
+    "nextChapterId": "act15d0--activities__act15d0__level_act15d0_08_end",
+    "previousChapterId": "act15d0--activities__act15d0__level_act15d0_07_end"
+  },
+  "subtitle": "MB-8",
+  "summary": "info/activities/act15d0/level_act15d0_08_beg",
+  "title": "激战之末"
+}

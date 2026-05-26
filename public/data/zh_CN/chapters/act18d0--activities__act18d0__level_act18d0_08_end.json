@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "WD-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WD-8_大雪将至/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WD-8_%E5%A4%A7%E9%9B%AA%E5%B0%86%E8%87%B3/END"
+  },
+  "id": "act18d0--activities__act18d0__level_act18d0_08_end",
+  "navigation": {
+    "nextChapterId": "act18d0--activities__act18d0__level_act18d0_st02",
+    "previousChapterId": "act18d0--activities__act18d0__level_act18d0_08_beg"
+  },
+  "subtitle": "WD-8",
+  "summary": "info/activities/act18d0/level_act18d0_08_end",
+  "title": "大雪将至"
+}

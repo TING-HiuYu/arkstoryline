@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "12-12",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-12_脱帽致敬/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-12_%E8%84%B1%E5%B8%BD%E8%87%B4%E6%95%AC/BEG"
+  },
+  "id": "main_12--obt__main__level_main_12-10_beg",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_main_12-11_end",
+    "previousChapterId": "main_12--obt__main__level_st_12-02"
+  },
+  "subtitle": "12-12",
+  "summary": "info/obt/main/level_main_12-10_beg",
+  "title": "脱帽致敬"
+}

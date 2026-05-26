@@ -1,0 +1,21 @@
+{
+  "albumId": "act42side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "MT-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MT-9_解经/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MT-9_%E8%A7%A3%E7%BB%8F/END"
+  },
+  "id": "act42side--activities__act42side__level_act42side_09_end",
+  "navigation": {
+    "nextChapterId": "act42side--activities__act42side__level_act42side_10_beg",
+    "previousChapterId": "act42side--activities__act42side__level_act42side_09_beg"
+  },
+  "subtitle": "MT-9",
+  "summary": "info/activities/act42side/level_act42side_09_end",
+  "title": "解经"
+}

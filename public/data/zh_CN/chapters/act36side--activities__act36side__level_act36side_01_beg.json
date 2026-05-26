@@ -1,0 +1,21 @@
+{
+  "albumId": "act36side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "DT-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DT-1_源石虫农家乐/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DT-1_%E6%BA%90%E7%9F%B3%E8%99%AB%E5%86%9C%E5%AE%B6%E4%B9%90/BEG"
+  },
+  "id": "act36side--activities__act36side__level_act36side_01_beg",
+  "navigation": {
+    "nextChapterId": "act36side--activities__act36side__level_act36side_01_end",
+    "previousChapterId": null
+  },
+  "subtitle": "DT-1",
+  "summary": "info/activities/act36side/level_act36side_01_beg",
+  "title": "源石虫农家乐"
+}

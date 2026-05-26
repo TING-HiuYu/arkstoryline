@@ -1,0 +1,21 @@
+{
+  "albumId": "act15side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IW-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IW-7_乱局/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-7_%E4%B9%B1%E5%B1%80/END"
+  },
+  "id": "act15side--activities__act15side__level_act15side_07_end",
+  "navigation": {
+    "nextChapterId": "act15side--activities__act15side__level_act15side_09_beg",
+    "previousChapterId": "act15side--activities__act15side__level_act15side_07_beg"
+  },
+  "subtitle": "IW-7",
+  "summary": "info/activities/act15side/level_act15side_07_end",
+  "title": "乱局"
+}

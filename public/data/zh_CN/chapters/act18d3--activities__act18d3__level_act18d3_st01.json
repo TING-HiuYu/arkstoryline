@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d3",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "SV-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SV-ST-1_唤醒噩梦/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-ST-1_%E5%94%A4%E9%86%92%E5%99%A9%E6%A2%A6/NBT"
+  },
+  "id": "act18d3--activities__act18d3__level_act18d3_st01",
+  "navigation": {
+    "nextChapterId": "act18d3--activities__act18d3__level_act18d3_08_beg",
+    "previousChapterId": "act18d3--activities__act18d3__level_act18d3_07_end"
+  },
+  "subtitle": "SV-ST-1",
+  "summary": "info/activities/act18d3/level_act18d3_st01",
+  "title": "唤醒噩梦"
+}

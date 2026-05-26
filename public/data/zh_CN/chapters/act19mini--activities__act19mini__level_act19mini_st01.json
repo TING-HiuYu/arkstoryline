@@ -1,0 +1,19 @@
+{
+  "albumId": "act19mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FM-ST1_胡君/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FM-ST1_%E8%83%A1%E5%90%9B/NBT"
+  },
+  "id": "act19mini--activities__act19mini__level_act19mini_st01",
+  "navigation": {
+    "nextChapterId": "act19mini--activities__act19mini__level_act19mini_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act19mini/level_act19mini_st01",
+  "title": "胡君"
+}

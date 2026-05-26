@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-EX1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-EX1_预热活动/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-EX1_%E9%A2%84%E7%83%AD%E6%B4%BB%E5%8A%A8/END"
+  },
+  "id": "act3d0--activities__act3d0__level_act3d0_ex01_end",
+  "navigation": {
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_ex03_end",
+    "previousChapterId": "act3d0--activities__act11d7__level_act11d7_st01"
+  },
+  "subtitle": "OF-EX1",
+  "summary": "info/activities/act3d0/level_act3d0_ex01_end",
+  "title": "预热活动"
+}

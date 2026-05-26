@@ -1,0 +1,19 @@
+{
+  "albumId": "act16mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TG-ST5_咧嘴的矿井/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TG-ST5_%E5%92%A7%E5%98%B4%E7%9A%84%E7%9F%BF%E4%BA%95/NBT"
+  },
+  "id": "act16mini--activities__act16mini__level_act16mini_st05",
+  "navigation": {
+    "nextChapterId": "act16mini--activities__act16mini__level_act16mini_st06",
+    "previousChapterId": "act16mini--activities__act16mini__level_act16mini_st04"
+  },
+  "summary": "info/activities/act16mini/level_act16mini_st05",
+  "title": "咧嘴的矿井"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act32side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CR-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CR-6_反艺术运动/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CR-6_%E5%8F%8D%E8%89%BA%E6%9C%AF%E8%BF%90%E5%8A%A8/BEG"
+  },
+  "id": "act32side--activities__act32side__level_act32side_06_beg",
+  "navigation": {
+    "nextChapterId": "act32side--activities__act32side__level_act32side_06_end",
+    "previousChapterId": "act32side--activities__act32side__level_act32side_05_end"
+  },
+  "subtitle": "CR-6",
+  "summary": "info/activities/act32side/level_act32side_06_beg",
+  "title": "反艺术运动"
+}

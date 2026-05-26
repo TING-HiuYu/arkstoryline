@@ -1,0 +1,21 @@
+{
+  "albumId": "act33side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "BB-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BB-ST-3_灵魂尽头/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BB-ST-3_%E7%81%B5%E9%AD%82%E5%B0%BD%E5%A4%B4/NBT"
+  },
+  "id": "act33side--activities__act33side__level_act33side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act33side--activities__act33side__level_act33side_10_end"
+  },
+  "subtitle": "BB-ST-3",
+  "summary": "info/activities/act33side/level_act33side_st03",
+  "title": "灵魂尽头"
+}

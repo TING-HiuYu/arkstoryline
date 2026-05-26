@@ -1,0 +1,21 @@
+{
+  "albumId": "main_4",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "4-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "4-5_官僚主义/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/4-5_%E5%AE%98%E5%83%9A%E4%B8%BB%E4%B9%89/END"
+  },
+  "id": "main_4--obt__main__level_main_04-05_end",
+  "navigation": {
+    "nextChapterId": "main_4--obt__main__level_main_04-06_beg",
+    "previousChapterId": "main_4--obt__main__level_main_04-05_beg"
+  },
+  "subtitle": "4-5",
+  "summary": "info/obt/main/level_main_04-05_end",
+  "title": "官僚主义"
+}

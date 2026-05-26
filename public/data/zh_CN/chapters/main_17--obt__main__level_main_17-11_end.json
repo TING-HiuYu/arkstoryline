@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "17-12",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "17-12_初次握手/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/17-12_%E5%88%9D%E6%AC%A1%E6%8F%A1%E6%89%8B/END"
+  },
+  "id": "main_17--obt__main__level_main_17-11_end",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_main_17-12_beg",
+    "previousChapterId": "main_17--obt__main__level_main_17-10_beg"
+  },
+  "subtitle": "17-12",
+  "summary": "info/obt/main/level_main_17-11_end",
+  "title": "初次握手"
+}

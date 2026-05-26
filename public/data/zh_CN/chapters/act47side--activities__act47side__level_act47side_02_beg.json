@@ -1,0 +1,21 @@
+{
+  "albumId": "act47side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "UR-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "UR-2_擅闯者/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/UR-2_%E6%93%85%E9%97%AF%E8%80%85/BEG"
+  },
+  "id": "act47side--activities__act47side__level_act47side_02_beg",
+  "navigation": {
+    "nextChapterId": "act47side--activities__act47side__level_act47side_02_end",
+    "previousChapterId": "act47side--activities__act47side__level_act47side_01_end"
+  },
+  "subtitle": "UR-2",
+  "summary": "info/activities/act47side/level_act47side_02_beg",
+  "title": "擅闯者"
+}

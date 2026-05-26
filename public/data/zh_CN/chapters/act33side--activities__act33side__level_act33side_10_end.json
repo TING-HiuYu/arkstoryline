@@ -1,0 +1,21 @@
+{
+  "albumId": "act33side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "BB-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BB-10_再见，再见/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BB-10_%E5%86%8D%E8%A7%81%EF%BC%8C%E5%86%8D%E8%A7%81/END"
+  },
+  "id": "act33side--activities__act33side__level_act33side_10_end",
+  "navigation": {
+    "nextChapterId": "act33side--activities__act33side__level_act33side_st03",
+    "previousChapterId": "act33side--activities__act33side__level_act33side_10_beg"
+  },
+  "subtitle": "BB-10",
+  "summary": "info/activities/act33side/level_act33side_10_end",
+  "title": "再见，再见"
+}

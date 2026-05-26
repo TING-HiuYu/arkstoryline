@@ -1,0 +1,21 @@
+{
+  "albumId": "act44side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "AT-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AT-5_遗祸/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AT-5_%E9%81%97%E7%A5%B8/END"
+  },
+  "id": "act44side--activities__act44side__level_act44side_05_end",
+  "navigation": {
+    "nextChapterId": "act44side--activities__act44side__level_act44side_st02",
+    "previousChapterId": "act44side--activities__act44side__level_act44side_05_beg"
+  },
+  "subtitle": "AT-5",
+  "summary": "info/activities/act44side/level_act44side_05_end",
+  "title": "遗祸"
+}

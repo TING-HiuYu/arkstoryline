@@ -1,0 +1,21 @@
+{
+  "albumId": "act33side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "BB-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BB-6_灯火闪烁不定/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BB-6_%E7%81%AF%E7%81%AB%E9%97%AA%E7%83%81%E4%B8%8D%E5%AE%9A/BEG"
+  },
+  "id": "act33side--activities__act33side__level_act33side_06_beg",
+  "navigation": {
+    "nextChapterId": "act33side--activities__act33side__level_act33side_06_end",
+    "previousChapterId": "act33side--activities__act33side__level_act33side_05_end"
+  },
+  "subtitle": "BB-6",
+  "summary": "info/activities/act33side/level_act33side_06_beg",
+  "title": "灯火闪烁不定"
+}

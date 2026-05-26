@@ -1,0 +1,21 @@
+{
+  "albumId": "act35side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "AS-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AS-7_谁是宠物？/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AS-7_%E8%B0%81%E6%98%AF%E5%AE%A0%E7%89%A9%EF%BC%9F/END"
+  },
+  "id": "act35side--activities__act35side__level_act35side_07_end",
+  "navigation": {
+    "nextChapterId": "act35side--activities__act35side__level_act35side_08_beg",
+    "previousChapterId": "act35side--activities__act35side__level_act35side_06_beg"
+  },
+  "subtitle": "AS-7",
+  "summary": "info/activities/act35side/level_act35side_07_end",
+  "title": "谁是宠物？"
+}

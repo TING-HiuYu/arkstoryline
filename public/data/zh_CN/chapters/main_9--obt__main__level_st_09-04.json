@@ -1,0 +1,21 @@
+{
+  "albumId": "main_9",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "9-21",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "9-21_重燃/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/9-21_%E9%87%8D%E7%87%83/NBT"
+  },
+  "id": "main_9--obt__main__level_st_09-04",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "main_9--obt__main__level_st_09-03"
+  },
+  "subtitle": "9-21",
+  "summary": "info/obt/main/level_st_09-04",
+  "title": "重燃"
+}

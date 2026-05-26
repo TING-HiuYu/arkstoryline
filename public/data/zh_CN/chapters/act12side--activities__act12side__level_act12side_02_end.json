@@ -1,0 +1,21 @@
+{
+  "albumId": "act12side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DH-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DH-2_首轮竞赛/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DH-2_%E9%A6%96%E8%BD%AE%E7%AB%9E%E8%B5%9B/END"
+  },
+  "id": "act12side--activities__act12side__level_act12side_02_end",
+  "navigation": {
+    "nextChapterId": "act12side--activities__act12side__level_act12side_03_beg",
+    "previousChapterId": "act12side--activities__act12side__level_act12side_02_beg"
+  },
+  "subtitle": "DH-2",
+  "summary": "info/activities/act12side/level_act12side_02_end",
+  "title": "首轮竞赛"
+}

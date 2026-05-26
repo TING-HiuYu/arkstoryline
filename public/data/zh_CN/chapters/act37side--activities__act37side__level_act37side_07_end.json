@@ -1,0 +1,21 @@
+{
+  "albumId": "act37side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "GO-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GO-7_锈王冠/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GO-7_%E9%94%88%E7%8E%8B%E5%86%A0/END"
+  },
+  "id": "act37side--activities__act37side__level_act37side_07_end",
+  "navigation": {
+    "nextChapterId": "act37side--activities__act37side__level_act37side_08_beg",
+    "previousChapterId": "act37side--activities__act37side__level_act37side_06_beg"
+  },
+  "subtitle": "GO-7",
+  "summary": "info/activities/act37side/level_act37side_07_end",
+  "title": "锈王冠"
+}

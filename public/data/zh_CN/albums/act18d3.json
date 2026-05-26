@@ -1,0 +1,328 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act18d3",
+      "avgTag": "行动前",
+      "code": "SV-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-1_闯入者/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-1_%E9%97%AF%E5%85%A5%E8%80%85/BEG"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_01_beg",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_01_beg.json",
+      "sort": 1,
+      "title": "闯入者"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "行动后",
+      "code": "SV-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-1_闯入者/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-1_%E9%97%AF%E5%85%A5%E8%80%85/END"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_01_end",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_01_end.json",
+      "sort": 2,
+      "title": "闯入者"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "行动前",
+      "code": "SV-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-2_歌手/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-2_%E6%AD%8C%E6%89%8B/BEG"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_02_beg",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_02_beg.json",
+      "sort": 3,
+      "title": "歌手"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "行动后",
+      "code": "SV-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-2_歌手/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-2_%E6%AD%8C%E6%89%8B/END"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_02_end",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_02_end.json",
+      "sort": 4,
+      "title": "歌手"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "行动前",
+      "code": "SV-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-3_外来者/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-3_%E5%A4%96%E6%9D%A5%E8%80%85/BEG"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_03_beg",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_03_beg.json",
+      "sort": 5,
+      "title": "外来者"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "行动后",
+      "code": "SV-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-3_外来者/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-3_%E5%A4%96%E6%9D%A5%E8%80%85/END"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_03_end",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_03_end.json",
+      "sort": 6,
+      "title": "外来者"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "行动前",
+      "code": "SV-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-4_海洋/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-4_%E6%B5%B7%E6%B4%8B/BEG"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_04_beg",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_04_beg.json",
+      "sort": 7,
+      "title": "海洋"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "行动后",
+      "code": "SV-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-5_遭弃者/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-5_%E9%81%AD%E5%BC%83%E8%80%85/END"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_05_end",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_05_end.json",
+      "sort": 8,
+      "title": "遭弃者"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "行动前",
+      "code": "SV-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-6_厌食/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-6_%E5%8E%8C%E9%A3%9F/BEG"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_06_beg",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_06_beg.json",
+      "sort": 9,
+      "title": "厌食"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "行动后",
+      "code": "SV-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-6_厌食/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-6_%E5%8E%8C%E9%A3%9F/END"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_06_end",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_06_end.json",
+      "sort": 10,
+      "title": "厌食"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "行动前",
+      "code": "SV-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-7_守护者/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-7_%E5%AE%88%E6%8A%A4%E8%80%85/BEG"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_07_beg",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_07_beg.json",
+      "sort": 11,
+      "title": "守护者"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "行动后",
+      "code": "SV-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-7_守护者/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-7_%E5%AE%88%E6%8A%A4%E8%80%85/END"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_07_end",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_07_end.json",
+      "sort": 12,
+      "title": "守护者"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "幕间",
+      "code": "SV-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-ST-1_唤醒噩梦/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-ST-1_%E5%94%A4%E9%86%92%E5%99%A9%E6%A2%A6/NBT"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_st01",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_st01.json",
+      "sort": 13,
+      "title": "唤醒噩梦"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "行动前",
+      "code": "SV-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-8_亲族/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-8_%E4%BA%B2%E6%97%8F/BEG"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_08_beg",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_08_beg.json",
+      "sort": 14,
+      "title": "亲族"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "行动后",
+      "code": "SV-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-8_亲族/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-8_%E4%BA%B2%E6%97%8F/END"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_08_end",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_08_end.json",
+      "sort": 15,
+      "title": "亲族"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "行动前",
+      "code": "SV-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-9_笃信者/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-9_%E7%AC%83%E4%BF%A1%E8%80%85/BEG"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_09_beg",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_09_beg.json",
+      "sort": 16,
+      "title": "笃信者"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "行动后",
+      "code": "SV-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-9_笃信者/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-9_%E7%AC%83%E4%BF%A1%E8%80%85/END"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_09_end",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_09_end.json",
+      "sort": 17,
+      "title": "笃信者"
+    },
+    {
+      "albumId": "act18d3",
+      "avgTag": "幕间",
+      "code": "SV-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-ST-2_侥幸离去/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-ST-2_%E4%BE%A5%E5%B9%B8%E7%A6%BB%E5%8E%BB/NBT"
+      },
+      "downloadable": true,
+      "id": "act18d3--activities__act18d3__level_act18d3_st02",
+      "path": "chapters/act18d3--activities__act18d3__level_act18d3_st02.json",
+      "sort": 18,
+      "title": "侥幸离去"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_under_tides",
+    "primaryImageId": "kv_under_tides",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act18d3",
+    "titleImageId": "title_under_tides",
+    "url": "https://media.prts.wiki/6/61/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E8%A6%86%E6%BD%AE%E4%B9%8B%E4%B8%8B.png"
+  },
+  "extras": [],
+  "gameOrderRank": 2011,
+  "homeSection": "sideStory",
+  "id": "act18d3",
+  "music": {
+    "arcTitle": "自海渊的一瞥",
+    "movementTitle": "自海渊的一瞥",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_13",
+      "tag_16"
+    ]
+  },
+  "slug": "act18d3",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1619852400,
+  "summary": "斯卡蒂在罗德岛上听到了许久未闻的旋律，\n循着歌声，她见到了歌蕾蒂娅。\n然而，这位曾经的同伴在相见片刻后便倏忽离去，\n掳走了幽灵鲨，并留下了一个名字。\n“盐风城”，一座了无生机，静谧诡异的海边城市。\n斯卡蒂将在那里探寻自己与同伴的血脉之谜。",
+  "timelineRank": 1619852400,
+  "title": "覆潮之下"
+}

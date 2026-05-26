@@ -1,0 +1,19 @@
+{
+  "albumId": "act17mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "KR-ST3_披床单的怪物/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/KR-ST3_%E6%8A%AB%E5%BA%8A%E5%8D%95%E7%9A%84%E6%80%AA%E7%89%A9/NBT"
+  },
+  "id": "act17mini--activities__act17mini__level_act17mini_st03",
+  "navigation": {
+    "nextChapterId": "act17mini--activities__act17mini__level_act17mini_st04",
+    "previousChapterId": "act17mini--activities__act17mini__level_act17mini_st02"
+  },
+  "summary": "info/activities/act17mini/level_act17mini_st03",
+  "title": "披床单的怪物"
+}

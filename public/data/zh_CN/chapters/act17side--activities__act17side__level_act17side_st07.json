@@ -1,0 +1,21 @@
+{
+  "albumId": "act17side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "SN-ST-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SN-ST-7_宴会厅/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-ST-7_%E5%AE%B4%E4%BC%9A%E5%8E%85/NBT"
+  },
+  "id": "act17side--activities__act17side__level_act17side_st07",
+  "navigation": {
+    "nextChapterId": "act17side--activities__act17side__level_act17side_07_end",
+    "previousChapterId": "act17side--activities__act17side__level_act17side_st06"
+  },
+  "subtitle": "SN-ST-7",
+  "summary": "info/activities/act17side/level_act17side_st07",
+  "title": "宴会厅"
+}

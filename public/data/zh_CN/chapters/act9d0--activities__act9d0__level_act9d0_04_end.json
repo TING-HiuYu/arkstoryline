@@ -1,0 +1,21 @@
+{
+  "albumId": "act9d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DM-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DM-6_远遁/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DM-6_%E8%BF%9C%E9%81%81/END"
+  },
+  "id": "act9d0--activities__act9d0__level_act9d0_04_end",
+  "navigation": {
+    "nextChapterId": "act9d0--activities__act9d0__level_act9d0_05_beg",
+    "previousChapterId": "act9d0--activities__act9d0__level_act9d0_04_beg"
+  },
+  "subtitle": "DM-6",
+  "summary": "info/activities/act9d0/level_act9d0_04_end",
+  "title": "远遁"
+}

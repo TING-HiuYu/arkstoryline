@@ -1,0 +1,21 @@
+{
+  "albumId": "act43side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "AD-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AD-6_倒带独白/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AD-6_%E5%80%92%E5%B8%A6%E7%8B%AC%E7%99%BD/BEG"
+  },
+  "id": "act43side--activities__act43side__level_act43side_06_beg",
+  "navigation": {
+    "nextChapterId": "act43side--activities__act43side__level_act43side_06_end",
+    "previousChapterId": "act43side--activities__act43side__level_act43side_05_end"
+  },
+  "subtitle": "AD-6",
+  "summary": "info/activities/act43side/level_act43side_06_beg",
+  "title": "倒带独白"
+}

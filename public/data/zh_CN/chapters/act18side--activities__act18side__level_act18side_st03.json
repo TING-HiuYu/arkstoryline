@@ -1,0 +1,21 @@
+{
+  "albumId": "act18side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "LE-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "LE-ST-3_自新大陆/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/LE-ST-3_%E8%87%AA%E6%96%B0%E5%A4%A7%E9%99%86/NBT"
+  },
+  "id": "act18side--activities__act18side__level_act18side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act18side--activities__act18side__level_act18side_08_end"
+  },
+  "subtitle": "LE-ST-3",
+  "summary": "info/activities/act18side/level_act18side_st03",
+  "title": "自新大陆"
+}

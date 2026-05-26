@@ -1,0 +1,328 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act15d0",
+      "avgTag": "行动前",
+      "code": "MB-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-1_密会/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-1_%E5%AF%86%E4%BC%9A/BEG"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_01_beg",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_01_beg.json",
+      "sort": 1,
+      "title": "密会"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "行动后",
+      "code": "MB-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-1_密会/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-1_%E5%AF%86%E4%BC%9A/END"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_01_end",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_01_end.json",
+      "sort": 2,
+      "title": "密会"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "行动前",
+      "code": "MB-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-2_另一个视角/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-2_%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%A7%86%E8%A7%92/BEG"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_02_beg",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_02_beg.json",
+      "sort": 3,
+      "title": "另一个视角"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "行动后",
+      "code": "MB-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-2_另一个视角/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-2_%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%A7%86%E8%A7%92/END"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_02_end",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_02_end.json",
+      "sort": 4,
+      "title": "另一个视角"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "行动前",
+      "code": "MB-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-3_首次遇袭/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-3_%E9%A6%96%E6%AC%A1%E9%81%87%E8%A2%AD/BEG"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_03_beg",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_03_beg.json",
+      "sort": 5,
+      "title": "首次遇袭"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "行动后",
+      "code": "MB-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-3_首次遇袭/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-3_%E9%A6%96%E6%AC%A1%E9%81%87%E8%A2%AD/END"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_03_end",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_03_end.json",
+      "sort": 6,
+      "title": "首次遇袭"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "幕间",
+      "code": "MB-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-ST-1_邀请/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-ST-1_%E9%82%80%E8%AF%B7/NBT"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_st01",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_st01.json",
+      "sort": 7,
+      "title": "邀请"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "行动前",
+      "code": "MB-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-4_勇敢，莽撞/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-4_%E5%8B%87%E6%95%A2%EF%BC%8C%E8%8E%BD%E6%92%9E/BEG"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_04_beg",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_04_beg.json",
+      "sort": 8,
+      "title": "勇敢，莽撞"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "行动后",
+      "code": "MB-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-4_勇敢，莽撞/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-4_%E5%8B%87%E6%95%A2%EF%BC%8C%E8%8E%BD%E6%92%9E/END"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_04_end",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_04_end.json",
+      "sort": 9,
+      "title": "勇敢，莽撞"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "行动前",
+      "code": "MB-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-5_危险交易/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-5_%E5%8D%B1%E9%99%A9%E4%BA%A4%E6%98%93/BEG"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_05_beg",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_05_beg.json",
+      "sort": 10,
+      "title": "危险交易"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "行动后",
+      "code": "MB-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-5_危险交易/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-5_%E5%8D%B1%E9%99%A9%E4%BA%A4%E6%98%93/END"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_05_end",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_05_end.json",
+      "sort": 11,
+      "title": "危险交易"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "行动前",
+      "code": "MB-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-6_制定计划/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-6_%E5%88%B6%E5%AE%9A%E8%AE%A1%E5%88%92/BEG"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_06_beg",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_06_beg.json",
+      "sort": 12,
+      "title": "制定计划"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "行动后",
+      "code": "MB-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-6_制定计划/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-6_%E5%88%B6%E5%AE%9A%E8%AE%A1%E5%88%92/END"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_06_end",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_06_end.json",
+      "sort": 13,
+      "title": "制定计划"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "行动前",
+      "code": "MB-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-7_背叛/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-7_%E8%83%8C%E5%8F%9B/BEG"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_07_beg",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_07_beg.json",
+      "sort": 14,
+      "title": "背叛"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "行动后",
+      "code": "MB-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-7_背叛/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-7_%E8%83%8C%E5%8F%9B/END"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_07_end",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_07_end.json",
+      "sort": 15,
+      "title": "背叛"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "行动前",
+      "code": "MB-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-8_激战之末/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-8_%E6%BF%80%E6%88%98%E4%B9%8B%E6%9C%AB/BEG"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_08_beg",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_08_beg.json",
+      "sort": 16,
+      "title": "激战之末"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "行动后",
+      "code": "MB-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-8_激战之末/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-8_%E6%BF%80%E6%88%98%E4%B9%8B%E6%9C%AB/END"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_08_end",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_08_end.json",
+      "sort": 17,
+      "title": "激战之末"
+    },
+    {
+      "albumId": "act15d0",
+      "avgTag": "幕间",
+      "code": "MB-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MB-ST-2_正确的代价/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MB-ST-2_%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BB%A3%E4%BB%B7/NBT"
+      },
+      "downloadable": true,
+      "id": "act15d0--activities__act15d0__level_act15d0_st02",
+      "path": "chapters/act15d0--activities__act15d0__level_act15d0_st02.json",
+      "sort": 18,
+      "title": "正确的代价"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_mansfield_break",
+    "primaryImageId": "kv_mansfield_break",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act15d0",
+    "titleImageId": "title_mansfield_break",
+    "url": "https://media.prts.wiki/e/e0/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E5%AD%A4%E5%B2%9B%E9%A3%8E%E4%BA%91.png"
+  },
+  "extras": [],
+  "gameOrderRank": 2007,
+  "homeSection": "sideStory",
+  "id": "act15d0",
+  "music": {
+    "arcTitle": "摘取未来之人",
+    "movementTitle": "摘取未来之人",
+    "recommended": true,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_01",
+      "tag_13"
+    ]
+  },
+  "slug": "act15d0",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1608177600,
+  "summary": "数年前，安东尼·西蒙被关押进了曼斯菲尔德监狱。\n他一直暗中谋划着越狱，找出当年的真相。\n然而，一场针对他的阴谋，也在悄然酝酿。\n偶然发现安东尼存在的赫默，早已暗中行动的塞雷娅，\n来意不明的缪尔赛思，海德兄弟与其背后的能量科。\n或许那场酒吧中的夜谈，可以揭开这场阴谋的真面目，\n以及莱茵生命神秘面纱的一角。",
+  "timelineRank": 1608177600,
+  "title": "孤岛风云"
+}

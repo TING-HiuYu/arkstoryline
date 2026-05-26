@@ -1,0 +1,21 @@
+{
+  "albumId": "act39side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "EP-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EP-2_腿部拆卸疗法/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EP-2_%E8%85%BF%E9%83%A8%E6%8B%86%E5%8D%B8%E7%96%97%E6%B3%95/END"
+  },
+  "id": "act39side--activities__act39side__level_act39side_02_end",
+  "navigation": {
+    "nextChapterId": "act39side--activities__act39side__level_act39side_03_beg",
+    "previousChapterId": "act39side--activities__act39side__level_act39side_02_beg"
+  },
+  "subtitle": "EP-2",
+  "summary": "info/activities/act39side/level_act39side_02_end",
+  "title": "腿部拆卸疗法"
+}

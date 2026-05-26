@@ -1,0 +1,19 @@
+{
+  "albumId": "act20mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CG-ST4_撞车/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CG-ST4_%E6%92%9E%E8%BD%A6/NBT"
+  },
+  "id": "act20mini--activities__act20mini__level_act20mini_st04",
+  "navigation": {
+    "nextChapterId": "act20mini--activities__act20mini__level_act20mini_st05",
+    "previousChapterId": "act20mini--activities__act20mini__level_act20mini_st03"
+  },
+  "summary": "info/activities/act20mini/level_act20mini_st04",
+  "title": "撞车"
+}

@@ -1,0 +1,105 @@
+{
+  "albumKind": "otherStory",
+  "chapters": [
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RA2-END-1/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RA2-END-1/NBT"
+      },
+      "id": "other-story-重启锚点-399ad3d227--ra2-end-1-nbt",
+      "sort": 1,
+      "title": "希望的升空"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RA2-END-2/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RA2-END-2/NBT"
+      },
+      "id": "other-story-重启锚点-399ad3d227--ra2-end-2-nbt",
+      "sort": 2,
+      "title": "家园的样貌"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RA2-END-3/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RA2-END-3/NBT"
+      },
+      "id": "other-story-重启锚点-399ad3d227--ra2-end-3-nbt",
+      "sort": 3,
+      "title": "温暖的承诺"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RA2-END-4/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RA2-END-4/NBT"
+      },
+      "id": "other-story-重启锚点-399ad3d227--ra2-end-4-nbt",
+      "sort": 4,
+      "title": "一个拥抱可不够"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RA2-SP-1/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RA2-SP-1/NBT"
+      },
+      "id": "other-story-重启锚点-399ad3d227--ra2-sp-1-nbt",
+      "sort": 5,
+      "title": "那不是我"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RA2-SP-2/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RA2-SP-2/NBT"
+      },
+      "id": "other-story-重启锚点-399ad3d227--ra2-sp-2-nbt",
+      "sort": 6,
+      "title": "赠予"
+    },
+    {
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RA2/ENTRY",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RA2/ENTRY"
+      },
+      "id": "other-story-重启锚点-399ad3d227--ra2-entry",
+      "sort": 7,
+      "title": "可露希尔的任务汇报"
+    }
+  ],
+  "gameOrderRank": 900000015,
+  "homeSection": "otherStory",
+  "id": "other-story-重启锚点-399ad3d227",
+  "otherStory": {
+    "albumTitle": "重启锚点",
+    "groupTitle": "生息演算",
+    "sourceSection": "other"
+  },
+  "slug": "other-story-重启锚点-399ad3d227",
+  "source": {
+    "path": "storyline.index.sections.other",
+    "providerId": "prts",
+    "revision": "2026-05-26T20:55:23.000119+00:00"
+  },
+  "sourceEntryType": "ARCHIVE_EXTRA",
+  "timelineRank": 900000015,
+  "title": "重启锚点"
+}

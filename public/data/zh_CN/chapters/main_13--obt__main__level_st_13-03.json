@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "13-22",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "13-22_灾厄积渐/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-22_%E7%81%BE%E5%8E%84%E7%A7%AF%E6%B8%90/NBT"
+  },
+  "id": "main_13--obt__main__level_st_13-03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "main_13--obt__main__level_main_13-19_end"
+  },
+  "subtitle": "13-22",
+  "summary": "info/obt/main/level_st_13-03",
+  "title": "灾厄积渐"
+}

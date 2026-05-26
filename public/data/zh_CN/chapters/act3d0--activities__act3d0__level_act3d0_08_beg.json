@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-8_汐斯塔狂想曲/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-8_%E6%B1%90%E6%96%AF%E5%A1%94%E7%8B%82%E6%83%B3%E6%9B%B2/BEG"
+  },
+  "id": "act3d0--activities__act3d0__level_act3d0_08_beg",
+  "navigation": {
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_08_end",
+    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_07_end"
+  },
+  "subtitle": "OF-8",
+  "summary": "info/activities/act3d0/level_act3d0_08_beg",
+  "title": "汐斯塔狂想曲"
+}

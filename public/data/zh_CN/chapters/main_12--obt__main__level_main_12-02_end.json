@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "12-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-3_善意背叛/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-3_%E5%96%84%E6%84%8F%E8%83%8C%E5%8F%9B/END"
+  },
+  "id": "main_12--obt__main__level_main_12-02_end",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_main_12-03_beg",
+    "previousChapterId": "main_12--obt__main__level_main_12-02_beg"
+  },
+  "subtitle": "12-3",
+  "summary": "info/obt/main/level_main_12-02_end",
+  "title": "善意背叛"
+}

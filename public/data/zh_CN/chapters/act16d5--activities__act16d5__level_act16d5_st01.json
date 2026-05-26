@@ -1,0 +1,21 @@
+{
+  "albumId": "act16d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "WR-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WR-ST-1_一钳之恩/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WR-ST-1_%E4%B8%80%E9%92%B3%E4%B9%8B%E6%81%A9/NBT"
+  },
+  "id": "act16d5--activities__act16d5__level_act16d5_st01",
+  "navigation": {
+    "nextChapterId": "act16d5--activities__act16d5__level_act16d5_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "WR-ST-1",
+  "summary": "info/activities/act16d5/level_act16d5_st01",
+  "title": "一钳之恩"
+}

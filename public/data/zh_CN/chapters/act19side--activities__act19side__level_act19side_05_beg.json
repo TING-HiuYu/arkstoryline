@@ -1,0 +1,21 @@
+{
+  "albumId": "act19side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "DV-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DV-5_多萝西的承诺/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DV-5_%E5%A4%9A%E8%90%9D%E8%A5%BF%E7%9A%84%E6%89%BF%E8%AF%BA/BEG"
+  },
+  "id": "act19side--activities__act19side__level_act19side_05_beg",
+  "navigation": {
+    "nextChapterId": "act19side--activities__act19side__level__act19side_sub-1-1",
+    "previousChapterId": "act19side--activities__act19side__level_act19side_04_end"
+  },
+  "subtitle": "DV-5",
+  "summary": "info/activities/act19side/level_act19side_05_beg",
+  "title": "多萝西的承诺"
+}

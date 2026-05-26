@@ -1,0 +1,143 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act9mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PS-ST1_红松/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PS-ST1_%E7%BA%A2%E6%9D%BE/NBT"
+      },
+      "downloadable": true,
+      "id": "act9mini--activities__act9mini__level_act9mini_st01",
+      "path": "chapters/act9mini--activities__act9mini__level_act9mini_st01.json",
+      "sort": 1,
+      "title": "红松"
+    },
+    {
+      "albumId": "act9mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PS-ST2_落灰/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PS-ST2_%E8%90%BD%E7%81%B0/NBT"
+      },
+      "downloadable": true,
+      "id": "act9mini--activities__act9mini__level_act9mini_st02",
+      "path": "chapters/act9mini--activities__act9mini__level_act9mini_st02.json",
+      "sort": 2,
+      "title": "落灰"
+    },
+    {
+      "albumId": "act9mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PS-ST3_我也要大干一场/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PS-ST3_%E6%88%91%E4%B9%9F%E8%A6%81%E5%A4%A7%E5%B9%B2%E4%B8%80%E5%9C%BA/NBT"
+      },
+      "downloadable": true,
+      "id": "act9mini--activities__act9mini__level_act9mini_st03",
+      "path": "chapters/act9mini--activities__act9mini__level_act9mini_st03.json",
+      "sort": 3,
+      "title": "我也要大干一场"
+    },
+    {
+      "albumId": "act9mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PS-ST4_只影孤身/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PS-ST4_%E5%8F%AA%E5%BD%B1%E5%AD%A4%E8%BA%AB/NBT"
+      },
+      "downloadable": true,
+      "id": "act9mini--activities__act9mini__level_act9mini_st04",
+      "path": "chapters/act9mini--activities__act9mini__level_act9mini_st04.json",
+      "sort": 4,
+      "title": "只影孤身"
+    },
+    {
+      "albumId": "act9mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PS-ST5_骑士之道/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PS-ST5_%E9%AA%91%E5%A3%AB%E4%B9%8B%E9%81%93/NBT"
+      },
+      "downloadable": true,
+      "id": "act9mini--activities__act9mini__level_act9mini_st05",
+      "path": "chapters/act9mini--activities__act9mini__level_act9mini_st05.json",
+      "sort": 5,
+      "title": "骑士之道"
+    },
+    {
+      "albumId": "act9mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PS-ST6_大人物/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PS-ST6_%E5%A4%A7%E4%BA%BA%E7%89%A9/NBT"
+      },
+      "downloadable": true,
+      "id": "act9mini--activities__act9mini__level_act9mini_st06",
+      "path": "chapters/act9mini--activities__act9mini__level_act9mini_st06.json",
+      "sort": 6,
+      "title": "大人物"
+    },
+    {
+      "albumId": "act9mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PS-ST7_随风飘荡/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PS-ST7_%E9%9A%8F%E9%A3%8E%E9%A3%98%E8%8D%A1/NBT"
+      },
+      "downloadable": true,
+      "id": "act9mini--activities__act9mini__level_act9mini_st07",
+      "path": "chapters/act9mini--activities__act9mini__level_act9mini_st07.json",
+      "sort": 7,
+      "title": "随风飘荡"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_pinus_sylvestris",
+    "primaryImageId": "kv_pinus_sylvestris",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act9mini",
+    "storyPicId": "storyPic_act9mini",
+    "titleImageId": "title_pinus_sylvestris",
+    "url": "https://media.prts.wiki/9/95/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%BA%A2%E6%9D%BE%E6%9E%97.png"
+  },
+  "extras": [],
+  "gameOrderRank": 3005,
+  "homeSection": "sideStory",
+  "id": "act9mini",
+  "music": {
+    "arcTitle": "霓虹之下",
+    "movementTitle": "霓虹之下",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act9mini",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1634284800,
+  "summary": "权力的较量，家族的纷争，\n置身其中的每个人，都难以做回原本的自己。\n对于索娜来说，每个决策既是重担，\n也是身边其他感染者的希望。\n必须像红松的针叶一样，锋利，且坚决。",
+  "timelineRank": 1634284800,
+  "title": "红松林"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act13d5",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "MN-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MN-1_艾伦精选/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MN-1_%E8%89%BE%E4%BC%A6%E7%B2%BE%E9%80%89/END"
+  },
+  "id": "act13d5--activities__act13d5__level_act13d5_01_end",
+  "navigation": {
+    "nextChapterId": "act13d5--activities__act13d5__level_act13d5_02_beg",
+    "previousChapterId": "act13d5--activities__act13d5__level_act13d5_01_beg"
+  },
+  "subtitle": "MN-1",
+  "summary": "info/activities/act13d5/level_act13d5_01_end",
+  "title": "艾伦精选"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act33side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "BB-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BB-2_命途何在/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BB-2_%E5%91%BD%E9%80%94%E4%BD%95%E5%9C%A8/END"
+  },
+  "id": "act33side--activities__act33side__level_act33side_02_end",
+  "navigation": {
+    "nextChapterId": "act33side--activities__act33side__level_act33side_03_beg",
+    "previousChapterId": "act33side--activities__act33side__level_act33side_02_beg"
+  },
+  "subtitle": "BB-2",
+  "summary": "info/activities/act33side/level_act33side_02_end",
+  "title": "命途何在"
+}

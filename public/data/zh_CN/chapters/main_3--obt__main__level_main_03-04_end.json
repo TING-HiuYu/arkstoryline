@@ -1,0 +1,21 @@
+{
+  "albumId": "main_3",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "3-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "3-4_龟裂/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/3-4_%E9%BE%9F%E8%A3%82/END"
+  },
+  "id": "main_3--obt__main__level_main_03-04_end",
+  "navigation": {
+    "nextChapterId": "main_3--obt__main__level_main_03-05_beg",
+    "previousChapterId": "main_3--obt__main__level_main_03-04_beg"
+  },
+  "subtitle": "3-4",
+  "summary": "info/obt/main/level_main_03-04_end",
+  "title": "龟裂"
+}

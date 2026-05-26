@@ -1,0 +1,19 @@
+{
+  "albumId": "act6d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AF-ST1_洪炉示岁·迎春/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AF-ST1_%E6%B4%AA%E7%82%89%E7%A4%BA%E5%B2%81%C2%B7%E8%BF%8E%E6%98%A5/NBT"
+  },
+  "id": "act6d5--activities__act6d5__level_act6d5_st01",
+  "navigation": {
+    "nextChapterId": "act6d5--activities__act6d5__level_act6d5_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act6d5/level_act6d5_st01",
+  "title": "洪炉示岁·迎春"
+}

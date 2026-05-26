@@ -1,0 +1,21 @@
+{
+  "albumId": "1stact",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "GT-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GT-6_黄金三角/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GT-6_%E9%BB%84%E9%87%91%E4%B8%89%E8%A7%92/END"
+  },
+  "id": "1stact--activities__a001__level_a001_06_end",
+  "navigation": {
+    "nextChapterId": "1stact--activities__a001__level_a001_ex01_end",
+    "previousChapterId": "1stact--activities__a001__level_a001_06_beg"
+  },
+  "subtitle": "GT-6",
+  "summary": "info/activities/a001/level_a001_06_end",
+  "title": "黄金三角"
+}

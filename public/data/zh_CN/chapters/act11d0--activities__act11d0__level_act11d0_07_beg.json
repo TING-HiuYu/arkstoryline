@@ -1,0 +1,21 @@
+{
+  "albumId": "act11d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "TW-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TW-7_群峦崩塌/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TW-7_%E7%BE%A4%E5%B3%A6%E5%B4%A9%E5%A1%8C/BEG"
+  },
+  "id": "act11d0--activities__act11d0__level_act11d0_07_beg",
+  "navigation": {
+    "nextChapterId": "act11d0--activities__act11d0__level_act11d0_07_end",
+    "previousChapterId": "act11d0--activities__act11d0__level_act11d0_06_end"
+  },
+  "subtitle": "TW-7",
+  "summary": "info/activities/act11d0/level_act11d0_07_beg",
+  "title": "群峦崩塌"
+}

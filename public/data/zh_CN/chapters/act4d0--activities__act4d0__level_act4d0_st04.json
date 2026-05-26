@@ -1,0 +1,19 @@
+{
+  "albumId": "act4d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SW-ST4_存续公正/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SW-ST4_%E5%AD%98%E7%BB%AD%E5%85%AC%E6%AD%A3/NBT"
+  },
+  "id": "act4d0--activities__act4d0__level_act4d0_st04",
+  "navigation": {
+    "nextChapterId": "act4d0--activities__act4d0__level_act4d0_st05",
+    "previousChapterId": "act4d0--activities__act4d0__level_act4d0_st03"
+  },
+  "summary": "info/activities/act4d0/level_act4d0_st04",
+  "title": "存续公正"
+}

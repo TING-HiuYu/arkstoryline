@@ -1,0 +1,19 @@
+{
+  "albumId": "act19mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FM-ST2_蒲先生/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FM-ST2_%E8%92%B2%E5%85%88%E7%94%9F/NBT"
+  },
+  "id": "act19mini--activities__act19mini__level_act19mini_st02",
+  "navigation": {
+    "nextChapterId": "act19mini--activities__act19mini__level_act19mini_st03",
+    "previousChapterId": "act19mini--activities__act19mini__level_act19mini_st01"
+  },
+  "summary": "info/activities/act19mini/level_act19mini_st02",
+  "title": "蒲先生"
+}

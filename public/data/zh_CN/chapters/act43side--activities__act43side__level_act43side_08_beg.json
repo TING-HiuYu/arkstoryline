@@ -1,0 +1,21 @@
+{
+  "albumId": "act43side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "AD-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AD-8_登台致礼/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AD-8_%E7%99%BB%E5%8F%B0%E8%87%B4%E7%A4%BC/BEG"
+  },
+  "id": "act43side--activities__act43side__level_act43side_08_beg",
+  "navigation": {
+    "nextChapterId": "act43side--activities__act43side__level_act43side_08_end",
+    "previousChapterId": "act43side--activities__act43side__level_act43side_07_end"
+  },
+  "subtitle": "AD-8",
+  "summary": "info/activities/act43side/level_act43side_08_beg",
+  "title": "登台致礼"
+}

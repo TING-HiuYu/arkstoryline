@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "13-15",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "13-15_短暂齐聚/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-15_%E7%9F%AD%E6%9A%82%E9%BD%90%E8%81%9A/END"
+  },
+  "id": "main_13--obt__main__level_main_13-13_end",
+  "navigation": {
+    "nextChapterId": "main_13--obt__main__level_main_13-14_beg",
+    "previousChapterId": "main_13--obt__main__level_main_13-12_end"
+  },
+  "subtitle": "13-15",
+  "summary": "info/obt/main/level_main_13-13_end",
+  "title": "短暂齐聚"
+}

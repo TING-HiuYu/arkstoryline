@@ -1,0 +1,21 @@
+{
+  "albumId": "act5d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CB-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CB-9_0:01A.M./BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-9_0%3A01A.M./BEG"
+  },
+  "id": "act5d0--activities__act5d0__level_act5d0_09_beg",
+  "navigation": {
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_09_end",
+    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_08_end"
+  },
+  "subtitle": "CB-9",
+  "summary": "info/activities/act5d0/level_act5d0_09_beg",
+  "title": "0:01A.M."
+}

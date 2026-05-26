@@ -1,0 +1,21 @@
+{
+  "albumId": "act22side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "FC-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FC-7_生灵火花/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FC-7_%E7%94%9F%E7%81%B5%E7%81%AB%E8%8A%B1/BEG"
+  },
+  "id": "act22side--activities__act22side__level_act22side_07_beg",
+  "navigation": {
+    "nextChapterId": "act22side--activities__act22side__level_act22side_07_end",
+    "previousChapterId": "act22side--activities__act22side__level_act22side_06_end"
+  },
+  "subtitle": "FC-7",
+  "summary": "info/activities/act22side/level_act22side_07_beg",
+  "title": "生灵火花"
+}

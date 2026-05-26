@@ -1,0 +1,21 @@
+{
+  "albumId": "act18side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "LE-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "LE-ST-1_华丽大圆舞曲/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/LE-ST-1_%E5%8D%8E%E4%B8%BD%E5%A4%A7%E5%9C%86%E8%88%9E%E6%9B%B2/NBT"
+  },
+  "id": "act18side--activities__act18side__level_act18side_st01",
+  "navigation": {
+    "nextChapterId": "act18side--activities__act18side__level_act18side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "LE-ST-1",
+  "summary": "info/activities/act18side/level_act18side_st01",
+  "title": "华丽大圆舞曲"
+}

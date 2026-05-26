@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "R8-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "R8-4_火种，一触即灭/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/R8-4_%E7%81%AB%E7%A7%8D%EF%BC%8C%E4%B8%80%E8%A7%A6%E5%8D%B3%E7%81%AD/BEG"
+  },
+  "id": "main_8--obt__main__level_main_08-04_beg",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_main_08-04_end",
+    "previousChapterId": "main_8--obt__main__level_st_08-02"
+  },
+  "subtitle": "R8-4",
+  "summary": "info/obt/main/level_main_08-04_beg",
+  "title": "火种，一触即灭"
+}

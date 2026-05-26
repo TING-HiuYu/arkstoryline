@@ -1,0 +1,21 @@
+{
+  "albumId": "main_2",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "2-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "2-2_兵不接刃/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/2-2_%E5%85%B5%E4%B8%8D%E6%8E%A5%E5%88%83/END"
+  },
+  "id": "main_2--obt__main__level_main_02-02_end",
+  "navigation": {
+    "nextChapterId": "main_2--obt__main__level_main_02-03_beg",
+    "previousChapterId": "main_2--obt__main__level_main_02-02_beg"
+  },
+  "subtitle": "2-2",
+  "summary": "info/obt/main/level_main_02-02_end",
+  "title": "兵不接刃"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act18side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "LE-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "LE-3_自由射手/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/LE-3_%E8%87%AA%E7%94%B1%E5%B0%84%E6%89%8B/END"
+  },
+  "id": "act18side--activities__act18side__level_act18side_03_end",
+  "navigation": {
+    "nextChapterId": "act18side--activities__act18side__level_act18side_04_beg",
+    "previousChapterId": "act18side--activities__act18side__level_act18side_03_beg"
+  },
+  "subtitle": "LE-3",
+  "summary": "info/activities/act18side/level_act18side_03_end",
+  "title": "自由射手"
+}

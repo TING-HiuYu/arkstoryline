@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-2_大头鬼/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-2_%E5%A4%A7%E5%A4%B4%E9%AC%BC/BEG"
+  },
+  "id": "act49side--activities__act49side__level_act49side_02_beg",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_02_end",
+    "previousChapterId": "act49side--activities__act49side__level_act49side_01_end"
+  },
+  "subtitle": "TA-2",
+  "summary": "info/activities/act49side/level_act49side_02_beg",
+  "title": "大头鬼"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act41side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "EA-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EA-6_失路人/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-6_%E5%A4%B1%E8%B7%AF%E4%BA%BA/BEG"
+  },
+  "id": "act41side--activities__act41side__level_act41side_06_beg",
+  "navigation": {
+    "nextChapterId": "act41side--activities__act41side__level_act41side_06_end",
+    "previousChapterId": "act41side--activities__act41side__level_act41side_05_end"
+  },
+  "subtitle": "EA-6",
+  "summary": "info/activities/act41side/level_act41side_06_beg",
+  "title": "失路人"
+}

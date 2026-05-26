@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-8_金错刀/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-8_%E9%87%91%E9%94%99%E5%88%80/BEG"
+  },
+  "id": "act49side--activities__act49side__level_act49side_08_beg",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_08_end",
+    "previousChapterId": "act49side--activities__act49side__level_act49side_07_end"
+  },
+  "subtitle": "TA-8",
+  "summary": "info/activities/act49side/level_act49side_08_beg",
+  "title": "金错刀"
+}

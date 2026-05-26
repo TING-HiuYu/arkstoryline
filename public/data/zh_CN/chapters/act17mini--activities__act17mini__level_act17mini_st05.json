@@ -1,0 +1,19 @@
+{
+  "albumId": "act17mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "KR-ST5_女巫与下午茶/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/KR-ST5_%E5%A5%B3%E5%B7%AB%E4%B8%8E%E4%B8%8B%E5%8D%88%E8%8C%B6/NBT"
+  },
+  "id": "act17mini--activities__act17mini__level_act17mini_st05",
+  "navigation": {
+    "nextChapterId": "act17mini--activities__act17mini__level_act17mini_st06",
+    "previousChapterId": "act17mini--activities__act17mini__level_act17mini_st04"
+  },
+  "summary": "info/activities/act17mini/level_act17mini_st05",
+  "title": "女巫与下午茶"
+}

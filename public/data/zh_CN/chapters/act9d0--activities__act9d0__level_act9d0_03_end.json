@@ -1,0 +1,21 @@
+{
+  "albumId": "act9d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DM-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DM-5_旗帜/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DM-5_%E6%97%97%E5%B8%9C/END"
+  },
+  "id": "act9d0--activities__act9d0__level_act9d0_03_end",
+  "navigation": {
+    "nextChapterId": "act9d0--activities__act9d0__level_act9d0_04_beg",
+    "previousChapterId": "act9d0--activities__act9d0__level_act9d0_03_beg"
+  },
+  "subtitle": "DM-5",
+  "summary": "info/activities/act9d0/level_act9d0_03_end",
+  "title": "旗帜"
+}

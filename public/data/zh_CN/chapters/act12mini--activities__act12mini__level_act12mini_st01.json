@@ -1,0 +1,19 @@
+{
+  "albumId": "act12mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AW-ST1_荒舍/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AW-ST1_%E8%8D%92%E8%88%8D/NBT"
+  },
+  "id": "act12mini--activities__act12mini__level_act12mini_st01",
+  "navigation": {
+    "nextChapterId": "act12mini--activities__act12mini__level_act12mini_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act12mini/level_act12mini_st01",
+  "title": "荒舍"
+}

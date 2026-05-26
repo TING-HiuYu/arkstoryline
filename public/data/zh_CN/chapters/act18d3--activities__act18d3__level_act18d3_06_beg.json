@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d3",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "SV-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SV-6_厌食/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-6_%E5%8E%8C%E9%A3%9F/BEG"
+  },
+  "id": "act18d3--activities__act18d3__level_act18d3_06_beg",
+  "navigation": {
+    "nextChapterId": "act18d3--activities__act18d3__level_act18d3_06_end",
+    "previousChapterId": "act18d3--activities__act18d3__level_act18d3_05_end"
+  },
+  "subtitle": "SV-6",
+  "summary": "info/activities/act18d3/level_act18d3_06_beg",
+  "title": "厌食"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "1stact",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "GT-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GT-3_意外之旅/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GT-3_%E6%84%8F%E5%A4%96%E4%B9%8B%E6%97%85/END"
+  },
+  "id": "1stact--activities__a001__level_a001_03_end",
+  "navigation": {
+    "nextChapterId": "1stact--activities__a001__level_a001_04_beg",
+    "previousChapterId": "1stact--activities__a001__level_a001_03_beg"
+  },
+  "subtitle": "GT-3",
+  "summary": "info/activities/a001/level_a001_03_end",
+  "title": "意外之旅"
+}

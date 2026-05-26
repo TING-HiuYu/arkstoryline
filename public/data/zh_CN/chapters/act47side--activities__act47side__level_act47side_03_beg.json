@@ -1,0 +1,21 @@
+{
+  "albumId": "act47side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "UR-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "UR-3_跌落保护/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/UR-3_%E8%B7%8C%E8%90%BD%E4%BF%9D%E6%8A%A4/BEG"
+  },
+  "id": "act47side--activities__act47side__level_act47side_03_beg",
+  "navigation": {
+    "nextChapterId": "act47side--activities__act47side__level_act47side_03_end",
+    "previousChapterId": "act47side--activities__act47side__level_act47side_02_end"
+  },
+  "subtitle": "UR-3",
+  "summary": "info/activities/act47side/level_act47side_03_beg",
+  "title": "跌落保护"
+}

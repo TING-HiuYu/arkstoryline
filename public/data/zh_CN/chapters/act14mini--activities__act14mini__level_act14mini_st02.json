@@ -1,0 +1,19 @@
+{
+  "albumId": "act14mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DC-ST2_中庭旅谷/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DC-ST2_%E4%B8%AD%E5%BA%AD%E6%97%85%E8%B0%B7/NBT"
+  },
+  "id": "act14mini--activities__act14mini__level_act14mini_st02",
+  "navigation": {
+    "nextChapterId": "act14mini--activities__act14mini__level_act14mini_st03",
+    "previousChapterId": "act14mini--activities__act14mini__level_act14mini_st01"
+  },
+  "summary": "info/activities/act14mini/level_act14mini_st02",
+  "title": "中庭旅谷"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_9",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "9-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "9-7_捉迷藏/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/9-7_%E6%8D%89%E8%BF%B7%E8%97%8F/END"
+  },
+  "id": "main_9--obt__main__level_main_09-06_end",
+  "navigation": {
+    "nextChapterId": "main_9--obt__main__level_st_09-02",
+    "previousChapterId": "main_9--obt__main__level_main_09-05_beg"
+  },
+  "subtitle": "9-7",
+  "summary": "info/obt/main/level_main_09-06_end",
+  "title": "捉迷藏"
+}

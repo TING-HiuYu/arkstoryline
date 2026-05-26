@@ -1,0 +1,21 @@
+{
+  "albumId": "act5d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "CB-ST1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CB-ST1_晚风轻拂/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-ST1_%E6%99%9A%E9%A3%8E%E8%BD%BB%E6%8B%82/NBT"
+  },
+  "id": "act5d0--activities__act5d0__level_act5d0_st01",
+  "navigation": {
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_06_beg",
+    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_05_end"
+  },
+  "subtitle": "CB-ST1",
+  "summary": "info/activities/act5d0/level_act5d0_st01",
+  "title": "晚风轻拂"
+}

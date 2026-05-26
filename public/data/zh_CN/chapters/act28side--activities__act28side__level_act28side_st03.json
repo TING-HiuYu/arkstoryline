@@ -1,0 +1,21 @@
+{
+  "albumId": "act28side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "CV-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CV-ST-3_法外之徒/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CV-ST-3_%E6%B3%95%E5%A4%96%E4%B9%8B%E5%BE%92/NBT"
+  },
+  "id": "act28side--activities__act28side__level_act28side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act28side--activities__act28side__level_act28side_08_end"
+  },
+  "subtitle": "CV-ST-3",
+  "summary": "info/activities/act28side/level_act28side_st03",
+  "title": "法外之徒"
+}

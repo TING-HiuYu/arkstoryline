@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "WD-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WD-7_家园/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WD-7_%E5%AE%B6%E5%9B%AD/END"
+  },
+  "id": "act18d0--activities__act18d0__level_act18d0_07_end",
+  "navigation": {
+    "nextChapterId": "act18d0--activities__act18d0__level_act18d0_08_beg",
+    "previousChapterId": "act18d0--activities__act18d0__level_act18d0_07_beg"
+  },
+  "subtitle": "WD-7",
+  "summary": "info/activities/act18d0/level_act18d0_07_end",
+  "title": "家园"
+}

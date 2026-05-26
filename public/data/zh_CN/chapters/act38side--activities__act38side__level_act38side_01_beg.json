@@ -1,0 +1,21 @@
+{
+  "albumId": "act38side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "PV-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PV-1_失途/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-1_%E5%A4%B1%E9%80%94/BEG"
+  },
+  "id": "act38side--activities__act38side__level_act38side_01_beg",
+  "navigation": {
+    "nextChapterId": "act38side--activities__act38side__level_act38side_01_end",
+    "previousChapterId": "act38side--activities__act38side__level_act38side_st01"
+  },
+  "subtitle": "PV-1",
+  "summary": "info/activities/act38side/level_act38side_01_beg",
+  "title": "失途"
+}

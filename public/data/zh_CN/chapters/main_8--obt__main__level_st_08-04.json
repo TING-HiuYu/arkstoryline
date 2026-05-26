@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "M8-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "M8-4_意志，片缕幻影/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/M8-4_%E6%84%8F%E5%BF%97%EF%BC%8C%E7%89%87%E7%BC%95%E5%B9%BB%E5%BD%B1/NBT"
+  },
+  "id": "main_8--obt__main__level_st_08-04",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_main_08-06_beg",
+    "previousChapterId": "main_8--obt__main__level_main_08-05_end"
+  },
+  "subtitle": "M8-4",
+  "summary": "info/obt/main/level_st_08-04",
+  "title": "意志，片缕幻影"
+}

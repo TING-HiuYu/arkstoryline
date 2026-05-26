@@ -1,0 +1,21 @@
+{
+  "albumId": "act35side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "AS-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AS-3_相约大巴扎/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AS-3_%E7%9B%B8%E7%BA%A6%E5%A4%A7%E5%B7%B4%E6%89%8E/END"
+  },
+  "id": "act35side--activities__act35side__level_act35side_03_end",
+  "navigation": {
+    "nextChapterId": "act35side--activities__act35side__level_act35side_04_beg",
+    "previousChapterId": "act35side--activities__act35side__level_act35side_03_beg"
+  },
+  "subtitle": "AS-3",
+  "summary": "info/activities/act35side/level_act35side_03_end",
+  "title": "相约大巴扎"
+}

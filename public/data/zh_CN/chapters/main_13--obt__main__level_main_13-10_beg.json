@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "13-12",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "13-12_破碎温室/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-12_%E7%A0%B4%E7%A2%8E%E6%B8%A9%E5%AE%A4/BEG"
+  },
+  "id": "main_13--obt__main__level_main_13-10_beg",
+  "navigation": {
+    "nextChapterId": "main_13--obt__main__level_main_13-12_end",
+    "previousChapterId": "main_13--obt__main__level_main_13-09_beg"
+  },
+  "subtitle": "13-12",
+  "summary": "info/obt/main/level_main_13-10_beg",
+  "title": "破碎温室"
+}

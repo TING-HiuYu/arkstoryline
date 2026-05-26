@@ -1,0 +1,21 @@
+{
+  "albumId": "act34side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "BP-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BP-ST-3_歧路者与同行者/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BP-ST-3_%E6%AD%A7%E8%B7%AF%E8%80%85%E4%B8%8E%E5%90%8C%E8%A1%8C%E8%80%85/NBT"
+  },
+  "id": "act34side--activities__act34side__level_act34side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act34side--activities__act34side__level_act34side_08_end"
+  },
+  "subtitle": "BP-ST-3",
+  "summary": "info/activities/act34side/level_act34side_st03",
+  "title": "歧路者与同行者"
+}

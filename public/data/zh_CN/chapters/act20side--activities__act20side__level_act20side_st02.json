@@ -1,0 +1,21 @@
+{
+  "albumId": "act20side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "IC-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IC-ST-2_失乐园/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IC-ST-2_%E5%A4%B1%E4%B9%90%E5%9B%AD/NBT"
+  },
+  "id": "act20side--activities__act20side__level_act20side_st02",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act20side--activities__act20side__level_act20side_09_end"
+  },
+  "subtitle": "IC-ST-2",
+  "summary": "info/activities/act20side/level_act20side_st02",
+  "title": "失乐园"
+}

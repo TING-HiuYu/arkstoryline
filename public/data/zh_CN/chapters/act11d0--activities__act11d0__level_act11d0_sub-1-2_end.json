@@ -1,0 +1,21 @@
+{
+  "albumId": "act11d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "TW-S-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TW-S-2_一束哀悼/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TW-S-2_%E4%B8%80%E6%9D%9F%E5%93%80%E6%82%BC/END"
+  },
+  "id": "act11d0--activities__act11d0__level_act11d0_sub-1-2_end",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act11d0--activities__act11d0__level_act11d0_sub-1-1_end"
+  },
+  "subtitle": "TW-S-2",
+  "summary": "info/activities/act11d0/level_act11d0_sub-1-2_end",
+  "title": "一束哀悼"
+}

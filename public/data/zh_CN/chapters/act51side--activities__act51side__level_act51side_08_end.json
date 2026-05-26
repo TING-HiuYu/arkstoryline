@@ -1,0 +1,21 @@
+{
+  "albumId": "act51side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "PA-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PA-8_一千年后/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PA-8_%E4%B8%80%E5%8D%83%E5%B9%B4%E5%90%8E/END"
+  },
+  "id": "act51side--activities__act51side__level_act51side_08_end",
+  "navigation": {
+    "nextChapterId": "act51side--activities__act51side__level_act51side_st02",
+    "previousChapterId": "act51side--activities__act51side__level_act51side_08_beg"
+  },
+  "subtitle": "PA-8",
+  "summary": "info/activities/act51side/level_act51side_08_end",
+  "title": "一千年后"
+}

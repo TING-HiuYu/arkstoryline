@@ -1,0 +1,21 @@
+{
+  "albumId": "act34side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "BP-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BP-4_牺牲与代价/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BP-4_%E7%89%BA%E7%89%B2%E4%B8%8E%E4%BB%A3%E4%BB%B7/END"
+  },
+  "id": "act34side--activities__act34side__level_act34side_04_end",
+  "navigation": {
+    "nextChapterId": "act34side--activities__act34side__level_act34side_05_beg",
+    "previousChapterId": "act34side--activities__act34side__level_act34side_04_beg"
+  },
+  "subtitle": "BP-4",
+  "summary": "info/activities/act34side/level_act34side_04_end",
+  "title": "牺牲与代价"
+}

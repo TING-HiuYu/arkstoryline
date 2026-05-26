@@ -1,0 +1,21 @@
+{
+  "albumId": "act34side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "BP-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BP-2_评议式迎接/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BP-2_%E8%AF%84%E8%AE%AE%E5%BC%8F%E8%BF%8E%E6%8E%A5/END"
+  },
+  "id": "act34side--activities__act34side__level_act34side_02_end",
+  "navigation": {
+    "nextChapterId": "act34side--activities__act34side__level_act34side_03_beg",
+    "previousChapterId": "act34side--activities__act34side__level_act34side_02_beg"
+  },
+  "subtitle": "BP-2",
+  "summary": "info/activities/act34side/level_act34side_02_end",
+  "title": "评议式迎接"
+}

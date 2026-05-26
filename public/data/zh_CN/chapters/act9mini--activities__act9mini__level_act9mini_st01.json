@@ -1,0 +1,19 @@
+{
+  "albumId": "act9mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PS-ST1_红松/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PS-ST1_%E7%BA%A2%E6%9D%BE/NBT"
+  },
+  "id": "act9mini--activities__act9mini__level_act9mini_st01",
+  "navigation": {
+    "nextChapterId": "act9mini--activities__act9mini__level_act9mini_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act9mini/level_act9mini_st01",
+  "title": "红松"
+}

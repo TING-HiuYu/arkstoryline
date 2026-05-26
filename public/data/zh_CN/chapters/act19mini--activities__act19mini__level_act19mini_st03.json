@@ -1,0 +1,19 @@
+{
+  "albumId": "act19mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FM-ST3_石头记/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FM-ST3_%E7%9F%B3%E5%A4%B4%E8%AE%B0/NBT"
+  },
+  "id": "act19mini--activities__act19mini__level_act19mini_st03",
+  "navigation": {
+    "nextChapterId": "act19mini--activities__act19mini__level_act19mini_st04",
+    "previousChapterId": "act19mini--activities__act19mini__level_act19mini_st02"
+  },
+  "summary": "info/activities/act19mini/level_act19mini_st03",
+  "title": "石头记"
+}

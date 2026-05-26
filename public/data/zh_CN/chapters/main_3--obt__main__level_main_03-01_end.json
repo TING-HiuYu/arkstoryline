@@ -1,0 +1,21 @@
+{
+  "albumId": "main_3",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "3-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "3-1_会合/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/3-1_%E4%BC%9A%E5%90%88/END"
+  },
+  "id": "main_3--obt__main__level_main_03-01_end",
+  "navigation": {
+    "nextChapterId": "main_3--obt__main__level_main_03-02_beg",
+    "previousChapterId": "main_3--obt__main__level_main_03-01_beg"
+  },
+  "subtitle": "3-1",
+  "summary": "info/obt/main/level_main_03-01_end",
+  "title": "会合"
+}

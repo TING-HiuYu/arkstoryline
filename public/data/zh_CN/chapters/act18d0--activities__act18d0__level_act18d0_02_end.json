@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "WD-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WD-2_绿洲惊雷/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WD-2_%E7%BB%BF%E6%B4%B2%E6%83%8A%E9%9B%B7/END"
+  },
+  "id": "act18d0--activities__act18d0__level_act18d0_02_end",
+  "navigation": {
+    "nextChapterId": "act18d0--activities__act18d0__level_act18d0_03_beg",
+    "previousChapterId": "act18d0--activities__act18d0__level_act18d0_02_beg"
+  },
+  "subtitle": "WD-2",
+  "summary": "info/activities/act18d0/level_act18d0_02_end",
+  "title": "绿洲惊雷"
+}

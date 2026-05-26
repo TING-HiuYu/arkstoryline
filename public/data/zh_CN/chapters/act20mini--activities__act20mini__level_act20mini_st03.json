@@ -1,0 +1,19 @@
+{
+  "albumId": "act20mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CG-ST3_见证/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CG-ST3_%E8%A7%81%E8%AF%81/NBT"
+  },
+  "id": "act20mini--activities__act20mini__level_act20mini_st03",
+  "navigation": {
+    "nextChapterId": "act20mini--activities__act20mini__level_act20mini_st04",
+    "previousChapterId": "act20mini--activities__act20mini__level_act20mini_st02"
+  },
+  "summary": "info/activities/act20mini/level_act20mini_st03",
+  "title": "见证"
+}

@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-保全派驻-7c22ec26cd",
+  "avgTag": null,
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SL01/ENTRY",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SL01/ENTRY"
+  },
+  "id": "other-story-保全派驻-7c22ec26cd--sl01-entry",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": null
+  },
+  "subtitle": null,
+  "title": "保全派驻"
+}

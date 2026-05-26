@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-ST4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-ST4_爱某个人/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-ST4_%E7%88%B1%E6%9F%90%E4%B8%AA%E4%BA%BA/NBT"
+  },
+  "id": "act3d0--activities__act3d0__level_act3d0_st04",
+  "navigation": {
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_07_beg",
+    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_06_end"
+  },
+  "subtitle": "OF-ST4",
+  "summary": "info/activities/act3d0/level_act3d0_st04",
+  "title": "爱某个人"
+}

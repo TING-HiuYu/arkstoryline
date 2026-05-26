@@ -1,0 +1,128 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act14mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DC-ST1_近乡情怯/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DC-ST1_%E8%BF%91%E4%B9%A1%E6%83%85%E6%80%AF/NBT"
+      },
+      "downloadable": true,
+      "id": "act14mini--activities__act14mini__level_act14mini_st01",
+      "path": "chapters/act14mini--activities__act14mini__level_act14mini_st01.json",
+      "sort": 1,
+      "title": "近乡情怯"
+    },
+    {
+      "albumId": "act14mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DC-ST2_中庭旅谷/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DC-ST2_%E4%B8%AD%E5%BA%AD%E6%97%85%E8%B0%B7/NBT"
+      },
+      "downloadable": true,
+      "id": "act14mini--activities__act14mini__level_act14mini_st02",
+      "path": "chapters/act14mini--activities__act14mini__level_act14mini_st02.json",
+      "sort": 2,
+      "title": "中庭旅谷"
+    },
+    {
+      "albumId": "act14mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DC-ST3_不问鬼神/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DC-ST3_%E4%B8%8D%E9%97%AE%E9%AC%BC%E7%A5%9E/NBT"
+      },
+      "downloadable": true,
+      "id": "act14mini--activities__act14mini__level_act14mini_st03",
+      "path": "chapters/act14mini--activities__act14mini__level_act14mini_st03.json",
+      "sort": 3,
+      "title": "不问鬼神"
+    },
+    {
+      "albumId": "act14mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DC-ST4_出入平安/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DC-ST4_%E5%87%BA%E5%85%A5%E5%B9%B3%E5%AE%89/NBT"
+      },
+      "downloadable": true,
+      "id": "act14mini--activities__act14mini__level_act14mini_st04",
+      "path": "chapters/act14mini--activities__act14mini__level_act14mini_st04.json",
+      "sort": 4,
+      "title": "出入平安"
+    },
+    {
+      "albumId": "act14mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DC-ST5_无名之辈/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DC-ST5_%E6%97%A0%E5%90%8D%E4%B9%8B%E8%BE%88/NBT"
+      },
+      "downloadable": true,
+      "id": "act14mini--activities__act14mini__level_act14mini_st05",
+      "path": "chapters/act14mini--activities__act14mini__level_act14mini_st05.json",
+      "sort": 5,
+      "title": "无名之辈"
+    },
+    {
+      "albumId": "act14mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DC-ST6_独见寒山/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DC-ST6_%E7%8B%AC%E8%A7%81%E5%AF%92%E5%B1%B1/NBT"
+      },
+      "downloadable": true,
+      "id": "act14mini--activities__act14mini__level_act14mini_st06",
+      "path": "chapters/act14mini--activities__act14mini__level_act14mini_st06.json",
+      "sort": 6,
+      "title": "独见寒山"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_a_death_in_chunfen",
+    "primaryImageId": "kv_a_death_in_chunfen",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act14mini",
+    "storyPicId": "storyPic_act14mini",
+    "titleImageId": "title_a_death_in_chunfen",
+    "url": "https://media.prts.wiki/f/f8/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%98%A5%E5%88%86.png"
+  },
+  "extras": [],
+  "gameOrderRank": 4010,
+  "homeSection": "sideStory",
+  "id": "act14mini",
+  "music": {
+    "arcTitle": "岁岁今朝",
+    "movementTitle": "岁岁今朝",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act14mini",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1676361600,
+  "summary": "一块顽石坠下山崖，是将摧枯拉朽，还是会粉身碎骨？\n久旱的山村所求的那一滴雨，在山洪中奔腾狂啸，\n夺去性命，夺去名字，夺去谋善村的那一个“善”字。\n仇白手中的一把剑护得住人命，护不住人心。\n谋善村外群山环堵，而在群山之外，\n如同此间的人与事，还有多少正在发生？",
+  "timelineRank": 1676361600,
+  "title": "春分"
+}

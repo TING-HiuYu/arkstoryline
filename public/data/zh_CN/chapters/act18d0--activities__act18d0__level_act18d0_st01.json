@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "WD-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WD-ST-1_松心百合/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WD-ST-1_%E6%9D%BE%E5%BF%83%E7%99%BE%E5%90%88/NBT"
+  },
+  "id": "act18d0--activities__act18d0__level_act18d0_st01",
+  "navigation": {
+    "nextChapterId": "act18d0--activities__act18d0__level_act18d0_05_beg",
+    "previousChapterId": "act18d0--activities__act18d0__level_act18d0_03_end"
+  },
+  "subtitle": "WD-ST-1",
+  "summary": "info/activities/act18d0/level_act18d0_st01",
+  "title": "松心百合"
+}

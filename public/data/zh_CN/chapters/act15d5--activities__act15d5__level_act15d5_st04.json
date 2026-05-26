@@ -1,0 +1,19 @@
+{
+  "albumId": "act15d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BH-ST4_信仰号街车/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BH-ST4_%E4%BF%A1%E4%BB%B0%E5%8F%B7%E8%A1%97%E8%BD%A6/NBT"
+  },
+  "id": "act15d5--activities__act15d5__level_act15d5_st04",
+  "navigation": {
+    "nextChapterId": "act15d5--activities__act15d5__level_act15d5_st05",
+    "previousChapterId": "act15d5--activities__act15d5__level_act15d5_st03"
+  },
+  "summary": "info/activities/act15d5/level_act15d5_st04",
+  "title": "信仰号街车"
+}

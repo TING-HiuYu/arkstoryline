@@ -1,0 +1,21 @@
+{
+  "albumId": "act13side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "NL-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "NL-6_被包围者/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/NL-6_%E8%A2%AB%E5%8C%85%E5%9B%B4%E8%80%85/END"
+  },
+  "id": "act13side--activities__act13side__level_act13side_06_end",
+  "navigation": {
+    "nextChapterId": "act13side--activities__act13side__level_act13side_st03",
+    "previousChapterId": "act13side--activities__act13side__level_act13side_06_beg"
+  },
+  "subtitle": "NL-6",
+  "summary": "info/activities/act13side/level_act13side_06_end",
+  "title": "被包围者"
+}

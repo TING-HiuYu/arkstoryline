@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-荷谟伊智境-252b8e97eb",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CR-BEG/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CR-BEG/NBT"
+  },
+  "id": "other-story-荷谟伊智境-252b8e97eb--cr-beg-nbt",
+  "navigation": {
+    "nextChapterId": "other-story-荷谟伊智境-252b8e97eb--cr-st1-nbt",
+    "previousChapterId": null
+  },
+  "subtitle": null,
+  "title": "固定开头AVG"
+}

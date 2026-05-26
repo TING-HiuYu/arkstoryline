@@ -1,0 +1,21 @@
+{
+  "albumId": "main_16",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "16-15",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "16-15_旷野轰鸣/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/16-15_%E6%97%B7%E9%87%8E%E8%BD%B0%E9%B8%A3/BEG"
+  },
+  "id": "main_16--obt__main__level_main_16-15_beg",
+  "navigation": {
+    "nextChapterId": "main_16--obt__main__level_main_16-16_beg",
+    "previousChapterId": "main_16--obt__main__level_main_16-14_beg"
+  },
+  "subtitle": "16-15",
+  "summary": "info/obt/main/level_main_16-15_beg",
+  "title": "旷野轰鸣"
+}

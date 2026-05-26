@@ -1,0 +1,33 @@
+{
+  "albumKind": "otherStory",
+  "chapters": [
+    {
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL01/ENTRY",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL01/ENTRY"
+      },
+      "id": "other-story-保全派驻-7c22ec26cd--sl01-entry",
+      "sort": 1,
+      "title": "保全派驻"
+    }
+  ],
+  "gameOrderRank": 900000007,
+  "homeSection": "otherStory",
+  "id": "other-story-保全派驻-7c22ec26cd",
+  "otherStory": {
+    "albumTitle": "保全派驻",
+    "groupTitle": "特殊",
+    "sourceSection": "other"
+  },
+  "slug": "other-story-保全派驻-7c22ec26cd",
+  "source": {
+    "path": "storyline.index.sections.other",
+    "providerId": "prts",
+    "revision": "2026-05-26T20:55:23.000119+00:00"
+  },
+  "sourceEntryType": "ARCHIVE_EXTRA",
+  "timelineRank": 900000007,
+  "title": "保全派驻"
+}

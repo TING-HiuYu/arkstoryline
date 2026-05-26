@@ -1,0 +1,21 @@
+{
+  "albumId": "act23side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "WB-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WB-9_“冬藏”/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WB-9_%E2%80%9C%E5%86%AC%E8%97%8F%E2%80%9D/BEG"
+  },
+  "id": "act23side--activities__act23side__level_act23side_09_beg",
+  "navigation": {
+    "nextChapterId": "act23side--activities__act23side__level_act23side_09_end",
+    "previousChapterId": "act23side--activities__act23side__level_act23side_08_end"
+  },
+  "subtitle": "WB-9",
+  "summary": "info/activities/act23side/level_act23side_09_beg",
+  "title": "“冬藏”"
+}

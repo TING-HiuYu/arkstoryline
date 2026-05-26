@@ -1,0 +1,19 @@
+{
+  "albumId": "act13d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FA-ST6_交错光影/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FA-ST6_%E4%BA%A4%E9%94%99%E5%85%89%E5%BD%B1/NBT"
+  },
+  "id": "act13d0--activities__act13d0__level_act13d0_st06",
+  "navigation": {
+    "nextChapterId": "act13d0--activities__act13d0__level_act13d0_st07",
+    "previousChapterId": "act13d0--activities__act13d0__level_act13d0_st05"
+  },
+  "summary": "info/activities/act13d0/level_act13d0_st06",
+  "title": "交错光影"
+}

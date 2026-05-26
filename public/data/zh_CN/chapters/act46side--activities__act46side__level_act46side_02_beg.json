@@ -1,0 +1,21 @@
+{
+  "albumId": "act46side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "OS-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OS-2_甜蜜的邻人/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OS-2_%E7%94%9C%E8%9C%9C%E7%9A%84%E9%82%BB%E4%BA%BA/BEG"
+  },
+  "id": "act46side--activities__act46side__level_act46side_02_beg",
+  "navigation": {
+    "nextChapterId": "act46side--activities__act46side__level_act46side_02_end",
+    "previousChapterId": "act46side--activities__act46side__level_act46side_01_end"
+  },
+  "subtitle": "OS-2",
+  "summary": "info/activities/act46side/level_act46side_02_beg",
+  "title": "甜蜜的邻人"
+}

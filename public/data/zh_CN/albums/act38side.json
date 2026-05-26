@@ -1,0 +1,427 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act38side",
+      "avgTag": "幕间",
+      "code": "PV-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-ST-1_《新都市管理法案》/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-ST-1_%E3%80%8A%E6%96%B0%E9%83%BD%E5%B8%82%E7%AE%A1%E7%90%86%E6%B3%95%E6%A1%88%E3%80%8B/NBT"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_st01",
+      "path": "chapters/act38side--activities__act38side__level_act38side_st01.json",
+      "sort": 1,
+      "title": "《新都市管理法案》"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动前",
+      "code": "PV-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-1_失途/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-1_%E5%A4%B1%E9%80%94/BEG"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_01_beg",
+      "path": "chapters/act38side--activities__act38side__level_act38side_01_beg.json",
+      "sort": 2,
+      "title": "失途"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动后",
+      "code": "PV-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-1_失途/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-1_%E5%A4%B1%E9%80%94/END"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_01_end",
+      "path": "chapters/act38side--activities__act38side__level_act38side_01_end.json",
+      "sort": 3,
+      "title": "失途"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动前",
+      "code": "PV-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-2_择路/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-2_%E6%8B%A9%E8%B7%AF/BEG"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_02_beg",
+      "path": "chapters/act38side--activities__act38side__level_act38side_02_beg.json",
+      "sort": 4,
+      "title": "择路"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动后",
+      "code": "PV-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-2_择路/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-2_%E6%8B%A9%E8%B7%AF/END"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_02_end",
+      "path": "chapters/act38side--activities__act38side__level_act38side_02_end.json",
+      "sort": 5,
+      "title": "择路"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动前",
+      "code": "PV-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-3_恶客盈门/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-3_%E6%81%B6%E5%AE%A2%E7%9B%88%E9%97%A8/BEG"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_03_beg",
+      "path": "chapters/act38side--activities__act38side__level_act38side_03_beg.json",
+      "sort": 6,
+      "title": "恶客盈门"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动后",
+      "code": "PV-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-3_恶客盈门/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-3_%E6%81%B6%E5%AE%A2%E7%9B%88%E9%97%A8/END"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_03_end",
+      "path": "chapters/act38side--activities__act38side__level_act38side_03_end.json",
+      "sort": 7,
+      "title": "恶客盈门"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动前",
+      "code": "PV-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-4_体面来宾/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-4_%E4%BD%93%E9%9D%A2%E6%9D%A5%E5%AE%BE/BEG"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_04_beg",
+      "path": "chapters/act38side--activities__act38side__level_act38side_04_beg.json",
+      "sort": 8,
+      "title": "体面来宾"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动后",
+      "code": "PV-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-4_体面来宾/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-4_%E4%BD%93%E9%9D%A2%E6%9D%A5%E5%AE%BE/END"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_04_end",
+      "path": "chapters/act38side--activities__act38side__level_act38side_04_end.json",
+      "sort": 9,
+      "title": "体面来宾"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "幕间",
+      "code": "PV-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-ST-2_《复仇禁制令》/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-ST-2_%E3%80%8A%E5%A4%8D%E4%BB%87%E7%A6%81%E5%88%B6%E4%BB%A4%E3%80%8B/NBT"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_st02",
+      "path": "chapters/act38side--activities__act38side__level_act38side_st02.json",
+      "sort": 10,
+      "title": "《复仇禁制令》"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动前",
+      "code": "PV-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-5_“致新生活”/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-5_%E2%80%9C%E8%87%B4%E6%96%B0%E7%94%9F%E6%B4%BB%E2%80%9D/BEG"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_05_beg",
+      "path": "chapters/act38side--activities__act38side__level_act38side_05_beg.json",
+      "sort": 11,
+      "title": "“致新生活”"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动后",
+      "code": "PV-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-5_“致新生活”/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-5_%E2%80%9C%E8%87%B4%E6%96%B0%E7%94%9F%E6%B4%BB%E2%80%9D/END"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_05_end",
+      "path": "chapters/act38side--activities__act38side__level_act38side_05_end.json",
+      "sort": 12,
+      "title": "“致新生活”"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动前",
+      "code": "PV-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-6_“复仇于我”/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-6_%E2%80%9C%E5%A4%8D%E4%BB%87%E4%BA%8E%E6%88%91%E2%80%9D/BEG"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_06_beg",
+      "path": "chapters/act38side--activities__act38side__level_act38side_06_beg.json",
+      "sort": 13,
+      "title": "“复仇于我”"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动后",
+      "code": "PV-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-6_“复仇于我”/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-6_%E2%80%9C%E5%A4%8D%E4%BB%87%E4%BA%8E%E6%88%91%E2%80%9D/END"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_06_end",
+      "path": "chapters/act38side--activities__act38side__level_act38side_06_end.json",
+      "sort": 14,
+      "title": "“复仇于我”"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动前",
+      "code": "PV-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-7_揭幕时刻/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-7_%E6%8F%AD%E5%B9%95%E6%97%B6%E5%88%BB/BEG"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_07_beg",
+      "path": "chapters/act38side--activities__act38side__level_act38side_07_beg.json",
+      "sort": 15,
+      "title": "揭幕时刻"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动后",
+      "code": "PV-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-7_揭幕时刻/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-7_%E6%8F%AD%E5%B9%95%E6%97%B6%E5%88%BB/END"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_07_end",
+      "path": "chapters/act38side--activities__act38side__level_act38side_07_end.json",
+      "sort": 16,
+      "title": "揭幕时刻"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动前",
+      "code": "PV-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-8_无私铁棘/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-8_%E6%97%A0%E7%A7%81%E9%93%81%E6%A3%98/BEG"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_08_beg",
+      "path": "chapters/act38side--activities__act38side__level_act38side_08_beg.json",
+      "sort": 17,
+      "title": "无私铁棘"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动后",
+      "code": "PV-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-8_无私铁棘/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-8_%E6%97%A0%E7%A7%81%E9%93%81%E6%A3%98/END"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_08_end",
+      "path": "chapters/act38side--activities__act38side__level_act38side_08_end.json",
+      "sort": 18,
+      "title": "无私铁棘"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "幕间",
+      "code": "PV-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-ST-3_《狂欢节章程》/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-ST-3_%E3%80%8A%E7%8B%82%E6%AC%A2%E8%8A%82%E7%AB%A0%E7%A8%8B%E3%80%8B/NBT"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_st03",
+      "path": "chapters/act38side--activities__act38side__level_act38side_st03.json",
+      "sort": 19,
+      "title": "《狂欢节章程》"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动前",
+      "code": "PV-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-9_狼群与群狼/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-9_%E7%8B%BC%E7%BE%A4%E4%B8%8E%E7%BE%A4%E7%8B%BC/BEG"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_09_beg",
+      "path": "chapters/act38side--activities__act38side__level_act38side_09_beg.json",
+      "sort": 20,
+      "title": "狼群与群狼"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动后",
+      "code": "PV-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-9_狼群与群狼/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-9_%E7%8B%BC%E7%BE%A4%E4%B8%8E%E7%BE%A4%E7%8B%BC/END"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_09_end",
+      "path": "chapters/act38side--activities__act38side__level_act38side_09_end.json",
+      "sort": 21,
+      "title": "狼群与群狼"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动前",
+      "code": "PV-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-10_铳响/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-10_%E9%93%B3%E5%93%8D/BEG"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_10_beg",
+      "path": "chapters/act38side--activities__act38side__level_act38side_10_beg.json",
+      "sort": 22,
+      "title": "铳响"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "行动后",
+      "code": "PV-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-10_铳响/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-10_%E9%93%B3%E5%93%8D/END"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_10_end",
+      "path": "chapters/act38side--activities__act38side__level_act38side_10_end.json",
+      "sort": 23,
+      "title": "铳响"
+    },
+    {
+      "albumId": "act38side",
+      "avgTag": "幕间",
+      "code": "PV-ST-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PV-ST-4_《管理法修正案》/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PV-ST-4_%E3%80%8A%E7%AE%A1%E7%90%86%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88%E3%80%8B/NBT"
+      },
+      "downloadable": true,
+      "id": "act38side--activities__act38side__level_act38side_st04",
+      "path": "chapters/act38side--activities__act38side__level_act38side_st04.json",
+      "sort": 24,
+      "title": "《管理法修正案》"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_i_portatori_dei_velluti",
+    "primaryImageId": "kv_i_portatori_dei_velluti",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act38side",
+    "titleImageId": "title_i_portatori_dei_velluti",
+    "url": "https://media.prts.wiki/3/3c/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%8F%AD%E5%B9%95%E8%80%85%E4%BB%AC.png"
+  },
+  "extras": [],
+  "gameOrderRank": 6005,
+  "homeSection": "sideStory",
+  "id": "act38side",
+  "music": {
+    "arcTitle": "七丘的新芽",
+    "movementTitle": "七丘的新芽",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_12",
+      "tag_14",
+      "tag_13",
+      "tag_16",
+      "tag_15"
+    ]
+  },
+  "slug": "act38side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1730433600,
+  "summary": "新沃尔西尼，和平的表象下暗流涌动。\n一场车祸，将脆弱的宁静彻底打破。\n家族与暴力有无数套伪装，秩序之旗却容不得污迹。\n法官，杀手，獠牙，裁缝，感染者......\n一辆出租车如幽灵般在城市里穿行，\n拉普兰德为盛大的演出精心编织着惊喜。\n赌局也好，阴谋也罢，趁着狂欢节，都一起来吧！",
+  "timelineRank": 1730433600,
+  "title": "揭幕者们"
+}

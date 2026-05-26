@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "R8-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "R8-5_寒冷，来自知觉/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/R8-5_%E5%AF%92%E5%86%B7%EF%BC%8C%E6%9D%A5%E8%87%AA%E7%9F%A5%E8%A7%89/BEG"
+  },
+  "id": "main_8--obt__main__level_main_08-05_beg",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_main_08-05_end",
+    "previousChapterId": "main_8--obt__main__level_st_08-03"
+  },
+  "subtitle": "R8-5",
+  "summary": "info/obt/main/level_main_08-05_beg",
+  "title": "寒冷，来自知觉"
+}

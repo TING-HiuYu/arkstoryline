@@ -1,0 +1,21 @@
+{
+  "albumId": "act13side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "NL-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "NL-ST-1_欣欣向荣/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/NL-ST-1_%E6%AC%A3%E6%AC%A3%E5%90%91%E8%8D%A3/NBT"
+  },
+  "id": "act13side--activities__act13side__level_act13side_st01",
+  "navigation": {
+    "nextChapterId": "act13side--activities__act13side__level_act13side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "NL-ST-1",
+  "summary": "info/activities/act13side/level_act13side_st01",
+  "title": "欣欣向荣"
+}

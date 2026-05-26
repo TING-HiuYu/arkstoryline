@@ -1,0 +1,47 @@
+{
+  "albumKind": "otherStory",
+  "chapters": [
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "APF-2021/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/APF-2021/NBT"
+      },
+      "id": "other-story-泰拉-说唱之夜-73643cac60--apf-2021-nbt",
+      "sort": 1,
+      "title": "嘻哈之王"
+    },
+    {
+      "avgTag": "行动后",
+      "code": "LTTB",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "LTTB_Extraordinary_rap_battle!/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/LTTB_Extraordinary_rap_battle%21/END"
+      },
+      "id": "other-story-泰拉-说唱之夜-73643cac60--lttb-extraordinary-rap-battle-end",
+      "sort": 2,
+      "title": "LTTB Extraordinary rap battle! 行动后"
+    }
+  ],
+  "gameOrderRank": 900000005,
+  "homeSection": "otherStory",
+  "id": "other-story-泰拉-说唱之夜-73643cac60",
+  "otherStory": {
+    "albumTitle": "泰拉 说唱之夜！",
+    "groupTitle": "四月辑录",
+    "sourceSection": "other"
+  },
+  "slug": "other-story-泰拉-说唱之夜-73643cac60",
+  "source": {
+    "path": "storyline.index.sections.other",
+    "providerId": "prts",
+    "revision": "2026-05-26T20:55:23.000119+00:00"
+  },
+  "sourceEntryType": "ARCHIVE_EXTRA",
+  "timelineRank": 900000005,
+  "title": "泰拉 说唱之夜！"
+}

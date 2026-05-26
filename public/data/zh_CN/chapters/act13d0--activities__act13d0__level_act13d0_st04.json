@@ -1,0 +1,19 @@
+{
+  "albumId": "act13d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FA-ST4_回首/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FA-ST4_%E5%9B%9E%E9%A6%96/NBT"
+  },
+  "id": "act13d0--activities__act13d0__level_act13d0_st04",
+  "navigation": {
+    "nextChapterId": "act13d0--activities__act13d0__level_act13d0_st05",
+    "previousChapterId": "act13d0--activities__act13d0__level_act13d0_st03"
+  },
+  "summary": "info/activities/act13d0/level_act13d0_st04",
+  "title": "回首"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act15side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IW-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IW-1_化物/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-1_%E5%8C%96%E7%89%A9/END"
+  },
+  "id": "act15side--activities__act15side__level_act15side_01_end",
+  "navigation": {
+    "nextChapterId": "act15side--activities__act15side__level_act15side_02_beg",
+    "previousChapterId": "act15side--activities__act15side__level_act15side_01_beg"
+  },
+  "subtitle": "IW-1",
+  "summary": "info/activities/act15side/level_act15side_01_end",
+  "title": "化物"
+}

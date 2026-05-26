@@ -1,0 +1,21 @@
+{
+  "albumId": "act19side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DV-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DV-6_挣脱美梦/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DV-6_%E6%8C%A3%E8%84%B1%E7%BE%8E%E6%A2%A6/END"
+  },
+  "id": "act19side--activities__act19side__level_act19side_06_end",
+  "navigation": {
+    "nextChapterId": "act19side--activities__act19side__level_act19side_07_beg",
+    "previousChapterId": "act19side--activities__act19side__level_act19side_06_beg"
+  },
+  "subtitle": "DV-6",
+  "summary": "info/activities/act19side/level_act19side_06_end",
+  "title": "挣脱美梦"
+}

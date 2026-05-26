@@ -1,0 +1,21 @@
+{
+  "albumId": "main_10",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "10-11",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "10-11_千疮百孔/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-11_%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94/BEG"
+  },
+  "id": "main_10--obt__main__level_main_10-10_beg",
+  "navigation": {
+    "nextChapterId": "main_10--obt__main__level_main_10-11_end",
+    "previousChapterId": "main_10--obt__main__level_main_10-09_end"
+  },
+  "subtitle": "10-11",
+  "summary": "info/obt/main/level_main_10-10_beg",
+  "title": "千疮百孔"
+}

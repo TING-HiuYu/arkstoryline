@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-4_他是将军/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-4_%E4%BB%96%E6%98%AF%E5%B0%86%E5%86%9B/END"
+  },
+  "id": "act3d0--activities__act3d0__level_act3d0_04_end",
+  "navigation": {
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_st03",
+    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_04_beg"
+  },
+  "subtitle": "OF-4",
+  "summary": "info/activities/act3d0/level_act3d0_04_end",
+  "title": "他是将军"
+}

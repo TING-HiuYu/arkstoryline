@@ -1,0 +1,58 @@
+{
+  "albumKind": "otherStory",
+  "chapters": [
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CR-BEG/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CR-BEG/NBT"
+      },
+      "id": "other-story-荷谟伊智境-252b8e97eb--cr-beg-nbt",
+      "sort": 1,
+      "title": "固定开头AVG"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CR-ST1/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CR-ST1/NBT"
+      },
+      "id": "other-story-荷谟伊智境-252b8e97eb--cr-st1-nbt",
+      "sort": 2,
+      "title": "开头AVG"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CR-ST2/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CR-ST2/NBT"
+      },
+      "id": "other-story-荷谟伊智境-252b8e97eb--cr-st2-nbt",
+      "sort": 3,
+      "title": "结尾AVG"
+    }
+  ],
+  "gameOrderRank": 900000011,
+  "homeSection": "otherStory",
+  "id": "other-story-荷谟伊智境-252b8e97eb",
+  "otherStory": {
+    "albumTitle": "荷谟伊智境",
+    "groupTitle": "特殊",
+    "sourceSection": "other"
+  },
+  "slug": "other-story-荷谟伊智境-252b8e97eb",
+  "source": {
+    "path": "storyline.index.sections.other",
+    "providerId": "prts",
+    "revision": "2026-05-26T20:55:23.000119+00:00"
+  },
+  "sourceEntryType": "ARCHIVE_EXTRA",
+  "timelineRank": 900000011,
+  "title": "荷谟伊智境"
+}

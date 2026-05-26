@@ -1,0 +1,21 @@
+{
+  "albumId": "main_4",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "4-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "4-7_各取所需/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/4-7_%E5%90%84%E5%8F%96%E6%89%80%E9%9C%80/END"
+  },
+  "id": "main_4--obt__main__level_main_04-07_end",
+  "navigation": {
+    "nextChapterId": "main_4--obt__main__level_main_04-08_beg",
+    "previousChapterId": "main_4--obt__main__level_main_04-07_beg"
+  },
+  "subtitle": "4-7",
+  "summary": "info/obt/main/level_main_04-07_end",
+  "title": "各取所需"
+}

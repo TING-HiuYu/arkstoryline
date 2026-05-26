@@ -1,0 +1,21 @@
+{
+  "albumId": "main_15",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "15-12",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "15-12_目击众神死亡的荒原/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-12_%E7%9B%AE%E5%87%BB%E4%BC%97%E7%A5%9E%E6%AD%BB%E4%BA%A1%E7%9A%84%E8%8D%92%E5%8E%9F/BEG"
+  },
+  "id": "main_15--obt__main__level_main_15-11_beg",
+  "navigation": {
+    "nextChapterId": "main_15--obt__main__level_main_15-12_end",
+    "previousChapterId": "main_15--obt__main__level_main_15-10_end"
+  },
+  "subtitle": "15-12",
+  "summary": "info/obt/main/level_main_15-11_beg",
+  "title": "目击众神死亡的荒原"
+}

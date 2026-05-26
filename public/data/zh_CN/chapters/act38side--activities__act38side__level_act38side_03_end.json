@@ -1,0 +1,21 @@
+{
+  "albumId": "act38side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "PV-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PV-3_恶客盈门/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-3_%E6%81%B6%E5%AE%A2%E7%9B%88%E9%97%A8/END"
+  },
+  "id": "act38side--activities__act38side__level_act38side_03_end",
+  "navigation": {
+    "nextChapterId": "act38side--activities__act38side__level_act38side_04_beg",
+    "previousChapterId": "act38side--activities__act38side__level_act38side_03_beg"
+  },
+  "subtitle": "PV-3",
+  "summary": "info/activities/act38side/level_act38side_03_end",
+  "title": "恶客盈门"
+}

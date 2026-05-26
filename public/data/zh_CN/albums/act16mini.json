@@ -1,0 +1,128 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act16mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TG-ST1_盖不住的锅盖/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TG-ST1_%E7%9B%96%E4%B8%8D%E4%BD%8F%E7%9A%84%E9%94%85%E7%9B%96/NBT"
+      },
+      "downloadable": true,
+      "id": "act16mini--activities__act16mini__level_act16mini_st01",
+      "path": "chapters/act16mini--activities__act16mini__level_act16mini_st01.json",
+      "sort": 1,
+      "title": "盖不住的锅盖"
+    },
+    {
+      "albumId": "act16mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TG-ST2_不回头的车辙/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TG-ST2_%E4%B8%8D%E5%9B%9E%E5%A4%B4%E7%9A%84%E8%BD%A6%E8%BE%99/NBT"
+      },
+      "downloadable": true,
+      "id": "act16mini--activities__act16mini__level_act16mini_st02",
+      "path": "chapters/act16mini--activities__act16mini__level_act16mini_st02.json",
+      "sort": 2,
+      "title": "不回头的车辙"
+    },
+    {
+      "albumId": "act16mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TG-ST3_狂奔的瓶树/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TG-ST3_%E7%8B%82%E5%A5%94%E7%9A%84%E7%93%B6%E6%A0%91/NBT"
+      },
+      "downloadable": true,
+      "id": "act16mini--activities__act16mini__level_act16mini_st03",
+      "path": "chapters/act16mini--activities__act16mini__level_act16mini_st03.json",
+      "sort": 3,
+      "title": "狂奔的瓶树"
+    },
+    {
+      "albumId": "act16mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TG-ST4_落定的锤子/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TG-ST4_%E8%90%BD%E5%AE%9A%E7%9A%84%E9%94%A4%E5%AD%90/NBT"
+      },
+      "downloadable": true,
+      "id": "act16mini--activities__act16mini__level_act16mini_st04",
+      "path": "chapters/act16mini--activities__act16mini__level_act16mini_st04.json",
+      "sort": 4,
+      "title": "落定的锤子"
+    },
+    {
+      "albumId": "act16mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TG-ST5_咧嘴的矿井/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TG-ST5_%E5%92%A7%E5%98%B4%E7%9A%84%E7%9F%BF%E4%BA%95/NBT"
+      },
+      "downloadable": true,
+      "id": "act16mini--activities__act16mini__level_act16mini_st05",
+      "path": "chapters/act16mini--activities__act16mini__level_act16mini_st05.json",
+      "sort": 5,
+      "title": "咧嘴的矿井"
+    },
+    {
+      "albumId": "act16mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TG-ST6_被踩住的影子/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TG-ST6_%E8%A2%AB%E8%B8%A9%E4%BD%8F%E7%9A%84%E5%BD%B1%E5%AD%90/NBT"
+      },
+      "downloadable": true,
+      "id": "act16mini--activities__act16mini__level_act16mini_st06",
+      "path": "chapters/act16mini--activities__act16mini__level_act16mini_st06.json",
+      "sort": 6,
+      "title": "被踩住的影子"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_to_the_grinning_valley",
+    "primaryImageId": "kv_to_the_grinning_valley",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act16mini",
+    "storyPicId": "storyPic_act16mini",
+    "titleImageId": "title_to_the_grinning_valley",
+    "url": "https://media.prts.wiki/1/12/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E5%8E%BB%E5%92%A7%E5%98%B4%E8%B0%B7.png"
+  },
+  "extras": [],
+  "gameOrderRank": 5008,
+  "homeSection": "sideStory",
+  "id": "act16mini",
+  "music": {
+    "arcTitle": "泰拉奇谈",
+    "movementTitle": "泰拉奇谈",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act16mini",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1704787200,
+  "summary": "博士与阿米娅回到了雷姆必拓，在暴行的陪伴下，\n他们走过曾经的旅途，却意外遇上一辆冲关的运载车。\n追逐巨兽的人，又能否找到记忆中的目光......",
+  "timelineRank": 1704787200,
+  "title": "去咧嘴谷"
+}

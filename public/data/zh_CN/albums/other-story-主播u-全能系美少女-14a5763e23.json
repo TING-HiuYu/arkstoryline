@@ -1,0 +1,118 @@
+{
+  "albumKind": "otherStory",
+  "chapters": [
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "APF-2023/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/APF-2023/NBT"
+      },
+      "id": "other-story-主播u-全能系美少女-14a5763e23--apf-2023-nbt",
+      "sort": 1,
+      "title": "新星主播"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "UO-END-1/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/UO-END-1/NBT"
+      },
+      "id": "other-story-主播u-全能系美少女-14a5763e23--uo-end-1-nbt",
+      "sort": 2,
+      "title": "再也没有什么能阻止她了"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "UO-END-2/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/UO-END-2/NBT"
+      },
+      "id": "other-story-主播u-全能系美少女-14a5763e23--uo-end-2-nbt",
+      "sort": 3,
+      "title": "警惕新型金融诈骗"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "UO-END-3/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/UO-END-3/NBT"
+      },
+      "id": "other-story-主播u-全能系美少女-14a5763e23--uo-end-3-nbt",
+      "sort": 4,
+      "title": "她不禁开始思索是谁动了自己的瘤奶"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "UO-END-4/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/UO-END-4/NBT"
+      },
+      "id": "other-story-主播u-全能系美少女-14a5763e23--uo-end-4-nbt",
+      "sort": 5,
+      "title": "一生四，四生三，三生万物"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "UO-END-5/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/UO-END-5/NBT"
+      },
+      "id": "other-story-主播u-全能系美少女-14a5763e23--uo-end-5-nbt",
+      "sort": 6,
+      "title": "断罪者最喜欢的一集"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "UO-END-6/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/UO-END-6/NBT"
+      },
+      "id": "other-story-主播u-全能系美少女-14a5763e23--uo-end-6-nbt",
+      "sort": 7,
+      "title": "敬请收看：爱、主播&单推人"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "UO-END-7/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/UO-END-7/NBT"
+      },
+      "id": "other-story-主播u-全能系美少女-14a5763e23--uo-end-7-nbt",
+      "sort": 8,
+      "title": "“就那样吧”"
+    }
+  ],
+  "gameOrderRank": 900000002,
+  "homeSection": "otherStory",
+  "id": "other-story-主播u-全能系美少女-14a5763e23",
+  "otherStory": {
+    "albumTitle": "主播U：全能系美少女",
+    "groupTitle": "四月辑录",
+    "sourceSection": "other"
+  },
+  "slug": "other-story-主播u-全能系美少女-14a5763e23",
+  "source": {
+    "path": "storyline.index.sections.other",
+    "providerId": "prts",
+    "revision": "2026-05-26T20:55:23.000119+00:00"
+  },
+  "sourceEntryType": "ARCHIVE_EXTRA",
+  "timelineRank": 900000002,
+  "title": "主播U：全能系美少女"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_2",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "2-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "2-10_病入膏肓/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/2-10_%E7%97%85%E5%85%A5%E8%86%8F%E8%82%93/END"
+  },
+  "id": "main_2--obt__main__level_main_02-10_end",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "main_2--obt__main__level_main_02-10_beg"
+  },
+  "subtitle": "2-10",
+  "summary": "info/obt/main/level_main_02-10_end",
+  "title": "病入膏肓"
+}

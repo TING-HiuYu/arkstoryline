@@ -1,0 +1,117 @@
+{
+  "albumKind": "sidestory",
+  "chapters": [
+    {
+      "albumId": "act13mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BW-ST1_向左向右/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BW-ST1_%E5%90%91%E5%B7%A6%E5%90%91%E5%8F%B3/NBT"
+      },
+      "downloadable": true,
+      "id": "act13mini--activities__act13mini__level_act13mini_st01",
+      "path": "chapters/act13mini--activities__act13mini__level_act13mini_st01.json",
+      "sort": 1,
+      "title": "向左向右"
+    },
+    {
+      "albumId": "act13mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BW-ST2_隔墙有你/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BW-ST2_%E9%9A%94%E5%A2%99%E6%9C%89%E4%BD%A0/NBT"
+      },
+      "downloadable": true,
+      "id": "act13mini--activities__act13mini__level_act13mini_st02",
+      "path": "chapters/act13mini--activities__act13mini__level_act13mini_st02.json",
+      "sort": 2,
+      "title": "隔墙有你"
+    },
+    {
+      "albumId": "act13mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BW-ST3_扬尼与我/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BW-ST3_%E6%89%AC%E5%B0%BC%E4%B8%8E%E6%88%91/NBT"
+      },
+      "downloadable": true,
+      "id": "act13mini--activities__act13mini__level_act13mini_st03",
+      "path": "chapters/act13mini--activities__act13mini__level_act13mini_st03.json",
+      "sort": 3,
+      "title": "扬尼与我"
+    },
+    {
+      "albumId": "act13mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BW-ST4_告别时刻/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BW-ST4_%E5%91%8A%E5%88%AB%E6%97%B6%E5%88%BB/NBT"
+      },
+      "downloadable": true,
+      "id": "act13mini--activities__act13mini__level_act13mini_st04",
+      "path": "chapters/act13mini--activities__act13mini__level_act13mini_st04.json",
+      "sort": 4,
+      "title": "告别时刻"
+    },
+    {
+      "albumId": "act13mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BW-ST5_一次重逢/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BW-ST5_%E4%B8%80%E6%AC%A1%E9%87%8D%E9%80%A2/NBT"
+      },
+      "downloadable": true,
+      "id": "act13mini--activities__act13mini__level_act13mini_st05",
+      "path": "chapters/act13mini--activities__act13mini__level_act13mini_st05.json",
+      "sort": 5,
+      "title": "一次重逢"
+    },
+    {
+      "albumId": "act13mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BW-ST6_别太紧张/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BW-ST6_%E5%88%AB%E5%A4%AA%E7%B4%A7%E5%BC%A0/NBT"
+      },
+      "downloadable": true,
+      "id": "act13mini--activities__act13mini__level_act13mini_st06",
+      "path": "chapters/act13mini--activities__act13mini__level_act13mini_st06.json",
+      "sort": 6,
+      "title": "别太紧张"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "primaryImageId": "storyEntryPic_act13mini",
+    "source": "review-entry-pic",
+    "storyEntryPicId": "storyEntryPic_act13mini",
+    "storyPicId": "storyPic_act13mini",
+    "url": "https://media.prts.wiki/6/60/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81.png"
+  },
+  "extras": [],
+  "homeSection": "sideStory",
+  "id": "act13mini",
+  "slug": "act13mini",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1663228800,
+  "timelineRank": 1663228800,
+  "title": "好久不见"
+}

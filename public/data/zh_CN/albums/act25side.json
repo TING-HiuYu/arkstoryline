@@ -1,0 +1,424 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act25side",
+      "avgTag": "幕间",
+      "code": "CW-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-ST-1_阴云密布/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-ST-1_%E9%98%B4%E4%BA%91%E5%AF%86%E5%B8%83/NBT"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_st01",
+      "path": "chapters/act25side--activities__act25side__level_act25side_st01.json",
+      "sort": 1,
+      "title": "阴云密布"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动前",
+      "code": "CW-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-1_迷雾重重/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-1_%E8%BF%B7%E9%9B%BE%E9%87%8D%E9%87%8D/BEG"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_01_beg",
+      "path": "chapters/act25side--activities__act25side__level_act25side_01_beg.json",
+      "sort": 2,
+      "title": "迷雾重重"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动后",
+      "code": "CW-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-1_迷雾重重/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-1_%E8%BF%B7%E9%9B%BE%E9%87%8D%E9%87%8D/END"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_01_end",
+      "path": "chapters/act25side--activities__act25side__level_act25side_01_end.json",
+      "sort": 3,
+      "title": "迷雾重重"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动前",
+      "code": "CW-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-2_无迹可寻/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-2_%E6%97%A0%E8%BF%B9%E5%8F%AF%E5%AF%BB/BEG"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_02_beg",
+      "path": "chapters/act25side--activities__act25side__level_act25side_02_beg.json",
+      "sort": 4,
+      "title": "无迹可寻"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动后",
+      "code": "CW-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-2_无迹可寻/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-2_%E6%97%A0%E8%BF%B9%E5%8F%AF%E5%AF%BB/END"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_02_end",
+      "path": "chapters/act25side--activities__act25side__level_act25side_02_end.json",
+      "sort": 5,
+      "title": "无迹可寻"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动前",
+      "code": "CW-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-3_台前幕后/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-3_%E5%8F%B0%E5%89%8D%E5%B9%95%E5%90%8E/BEG"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_03_beg",
+      "path": "chapters/act25side--activities__act25side__level_act25side_03_beg.json",
+      "sort": 6,
+      "title": "台前幕后"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动后",
+      "code": "CW-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-3_台前幕后/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-3_%E5%8F%B0%E5%89%8D%E5%B9%95%E5%90%8E/END"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_03_end",
+      "path": "chapters/act25side--activities__act25side__level_act25side_03_end.json",
+      "sort": 7,
+      "title": "台前幕后"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "幕间",
+      "code": "CW-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-ST-2_一波未平/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-ST-2_%E4%B8%80%E6%B3%A2%E6%9C%AA%E5%B9%B3/NBT"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_st02",
+      "path": "chapters/act25side--activities__act25side__level_act25side_st02.json",
+      "sort": 8,
+      "title": "一波未平"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动前",
+      "code": "CW-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-4_一波又起/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-4_%E4%B8%80%E6%B3%A2%E5%8F%88%E8%B5%B7/BEG"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_04_beg",
+      "path": "chapters/act25side--activities__act25side__level_act25side_04_beg.json",
+      "sort": 9,
+      "title": "一波又起"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动后",
+      "code": "CW-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-4_一波又起/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-4_%E4%B8%80%E6%B3%A2%E5%8F%88%E8%B5%B7/END"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_04_end",
+      "path": "chapters/act25side--activities__act25side__level_act25side_04_end.json",
+      "sort": 10,
+      "title": "一波又起"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动前",
+      "code": "CW-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-5_柳暗花明/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-5_%E6%9F%B3%E6%9A%97%E8%8A%B1%E6%98%8E/BEG"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_05_beg",
+      "path": "chapters/act25side--activities__act25side__level_act25side_05_beg.json",
+      "sort": 11,
+      "title": "柳暗花明"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动后",
+      "code": "CW-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-5_柳暗花明/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-5_%E6%9F%B3%E6%9A%97%E8%8A%B1%E6%98%8E/END"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_05_end",
+      "path": "chapters/act25side--activities__act25side__level_act25side_05_end.json",
+      "sort": 12,
+      "title": "柳暗花明"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动前",
+      "code": "CW-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-6_群英荟萃/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-6_%E7%BE%A4%E8%8B%B1%E8%8D%9F%E8%90%83/BEG"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_06_beg",
+      "path": "chapters/act25side--activities__act25side__level_act25side_06_beg.json",
+      "sort": 13,
+      "title": "群英荟萃"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动后",
+      "code": "CW-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-6_群英荟萃/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-6_%E7%BE%A4%E8%8B%B1%E8%8D%9F%E8%90%83/END"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_06_end",
+      "path": "chapters/act25side--activities__act25side__level_act25side_06_end.json",
+      "sort": 14,
+      "title": "群英荟萃"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动前",
+      "code": "CW-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-7_空中楼阁/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-7_%E7%A9%BA%E4%B8%AD%E6%A5%BC%E9%98%81/BEG"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_07_beg",
+      "path": "chapters/act25side--activities__act25side__level_act25side_07_beg.json",
+      "sort": 15,
+      "title": "空中楼阁"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动后",
+      "code": "CW-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-7_空中楼阁/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-7_%E7%A9%BA%E4%B8%AD%E6%A5%BC%E9%98%81/END"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_07_end",
+      "path": "chapters/act25side--activities__act25side__level_act25side_07_end.json",
+      "sort": 16,
+      "title": "空中楼阁"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动前",
+      "code": "CW-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-8_过去与现在的交会/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-8_%E8%BF%87%E5%8E%BB%E4%B8%8E%E7%8E%B0%E5%9C%A8%E7%9A%84%E4%BA%A4%E4%BC%9A/BEG"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_08_beg",
+      "path": "chapters/act25side--activities__act25side__level_act25side_08_beg.json",
+      "sort": 17,
+      "title": "过去与现在的交会"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动后",
+      "code": "CW-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-8_过去与现在的交会/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-8_%E8%BF%87%E5%8E%BB%E4%B8%8E%E7%8E%B0%E5%9C%A8%E7%9A%84%E4%BA%A4%E4%BC%9A/END"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_08_end",
+      "path": "chapters/act25side--activities__act25side__level_act25side_08_end.json",
+      "sort": 18,
+      "title": "过去与现在的交会"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动前",
+      "code": "CW-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-9_恩怨纠葛/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-9_%E6%81%A9%E6%80%A8%E7%BA%A0%E8%91%9B/BEG"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_09_beg",
+      "path": "chapters/act25side--activities__act25side__level_act25side_09_beg.json",
+      "sort": 19,
+      "title": "恩怨纠葛"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动后",
+      "code": "CW-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-9_恩怨纠葛/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-9_%E6%81%A9%E6%80%A8%E7%BA%A0%E8%91%9B/END"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_09_end",
+      "path": "chapters/act25side--activities__act25side__level_act25side_09_end.json",
+      "sort": 20,
+      "title": "恩怨纠葛"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动前",
+      "code": "CW-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-10_散于星辰之间/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-10_%E6%95%A3%E4%BA%8E%E6%98%9F%E8%BE%B0%E4%B9%8B%E9%97%B4/BEG"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_10_beg",
+      "path": "chapters/act25side--activities__act25side__level_act25side_10_beg.json",
+      "sort": 21,
+      "title": "散于星辰之间"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "行动后",
+      "code": "CW-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-10_散于星辰之间/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-10_%E6%95%A3%E4%BA%8E%E6%98%9F%E8%BE%B0%E4%B9%8B%E9%97%B4/END"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_10_end",
+      "path": "chapters/act25side--activities__act25side__level_act25side_10_end.json",
+      "sort": 22,
+      "title": "散于星辰之间"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "幕间",
+      "code": "CW-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-ST-3_留下的人/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-ST-3_%E7%95%99%E4%B8%8B%E7%9A%84%E4%BA%BA/NBT"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_st03",
+      "path": "chapters/act25side--activities__act25side__level_act25side_st03.json",
+      "sort": 23,
+      "title": "留下的人"
+    },
+    {
+      "albumId": "act25side",
+      "avgTag": "幕间",
+      "code": "CW-ST-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-ST-4_推开未来之门/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-ST-4_%E6%8E%A8%E5%BC%80%E6%9C%AA%E6%9D%A5%E4%B9%8B%E9%97%A8/NBT"
+      },
+      "downloadable": true,
+      "id": "act25side--activities__act25side__level_act25side_st04",
+      "path": "chapters/act25side--activities__act25side__level_act25side_st04.json",
+      "sort": 24,
+      "title": "推开未来之门"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_lone_trail",
+    "primaryImageId": "kv_lone_trail",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act25side",
+    "titleImageId": "title_lone_trail",
+    "url": "https://media.prts.wiki/5/5c/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E5%AD%A4%E6%98%9F.png"
+  },
+  "extras": [],
+  "gameOrderRank": 4012,
+  "homeSection": "sideStory",
+  "id": "act25side",
+  "music": {
+    "arcTitle": "摘取未来之人",
+    "movementTitle": "摘取未来之人",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_11",
+      "tag_13"
+    ]
+  },
+  "slug": "act25side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1682913600,
+  "summary": "克丽斯腾的失踪牵动了所有人的思绪。\n军方与梅兰德基金会齐聚特里蒙，\n凯尔希选择主动介入。\n乌云密布，暴雨将至。\n是阴谋，是闹剧，还是独醒？\n往昔的恩怨于此地交会，过去与未来在此地碰撞。\n这一夜，无人入眠。",
+  "timelineRank": 1682913600,
+  "title": "孤星"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act38side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "PV-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PV-ST-2_《复仇禁制令》/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-ST-2_%E3%80%8A%E5%A4%8D%E4%BB%87%E7%A6%81%E5%88%B6%E4%BB%A4%E3%80%8B/NBT"
+  },
+  "id": "act38side--activities__act38side__level_act38side_st02",
+  "navigation": {
+    "nextChapterId": "act38side--activities__act38side__level_act38side_05_beg",
+    "previousChapterId": "act38side--activities__act38side__level_act38side_04_end"
+  },
+  "subtitle": "PV-ST-2",
+  "summary": "info/activities/act38side/level_act38side_st02",
+  "title": "《复仇禁制令》"
+}

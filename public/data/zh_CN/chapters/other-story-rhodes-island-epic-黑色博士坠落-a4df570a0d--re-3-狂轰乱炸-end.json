@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RE-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RE-3_狂轰乱炸/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RE-3_%E7%8B%82%E8%BD%B0%E4%B9%B1%E7%82%B8/END"
+  },
+  "id": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--re-3-狂轰乱炸-end",
+  "navigation": {
+    "nextChapterId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--re-4-兵力压制-end",
+    "previousChapterId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--re-2-正式开打-end"
+  },
+  "subtitle": "RE-3",
+  "title": "RE-3 狂轰乱炸 行动后"
+}

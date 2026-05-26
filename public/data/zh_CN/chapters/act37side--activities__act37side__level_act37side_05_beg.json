@@ -1,0 +1,21 @@
+{
+  "albumId": "act37side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "GO-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GO-5_废铁与铆钉/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GO-5_%E5%BA%9F%E9%93%81%E4%B8%8E%E9%93%86%E9%92%89/BEG"
+  },
+  "id": "act37side--activities__act37side__level_act37side_05_beg",
+  "navigation": {
+    "nextChapterId": "act37side--activities__act37side__level_act37side_05_end",
+    "previousChapterId": "act37side--activities__act37side__level_act37side_04_end"
+  },
+  "subtitle": "GO-5",
+  "summary": "info/activities/act37side/level_act37side_05_beg",
+  "title": "废铁与铆钉"
+}

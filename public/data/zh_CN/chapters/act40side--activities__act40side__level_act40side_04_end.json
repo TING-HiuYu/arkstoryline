@@ -1,0 +1,21 @@
+{
+  "albumId": "act40side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OR-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OR-4_雪里蕻/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OR-4_%E9%9B%AA%E9%87%8C%E8%95%BB/END"
+  },
+  "id": "act40side--activities__act40side__level_act40side_04_end",
+  "navigation": {
+    "nextChapterId": "act40side--activities__act40side__level_act40side_st02",
+    "previousChapterId": "act40side--activities__act40side__level_act40side_04_beg"
+  },
+  "subtitle": "OR-4",
+  "summary": "info/activities/act40side/level_act40side_04_end",
+  "title": "雪里蕻"
+}

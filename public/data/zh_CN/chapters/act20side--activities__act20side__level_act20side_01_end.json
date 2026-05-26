@@ -1,0 +1,21 @@
+{
+  "albumId": "act20side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IC-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IC-1_沉浸式游览/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IC-1_%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88/END"
+  },
+  "id": "act20side--activities__act20side__level_act20side_01_end",
+  "navigation": {
+    "nextChapterId": "act20side--activities__act20side__level_act20side_02_beg",
+    "previousChapterId": "act20side--activities__act20side__level_act20side_01_beg"
+  },
+  "subtitle": "IC-1",
+  "summary": "info/activities/act20side/level_act20side_01_end",
+  "title": "沉浸式游览"
+}

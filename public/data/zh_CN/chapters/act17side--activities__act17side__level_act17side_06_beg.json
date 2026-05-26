@@ -1,0 +1,21 @@
+{
+  "albumId": "act17side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "SN-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SN-6_中央通道/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-6_%E4%B8%AD%E5%A4%AE%E9%80%9A%E9%81%93/BEG"
+  },
+  "id": "act17side--activities__act17side__level_act17side_06_beg",
+  "navigation": {
+    "nextChapterId": "act17side--activities__act17side__level_act17side_st06",
+    "previousChapterId": "act17side--activities__act17side__level_act17side_05_end"
+  },
+  "subtitle": "SN-6",
+  "summary": "info/activities/act17side/level_act17side_06_beg",
+  "title": "中央通道"
+}

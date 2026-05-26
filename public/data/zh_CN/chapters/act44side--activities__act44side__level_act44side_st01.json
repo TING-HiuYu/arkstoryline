@@ -1,0 +1,21 @@
+{
+  "albumId": "act44side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "AT-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AT-ST-1_鬼之影/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AT-ST-1_%E9%AC%BC%E4%B9%8B%E5%BD%B1/NBT"
+  },
+  "id": "act44side--activities__act44side__level_act44side_st01",
+  "navigation": {
+    "nextChapterId": "act44side--activities__act44side__level_act44side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "AT-ST-1",
+  "summary": "info/activities/act44side/level_act44side_st01",
+  "title": "鬼之影"
+}

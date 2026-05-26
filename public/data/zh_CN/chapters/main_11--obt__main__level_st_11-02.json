@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "11-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-10_异路相对/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-10_%E5%BC%82%E8%B7%AF%E7%9B%B8%E5%AF%B9/NBT"
+  },
+  "id": "main_11--obt__main__level_st_11-02",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_main_11-09_beg",
+    "previousChapterId": "main_11--obt__main__level_main_11-08_end"
+  },
+  "subtitle": "11-10",
+  "summary": "info/obt/main/level_st_11-02",
+  "title": "异路相对"
+}

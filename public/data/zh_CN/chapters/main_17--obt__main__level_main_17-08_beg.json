@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "17-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "17-9_永不祈祷/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/17-9_%E6%B0%B8%E4%B8%8D%E7%A5%88%E7%A5%B7/BEG"
+  },
+  "id": "main_17--obt__main__level_main_17-08_beg",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_main_17-09_end",
+    "previousChapterId": "main_17--obt__main__level_main_17-07_end"
+  },
+  "subtitle": "17-9",
+  "summary": "info/obt/main/level_main_17-08_beg",
+  "title": "永不祈祷"
+}

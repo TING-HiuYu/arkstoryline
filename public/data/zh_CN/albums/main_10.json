@@ -1,0 +1,484 @@
+{
+  "albumKind": "mainline",
+  "chapters": [
+    {
+      "albumId": "main_10",
+      "avgTag": "幕间",
+      "code": "10-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-1_被追逐者/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-1_%E8%A2%AB%E8%BF%BD%E9%80%90%E8%80%85/NBT"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_st_10-01",
+      "path": "chapters/main_10--obt__main__level_st_10-01.json",
+      "sort": 61,
+      "title": "被追逐者"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动前",
+      "code": "10-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-2_抢夺目标/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-2_%E6%8A%A2%E5%A4%BA%E7%9B%AE%E6%A0%87/BEG"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-01_beg",
+      "path": "chapters/main_10--obt__main__level_main_10-01_beg.json",
+      "sort": 62,
+      "title": "抢夺目标"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动后",
+      "code": "10-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-2_抢夺目标/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-2_%E6%8A%A2%E5%A4%BA%E7%9B%AE%E6%A0%87/END"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-01_end",
+      "path": "chapters/main_10--obt__main__level_main_10-01_end.json",
+      "sort": 63,
+      "title": "抢夺目标"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动前",
+      "code": "10-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-3_低下头/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-3_%E4%BD%8E%E4%B8%8B%E5%A4%B4/BEG"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-02_beg",
+      "path": "chapters/main_10--obt__main__level_main_10-02_beg.json",
+      "sort": 64,
+      "title": "低下头"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动后",
+      "code": "10-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-3_低下头/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-3_%E4%BD%8E%E4%B8%8B%E5%A4%B4/END"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-02_end",
+      "path": "chapters/main_10--obt__main__level_main_10-02_end.json",
+      "sort": 65,
+      "title": "低下头"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动前",
+      "code": "10-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-4_鸣铳示警/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-4_%E9%B8%A3%E9%93%B3%E7%A4%BA%E8%AD%A6/BEG"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-03_beg",
+      "path": "chapters/main_10--obt__main__level_main_10-03_beg.json",
+      "sort": 66,
+      "title": "鸣铳示警"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动后",
+      "code": "10-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-4_鸣铳示警/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-4_%E9%B8%A3%E9%93%B3%E7%A4%BA%E8%AD%A6/END"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-03_end",
+      "path": "chapters/main_10--obt__main__level_main_10-03_end.json",
+      "sort": 67,
+      "title": "鸣铳示警"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动前",
+      "code": "10-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-5_城市的呼吸/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-5_%E5%9F%8E%E5%B8%82%E7%9A%84%E5%91%BC%E5%90%B8/BEG"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-04_beg",
+      "path": "chapters/main_10--obt__main__level_main_10-04_beg.json",
+      "sort": 68,
+      "title": "城市的呼吸"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动后",
+      "code": "10-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-5_城市的呼吸/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-5_%E5%9F%8E%E5%B8%82%E7%9A%84%E5%91%BC%E5%90%B8/END"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-04_end",
+      "path": "chapters/main_10--obt__main__level_main_10-04_end.json",
+      "sort": 69,
+      "title": "城市的呼吸"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动前",
+      "code": "10-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-6_虽非同族/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-6_%E8%99%BD%E9%9D%9E%E5%90%8C%E6%97%8F/BEG"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-05_beg",
+      "path": "chapters/main_10--obt__main__level_main_10-05_beg.json",
+      "sort": 70,
+      "title": "虽非同族"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动后",
+      "code": "10-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-6_虽非同族/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-6_%E8%99%BD%E9%9D%9E%E5%90%8C%E6%97%8F/END"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-05_end",
+      "path": "chapters/main_10--obt__main__level_main_10-05_end.json",
+      "sort": 71,
+      "title": "虽非同族"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动前",
+      "code": "10-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-7_痛觉相连/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-7_%E7%97%9B%E8%A7%89%E7%9B%B8%E8%BF%9E/BEG"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-06_beg",
+      "path": "chapters/main_10--obt__main__level_main_10-06_beg.json",
+      "sort": 72,
+      "title": "痛觉相连"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动后",
+      "code": "10-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-8_无暇哀悼/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-8_%E6%97%A0%E6%9A%87%E5%93%80%E6%82%BC/END"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-07_end",
+      "path": "chapters/main_10--obt__main__level_main_10-07_end.json",
+      "sort": 73,
+      "title": "无暇哀悼"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动前",
+      "code": "10-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-9_他乡故知/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-9_%E4%BB%96%E4%B9%A1%E6%95%85%E7%9F%A5/BEG"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-08_beg",
+      "path": "chapters/main_10--obt__main__level_main_10-08_beg.json",
+      "sort": 74,
+      "title": "他乡故知"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动后",
+      "code": "10-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-9_他乡故知/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-9_%E4%BB%96%E4%B9%A1%E6%95%85%E7%9F%A5/END"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-08_end",
+      "path": "chapters/main_10--obt__main__level_main_10-08_end.json",
+      "sort": 75,
+      "title": "他乡故知"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动前",
+      "code": "10-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-10_旧日之影/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-10_%E6%97%A7%E6%97%A5%E4%B9%8B%E5%BD%B1/BEG"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-09_beg",
+      "path": "chapters/main_10--obt__main__level_main_10-09_beg.json",
+      "sort": 76,
+      "title": "旧日之影"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动后",
+      "code": "10-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-10_旧日之影/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-10_%E6%97%A7%E6%97%A5%E4%B9%8B%E5%BD%B1/END"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-09_end",
+      "path": "chapters/main_10--obt__main__level_main_10-09_end.json",
+      "sort": 77,
+      "title": "旧日之影"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动前",
+      "code": "10-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-11_千疮百孔/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-11_%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94/BEG"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-10_beg",
+      "path": "chapters/main_10--obt__main__level_main_10-10_beg.json",
+      "sort": 78,
+      "title": "千疮百孔"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动后",
+      "code": "10-12",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-12_仇怨的尽头/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-12_%E4%BB%87%E6%80%A8%E7%9A%84%E5%B0%BD%E5%A4%B4/END"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-11_end",
+      "path": "chapters/main_10--obt__main__level_main_10-11_end.json",
+      "sort": 79,
+      "title": "仇怨的尽头"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "幕间",
+      "code": "10-13",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-13_交叉路口/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-13_%E4%BA%A4%E5%8F%89%E8%B7%AF%E5%8F%A3/NBT"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_st_10-02",
+      "path": "chapters/main_10--obt__main__level_st_10-02.json",
+      "sort": 80,
+      "title": "交叉路口"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动前",
+      "code": "10-14",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-14_瞄准/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-14_%E7%9E%84%E5%87%86/BEG"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-12_beg",
+      "path": "chapters/main_10--obt__main__level_main_10-12_beg.json",
+      "sort": 81,
+      "title": "瞄准"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动后",
+      "code": "10-14",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-14_瞄准/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-14_%E7%9E%84%E5%87%86/END"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-12_end",
+      "path": "chapters/main_10--obt__main__level_main_10-12_end.json",
+      "sort": 82,
+      "title": "瞄准"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动前",
+      "code": "10-15",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-15_逃离炮火/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-15_%E9%80%83%E7%A6%BB%E7%82%AE%E7%81%AB/BEG"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-13_beg",
+      "path": "chapters/main_10--obt__main__level_main_10-13_beg.json",
+      "sort": 83,
+      "title": "逃离炮火"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动后",
+      "code": "10-16",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-16_血刃高悬/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-16_%E8%A1%80%E5%88%83%E9%AB%98%E6%82%AC/END"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-14_end",
+      "path": "chapters/main_10--obt__main__level_main_10-14_end.json",
+      "sort": 84,
+      "title": "血刃高悬"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动前",
+      "code": "10-17",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-17_坚城高墙/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-17_%E5%9D%9A%E5%9F%8E%E9%AB%98%E5%A2%99/BEG"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-15_beg",
+      "path": "chapters/main_10--obt__main__level_main_10-15_beg.json",
+      "sort": 85,
+      "title": "坚城高墙"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "行动后",
+      "code": "10-17",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-17_坚城高墙/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-17_%E5%9D%9A%E5%9F%8E%E9%AB%98%E5%A2%99/END"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_main_10-15_end",
+      "path": "chapters/main_10--obt__main__level_main_10-15_end.json",
+      "sort": 86,
+      "title": "坚城高墙"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "幕间",
+      "code": "10-18",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-18_理想的倒影/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-18_%E7%90%86%E6%83%B3%E7%9A%84%E5%80%92%E5%BD%B1/NBT"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_st_10-03",
+      "path": "chapters/main_10--obt__main__level_st_10-03.json",
+      "sort": 87,
+      "title": "理想的倒影"
+    },
+    {
+      "albumId": "main_10",
+      "avgTag": "幕间",
+      "code": "10-19",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "10-19_远方星火/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/10-19_%E8%BF%9C%E6%96%B9%E6%98%9F%E7%81%AB/NBT"
+      },
+      "downloadable": true,
+      "id": "main_10--obt__main__level_st_10-04",
+      "path": "chapters/main_10--obt__main__level_st_10-04.json",
+      "sort": 88,
+      "title": "远方星火"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_shatterpoint",
+    "primaryImageId": "kv_shatterpoint",
+    "source": "stage-kv",
+    "titleImageId": "title_shatterpoint",
+    "url": "https://media.prts.wiki/9/98/%E7%AB%A0%E8%8A%82%E5%90%8D%E7%A7%B0_%E7%AC%AC%E5%8D%81%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 3011,
+  "homeSection": "mainline",
+  "id": "main_10",
+  "music": {
+    "arcTitle": "Ⅱ 残阳",
+    "movementTitle": "Ⅱ 残阳",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "main-10",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": -1,
+  "summary": "小丘郡的混战后，\n罗德岛和深池同时向伦蒂尼姆靠近。\n推进之王回到了久违的故乡，\n面对的却是战火纷飞的城市......\n而高耸的碎片大厦里，两个萨卡兹正目睹着这一切。\n逝去的人本不应在此，\n那此刻的“她”又究竟是谁？",
+  "timelineRank": -1,
+  "title": "破碎日冕"
+}

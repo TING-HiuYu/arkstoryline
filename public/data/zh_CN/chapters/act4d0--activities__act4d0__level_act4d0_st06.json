@@ -1,0 +1,19 @@
+{
+  "albumId": "act4d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SW-ST6_北极星/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SW-ST6_%E5%8C%97%E6%9E%81%E6%98%9F/NBT"
+  },
+  "id": "act4d0--activities__act4d0__level_act4d0_st06",
+  "navigation": {
+    "nextChapterId": "act4d0--activities__act4d0__level_act4d0_st07",
+    "previousChapterId": "act4d0--activities__act4d0__level_act4d0_st05"
+  },
+  "summary": "info/activities/act4d0/level_act4d0_st06",
+  "title": "北极星"
+}

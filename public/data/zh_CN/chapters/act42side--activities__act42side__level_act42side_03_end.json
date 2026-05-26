@@ -1,0 +1,21 @@
+{
+  "albumId": "act42side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "MT-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MT-3_礼拜/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MT-3_%E7%A4%BC%E6%8B%9C/END"
+  },
+  "id": "act42side--activities__act42side__level_act42side_03_end",
+  "navigation": {
+    "nextChapterId": "act42side--activities__act42side__level_act42side_04_beg",
+    "previousChapterId": "act42side--activities__act42side__level_act42side_03_beg"
+  },
+  "subtitle": "MT-3",
+  "summary": "info/activities/act42side/level_act42side_03_end",
+  "title": "礼拜"
+}

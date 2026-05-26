@@ -1,0 +1,21 @@
+{
+  "albumId": "act51side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "PA-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PA-4_一墙之隔/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PA-4_%E4%B8%80%E5%A2%99%E4%B9%8B%E9%9A%94/BEG"
+  },
+  "id": "act51side--activities__act51side__level_act51side_04_beg",
+  "navigation": {
+    "nextChapterId": "act51side--activities__act51side__level_act51side_04_end",
+    "previousChapterId": "act51side--activities__act51side__level_act51side_03_end"
+  },
+  "subtitle": "PA-4",
+  "summary": "info/activities/act51side/level_act51side_04_beg",
+  "title": "一墙之隔"
+}

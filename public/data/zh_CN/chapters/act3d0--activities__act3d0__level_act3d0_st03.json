@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-ST3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-ST3_压力之下/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-ST3_%E5%8E%8B%E5%8A%9B%E4%B9%8B%E4%B8%8B/NBT"
+  },
+  "id": "act3d0--activities__act3d0__level_act3d0_st03",
+  "navigation": {
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_05_beg",
+    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_04_end"
+  },
+  "subtitle": "OF-ST3",
+  "summary": "info/activities/act3d0/level_act3d0_st03",
+  "title": "压力之下"
+}

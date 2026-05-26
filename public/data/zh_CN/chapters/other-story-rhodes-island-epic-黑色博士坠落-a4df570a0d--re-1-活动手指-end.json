@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RE-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RE-1_活动手指/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RE-1_%E6%B4%BB%E5%8A%A8%E6%89%8B%E6%8C%87/END"
+  },
+  "id": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--re-1-活动手指-end",
+  "navigation": {
+    "nextChapterId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--re-2-正式开打-end",
+    "previousChapterId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--apf-2026-nbt"
+  },
+  "subtitle": "RE-1",
+  "title": "RE-1 活动手指 行动后"
+}

@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-重启锚点-399ad3d227",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RA2-END-2/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RA2-END-2/NBT"
+  },
+  "id": "other-story-重启锚点-399ad3d227--ra2-end-2-nbt",
+  "navigation": {
+    "nextChapterId": "other-story-重启锚点-399ad3d227--ra2-end-3-nbt",
+    "previousChapterId": "other-story-重启锚点-399ad3d227--ra2-end-1-nbt"
+  },
+  "subtitle": null,
+  "title": "家园的样貌"
+}

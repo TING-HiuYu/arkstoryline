@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "M8-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "M8-5_厄运，等候已久/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/M8-5_%E5%8E%84%E8%BF%90%EF%BC%8C%E7%AD%89%E5%80%99%E5%B7%B2%E4%B9%85/NBT"
+  },
+  "id": "main_8--obt__main__level_st_08-05",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_main_08-08_beg",
+    "previousChapterId": "main_8--obt__main__level_main_08-06_end"
+  },
+  "subtitle": "M8-5",
+  "summary": "info/obt/main/level_st_08-05",
+  "title": "厄运，等候已久"
+}

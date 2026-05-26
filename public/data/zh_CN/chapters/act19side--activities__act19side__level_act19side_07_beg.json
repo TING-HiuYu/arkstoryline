@@ -1,0 +1,21 @@
+{
+  "albumId": "act19side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "DV-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DV-7_疯狂的信号/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DV-7_%E7%96%AF%E7%8B%82%E7%9A%84%E4%BF%A1%E5%8F%B7/BEG"
+  },
+  "id": "act19side--activities__act19side__level_act19side_07_beg",
+  "navigation": {
+    "nextChapterId": "act19side--activities__act19side__level__act19side_sub-1-2",
+    "previousChapterId": "act19side--activities__act19side__level_act19side_06_end"
+  },
+  "subtitle": "DV-7",
+  "summary": "info/activities/act19side/level_act19side_07_beg",
+  "title": "疯狂的信号"
+}

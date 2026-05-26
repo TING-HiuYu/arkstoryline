@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-8_金错刀/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-8_%E9%87%91%E9%94%99%E5%88%80/END"
+  },
+  "id": "act49side--activities__act49side__level_act49side_08_end",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_09_beg",
+    "previousChapterId": "act49side--activities__act49side__level_act49side_08_beg"
+  },
+  "subtitle": "TA-8",
+  "summary": "info/activities/act49side/level_act49side_08_end",
+  "title": "金错刀"
+}

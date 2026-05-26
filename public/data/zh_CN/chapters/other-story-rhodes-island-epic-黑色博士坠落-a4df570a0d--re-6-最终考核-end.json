@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RE-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RE-6_最终考核/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RE-6_%E6%9C%80%E7%BB%88%E8%80%83%E6%A0%B8/END"
+  },
+  "id": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--re-6-最终考核-end",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--re-5-渐入佳境-end"
+  },
+  "subtitle": "RE-6",
+  "title": "RE-6 最终考核 行动后"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_6",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "6-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "6-7_断弦/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/6-7_%E6%96%AD%E5%BC%A6/END"
+  },
+  "id": "main_6--obt__main__level_main_06-06_end",
+  "navigation": {
+    "nextChapterId": "main_6--obt__main__level_main_06-07_beg",
+    "previousChapterId": "main_6--obt__main__level_main_06-06_beg"
+  },
+  "subtitle": "6-7",
+  "summary": "info/obt/main/level_main_06-06_end",
+  "title": "断弦"
+}

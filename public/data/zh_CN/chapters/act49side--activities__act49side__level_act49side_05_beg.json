@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-5_双飞燕/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-5_%E5%8F%8C%E9%A3%9E%E7%87%95/BEG"
+  },
+  "id": "act49side--activities__act49side__level_act49side_05_beg",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_05_end",
+    "previousChapterId": "act49side--activities__act49side__level_act49side_04_end"
+  },
+  "subtitle": "TA-5",
+  "summary": "info/activities/act49side/level_act49side_05_beg",
+  "title": "双飞燕"
+}

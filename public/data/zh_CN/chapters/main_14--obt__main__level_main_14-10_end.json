@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "14-11",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-11_所谓“英雄”/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-11_%E6%89%80%E8%B0%93%E2%80%9C%E8%8B%B1%E9%9B%84%E2%80%9D/END"
+  },
+  "id": "main_14--obt__main__level_main_14-10_end",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-11_beg",
+    "previousChapterId": "main_14--obt__main__level_main_14-10_beg"
+  },
+  "subtitle": "14-11",
+  "summary": "info/obt/main/level_main_14-10_end",
+  "title": "所谓“英雄”"
+}

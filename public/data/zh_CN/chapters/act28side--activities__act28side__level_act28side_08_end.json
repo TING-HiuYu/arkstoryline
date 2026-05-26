@@ -1,0 +1,21 @@
+{
+  "albumId": "act28side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CV-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CV-8_告别往昔/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CV-8_%E5%91%8A%E5%88%AB%E5%BE%80%E6%98%94/END"
+  },
+  "id": "act28side--activities__act28side__level_act28side_08_end",
+  "navigation": {
+    "nextChapterId": "act28side--activities__act28side__level_act28side_st03",
+    "previousChapterId": "act28side--activities__act28side__level_act28side_08_beg"
+  },
+  "subtitle": "CV-8",
+  "summary": "info/activities/act28side/level_act28side_08_end",
+  "title": "告别往昔"
+}

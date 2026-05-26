@@ -1,0 +1,19 @@
+{
+  "albumId": "act15mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FD-ST6_终有一日/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FD-ST6_%E7%BB%88%E6%9C%89%E4%B8%80%E6%97%A5/NBT"
+  },
+  "id": "act15mini--activities__act15mini__level_act15mini_st06",
+  "navigation": {
+    "nextChapterId": "act15mini--activities__act15mini__level_act15mini_st07",
+    "previousChapterId": "act15mini--activities__act15mini__level_act15mini_st05"
+  },
+  "summary": "info/activities/act15mini/level_act15mini_st06",
+  "title": "终有一日"
+}

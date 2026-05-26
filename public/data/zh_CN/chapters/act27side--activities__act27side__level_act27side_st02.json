@@ -1,0 +1,21 @@
+{
+  "albumId": "act27side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "SL-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SL-ST-2_雨啊，雨啊，快离开/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SL-ST-2_%E9%9B%A8%E5%95%8A%EF%BC%8C%E9%9B%A8%E5%95%8A%EF%BC%8C%E5%BF%AB%E7%A6%BB%E5%BC%80/NBT"
+  },
+  "id": "act27side--activities__act27side__level_act27side_st02",
+  "navigation": {
+    "nextChapterId": "act27side--activities__act27side__level_act27side_06_beg",
+    "previousChapterId": "act27side--activities__act27side__level_act27side_05_end"
+  },
+  "subtitle": "SL-ST-2",
+  "summary": "info/activities/act27side/level_act27side_st02",
+  "title": "雨啊，雨啊，快离开"
+}

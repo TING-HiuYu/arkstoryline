@@ -1,0 +1,19 @@
+{
+  "albumId": "act9mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PS-ST4_只影孤身/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PS-ST4_%E5%8F%AA%E5%BD%B1%E5%AD%A4%E8%BA%AB/NBT"
+  },
+  "id": "act9mini--activities__act9mini__level_act9mini_st04",
+  "navigation": {
+    "nextChapterId": "act9mini--activities__act9mini__level_act9mini_st05",
+    "previousChapterId": "act9mini--activities__act9mini__level_act9mini_st03"
+  },
+  "summary": "info/activities/act9mini/level_act9mini_st04",
+  "title": "只影孤身"
+}

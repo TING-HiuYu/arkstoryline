@@ -1,0 +1,21 @@
+{
+  "albumId": "act33side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "BB-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BB-7_阴影显现/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BB-7_%E9%98%B4%E5%BD%B1%E6%98%BE%E7%8E%B0/BEG"
+  },
+  "id": "act33side--activities__act33side__level_act33side_07_beg",
+  "navigation": {
+    "nextChapterId": "act33side--activities__act33side__level_act33side_07_end",
+    "previousChapterId": "act33side--activities__act33side__level_act33side_06_end"
+  },
+  "subtitle": "BB-7",
+  "summary": "info/activities/act33side/level_act33side_07_beg",
+  "title": "阴影显现"
+}

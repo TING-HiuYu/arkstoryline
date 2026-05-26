@@ -1,0 +1,15 @@
+{
+  "id": "act3d0--activities__act3d0__ui_act3d0_campselect",
+  "albumId": "act3d0",
+  "title": "演出开始",
+  "subtitle": "ENTRY",
+  "code": "ENTRY",
+  "avgTag": "幕间",
+  "summary": "info/activities/act3d0/ui_act3d0_campselect",
+  "navigation": {
+    "previousChapterId": null,
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_st01"
+  },
+  "blocks": [],
+  "citations": []
+}

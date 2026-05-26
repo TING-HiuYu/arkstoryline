@@ -1,0 +1,21 @@
+{
+  "albumId": "act22side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "FC-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FC-5_祝福的歌谣/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FC-5_%E7%A5%9D%E7%A6%8F%E7%9A%84%E6%AD%8C%E8%B0%A3/BEG"
+  },
+  "id": "act22side--activities__act22side__level_act22side_05_beg",
+  "navigation": {
+    "nextChapterId": "act22side--activities__act22side__level_act22side_05_end",
+    "previousChapterId": "act22side--activities__act22side__level_act22side_04_end"
+  },
+  "subtitle": "FC-5",
+  "summary": "info/activities/act22side/level_act22side_05_beg",
+  "title": "祝福的歌谣"
+}

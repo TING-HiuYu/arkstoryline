@@ -1,0 +1,21 @@
+{
+  "albumId": "main_15",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "15-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "15-8_破碎回响/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-8_%E7%A0%B4%E7%A2%8E%E5%9B%9E%E5%93%8D/BEG"
+  },
+  "id": "main_15--obt__main__level_main_15-07_beg",
+  "navigation": {
+    "nextChapterId": "main_15--obt__main__level_main_15-08_end",
+    "previousChapterId": "main_15--obt__main__level_main_15-06_end"
+  },
+  "subtitle": "15-8",
+  "summary": "info/obt/main/level_main_15-07_beg",
+  "title": "破碎回响"
+}

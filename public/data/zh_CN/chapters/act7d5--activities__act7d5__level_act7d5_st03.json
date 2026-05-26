@@ -1,0 +1,19 @@
+{
+  "albumId": "act7d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SA-ST3_今日厨房/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SA-ST3_%E4%BB%8A%E6%97%A5%E5%8E%A8%E6%88%BF/NBT"
+  },
+  "id": "act7d5--activities__act7d5__level_act7d5_st03",
+  "navigation": {
+    "nextChapterId": "act7d5--activities__act7d5__level_act7d5_st04",
+    "previousChapterId": "act7d5--activities__act7d5__level_act7d5_st02"
+  },
+  "summary": "info/activities/act7d5/level_act7d5_st03",
+  "title": "今日厨房"
+}

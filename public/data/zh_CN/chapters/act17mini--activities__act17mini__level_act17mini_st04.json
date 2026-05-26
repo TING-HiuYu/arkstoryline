@@ -1,0 +1,19 @@
+{
+  "albumId": "act17mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "KR-ST4_未完成的态度/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/KR-ST4_%E6%9C%AA%E5%AE%8C%E6%88%90%E7%9A%84%E6%80%81%E5%BA%A6/NBT"
+  },
+  "id": "act17mini--activities__act17mini__level_act17mini_st04",
+  "navigation": {
+    "nextChapterId": "act17mini--activities__act17mini__level_act17mini_st05",
+    "previousChapterId": "act17mini--activities__act17mini__level_act17mini_st03"
+  },
+  "summary": "info/activities/act17mini/level_act17mini_st04",
+  "title": "未完成的态度"
+}

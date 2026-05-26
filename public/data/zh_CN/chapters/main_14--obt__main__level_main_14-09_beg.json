@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "14-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-10_自光辉中奔涌/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-10_%E8%87%AA%E5%85%89%E8%BE%89%E4%B8%AD%E5%A5%94%E6%B6%8C/BEG"
+  },
+  "id": "main_14--obt__main__level_main_14-09_beg",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-09_end",
+    "previousChapterId": "main_14--obt__main__level_main_14-08_end"
+  },
+  "subtitle": "14-10",
+  "summary": "info/obt/main/level_main_14-09_beg",
+  "title": "自光辉中奔涌"
+}

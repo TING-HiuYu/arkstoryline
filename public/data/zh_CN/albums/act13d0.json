@@ -1,0 +1,143 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act13d0",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FA-ST1_归处/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FA-ST1_%E5%BD%92%E5%A4%84/NBT"
+      },
+      "downloadable": true,
+      "id": "act13d0--activities__act13d0__level_act13d0_st01",
+      "path": "chapters/act13d0--activities__act13d0__level_act13d0_st01.json",
+      "sort": 1,
+      "title": "归处"
+    },
+    {
+      "albumId": "act13d0",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FA-ST2_域外同族/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FA-ST2_%E5%9F%9F%E5%A4%96%E5%90%8C%E6%97%8F/NBT"
+      },
+      "downloadable": true,
+      "id": "act13d0--activities__act13d0__level_act13d0_st02",
+      "path": "chapters/act13d0--activities__act13d0__level_act13d0_st02.json",
+      "sort": 2,
+      "title": "域外同族"
+    },
+    {
+      "albumId": "act13d0",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FA-ST3_不知返/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FA-ST3_%E4%B8%8D%E7%9F%A5%E8%BF%94/NBT"
+      },
+      "downloadable": true,
+      "id": "act13d0--activities__act13d0__level_act13d0_st03",
+      "path": "chapters/act13d0--activities__act13d0__level_act13d0_st03.json",
+      "sort": 3,
+      "title": "不知返"
+    },
+    {
+      "albumId": "act13d0",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FA-ST4_回首/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FA-ST4_%E5%9B%9E%E9%A6%96/NBT"
+      },
+      "downloadable": true,
+      "id": "act13d0--activities__act13d0__level_act13d0_st04",
+      "path": "chapters/act13d0--activities__act13d0__level_act13d0_st04.json",
+      "sort": 4,
+      "title": "回首"
+    },
+    {
+      "albumId": "act13d0",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FA-ST5_四月的歌/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FA-ST5_%E5%9B%9B%E6%9C%88%E7%9A%84%E6%AD%8C/NBT"
+      },
+      "downloadable": true,
+      "id": "act13d0--activities__act13d0__level_act13d0_st05",
+      "path": "chapters/act13d0--activities__act13d0__level_act13d0_st05.json",
+      "sort": 5,
+      "title": "四月的歌"
+    },
+    {
+      "albumId": "act13d0",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FA-ST6_交错光影/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FA-ST6_%E4%BA%A4%E9%94%99%E5%85%89%E5%BD%B1/NBT"
+      },
+      "downloadable": true,
+      "id": "act13d0--activities__act13d0__level_act13d0_st06",
+      "path": "chapters/act13d0--activities__act13d0__level_act13d0_st06.json",
+      "sort": 6,
+      "title": "交错光影"
+    },
+    {
+      "albumId": "act13d0",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FA-ST7_天空的故事/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FA-ST7_%E5%A4%A9%E7%A9%BA%E7%9A%84%E6%95%85%E4%BA%8B/NBT"
+      },
+      "downloadable": true,
+      "id": "act13d0--activities__act13d0__level_act13d0_st07",
+      "path": "chapters/act13d0--activities__act13d0__level_act13d0_st07.json",
+      "sort": 7,
+      "title": "天空的故事"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_rewinding_breeze",
+    "primaryImageId": "kv_rewinding_breeze",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act13d0",
+    "storyPicId": "storyPic_act13d0",
+    "titleImageId": "title_rewinding_breeze",
+    "url": "https://media.prts.wiki/0/06/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E8%B8%8F%E5%AF%BB%E5%BE%80%E6%98%94%E4%B9%8B%E9%A3%8E.png"
+  },
+  "extras": [],
+  "gameOrderRank": 2004,
+  "homeSection": "sideStory",
+  "id": "act13d0",
+  "music": {
+    "arcTitle": "泰拉奇谈",
+    "movementTitle": "泰拉奇谈",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act13d0",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1600920000,
+  "summary": "那片记忆中或清晰或模糊的土地，\n那些从过往延伸向今日的脚印，还有那些人。\n我们在罗德岛的甲板上眺望，怀念，追寻。",
+  "timelineRank": 1600920000,
+  "title": "踏寻往昔之风"
+}

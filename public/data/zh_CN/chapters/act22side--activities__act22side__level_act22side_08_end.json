@@ -1,0 +1,21 @@
+{
+  "albumId": "act22side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "FC-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FC-8_她的影子/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FC-8_%E5%A5%B9%E7%9A%84%E5%BD%B1%E5%AD%90/END"
+  },
+  "id": "act22side--activities__act22side__level_act22side_08_end",
+  "navigation": {
+    "nextChapterId": "act22side--activities__act22side__level_act22side_st03",
+    "previousChapterId": "act22side--activities__act22side__level_act22side_08_beg"
+  },
+  "subtitle": "FC-8",
+  "summary": "info/activities/act22side/level_act22side_08_end",
+  "title": "她的影子"
+}

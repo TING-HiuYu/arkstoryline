@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "JT8-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "JT8-3_昂首，足践烈焰/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/JT8-3_%E6%98%82%E9%A6%96%EF%BC%8C%E8%B6%B3%E8%B7%B5%E7%83%88%E7%84%B0/END"
+  },
+  "id": "main_8--obt__main__level_main_08-17_end",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_st_08-06",
+    "previousChapterId": "main_8--obt__main__level_main_08-17_beg"
+  },
+  "subtitle": "JT8-3",
+  "summary": "info/obt/main/level_main_08-17_end",
+  "title": "昂首，足践烈焰"
+}

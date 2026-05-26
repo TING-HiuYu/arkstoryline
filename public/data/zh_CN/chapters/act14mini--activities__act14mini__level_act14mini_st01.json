@@ -1,0 +1,19 @@
+{
+  "albumId": "act14mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DC-ST1_近乡情怯/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DC-ST1_%E8%BF%91%E4%B9%A1%E6%83%85%E6%80%AF/NBT"
+  },
+  "id": "act14mini--activities__act14mini__level_act14mini_st01",
+  "navigation": {
+    "nextChapterId": "act14mini--activities__act14mini__level_act14mini_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act14mini/level_act14mini_st01",
+  "title": "近乡情怯"
+}

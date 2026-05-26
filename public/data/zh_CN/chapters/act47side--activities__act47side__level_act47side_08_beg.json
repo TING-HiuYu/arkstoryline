@@ -1,0 +1,21 @@
+{
+  "albumId": "act47side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "UR-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "UR-8_栖脚地/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/UR-8_%E6%A0%96%E8%84%9A%E5%9C%B0/BEG"
+  },
+  "id": "act47side--activities__act47side__level_act47side_08_beg",
+  "navigation": {
+    "nextChapterId": "act47side--activities__act47side__level_act47side_08_end",
+    "previousChapterId": "act47side--activities__act47side__level_act47side_07_end"
+  },
+  "subtitle": "UR-8",
+  "summary": "info/activities/act47side/level_act47side_08_beg",
+  "title": "栖脚地"
+}

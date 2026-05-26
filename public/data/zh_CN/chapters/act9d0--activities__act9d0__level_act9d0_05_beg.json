@@ -1,0 +1,21 @@
+{
+  "albumId": "act9d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "DM-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DM-7_龟裂/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DM-7_%E9%BE%9F%E8%A3%82/BEG"
+  },
+  "id": "act9d0--activities__act9d0__level_act9d0_05_beg",
+  "navigation": {
+    "nextChapterId": "act9d0--activities__act9d0__level_act9d0_05_end",
+    "previousChapterId": "act9d0--activities__act9d0__level_act9d0_04_end"
+  },
+  "subtitle": "DM-7",
+  "summary": "info/activities/act9d0/level_act9d0_05_beg",
+  "title": "龟裂"
+}

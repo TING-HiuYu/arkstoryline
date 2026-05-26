@@ -1,0 +1,21 @@
+{
+  "albumId": "act19side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "DV-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DV-2_拓荒者小屋/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DV-2_%E6%8B%93%E8%8D%92%E8%80%85%E5%B0%8F%E5%B1%8B/BEG"
+  },
+  "id": "act19side--activities__act19side__level_act19side_02_beg",
+  "navigation": {
+    "nextChapterId": "act19side--activities__act19side__level_act19side_02_end",
+    "previousChapterId": "act19side--activities__act19side__level_act19side_01_end"
+  },
+  "subtitle": "DV-2",
+  "summary": "info/activities/act19side/level_act19side_02_beg",
+  "title": "拓荒者小屋"
+}

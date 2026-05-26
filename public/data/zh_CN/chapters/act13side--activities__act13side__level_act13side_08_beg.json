@@ -1,0 +1,21 @@
+{
+  "albumId": "act13side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "NL-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "NL-8_最后的怯薛/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/NL-8_%E6%9C%80%E5%90%8E%E7%9A%84%E6%80%AF%E8%96%9B/BEG"
+  },
+  "id": "act13side--activities__act13side__level_act13side_08_beg",
+  "navigation": {
+    "nextChapterId": "act13side--activities__act13side__level_act13side_08_end",
+    "previousChapterId": "act13side--activities__act13side__level_act13side_07_end"
+  },
+  "subtitle": "NL-8",
+  "summary": "info/activities/act13side/level_act13side_08_beg",
+  "title": "最后的怯薛"
+}

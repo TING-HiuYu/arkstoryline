@@ -1,0 +1,128 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act7mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PL-ST1_粉碎大地/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PL-ST1_%E7%B2%89%E7%A2%8E%E5%A4%A7%E5%9C%B0/NBT"
+      },
+      "downloadable": true,
+      "id": "act7mini--activities__act7mini__level_act7mini_st01",
+      "path": "chapters/act7mini--activities__act7mini__level_act7mini_st01.json",
+      "sort": 1,
+      "title": "粉碎大地"
+    },
+    {
+      "albumId": "act7mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PL-ST2_烁烁星火/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PL-ST2_%E7%83%81%E7%83%81%E6%98%9F%E7%81%AB/NBT"
+      },
+      "downloadable": true,
+      "id": "act7mini--activities__act7mini__level_act7mini_st02",
+      "path": "chapters/act7mini--activities__act7mini__level_act7mini_st02.json",
+      "sort": 2,
+      "title": "烁烁星火"
+    },
+    {
+      "albumId": "act7mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PL-ST3_真假怪谈/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PL-ST3_%E7%9C%9F%E5%81%87%E6%80%AA%E8%B0%88/NBT"
+      },
+      "downloadable": true,
+      "id": "act7mini--activities__act7mini__level_act7mini_st03",
+      "path": "chapters/act7mini--activities__act7mini__level_act7mini_st03.json",
+      "sort": 3,
+      "title": "真假怪谈"
+    },
+    {
+      "albumId": "act7mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PL-ST4_遗落灯塔/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PL-ST4_%E9%81%97%E8%90%BD%E7%81%AF%E5%A1%94/NBT"
+      },
+      "downloadable": true,
+      "id": "act7mini--activities__act7mini__level_act7mini_st04",
+      "path": "chapters/act7mini--activities__act7mini__level_act7mini_st04.json",
+      "sort": 4,
+      "title": "遗落灯塔"
+    },
+    {
+      "albumId": "act7mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PL-ST5_异类/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PL-ST5_%E5%BC%82%E7%B1%BB/NBT"
+      },
+      "downloadable": true,
+      "id": "act7mini--activities__act7mini__level_act7mini_st05",
+      "path": "chapters/act7mini--activities__act7mini__level_act7mini_st05.json",
+      "sort": 5,
+      "title": "异类"
+    },
+    {
+      "albumId": "act7mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "PL-ST6_信/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/PL-ST6_%E4%BF%A1/NBT"
+      },
+      "downloadable": true,
+      "id": "act7mini--activities__act7mini__level_act7mini_st06",
+      "path": "chapters/act7mini--activities__act7mini__level_act7mini_st06.json",
+      "sort": 6,
+      "title": "信"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_preludinglights",
+    "primaryImageId": "kv_preludinglights",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act7mini",
+    "storyPicId": "storyPic_act7mini",
+    "titleImageId": "title_preludinglights",
+    "url": "https://media.prts.wiki/b/bf/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%81%AF%E7%81%AB%E5%BA%8F%E6%9B%B2.png"
+  },
+  "extras": [],
+  "gameOrderRank": 3001,
+  "homeSection": "sideStory",
+  "id": "act7mini",
+  "music": {
+    "arcTitle": "泰拉奇谈",
+    "movementTitle": "泰拉奇谈",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act7mini",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1622520000,
+  "summary": "这片大地从不轻易向人展示其仁慈，\n人们直面风雨，用自己的选择敲下命运的铆钉。\n在最为荒芜的土地上，也有希望如星火闪烁。",
+  "timelineRank": 1622520000,
+  "title": "灯火序曲"
+}

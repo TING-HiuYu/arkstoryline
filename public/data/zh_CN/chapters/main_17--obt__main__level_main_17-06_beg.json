@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "17-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "17-7_理性失衡/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/17-7_%E7%90%86%E6%80%A7%E5%A4%B1%E8%A1%A1/BEG"
+  },
+  "id": "main_17--obt__main__level_main_17-06_beg",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_main_17-07_end",
+    "previousChapterId": "main_17--obt__main__level_main_17-05_end"
+  },
+  "subtitle": "17-7",
+  "summary": "info/obt/main/level_main_17-06_beg",
+  "title": "理性失衡"
+}

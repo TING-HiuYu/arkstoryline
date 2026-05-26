@@ -1,0 +1,21 @@
+{
+  "albumId": "act15side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "IW-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IW-1_化物/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-1_%E5%8C%96%E7%89%A9/BEG"
+  },
+  "id": "act15side--activities__act15side__level_act15side_01_beg",
+  "navigation": {
+    "nextChapterId": "act15side--activities__act15side__level_act15side_01_end",
+    "previousChapterId": "act15side--activities__act15side__level_act15side_st01"
+  },
+  "subtitle": "IW-1",
+  "summary": "info/activities/act15side/level_act15side_01_beg",
+  "title": "化物"
+}

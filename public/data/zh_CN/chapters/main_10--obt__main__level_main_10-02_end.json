@@ -1,0 +1,21 @@
+{
+  "albumId": "main_10",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "10-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "10-3_低下头/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-3_%E4%BD%8E%E4%B8%8B%E5%A4%B4/END"
+  },
+  "id": "main_10--obt__main__level_main_10-02_end",
+  "navigation": {
+    "nextChapterId": "main_10--obt__main__level_main_10-03_beg",
+    "previousChapterId": "main_10--obt__main__level_main_10-02_beg"
+  },
+  "subtitle": "10-3",
+  "summary": "info/obt/main/level_main_10-02_end",
+  "title": "低下头"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d3",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "SV-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SV-7_守护者/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-7_%E5%AE%88%E6%8A%A4%E8%80%85/BEG"
+  },
+  "id": "act18d3--activities__act18d3__level_act18d3_07_beg",
+  "navigation": {
+    "nextChapterId": "act18d3--activities__act18d3__level_act18d3_07_end",
+    "previousChapterId": "act18d3--activities__act18d3__level_act18d3_06_end"
+  },
+  "subtitle": "SV-7",
+  "summary": "info/activities/act18d3/level_act18d3_07_beg",
+  "title": "守护者"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act34side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "BP-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BP-2_评议式迎接/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BP-2_%E8%AF%84%E8%AE%AE%E5%BC%8F%E8%BF%8E%E6%8E%A5/BEG"
+  },
+  "id": "act34side--activities__act34side__level_act34side_02_beg",
+  "navigation": {
+    "nextChapterId": "act34side--activities__act34side__level_act34side_02_end",
+    "previousChapterId": "act34side--activities__act34side__level_act34side_01_end"
+  },
+  "subtitle": "BP-2",
+  "summary": "info/activities/act34side/level_act34side_02_beg",
+  "title": "评议式迎接"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act33side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "BB-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BB-2_命途何在/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BB-2_%E5%91%BD%E9%80%94%E4%BD%95%E5%9C%A8/BEG"
+  },
+  "id": "act33side--activities__act33side__level_act33side_02_beg",
+  "navigation": {
+    "nextChapterId": "act33side--activities__act33side__level_act33side_02_end",
+    "previousChapterId": "act33side--activities__act33side__level_act33side_01_end"
+  },
+  "subtitle": "BB-2",
+  "summary": "info/activities/act33side/level_act33side_02_beg",
+  "title": "命途何在"
+}

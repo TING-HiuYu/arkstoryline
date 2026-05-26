@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "12-17",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-17_被弃之人/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-17_%E8%A2%AB%E5%BC%83%E4%B9%8B%E4%BA%BA/END"
+  },
+  "id": "main_12--obt__main__level_main_12-15_end",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_main_12-16_beg",
+    "previousChapterId": "main_12--obt__main__level_main_12-14_beg"
+  },
+  "subtitle": "12-17",
+  "summary": "info/obt/main/level_main_12-15_end",
+  "title": "被弃之人"
+}

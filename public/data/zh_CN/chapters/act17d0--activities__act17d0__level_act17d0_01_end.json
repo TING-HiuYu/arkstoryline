@@ -1,0 +1,21 @@
+{
+  "albumId": "act17d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OD-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OD-1_外勤记录/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OD-1_%E5%A4%96%E5%8B%A4%E8%AE%B0%E5%BD%95/END"
+  },
+  "id": "act17d0--activities__act17d0__level_act17d0_01_end",
+  "navigation": {
+    "nextChapterId": "act17d0--activities__act17d0__level_act17d0_02_beg",
+    "previousChapterId": "act17d0--activities__act17d0__level_act17d0_01_beg"
+  },
+  "subtitle": "OD-1",
+  "summary": "info/activities/act17d0/level_act17d0_01_end",
+  "title": "外勤记录"
+}

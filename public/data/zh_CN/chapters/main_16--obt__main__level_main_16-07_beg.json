@@ -1,0 +1,21 @@
+{
+  "albumId": "main_16",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "16-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "16-7_最后欢愉/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/16-7_%E6%9C%80%E5%90%8E%E6%AC%A2%E6%84%89/BEG"
+  },
+  "id": "main_16--obt__main__level_main_16-07_beg",
+  "navigation": {
+    "nextChapterId": "main_16--obt__main__level_main_16-08_end",
+    "previousChapterId": "main_16--obt__main__level_main_16-06_end"
+  },
+  "subtitle": "16-7",
+  "summary": "info/obt/main/level_main_16-07_beg",
+  "title": "最后欢愉"
+}

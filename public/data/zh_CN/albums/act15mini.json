@@ -1,0 +1,143 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act15mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FD-ST1_沉于冰寒/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FD-ST1_%E6%B2%89%E4%BA%8E%E5%86%B0%E5%AF%92/NBT"
+      },
+      "downloadable": true,
+      "id": "act15mini--activities__act15mini__level_act15mini_st01",
+      "path": "chapters/act15mini--activities__act15mini__level_act15mini_st01.json",
+      "sort": 1,
+      "title": "沉于冰寒"
+    },
+    {
+      "albumId": "act15mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FD-ST2_冰原的女儿/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FD-ST2_%E5%86%B0%E5%8E%9F%E7%9A%84%E5%A5%B3%E5%84%BF/NBT"
+      },
+      "downloadable": true,
+      "id": "act15mini--activities__act15mini__level_act15mini_st02",
+      "path": "chapters/act15mini--activities__act15mini__level_act15mini_st02.json",
+      "sort": 2,
+      "title": "冰原的女儿"
+    },
+    {
+      "albumId": "act15mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FD-ST3_树影幢幢/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FD-ST3_%E6%A0%91%E5%BD%B1%E5%B9%A2%E5%B9%A2/NBT"
+      },
+      "downloadable": true,
+      "id": "act15mini--activities__act15mini__level_act15mini_st03",
+      "path": "chapters/act15mini--activities__act15mini__level_act15mini_st03.json",
+      "sort": 3,
+      "title": "树影幢幢"
+    },
+    {
+      "albumId": "act15mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FD-ST4_自然的启示/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FD-ST4_%E8%87%AA%E7%84%B6%E7%9A%84%E5%90%AF%E7%A4%BA/NBT"
+      },
+      "downloadable": true,
+      "id": "act15mini--activities__act15mini__level_act15mini_st04",
+      "path": "chapters/act15mini--activities__act15mini__level_act15mini_st04.json",
+      "sort": 4,
+      "title": "自然的启示"
+    },
+    {
+      "albumId": "act15mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FD-ST5_归乡/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FD-ST5_%E5%BD%92%E4%B9%A1/NBT"
+      },
+      "downloadable": true,
+      "id": "act15mini--activities__act15mini__level_act15mini_st05",
+      "path": "chapters/act15mini--activities__act15mini__level_act15mini_st05.json",
+      "sort": 5,
+      "title": "归乡"
+    },
+    {
+      "albumId": "act15mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FD-ST6_终有一日/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FD-ST6_%E7%BB%88%E6%9C%89%E4%B8%80%E6%97%A5/NBT"
+      },
+      "downloadable": true,
+      "id": "act15mini--activities__act15mini__level_act15mini_st06",
+      "path": "chapters/act15mini--activities__act15mini__level_act15mini_st06.json",
+      "sort": 6,
+      "title": "终有一日"
+    },
+    {
+      "albumId": "act15mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FD-ST7_未见之景/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FD-ST7_%E6%9C%AA%E8%A7%81%E4%B9%8B%E6%99%AF/NBT"
+      },
+      "downloadable": true,
+      "id": "act15mini--activities__act15mini__level_act15mini_st07",
+      "path": "chapters/act15mini--activities__act15mini__level_act15mini_st07.json",
+      "sort": 7,
+      "title": "未见之景"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_the_black_forest_wills_a_dream",
+    "primaryImageId": "kv_the_black_forest_wills_a_dream",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act15mini",
+    "storyPicId": "storyPic_act15mini",
+    "titleImageId": "title_the_black_forest_wills_a_dream",
+    "url": "https://media.prts.wiki/4/41/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%9C%A0%E4%BA%8E%E6%A0%91%E5%BD%B1%E4%B9%8B%E4%B8%AD.png"
+  },
+  "extras": [],
+  "gameOrderRank": 5002,
+  "homeSection": "sideStory",
+  "id": "act15mini",
+  "music": {
+    "arcTitle": "泰拉奇谈",
+    "movementTitle": "泰拉奇谈",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act15mini",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1688616000,
+  "summary": "失踪于冰原深处的科考队，向外界发出了求救信号。\n渗透进萨米林地之中的，不止有乌萨斯的身影。\n分道扬镳的部族，结伴而行的异类，\n你选择向北，还是向南？",
+  "timelineRank": 1688616000,
+  "title": "眠于树影之中"
+}

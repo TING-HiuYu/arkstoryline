@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-探索者的银凇止境-8fd9e07f95",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RO3-END-4/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RO3-END-4/NBT"
+  },
+  "id": "other-story-探索者的银凇止境-8fd9e07f95--ro3-end-4-nbt",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "other-story-探索者的银凇止境-8fd9e07f95--ro3-end-3-nbt"
+  },
+  "subtitle": null,
+  "title": "终始"
+}

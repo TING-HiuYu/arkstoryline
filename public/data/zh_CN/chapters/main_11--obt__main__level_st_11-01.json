@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "11-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-4_何谓理想/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-4_%E4%BD%95%E8%B0%93%E7%90%86%E6%83%B3/NBT"
+  },
+  "id": "main_11--obt__main__level_st_11-01",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_main_11-04_beg",
+    "previousChapterId": "main_11--obt__main__level_main_11-03_end"
+  },
+  "subtitle": "11-4",
+  "summary": "info/obt/main/level_st_11-01",
+  "title": "何谓理想"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act14side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "BI-ST-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BI-ST-4_封盘/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BI-ST-4_%E5%B0%81%E7%9B%98/NBT"
+  },
+  "id": "act14side--activities__act14side__level_act14side_st04",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act14side--activities__act14side__level_act14side_08_end"
+  },
+  "subtitle": "BI-ST-4",
+  "summary": "info/activities/act14side/level_act14side_st04",
+  "title": "封盘"
+}

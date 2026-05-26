@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "R8-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "R8-6_战场，蔓延不止/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/R8-6_%E6%88%98%E5%9C%BA%EF%BC%8C%E8%94%93%E5%BB%B6%E4%B8%8D%E6%AD%A2/BEG"
+  },
+  "id": "main_8--obt__main__level_main_08-06_beg",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_main_08-06_end",
+    "previousChapterId": "main_8--obt__main__level_st_08-04"
+  },
+  "subtitle": "R8-6",
+  "summary": "info/obt/main/level_main_08-06_beg",
+  "title": "战场，蔓延不止"
+}

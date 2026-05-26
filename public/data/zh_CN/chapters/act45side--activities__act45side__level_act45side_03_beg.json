@@ -1,0 +1,21 @@
+{
+  "albumId": "act45side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "SS-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SS-3_音乐室内的光芒/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SS-3_%E9%9F%B3%E4%B9%90%E5%AE%A4%E5%86%85%E7%9A%84%E5%85%89%E8%8A%92/BEG"
+  },
+  "id": "act45side--activities__act45side__level_act45side_03_beg",
+  "navigation": {
+    "nextChapterId": "act45side--activities__act45side__level_act45side_03_end",
+    "previousChapterId": "act45side--activities__act45side__level_act45side_02_end"
+  },
+  "subtitle": "SS-3",
+  "summary": "info/activities/act45side/level_act45side_03_beg",
+  "title": "音乐室内的光芒"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act18side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "LE-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "LE-2_热情，或悲怆/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/LE-2_%E7%83%AD%E6%83%85%EF%BC%8C%E6%88%96%E6%82%B2%E6%80%86/BEG"
+  },
+  "id": "act18side--activities__act18side__level_act18side_02_beg",
+  "navigation": {
+    "nextChapterId": "act18side--activities__act18side__level_act18side_02_end",
+    "previousChapterId": "act18side--activities__act18side__level_act18side_01_end"
+  },
+  "subtitle": "LE-2",
+  "summary": "info/activities/act18side/level_act18side_02_beg",
+  "title": "热情，或悲怆"
+}

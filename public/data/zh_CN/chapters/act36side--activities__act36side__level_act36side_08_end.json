@@ -1,0 +1,21 @@
+{
+  "albumId": "act36side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DT-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DT-8_罗德岛大食堂/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DT-8_%E7%BD%97%E5%BE%B7%E5%B2%9B%E5%A4%A7%E9%A3%9F%E5%A0%82/END"
+  },
+  "id": "act36side--activities__act36side__level_act36side_08_end",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act36side--activities__act36side__level_act36side_08_beg"
+  },
+  "subtitle": "DT-8",
+  "summary": "info/activities/act36side/level_act36side_08_end",
+  "title": "罗德岛大食堂"
+}

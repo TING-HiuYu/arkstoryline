@@ -1,0 +1,376 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动前",
+      "code": "RI-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-1_高空坠物/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-1_%E9%AB%98%E7%A9%BA%E5%9D%A0%E7%89%A9/BEG"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_01_beg",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_01_beg.json",
+      "sort": 1,
+      "title": "高空坠物"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动后",
+      "code": "RI-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-1_高空坠物/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-1_%E9%AB%98%E7%A9%BA%E5%9D%A0%E7%89%A9/END"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_01_end",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_01_end.json",
+      "sort": 2,
+      "title": "高空坠物"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动前",
+      "code": "RI-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-2_粗细有别/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-2_%E7%B2%97%E7%BB%86%E6%9C%89%E5%88%AB/BEG"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_02_beg",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_02_beg.json",
+      "sort": 3,
+      "title": "粗细有别"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动后",
+      "code": "RI-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-2_粗细有别/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-2_%E7%B2%97%E7%BB%86%E6%9C%89%E5%88%AB/END"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_02_end",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_02_end.json",
+      "sort": 4,
+      "title": "粗细有别"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动前",
+      "code": "RI-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-3_往昔/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-3_%E5%BE%80%E6%98%94/BEG"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_03_beg",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_03_beg.json",
+      "sort": 5,
+      "title": "往昔"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动后",
+      "code": "RI-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-3_往昔/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-3_%E5%BE%80%E6%98%94/END"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_03_end",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_03_end.json",
+      "sort": 6,
+      "title": "往昔"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动前",
+      "code": "RI-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-4_机兽咆哮/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-4_%E6%9C%BA%E5%85%BD%E5%92%86%E5%93%AE/BEG"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_04_beg",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_04_beg.json",
+      "sort": 7,
+      "title": "机兽咆哮"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动后",
+      "code": "RI-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-4_机兽咆哮/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-4_%E6%9C%BA%E5%85%BD%E5%92%86%E5%93%AE/END"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_04_end",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_04_end.json",
+      "sort": 8,
+      "title": "机兽咆哮"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "幕间",
+      "code": "RI-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-ST-1_悍将之心/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-ST-1_%E6%82%8D%E5%B0%86%E4%B9%8B%E5%BF%83/NBT"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_st01",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_st01.json",
+      "sort": 9,
+      "title": "悍将之心"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动前",
+      "code": "RI-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-5_各有所长/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-5_%E5%90%84%E6%9C%89%E6%89%80%E9%95%BF/BEG"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_05_beg",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_05_beg.json",
+      "sort": 10,
+      "title": "各有所长"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动后",
+      "code": "RI-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-5_各有所长/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-5_%E5%90%84%E6%9C%89%E6%89%80%E9%95%BF/END"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_05_end",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_05_end.json",
+      "sort": 11,
+      "title": "各有所长"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动前",
+      "code": "RI-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-6_邂逅/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-6_%E9%82%82%E9%80%85/BEG"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_06_beg",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_06_beg.json",
+      "sort": 12,
+      "title": "邂逅"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动后",
+      "code": "RI-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-6_邂逅/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-6_%E9%82%82%E9%80%85/END"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_06_end",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_06_end.json",
+      "sort": 13,
+      "title": "邂逅"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "幕间",
+      "code": "RI-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-ST-2_休息时间/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-ST-2_%E4%BC%91%E6%81%AF%E6%97%B6%E9%97%B4/NBT"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_st02",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_st02.json",
+      "sort": 14,
+      "title": "休息时间"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动前",
+      "code": "RI-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-7_有客先来/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-7_%E6%9C%89%E5%AE%A2%E5%85%88%E6%9D%A5/BEG"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_07_beg",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_07_beg.json",
+      "sort": 15,
+      "title": "有客先来"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动后",
+      "code": "RI-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-7_有客先来/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-7_%E6%9C%89%E5%AE%A2%E5%85%88%E6%9D%A5/END"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_07_end",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_07_end.json",
+      "sort": 16,
+      "title": "有客先来"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动前",
+      "code": "RI-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-8_嘉维尔之拳/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-8_%E5%98%89%E7%BB%B4%E5%B0%94%E4%B9%8B%E6%8B%B3/BEG"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_08_beg",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_08_beg.json",
+      "sort": 17,
+      "title": "嘉维尔之拳"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动后",
+      "code": "RI-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-8_嘉维尔之拳/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-8_%E5%98%89%E7%BB%B4%E5%B0%94%E4%B9%8B%E6%8B%B3/END"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_08_end",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_08_end.json",
+      "sort": 18,
+      "title": "嘉维尔之拳"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动前",
+      "code": "RI-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-9_走出密林/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-9_%E8%B5%B0%E5%87%BA%E5%AF%86%E6%9E%97/BEG"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_09_beg",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_09_beg.json",
+      "sort": 19,
+      "title": "走出密林"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动后",
+      "code": "RI-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-9_走出密林/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-9_%E8%B5%B0%E5%87%BA%E5%AF%86%E6%9E%97/END"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_09_end",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_09_end.json",
+      "sort": 20,
+      "title": "走出密林"
+    },
+    {
+      "albumId": "act12d0",
+      "avgTag": "行动后",
+      "code": "RI-EX-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RI-EX-1_声东击西/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RI-EX-1_%E5%A3%B0%E4%B8%9C%E5%87%BB%E8%A5%BF/END"
+      },
+      "downloadable": true,
+      "id": "act12d0--activities__act12d0__level_act12d0_ex01_end",
+      "path": "chapters/act12d0--activities__act12d0__level_act12d0_ex01_end.json",
+      "sort": 21,
+      "title": "声东击西"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_the_great_chief_returns",
+    "primaryImageId": "kv_the_great_chief_returns",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act12d0",
+    "titleImageId": "title_the_great_chief_returns",
+    "url": "https://media.prts.wiki/f/f7/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E5%AF%86%E6%9E%97%E6%82%8D%E5%B0%86%E5%BD%92%E6%9D%A5.png"
+  },
+  "extras": [],
+  "gameOrderRank": 2003,
+  "homeSection": "sideStory",
+  "id": "act12d0",
+  "music": {
+    "arcTitle": "夏日律动",
+    "movementTitle": "夏日律动",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_13",
+      "tag_14"
+    ]
+  },
+  "slug": "act12d0",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1598328000,
+  "summary": "博士与嘉维尔一行乘坐近地飞行器前往嘉维尔的故乡。\n萨尔贡的茂林丛生之地，阿卡胡拉。\n临近目的地时，飞行器被击坠了！\n博士与嘉维尔只得徒步前往聚落寻求帮助。\n广阔雨林中，究竟隐藏着什么阴谋？\n罗德岛干员们是否能够修好飞行器返航？\n嘉维尔，这里是你的地盘，一切就指望你了！",
+  "timelineRank": 1598328000,
+  "title": "密林悍将归来"
+}

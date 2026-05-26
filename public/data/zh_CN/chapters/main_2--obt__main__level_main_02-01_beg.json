@@ -1,0 +1,21 @@
+{
+  "albumId": "main_2",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "TR-11",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TR-11_战术阻滞/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TR-11_%E6%88%98%E6%9C%AF%E9%98%BB%E6%BB%9E/BEG"
+  },
+  "id": "main_2--obt__main__level_main_02-01_beg",
+  "navigation": {
+    "nextChapterId": "main_2--obt__main__level_main_02-01_end",
+    "previousChapterId": null
+  },
+  "subtitle": "TR-11",
+  "summary": "info/obt/main/level_main_02-01_beg",
+  "title": "战术阻滞"
+}

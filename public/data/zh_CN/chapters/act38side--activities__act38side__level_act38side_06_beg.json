@@ -1,0 +1,21 @@
+{
+  "albumId": "act38side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "PV-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PV-6_“复仇于我”/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-6_%E2%80%9C%E5%A4%8D%E4%BB%87%E4%BA%8E%E6%88%91%E2%80%9D/BEG"
+  },
+  "id": "act38side--activities__act38side__level_act38side_06_beg",
+  "navigation": {
+    "nextChapterId": "act38side--activities__act38side__level_act38side_06_end",
+    "previousChapterId": "act38side--activities__act38side__level_act38side_05_end"
+  },
+  "subtitle": "PV-6",
+  "summary": "info/activities/act38side/level_act38side_06_beg",
+  "title": "“复仇于我”"
+}

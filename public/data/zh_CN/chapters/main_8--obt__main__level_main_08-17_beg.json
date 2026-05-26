@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "JT8-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "JT8-3_昂首，足践烈焰/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/JT8-3_%E6%98%82%E9%A6%96%EF%BC%8C%E8%B6%B3%E8%B7%B5%E7%83%88%E7%84%B0/BEG"
+  },
+  "id": "main_8--obt__main__level_main_08-17_beg",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_main_08-17_end",
+    "previousChapterId": "main_8--obt__main__level_main_08-16_end"
+  },
+  "subtitle": "JT8-3",
+  "summary": "info/obt/main/level_main_08-17_beg",
+  "title": "昂首，足践烈焰"
+}

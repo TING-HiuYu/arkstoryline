@@ -1,0 +1,21 @@
+{
+  "albumId": "main_4",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "4-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "4-10_灯火将熄/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/4-10_%E7%81%AF%E7%81%AB%E5%B0%86%E7%86%84/END"
+  },
+  "id": "main_4--obt__main__level_main_04-10_end",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "main_4--obt__main__level_main_04-10_beg"
+  },
+  "subtitle": "4-10",
+  "summary": "info/obt/main/level_main_04-10_end",
+  "title": "灯火将熄"
+}

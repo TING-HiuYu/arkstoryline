@@ -1,0 +1,21 @@
+{
+  "albumId": "act45side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SS-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SS-7_永恒绚烂的藏品/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SS-7_%E6%B0%B8%E6%81%92%E7%BB%9A%E7%83%82%E7%9A%84%E8%97%8F%E5%93%81/END"
+  },
+  "id": "act45side--activities__act45side__level_act45side_07_end",
+  "navigation": {
+    "nextChapterId": "act45side--activities__act45side__level_act45side_08_beg",
+    "previousChapterId": "act45side--activities__act45side__level_act45side_07_beg"
+  },
+  "subtitle": "SS-7",
+  "summary": "info/activities/act45side/level_act45side_07_end",
+  "title": "永恒绚烂的藏品"
+}

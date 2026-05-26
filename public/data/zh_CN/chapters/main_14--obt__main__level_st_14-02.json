@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "14-13",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-13_自原点中降临/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-13_%E8%87%AA%E5%8E%9F%E7%82%B9%E4%B8%AD%E9%99%8D%E4%B8%B4/NBT"
+  },
+  "id": "main_14--obt__main__level_st_14-02",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-12_beg",
+    "previousChapterId": "main_14--obt__main__level_main_14-11_end"
+  },
+  "subtitle": "14-13",
+  "summary": "info/obt/main/level_st_14-02",
+  "title": "自原点中降临"
+}

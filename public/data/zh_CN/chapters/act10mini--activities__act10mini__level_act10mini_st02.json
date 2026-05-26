@@ -1,0 +1,19 @@
+{
+  "albumId": "act10mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TB-ST2_我如浮萍/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TB-ST2_%E6%88%91%E5%A6%82%E6%B5%AE%E8%90%8D/NBT"
+  },
+  "id": "act10mini--activities__act10mini__level_act10mini_st02",
+  "navigation": {
+    "nextChapterId": "act10mini--activities__act10mini__level_act10mini_st03",
+    "previousChapterId": "act10mini--activities__act10mini__level_act10mini_st01"
+  },
+  "summary": "info/activities/act10mini/level_act10mini_st02",
+  "title": "我如浮萍"
+}

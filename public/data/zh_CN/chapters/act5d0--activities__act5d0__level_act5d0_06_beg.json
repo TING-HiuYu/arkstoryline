@@ -1,0 +1,21 @@
+{
+  "albumId": "act5d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CB-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CB-6_10:26P.M./BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-6_10%3A26P.M./BEG"
+  },
+  "id": "act5d0--activities__act5d0__level_act5d0_06_beg",
+  "navigation": {
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_06_end",
+    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_st01"
+  },
+  "subtitle": "CB-6",
+  "summary": "info/activities/act5d0/level_act5d0_06_beg",
+  "title": "10:26P.M."
+}

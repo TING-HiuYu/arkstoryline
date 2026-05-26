@@ -1,0 +1,21 @@
+{
+  "albumId": "act18side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "LE-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "LE-ST-2_春之祭/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/LE-ST-2_%E6%98%A5%E4%B9%8B%E7%A5%AD/NBT"
+  },
+  "id": "act18side--activities__act18side__level_act18side_st02",
+  "navigation": {
+    "nextChapterId": "act18side--activities__act18side__level_act18side_05_beg",
+    "previousChapterId": "act18side--activities__act18side__level_act18side_04_end"
+  },
+  "subtitle": "LE-ST-2",
+  "summary": "info/activities/act18side/level_act18side_st02",
+  "title": "春之祭"
+}

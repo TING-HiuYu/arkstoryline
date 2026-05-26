@@ -1,0 +1,21 @@
+{
+  "albumId": "act45side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SS-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SS-2_寂静长廊的两端/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SS-2_%E5%AF%82%E9%9D%99%E9%95%BF%E5%BB%8A%E7%9A%84%E4%B8%A4%E7%AB%AF/END"
+  },
+  "id": "act45side--activities__act45side__level_act45side_02_end",
+  "navigation": {
+    "nextChapterId": "act45side--activities__act45side__level_act45side_03_beg",
+    "previousChapterId": "act45side--activities__act45side__level_act45side_02_beg"
+  },
+  "subtitle": "SS-2",
+  "summary": "info/activities/act45side/level_act45side_02_end",
+  "title": "寂静长廊的两端"
+}

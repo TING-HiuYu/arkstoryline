@@ -1,0 +1,21 @@
+{
+  "albumId": "main_10",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "10-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "10-10_旧日之影/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-10_%E6%97%A7%E6%97%A5%E4%B9%8B%E5%BD%B1/BEG"
+  },
+  "id": "main_10--obt__main__level_main_10-09_beg",
+  "navigation": {
+    "nextChapterId": "main_10--obt__main__level_main_10-09_end",
+    "previousChapterId": "main_10--obt__main__level_main_10-08_end"
+  },
+  "subtitle": "10-10",
+  "summary": "info/obt/main/level_main_10-09_beg",
+  "title": "旧日之影"
+}

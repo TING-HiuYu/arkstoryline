@@ -1,0 +1,21 @@
+{
+  "albumId": "act41side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "EA-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EA-2_不过别离/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-2_%E4%B8%8D%E8%BF%87%E5%88%AB%E7%A6%BB/END"
+  },
+  "id": "act41side--activities__act41side__level_act41side_02_end",
+  "navigation": {
+    "nextChapterId": "act41side--activities__act41side__level_act41side_03_beg",
+    "previousChapterId": "act41side--activities__act41side__level_act41side_02_beg"
+  },
+  "subtitle": "EA-2",
+  "summary": "info/activities/act41side/level_act41side_02_end",
+  "title": "不过别离"
+}

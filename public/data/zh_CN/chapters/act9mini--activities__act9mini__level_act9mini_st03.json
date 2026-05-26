@@ -1,0 +1,19 @@
+{
+  "albumId": "act9mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PS-ST3_我也要大干一场/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PS-ST3_%E6%88%91%E4%B9%9F%E8%A6%81%E5%A4%A7%E5%B9%B2%E4%B8%80%E5%9C%BA/NBT"
+  },
+  "id": "act9mini--activities__act9mini__level_act9mini_st03",
+  "navigation": {
+    "nextChapterId": "act9mini--activities__act9mini__level_act9mini_st04",
+    "previousChapterId": "act9mini--activities__act9mini__level_act9mini_st02"
+  },
+  "summary": "info/activities/act9mini/level_act9mini_st03",
+  "title": "我也要大干一场"
+}

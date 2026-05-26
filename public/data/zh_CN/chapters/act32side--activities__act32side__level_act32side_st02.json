@@ -1,0 +1,21 @@
+{
+  "albumId": "act32side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "CR-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CR-ST-2_策展人会客厅/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CR-ST-2_%E7%AD%96%E5%B1%95%E4%BA%BA%E4%BC%9A%E5%AE%A2%E5%8E%85/NBT"
+  },
+  "id": "act32side--activities__act32side__level_act32side_st02",
+  "navigation": {
+    "nextChapterId": "act32side--activities__act32side__level_act32side_07_beg",
+    "previousChapterId": "act32side--activities__act32side__level_act32side_06_end"
+  },
+  "subtitle": "CR-ST-2",
+  "summary": "info/activities/act32side/level_act32side_st02",
+  "title": "策展人会客厅"
+}

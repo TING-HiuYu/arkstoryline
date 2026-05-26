@@ -1,0 +1,19 @@
+{
+  "albumId": "act19mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FM-ST7_小镇志/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FM-ST7_%E5%B0%8F%E9%95%87%E5%BF%97/NBT"
+  },
+  "id": "act19mini--activities__act19mini__level_act19mini_st07",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act19mini--activities__act19mini__level_act19mini_st06"
+  },
+  "summary": "info/activities/act19mini/level_act19mini_st07",
+  "title": "小镇志"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act15d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "MB-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MB-6_制定计划/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MB-6_%E5%88%B6%E5%AE%9A%E8%AE%A1%E5%88%92/END"
+  },
+  "id": "act15d0--activities__act15d0__level_act15d0_06_end",
+  "navigation": {
+    "nextChapterId": "act15d0--activities__act15d0__level_act15d0_07_beg",
+    "previousChapterId": "act15d0--activities__act15d0__level_act15d0_06_beg"
+  },
+  "subtitle": "MB-6",
+  "summary": "info/activities/act15d0/level_act15d0_06_end",
+  "title": "制定计划"
+}

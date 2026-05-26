@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "17-13",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "17-13_并非独行/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/17-13_%E5%B9%B6%E9%9D%9E%E7%8B%AC%E8%A1%8C/BEG"
+  },
+  "id": "main_17--obt__main__level_main_17-12_beg",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_main_17-13_beg",
+    "previousChapterId": "main_17--obt__main__level_main_17-11_end"
+  },
+  "subtitle": "17-13",
+  "summary": "info/obt/main/level_main_17-12_beg",
+  "title": "并非独行"
+}

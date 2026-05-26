@@ -1,0 +1,21 @@
+{
+  "albumId": "1stact",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "GT-HX-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GT-HX-1_碧血金沙/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GT-HX-1_%E7%A2%A7%E8%A1%80%E9%87%91%E6%B2%99/END"
+  },
+  "id": "1stact--activities__a001__level_a001_ex04_end",
+  "navigation": {
+    "nextChapterId": "1stact--activities__a001__level_a001_ex06_end",
+    "previousChapterId": "1stact--activities__a001__level_a001_ex03_end"
+  },
+  "subtitle": "GT-HX-1",
+  "summary": "info/activities/a001/level_a001_ex04_end",
+  "title": "碧血金沙"
+}

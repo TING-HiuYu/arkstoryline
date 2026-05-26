@@ -1,0 +1,21 @@
+{
+  "albumId": "act24side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "CF-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CF-ST-3_晨曦/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CF-ST-3_%E6%99%A8%E6%9B%A6/NBT"
+  },
+  "id": "act24side--activities__act24side__level_act24side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act24side--activities__act24side__level_act24side_09_end"
+  },
+  "subtitle": "CF-ST-3",
+  "summary": "info/activities/act24side/level_act24side_st03",
+  "title": "晨曦"
+}

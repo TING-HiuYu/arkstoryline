@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "11-14",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-14_一场相见/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-14_%E4%B8%80%E5%9C%BA%E7%9B%B8%E8%A7%81/BEG"
+  },
+  "id": "main_11--obt__main__level_main_11-12_beg",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_main_11-12_end",
+    "previousChapterId": "main_11--obt__main__level_main_11-10_end"
+  },
+  "subtitle": "11-14",
+  "summary": "info/obt/main/level_main_11-12_beg",
+  "title": "一场相见"
+}

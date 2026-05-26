@@ -1,0 +1,21 @@
+{
+  "albumId": "act38side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "PV-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PV-10_铳响/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-10_%E9%93%B3%E5%93%8D/END"
+  },
+  "id": "act38side--activities__act38side__level_act38side_10_end",
+  "navigation": {
+    "nextChapterId": "act38side--activities__act38side__level_act38side_st04",
+    "previousChapterId": "act38side--activities__act38side__level_act38side_10_beg"
+  },
+  "subtitle": "PV-10",
+  "summary": "info/activities/act38side/level_act38side_10_end",
+  "title": "铳响"
+}

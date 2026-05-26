@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "11-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-9_以命换命/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-9_%E4%BB%A5%E5%91%BD%E6%8D%A2%E5%91%BD/END"
+  },
+  "id": "main_11--obt__main__level_main_11-08_end",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_st_11-02",
+    "previousChapterId": "main_11--obt__main__level_main_11-08_beg"
+  },
+  "subtitle": "11-9",
+  "summary": "info/obt/main/level_main_11-08_end",
+  "title": "以命换命"
+}

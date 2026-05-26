@@ -1,0 +1,128 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act7d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SA-ST1_来办联欢会吧/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SA-ST1_%E6%9D%A5%E5%8A%9E%E8%81%94%E6%AC%A2%E4%BC%9A%E5%90%A7/NBT"
+      },
+      "downloadable": true,
+      "id": "act7d5--activities__act7d5__level_act7d5_st01",
+      "path": "chapters/act7d5--activities__act7d5__level_act7d5_st01.json",
+      "sort": 1,
+      "title": "来办联欢会吧"
+    },
+    {
+      "albumId": "act7d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SA-ST2_日记本/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SA-ST2_%E6%97%A5%E8%AE%B0%E6%9C%AC/NBT"
+      },
+      "downloadable": true,
+      "id": "act7d5--activities__act7d5__level_act7d5_st02",
+      "path": "chapters/act7d5--activities__act7d5__level_act7d5_st02.json",
+      "sort": 2,
+      "title": "日记本"
+    },
+    {
+      "albumId": "act7d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SA-ST3_今日厨房/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SA-ST3_%E4%BB%8A%E6%97%A5%E5%8E%A8%E6%88%BF/NBT"
+      },
+      "downloadable": true,
+      "id": "act7d5--activities__act7d5__level_act7d5_st03",
+      "path": "chapters/act7d5--activities__act7d5__level_act7d5_st03.json",
+      "sort": 3,
+      "title": "今日厨房"
+    },
+    {
+      "albumId": "act7d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SA-ST4_流浪者的归宿/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SA-ST4_%E6%B5%81%E6%B5%AA%E8%80%85%E7%9A%84%E5%BD%92%E5%AE%BF/NBT"
+      },
+      "downloadable": true,
+      "id": "act7d5--activities__act7d5__level_act7d5_st04",
+      "path": "chapters/act7d5--activities__act7d5__level_act7d5_st04.json",
+      "sort": 4,
+      "title": "流浪者的归宿"
+    },
+    {
+      "albumId": "act7d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SA-ST5_自讨苦吃/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SA-ST5_%E8%87%AA%E8%AE%A8%E8%8B%A6%E5%90%83/NBT"
+      },
+      "downloadable": true,
+      "id": "act7d5--activities__act7d5__level_act7d5_st05",
+      "path": "chapters/act7d5--activities__act7d5__level_act7d5_st05.json",
+      "sort": 5,
+      "title": "自讨苦吃"
+    },
+    {
+      "albumId": "act7d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SA-ST6_向前走/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SA-ST6_%E5%90%91%E5%89%8D%E8%B5%B0/NBT"
+      },
+      "downloadable": true,
+      "id": "act7d5--activities__act7d5__level_act7d5_st06",
+      "path": "chapters/act7d5--activities__act7d5__level_act7d5_st06.json",
+      "sort": 6,
+      "title": "向前走"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_stories_of_afternoon",
+    "primaryImageId": "kv_stories_of_afternoon",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act7d5",
+    "storyPicId": "storyPic_act7d5",
+    "titleImageId": "title_stories_of_afternoon",
+    "url": "https://media.prts.wiki/5/52/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E5%8D%88%E9%97%B4%E9%80%B8%E8%AF%9D.png"
+  },
+  "extras": [],
+  "gameOrderRank": 1013,
+  "homeSection": "sideStory",
+  "id": "act7d5",
+  "music": {
+    "arcTitle": "泰拉奇谈",
+    "movementTitle": "泰拉奇谈",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act7d5",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1582617600,
+  "summary": "罗德岛的干员们来自各地，有着相似或迥异的个性。\n他们在战场上配合无间，而在战斗的间隙里，\n他们也因彼此间的情谊而留下了许多难忘的回忆。",
+  "timelineRank": 1582617600,
+  "title": "午间逸话"
+}

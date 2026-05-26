@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-3_聚墨痕/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-3_%E8%81%9A%E5%A2%A8%E7%97%95/END"
+  },
+  "id": "act49side--activities__act49side__level_act49side_03_end",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_04_beg",
+    "previousChapterId": "act49side--activities__act49side__level_act49side_03_beg"
+  },
+  "subtitle": "TA-3",
+  "summary": "info/activities/act49side/level_act49side_03_end",
+  "title": "聚墨痕"
+}

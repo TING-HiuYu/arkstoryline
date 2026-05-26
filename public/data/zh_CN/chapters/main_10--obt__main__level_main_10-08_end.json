@@ -1,0 +1,21 @@
+{
+  "albumId": "main_10",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "10-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "10-9_他乡故知/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-9_%E4%BB%96%E4%B9%A1%E6%95%85%E7%9F%A5/END"
+  },
+  "id": "main_10--obt__main__level_main_10-08_end",
+  "navigation": {
+    "nextChapterId": "main_10--obt__main__level_main_10-09_beg",
+    "previousChapterId": "main_10--obt__main__level_main_10-08_beg"
+  },
+  "subtitle": "10-9",
+  "summary": "info/obt/main/level_main_10-08_end",
+  "title": "他乡故知"
+}

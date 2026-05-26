@@ -1,0 +1,21 @@
+{
+  "albumId": "act40side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "OR-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OR-ST-2_雷公栗/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OR-ST-2_%E9%9B%B7%E5%85%AC%E6%A0%97/NBT"
+  },
+  "id": "act40side--activities__act40side__level_act40side_st02",
+  "navigation": {
+    "nextChapterId": "act40side--activities__act40side__level_act40side_06_beg",
+    "previousChapterId": "act40side--activities__act40side__level_act40side_04_end"
+  },
+  "subtitle": "OR-ST-2",
+  "summary": "info/activities/act40side/level_act40side_st02",
+  "title": "雷公栗"
+}

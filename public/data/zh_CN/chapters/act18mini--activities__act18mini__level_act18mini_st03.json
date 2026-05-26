@@ -1,0 +1,19 @@
+{
+  "albumId": "act18mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SE-ST3_错身/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SE-ST3_%E9%94%99%E8%BA%AB/NBT"
+  },
+  "id": "act18mini--activities__act18mini__level_act18mini_st03",
+  "navigation": {
+    "nextChapterId": "act18mini--activities__act18mini__level_act18mini_st04",
+    "previousChapterId": "act18mini--activities__act18mini__level_act18mini_st02"
+  },
+  "summary": "info/activities/act18mini/level_act18mini_st03",
+  "title": "错身"
+}

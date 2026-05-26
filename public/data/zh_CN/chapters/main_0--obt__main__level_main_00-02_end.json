@@ -1,0 +1,21 @@
+{
+  "albumId": "main_0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "0-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "0-2_守卫/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/0-2_%E5%AE%88%E5%8D%AB/END"
+  },
+  "id": "main_0--obt__main__level_main_00-02_end",
+  "navigation": {
+    "nextChapterId": "main_0--obt__main__level_main_00-04_beg",
+    "previousChapterId": "main_0--obt__main__level_main_00-02_beg"
+  },
+  "subtitle": "0-2",
+  "summary": "info/obt/main/level_main_00-02_end",
+  "title": "守卫"
+}

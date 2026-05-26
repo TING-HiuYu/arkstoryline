@@ -1,0 +1,21 @@
+{
+  "albumId": "act51side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "PA-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PA-ST-2_完整的缺损/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PA-ST-2_%E5%AE%8C%E6%95%B4%E7%9A%84%E7%BC%BA%E6%8D%9F/NBT"
+  },
+  "id": "act51side--activities__act51side__level_act51side_st02",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act51side--activities__act51side__level_act51side_08_end"
+  },
+  "subtitle": "PA-ST-2",
+  "summary": "info/activities/act51side/level_act51side_st02",
+  "title": "完整的缺损"
+}

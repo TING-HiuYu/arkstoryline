@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d3",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "SV-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SV-1_闯入者/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-1_%E9%97%AF%E5%85%A5%E8%80%85/BEG"
+  },
+  "id": "act18d3--activities__act18d3__level_act18d3_01_beg",
+  "navigation": {
+    "nextChapterId": "act18d3--activities__act18d3__level_act18d3_01_end",
+    "previousChapterId": null
+  },
+  "subtitle": "SV-1",
+  "summary": "info/activities/act18d3/level_act18d3_01_beg",
+  "title": "闯入者"
+}

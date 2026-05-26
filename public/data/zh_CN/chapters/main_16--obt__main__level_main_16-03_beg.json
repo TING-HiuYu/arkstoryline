@@ -1,0 +1,21 @@
+{
+  "albumId": "main_16",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "16-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "16-3_道路以目/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/16-3_%E9%81%93%E8%B7%AF%E4%BB%A5%E7%9B%AE/BEG"
+  },
+  "id": "main_16--obt__main__level_main_16-03_beg",
+  "navigation": {
+    "nextChapterId": "main_16--obt__main__level_main_16-04_beg",
+    "previousChapterId": "main_16--obt__main__level_main_16-01_beg"
+  },
+  "subtitle": "16-3",
+  "summary": "info/obt/main/level_main_16-03_beg",
+  "title": "道路以目"
+}

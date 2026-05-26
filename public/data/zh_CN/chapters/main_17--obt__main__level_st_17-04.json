@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "17-21",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "17-21_在暗夜中燃烧/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/17-21_%E5%9C%A8%E6%9A%97%E5%A4%9C%E4%B8%AD%E7%87%83%E7%83%A7/NBT"
+  },
+  "id": "main_17--obt__main__level_st_17-04",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_spst_17-01",
+    "previousChapterId": "main_17--obt__main__level_st_17-03"
+  },
+  "subtitle": "17-21",
+  "summary": "info/obt/main/level_st_17-04",
+  "title": "在暗夜中燃烧"
+}

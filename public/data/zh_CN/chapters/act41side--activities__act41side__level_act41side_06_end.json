@@ -1,0 +1,21 @@
+{
+  "albumId": "act41side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "EA-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EA-6_失路人/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-6_%E5%A4%B1%E8%B7%AF%E4%BA%BA/END"
+  },
+  "id": "act41side--activities__act41side__level_act41side_06_end",
+  "navigation": {
+    "nextChapterId": "act41side--activities__act41side__level_act41side_st02",
+    "previousChapterId": "act41side--activities__act41side__level_act41side_06_beg"
+  },
+  "subtitle": "EA-6",
+  "summary": "info/activities/act41side/level_act41side_06_end",
+  "title": "失路人"
+}

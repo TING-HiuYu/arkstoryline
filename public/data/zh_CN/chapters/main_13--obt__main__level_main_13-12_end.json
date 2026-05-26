@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "13-14",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "13-14_猩红烟火/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-14_%E7%8C%A9%E7%BA%A2%E7%83%9F%E7%81%AB/END"
+  },
+  "id": "main_13--obt__main__level_main_13-12_end",
+  "navigation": {
+    "nextChapterId": "main_13--obt__main__level_main_13-13_end",
+    "previousChapterId": "main_13--obt__main__level_main_13-10_beg"
+  },
+  "subtitle": "13-14",
+  "summary": "info/obt/main/level_main_13-12_end",
+  "title": "猩红烟火"
+}

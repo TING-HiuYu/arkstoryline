@@ -1,0 +1,21 @@
+{
+  "albumId": "main_0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "0-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "0-9_临光/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/0-9_%E4%B8%B4%E5%85%89/END"
+  },
+  "id": "main_0--obt__main__level_main_00-09_end",
+  "navigation": {
+    "nextChapterId": "main_0--obt__main__level_main_00-10_beg",
+    "previousChapterId": "main_0--obt__main__level_main_00-08_beg"
+  },
+  "subtitle": "0-9",
+  "summary": "info/obt/main/level_main_00-09_end",
+  "title": "临光"
+}

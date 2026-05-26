@@ -1,0 +1,21 @@
+{
+  "albumId": "act9d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DM-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DM-7_龟裂/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DM-7_%E9%BE%9F%E8%A3%82/END"
+  },
+  "id": "act9d0--activities__act9d0__level_act9d0_05_end",
+  "navigation": {
+    "nextChapterId": "act9d0--activities__act9d0__level_act9d0_06_beg",
+    "previousChapterId": "act9d0--activities__act9d0__level_act9d0_05_beg"
+  },
+  "subtitle": "DM-7",
+  "summary": "info/activities/act9d0/level_act9d0_05_end",
+  "title": "龟裂"
+}

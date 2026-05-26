@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "14-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-2_作战对策会议/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-2_%E4%BD%9C%E6%88%98%E5%AF%B9%E7%AD%96%E4%BC%9A%E8%AE%AE/END"
+  },
+  "id": "main_14--obt__main__level_main_14-01_end",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-02_beg",
+    "previousChapterId": "main_14--obt__main__level_main_14-01_beg"
+  },
+  "subtitle": "14-2",
+  "summary": "info/obt/main/level_main_14-01_end",
+  "title": "作战对策会议"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act16side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "GA-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GA-ST-1_风云际会/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GA-ST-1_%E9%A3%8E%E4%BA%91%E9%99%85%E4%BC%9A/NBT"
+  },
+  "id": "act16side--activities__act16side__level_act16side_st01",
+  "navigation": {
+    "nextChapterId": "act16side--activities__act16side__level_act16side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "GA-ST-1",
+  "summary": "info/activities/act16side/level_act16side_st01",
+  "title": "风云际会"
+}

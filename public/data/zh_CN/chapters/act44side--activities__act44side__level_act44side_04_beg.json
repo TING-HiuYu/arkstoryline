@@ -1,0 +1,21 @@
+{
+  "albumId": "act44side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "AT-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AT-4_百物语/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AT-4_%E7%99%BE%E7%89%A9%E8%AF%AD/BEG"
+  },
+  "id": "act44side--activities__act44side__level_act44side_04_beg",
+  "navigation": {
+    "nextChapterId": "act44side--activities__act44side__level_act44side_04_end",
+    "previousChapterId": "act44side--activities__act44side__level_act44side_03_end"
+  },
+  "subtitle": "AT-4",
+  "summary": "info/activities/act44side/level_act44side_04_beg",
+  "title": "百物语"
+}

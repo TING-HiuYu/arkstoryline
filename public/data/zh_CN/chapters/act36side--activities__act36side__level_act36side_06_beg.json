@@ -1,0 +1,21 @@
+{
+  "albumId": "act36side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "DT-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DT-6_海鲜拼盘/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DT-6_%E6%B5%B7%E9%B2%9C%E6%8B%BC%E7%9B%98/BEG"
+  },
+  "id": "act36side--activities__act36side__level_act36side_06_beg",
+  "navigation": {
+    "nextChapterId": "act36side--activities__act36side__level_act36side_06_end",
+    "previousChapterId": "act36side--activities__act36side__level_act36side_05_end"
+  },
+  "subtitle": "DT-6",
+  "summary": "info/activities/act36side/level_act36side_06_beg",
+  "title": "海鲜拼盘"
+}

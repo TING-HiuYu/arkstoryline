@@ -1,0 +1,21 @@
+{
+  "albumId": "act41side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "EA-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EA-1_扉页所见/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-1_%E6%89%89%E9%A1%B5%E6%89%80%E8%A7%81/BEG"
+  },
+  "id": "act41side--activities__act41side__level_act41side_01_beg",
+  "navigation": {
+    "nextChapterId": "act41side--activities__act41side__level_act41side_01_end",
+    "previousChapterId": "act41side--activities__act41side__level_act41side_st01"
+  },
+  "subtitle": "EA-1",
+  "summary": "info/activities/act41side/level_act41side_01_beg",
+  "title": "扉页所见"
+}

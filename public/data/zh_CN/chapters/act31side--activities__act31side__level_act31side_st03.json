@@ -1,0 +1,21 @@
+{
+  "albumId": "act31side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "HS-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HS-ST-3_彻风雨/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HS-ST-3_%E5%BD%BB%E9%A3%8E%E9%9B%A8/NBT"
+  },
+  "id": "act31side--activities__act31side__level_act31side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act31side--activities__act31side__level_act31side_09_end"
+  },
+  "subtitle": "HS-ST-3",
+  "summary": "info/activities/act31side/level_act31side_st03",
+  "title": "彻风雨"
+}

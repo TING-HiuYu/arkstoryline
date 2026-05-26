@@ -1,0 +1,21 @@
+{
+  "albumId": "act27side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "SL-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SL-8_爱之歌/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SL-8_%E7%88%B1%E4%B9%8B%E6%AD%8C/BEG"
+  },
+  "id": "act27side--activities__act27side__level_act27side_08_beg",
+  "navigation": {
+    "nextChapterId": "act27side--activities__act27side__level_act27side_08_end",
+    "previousChapterId": "act27side--activities__act27side__level_act27side_07_end"
+  },
+  "subtitle": "SL-8",
+  "summary": "info/activities/act27side/level_act27side_08_beg",
+  "title": "爱之歌"
+}

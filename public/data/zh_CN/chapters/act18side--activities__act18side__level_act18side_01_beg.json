@@ -1,0 +1,21 @@
+{
+  "albumId": "act18side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "LE-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "LE-1_闲聊波尔卡/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/LE-1_%E9%97%B2%E8%81%8A%E6%B3%A2%E5%B0%94%E5%8D%A1/BEG"
+  },
+  "id": "act18side--activities__act18side__level_act18side_01_beg",
+  "navigation": {
+    "nextChapterId": "act18side--activities__act18side__level_act18side_01_end",
+    "previousChapterId": "act18side--activities__act18side__level_act18side_st01"
+  },
+  "subtitle": "LE-1",
+  "summary": "info/activities/act18side/level_act18side_01_beg",
+  "title": "闲聊波尔卡"
+}

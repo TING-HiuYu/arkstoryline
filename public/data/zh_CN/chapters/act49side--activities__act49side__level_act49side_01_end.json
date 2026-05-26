@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-1_激石波/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-1_%E6%BF%80%E7%9F%B3%E6%B3%A2/END"
+  },
+  "id": "act49side--activities__act49side__level_act49side_01_end",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_02_beg",
+    "previousChapterId": "act49side--activities__act49side__level_act49side_01_beg"
+  },
+  "subtitle": "TA-1",
+  "summary": "info/activities/act49side/level_act49side_01_end",
+  "title": "激石波"
+}

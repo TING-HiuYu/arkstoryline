@@ -1,0 +1,21 @@
+{
+  "albumId": "main_15",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "15-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "15-9_减压症候/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-9_%E5%87%8F%E5%8E%8B%E7%97%87%E5%80%99/END"
+  },
+  "id": "main_15--obt__main__level_main_15-08_end",
+  "navigation": {
+    "nextChapterId": "main_15--obt__main__level_main_15-10_beg",
+    "previousChapterId": "main_15--obt__main__level_main_15-07_beg"
+  },
+  "subtitle": "15-9",
+  "summary": "info/obt/main/level_main_15-08_end",
+  "title": "减压症候"
+}

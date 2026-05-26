@@ -1,0 +1,21 @@
+{
+  "albumId": "act25side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CW-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CW-4_一波又起/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CW-4_%E4%B8%80%E6%B3%A2%E5%8F%88%E8%B5%B7/BEG"
+  },
+  "id": "act25side--activities__act25side__level_act25side_04_beg",
+  "navigation": {
+    "nextChapterId": "act25side--activities__act25side__level_act25side_04_end",
+    "previousChapterId": "act25side--activities__act25side__level_act25side_st02"
+  },
+  "subtitle": "CW-4",
+  "summary": "info/activities/act25side/level_act25side_04_beg",
+  "title": "一波又起"
+}

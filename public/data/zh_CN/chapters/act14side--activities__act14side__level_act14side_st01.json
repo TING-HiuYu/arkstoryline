@@ -1,0 +1,21 @@
+{
+  "albumId": "act14side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "BI-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BI-ST-1_入乡随俗/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BI-ST-1_%E5%85%A5%E4%B9%A1%E9%9A%8F%E4%BF%97/NBT"
+  },
+  "id": "act14side--activities__act14side__level_act14side_st01",
+  "navigation": {
+    "nextChapterId": "act14side--activities__act14side__level_act14side_02_beg",
+    "previousChapterId": "act14side--activities__act14side__level_act14side_01_end"
+  },
+  "subtitle": "BI-ST-1",
+  "summary": "info/activities/act14side/level_act14side_st01",
+  "title": "入乡随俗"
+}

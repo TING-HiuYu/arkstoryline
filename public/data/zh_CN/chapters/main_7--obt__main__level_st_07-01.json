@@ -1,0 +1,21 @@
+{
+  "albumId": "main_7",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "7-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "7-1_32:00:00/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/7-1_32%3A00%3A00/NBT"
+  },
+  "id": "main_7--obt__main__level_st_07-01",
+  "navigation": {
+    "nextChapterId": "main_7--obt__main__level_main_07-01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "7-1",
+  "summary": "info/obt/main/level_st_07-01",
+  "title": "32:00:00"
+}

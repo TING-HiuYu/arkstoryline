@@ -1,0 +1,21 @@
+{
+  "albumId": "act34side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "BP-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BP-3_如海雪纷散/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BP-3_%E5%A6%82%E6%B5%B7%E9%9B%AA%E7%BA%B7%E6%95%A3/BEG"
+  },
+  "id": "act34side--activities__act34side__level_act34side_03_beg",
+  "navigation": {
+    "nextChapterId": "act34side--activities__act34side__level_act34side_03_end",
+    "previousChapterId": "act34side--activities__act34side__level_act34side_02_end"
+  },
+  "subtitle": "BP-3",
+  "summary": "info/activities/act34side/level_act34side_03_beg",
+  "title": "如海雪纷散"
+}

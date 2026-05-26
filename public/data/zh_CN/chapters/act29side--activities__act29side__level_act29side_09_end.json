@@ -1,0 +1,21 @@
+{
+  "albumId": "act29side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "ZT-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ZT-9_幻想曲“赠答”/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ZT-9_%E5%B9%BB%E6%83%B3%E6%9B%B2%E2%80%9C%E8%B5%A0%E7%AD%94%E2%80%9D/END"
+  },
+  "id": "act29side--activities__act29side__level_act29side_09_end",
+  "navigation": {
+    "nextChapterId": "act29side--activities__act29side__level_act29side_10_beg",
+    "previousChapterId": "act29side--activities__act29side__level_act29side_09_beg"
+  },
+  "subtitle": "ZT-9",
+  "summary": "info/activities/act29side/level_act29side_09_end",
+  "title": "幻想曲“赠答”"
+}

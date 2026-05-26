@@ -1,0 +1,21 @@
+{
+  "albumId": "act32side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CR-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CR-1_城市主题展/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CR-1_%E5%9F%8E%E5%B8%82%E4%B8%BB%E9%A2%98%E5%B1%95/END"
+  },
+  "id": "act32side--activities__act32side__level_act32side_01_end",
+  "navigation": {
+    "nextChapterId": "act32side--activities__act32side__level_act32side_02_beg",
+    "previousChapterId": "act32side--activities__act32side__level_act32side_01_beg"
+  },
+  "subtitle": "CR-1",
+  "summary": "info/activities/act32side/level_act32side_01_end",
+  "title": "城市主题展"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_10",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "10-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "10-6_虽非同族/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-6_%E8%99%BD%E9%9D%9E%E5%90%8C%E6%97%8F/BEG"
+  },
+  "id": "main_10--obt__main__level_main_10-05_beg",
+  "navigation": {
+    "nextChapterId": "main_10--obt__main__level_main_10-05_end",
+    "previousChapterId": "main_10--obt__main__level_main_10-04_end"
+  },
+  "subtitle": "10-6",
+  "summary": "info/obt/main/level_main_10-05_beg",
+  "title": "虽非同族"
+}

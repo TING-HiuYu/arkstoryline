@@ -1,0 +1,21 @@
+{
+  "albumId": "act16side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "GA-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GA-2_散步时光/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GA-2_%E6%95%A3%E6%AD%A5%E6%97%B6%E5%85%89/BEG"
+  },
+  "id": "act16side--activities__act16side__level_act16side_02_beg",
+  "navigation": {
+    "nextChapterId": "act16side--activities__act16side__level_act16side_02_end",
+    "previousChapterId": "act16side--activities__act16side__level_act16side_01_end"
+  },
+  "subtitle": "GA-2",
+  "summary": "info/activities/act16side/level_act16side_02_beg",
+  "title": "散步时光"
+}

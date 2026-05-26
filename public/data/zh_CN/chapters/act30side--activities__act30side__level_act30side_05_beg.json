@@ -1,0 +1,21 @@
+{
+  "albumId": "act30side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "RS-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RS-5_逃票？/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RS-5_%E9%80%83%E7%A5%A8%EF%BC%9F/BEG"
+  },
+  "id": "act30side--activities__act30side__level_act30side_05_beg",
+  "navigation": {
+    "nextChapterId": "act30side--activities__act30side__level_act30side_05_end",
+    "previousChapterId": "act30side--activities__act30side__level_act30side_04_end"
+  },
+  "subtitle": "RS-5",
+  "summary": "info/activities/act30side/level_act30side_05_beg",
+  "title": "逃票？"
+}

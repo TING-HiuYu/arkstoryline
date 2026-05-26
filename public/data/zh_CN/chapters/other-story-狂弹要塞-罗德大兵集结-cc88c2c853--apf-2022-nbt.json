@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-狂弹要塞-罗德大兵集结-cc88c2c853",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "APF-2022/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/APF-2022/NBT"
+  },
+  "id": "other-story-狂弹要塞-罗德大兵集结-cc88c2c853--apf-2022-nbt",
+  "navigation": {
+    "nextChapterId": "other-story-狂弹要塞-罗德大兵集结-cc88c2c853--bf-3-没想到还有一关-end",
+    "previousChapterId": null
+  },
+  "subtitle": null,
+  "title": "狂弹要塞"
+}

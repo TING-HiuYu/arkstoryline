@@ -1,0 +1,21 @@
+{
+  "albumId": "act32side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CR-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CR-4_非传统艺术空间/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CR-4_%E9%9D%9E%E4%BC%A0%E7%BB%9F%E8%89%BA%E6%9C%AF%E7%A9%BA%E9%97%B4/BEG"
+  },
+  "id": "act32side--activities__act32side__level_act32side_04_beg",
+  "navigation": {
+    "nextChapterId": "act32side--activities__act32side__level_act32side_04_end",
+    "previousChapterId": "act32side--activities__act32side__level_act32side_03_end"
+  },
+  "subtitle": "CR-4",
+  "summary": "info/activities/act32side/level_act32side_04_beg",
+  "title": "非传统艺术空间"
+}

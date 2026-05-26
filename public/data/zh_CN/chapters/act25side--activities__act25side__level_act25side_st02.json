@@ -1,0 +1,21 @@
+{
+  "albumId": "act25side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "CW-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CW-ST-2_一波未平/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CW-ST-2_%E4%B8%80%E6%B3%A2%E6%9C%AA%E5%B9%B3/NBT"
+  },
+  "id": "act25side--activities__act25side__level_act25side_st02",
+  "navigation": {
+    "nextChapterId": "act25side--activities__act25side__level_act25side_04_beg",
+    "previousChapterId": "act25side--activities__act25side__level_act25side_03_end"
+  },
+  "subtitle": "CW-ST-2",
+  "summary": "info/activities/act25side/level_act25side_st02",
+  "title": "一波未平"
+}

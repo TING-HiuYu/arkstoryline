@@ -1,0 +1,21 @@
+{
+  "albumId": "act19side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "DV-S-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DV-S-2_衡虑/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DV-S-2_%E8%A1%A1%E8%99%91/NBT"
+  },
+  "id": "act19side--activities__act19side__level__act19side_sub-1-2",
+  "navigation": {
+    "nextChapterId": "act19side--activities__act19side__level_act19side_07_end",
+    "previousChapterId": "act19side--activities__act19side__level_act19side_07_beg"
+  },
+  "subtitle": "DV-S-2",
+  "summary": "info/activities/act19side/level/act19side_sub-1-2",
+  "title": "衡虑"
+}

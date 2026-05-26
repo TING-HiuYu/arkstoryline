@@ -1,0 +1,21 @@
+{
+  "albumId": "act48side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "ME-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ME-ST-2_一个无声的夜晚/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ME-ST-2_%E4%B8%80%E4%B8%AA%E6%97%A0%E5%A3%B0%E7%9A%84%E5%A4%9C%E6%99%9A/NBT"
+  },
+  "id": "act48side--activities__act48side__level_act48side_st02",
+  "navigation": {
+    "nextChapterId": "act48side--activities__act48side__level_act48side_05_beg",
+    "previousChapterId": "act48side--activities__act48side__level_act48side_04_end"
+  },
+  "subtitle": "ME-ST-2",
+  "summary": "info/activities/act48side/level_act48side_st02",
+  "title": "一个无声的夜晚"
+}

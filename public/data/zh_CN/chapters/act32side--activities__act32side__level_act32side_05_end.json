@@ -1,0 +1,21 @@
+{
+  "albumId": "act32side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CR-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CR-5_消防通道/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CR-5_%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93/END"
+  },
+  "id": "act32side--activities__act32side__level_act32side_05_end",
+  "navigation": {
+    "nextChapterId": "act32side--activities__act32side__level_act32side_06_beg",
+    "previousChapterId": "act32side--activities__act32side__level_act32side_05_beg"
+  },
+  "subtitle": "CR-5",
+  "summary": "info/activities/act32side/level_act32side_05_end",
+  "title": "消防通道"
+}

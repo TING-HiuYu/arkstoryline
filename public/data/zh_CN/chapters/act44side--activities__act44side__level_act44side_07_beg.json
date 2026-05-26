@@ -1,0 +1,21 @@
+{
+  "albumId": "act44side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "AT-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AT-7_冷月/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AT-7_%E5%86%B7%E6%9C%88/BEG"
+  },
+  "id": "act44side--activities__act44side__level_act44side_07_beg",
+  "navigation": {
+    "nextChapterId": "act44side--activities__act44side__level_act44side_07_end",
+    "previousChapterId": "act44side--activities__act44side__level_act44side_06_end"
+  },
+  "subtitle": "AT-7",
+  "summary": "info/activities/act44side/level_act44side_07_beg",
+  "title": "冷月"
+}

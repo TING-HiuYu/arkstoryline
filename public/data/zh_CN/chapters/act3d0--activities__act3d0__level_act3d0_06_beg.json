@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-6_杀手女皇/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-6_%E6%9D%80%E6%89%8B%E5%A5%B3%E7%9A%87/BEG"
+  },
+  "id": "act3d0--activities__act3d0__level_act3d0_06_beg",
+  "navigation": {
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_06_end",
+    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_05_end"
+  },
+  "subtitle": "OF-6",
+  "summary": "info/activities/act3d0/level_act3d0_06_beg",
+  "title": "杀手女皇"
+}

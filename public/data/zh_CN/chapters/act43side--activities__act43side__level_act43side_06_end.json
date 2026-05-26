@@ -1,0 +1,21 @@
+{
+  "albumId": "act43side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "AD-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AD-6_倒带独白/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AD-6_%E5%80%92%E5%B8%A6%E7%8B%AC%E7%99%BD/END"
+  },
+  "id": "act43side--activities__act43side__level_act43side_06_end",
+  "navigation": {
+    "nextChapterId": "act43side--activities__act43side__level_act43side_07_beg",
+    "previousChapterId": "act43side--activities__act43side__level_act43side_06_beg"
+  },
+  "subtitle": "AD-6",
+  "summary": "info/activities/act43side/level_act43side_06_end",
+  "title": "倒带独白"
+}

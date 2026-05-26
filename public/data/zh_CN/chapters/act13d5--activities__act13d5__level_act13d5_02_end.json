@@ -1,0 +1,21 @@
+{
+  "albumId": "act13d5",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "MN-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MN-2_呼啸守卫/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MN-2_%E5%91%BC%E5%95%B8%E5%AE%88%E5%8D%AB/END"
+  },
+  "id": "act13d5--activities__act13d5__level_act13d5_02_end",
+  "navigation": {
+    "nextChapterId": "act13d5--activities__act13d5__level_act13d5_03_beg",
+    "previousChapterId": "act13d5--activities__act13d5__level_act13d5_02_beg"
+  },
+  "subtitle": "MN-2",
+  "summary": "info/activities/act13d5/level_act13d5_02_end",
+  "title": "呼啸守卫"
+}

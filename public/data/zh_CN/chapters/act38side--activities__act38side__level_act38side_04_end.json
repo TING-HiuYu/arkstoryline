@@ -1,0 +1,21 @@
+{
+  "albumId": "act38side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "PV-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PV-4_体面来宾/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-4_%E4%BD%93%E9%9D%A2%E6%9D%A5%E5%AE%BE/END"
+  },
+  "id": "act38side--activities__act38side__level_act38side_04_end",
+  "navigation": {
+    "nextChapterId": "act38side--activities__act38side__level_act38side_st02",
+    "previousChapterId": "act38side--activities__act38side__level_act38side_04_beg"
+  },
+  "subtitle": "PV-4",
+  "summary": "info/activities/act38side/level_act38side_04_end",
+  "title": "体面来宾"
+}

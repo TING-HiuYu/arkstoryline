@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "12-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-9_热血年华/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-9_%E7%83%AD%E8%A1%80%E5%B9%B4%E5%8D%8E/BEG"
+  },
+  "id": "main_12--obt__main__level_main_12-08_beg",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_main_12-09_end",
+    "previousChapterId": "main_12--obt__main__level_main_12-07_end"
+  },
+  "subtitle": "12-9",
+  "summary": "info/obt/main/level_main_12-08_beg",
+  "title": "热血年华"
+}

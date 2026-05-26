@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-沙中之火-99519d0bf1",
+  "avgTag": null,
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RA/ENTRY",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RA/ENTRY"
+  },
+  "id": "other-story-沙中之火-99519d0bf1--ra-entry",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "other-story-沙中之火-99519d0bf1--ra-end-3-nbt"
+  },
+  "subtitle": null,
+  "title": "沙中之火"
+}

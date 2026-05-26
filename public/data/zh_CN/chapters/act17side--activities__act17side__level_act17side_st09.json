@@ -1,0 +1,21 @@
+{
+  "albumId": "act17side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "SN-ST-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SN-ST-9_主舰桥/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-ST-9_%E4%B8%BB%E8%88%B0%E6%A1%A5/NBT"
+  },
+  "id": "act17side--activities__act17side__level_act17side_st09",
+  "navigation": {
+    "nextChapterId": "act17side--activities__act17side__level_act17side_08_end",
+    "previousChapterId": "act17side--activities__act17side__level_act17side_st08"
+  },
+  "subtitle": "SN-ST-9",
+  "summary": "info/activities/act17side/level_act17side_st09",
+  "title": "主舰桥"
+}

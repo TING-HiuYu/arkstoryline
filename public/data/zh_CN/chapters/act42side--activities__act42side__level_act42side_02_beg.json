@@ -1,0 +1,21 @@
+{
+  "albumId": "act42side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "MT-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MT-2_祈祷/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MT-2_%E7%A5%88%E7%A5%B7/BEG"
+  },
+  "id": "act42side--activities__act42side__level_act42side_02_beg",
+  "navigation": {
+    "nextChapterId": "act42side--activities__act42side__level_act42side_02_end",
+    "previousChapterId": "act42side--activities__act42side__level_act42side_01_end"
+  },
+  "subtitle": "MT-2",
+  "summary": "info/activities/act42side/level_act42side_02_beg",
+  "title": "祈祷"
+}

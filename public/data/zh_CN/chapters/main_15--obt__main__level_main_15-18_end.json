@@ -1,0 +1,21 @@
+{
+  "albumId": "main_15",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "15-20",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "15-20_得以重回/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-20_%E5%BE%97%E4%BB%A5%E9%87%8D%E5%9B%9E/END"
+  },
+  "id": "main_15--obt__main__level_main_15-18_end",
+  "navigation": {
+    "nextChapterId": "main_15--obt__main__level_st_15-03",
+    "previousChapterId": "main_15--obt__main__level_main_15-16_beg"
+  },
+  "subtitle": "15-20",
+  "summary": "info/obt/main/level_main_15-18_end",
+  "title": "得以重回"
+}

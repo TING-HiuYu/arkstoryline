@@ -1,0 +1,21 @@
+{
+  "albumId": "act25side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CW-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CW-8_过去与现在的交会/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CW-8_%E8%BF%87%E5%8E%BB%E4%B8%8E%E7%8E%B0%E5%9C%A8%E7%9A%84%E4%BA%A4%E4%BC%9A/BEG"
+  },
+  "id": "act25side--activities__act25side__level_act25side_08_beg",
+  "navigation": {
+    "nextChapterId": "act25side--activities__act25side__level_act25side_08_end",
+    "previousChapterId": "act25side--activities__act25side__level_act25side_07_end"
+  },
+  "subtitle": "CW-8",
+  "summary": "info/activities/act25side/level_act25side_08_beg",
+  "title": "过去与现在的交会"
+}

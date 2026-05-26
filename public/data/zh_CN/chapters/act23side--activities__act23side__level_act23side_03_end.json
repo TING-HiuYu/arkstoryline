@@ -1,0 +1,21 @@
+{
+  "albumId": "act23side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "WB-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WB-3_树犹如此/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WB-3_%E6%A0%91%E7%8A%B9%E5%A6%82%E6%AD%A4/END"
+  },
+  "id": "act23side--activities__act23side__level_act23side_03_end",
+  "navigation": {
+    "nextChapterId": "act23side--activities__act23side__level_act23side_04_beg",
+    "previousChapterId": "act23side--activities__act23side__level_act23side_03_beg"
+  },
+  "subtitle": "WB-3",
+  "summary": "info/activities/act23side/level_act23side_03_end",
+  "title": "树犹如此"
+}

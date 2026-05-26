@@ -1,0 +1,33 @@
+{
+  "id": "story_bibeak_set_1",
+  "slug": "story-bibeak-set-1",
+  "title": "破壳",
+  "sourceEntryType": "UNKNOWN",
+  "albumKind": "operatorRecord",
+  "homeSection": "operatorRecord",
+  "timelineRank": 0,
+  "cover": {
+    "url": "https://media.prts.wiki/e/ec/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%A0%B4%E5%A3%B3.png",
+    "source": "none",
+    "assetStatus": "missing",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 0,
+  "chapters": [
+    {
+      "id": "story_bibeak_set_1--obt__memory__story_bibeak_1_1",
+      "albumId": "story_bibeak_set_1",
+      "title": "破壳",
+      "avgTag": "幕间",
+      "sort": 0,
+      "path": "chapters/story_bibeak_set_1--obt__memory__story_bibeak_1_1.json",
+      "downloadable": true
+    }
+  ],
+  "source": {
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
+  },
+  "extras": []
+}

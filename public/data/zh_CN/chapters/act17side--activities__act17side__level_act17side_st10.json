@@ -1,0 +1,21 @@
+{
+  "albumId": "act17side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "SN-ST-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SN-ST-10_甲板室/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-ST-10_%E7%94%B2%E6%9D%BF%E5%AE%A4/NBT"
+  },
+  "id": "act17side--activities__act17side__level_act17side_st10",
+  "navigation": {
+    "nextChapterId": "act17side--activities__act17side__level_act17side_st11",
+    "previousChapterId": "act17side--activities__act17side__level_act17side_08_end"
+  },
+  "subtitle": "SN-ST-10",
+  "summary": "info/activities/act17side/level_act17side_st10",
+  "title": "甲板室"
+}

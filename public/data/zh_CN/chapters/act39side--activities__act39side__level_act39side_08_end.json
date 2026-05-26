@@ -1,0 +1,21 @@
+{
+  "albumId": "act39side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "EP-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EP-8_见证，征服，定义/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EP-8_%E8%A7%81%E8%AF%81%EF%BC%8C%E5%BE%81%E6%9C%8D%EF%BC%8C%E5%AE%9A%E4%B9%89/END"
+  },
+  "id": "act39side--activities__act39side__level_act39side_08_end",
+  "navigation": {
+    "nextChapterId": "act39side--activities__act39side__level_act39side_st03",
+    "previousChapterId": "act39side--activities__act39side__level_act39side_08_beg"
+  },
+  "subtitle": "EP-8",
+  "summary": "info/activities/act39side/level_act39side_08_end",
+  "title": "见证，征服，定义"
+}

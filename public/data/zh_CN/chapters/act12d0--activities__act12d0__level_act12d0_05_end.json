@@ -1,0 +1,21 @@
+{
+  "albumId": "act12d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RI-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RI-5_各有所长/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RI-5_%E5%90%84%E6%9C%89%E6%89%80%E9%95%BF/END"
+  },
+  "id": "act12d0--activities__act12d0__level_act12d0_05_end",
+  "navigation": {
+    "nextChapterId": "act12d0--activities__act12d0__level_act12d0_06_beg",
+    "previousChapterId": "act12d0--activities__act12d0__level_act12d0_05_beg"
+  },
+  "subtitle": "RI-5",
+  "summary": "info/activities/act12d0/level_act12d0_05_end",
+  "title": "各有所长"
+}

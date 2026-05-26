@@ -1,0 +1,21 @@
+{
+  "albumId": "act28side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CV-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CV-1_孤独之地/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CV-1_%E5%AD%A4%E7%8B%AC%E4%B9%8B%E5%9C%B0/END"
+  },
+  "id": "act28side--activities__act28side__level_act28side_01_end",
+  "navigation": {
+    "nextChapterId": "act28side--activities__act28side__level_act28side_02_beg",
+    "previousChapterId": "act28side--activities__act28side__level_act28side_01_beg"
+  },
+  "subtitle": "CV-1",
+  "summary": "info/activities/act28side/level_act28side_01_end",
+  "title": "孤独之地"
+}

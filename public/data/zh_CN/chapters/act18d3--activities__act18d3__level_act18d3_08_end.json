@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d3",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SV-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SV-8_亲族/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-8_%E4%BA%B2%E6%97%8F/END"
+  },
+  "id": "act18d3--activities__act18d3__level_act18d3_08_end",
+  "navigation": {
+    "nextChapterId": "act18d3--activities__act18d3__level_act18d3_09_beg",
+    "previousChapterId": "act18d3--activities__act18d3__level_act18d3_08_beg"
+  },
+  "subtitle": "SV-8",
+  "summary": "info/activities/act18d3/level_act18d3_08_end",
+  "title": "亲族"
+}

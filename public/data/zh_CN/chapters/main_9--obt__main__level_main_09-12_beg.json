@@ -1,0 +1,21 @@
+{
+  "albumId": "main_9",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "9-14",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "9-14_风中旗帜/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/9-14_%E9%A3%8E%E4%B8%AD%E6%97%97%E5%B8%9C/BEG"
+  },
+  "id": "main_9--obt__main__level_main_09-12_beg",
+  "navigation": {
+    "nextChapterId": "main_9--obt__main__level_main_09-16_end",
+    "previousChapterId": "main_9--obt__main__level_main_09-11_end"
+  },
+  "subtitle": "9-14",
+  "summary": "info/obt/main/level_main_09-12_beg",
+  "title": "风中旗帜"
+}

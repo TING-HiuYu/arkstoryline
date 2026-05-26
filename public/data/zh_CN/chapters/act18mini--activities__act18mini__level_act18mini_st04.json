@@ -1,0 +1,19 @@
+{
+  "albumId": "act18mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SE-ST4_河畔航船/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SE-ST4_%E6%B2%B3%E7%95%94%E8%88%AA%E8%88%B9/NBT"
+  },
+  "id": "act18mini--activities__act18mini__level_act18mini_st04",
+  "navigation": {
+    "nextChapterId": "act18mini--activities__act18mini__level_act18mini_st05",
+    "previousChapterId": "act18mini--activities__act18mini__level_act18mini_st03"
+  },
+  "summary": "info/activities/act18mini/level_act18mini_st04",
+  "title": "河畔航船"
+}

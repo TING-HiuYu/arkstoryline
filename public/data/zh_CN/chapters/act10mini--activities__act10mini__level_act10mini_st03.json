@@ -1,0 +1,19 @@
+{
+  "albumId": "act10mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TB-ST3_终将同行/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TB-ST3_%E7%BB%88%E5%B0%86%E5%90%8C%E8%A1%8C/NBT"
+  },
+  "id": "act10mini--activities__act10mini__level_act10mini_st03",
+  "navigation": {
+    "nextChapterId": "act10mini--activities__act10mini__level_act10mini_st04",
+    "previousChapterId": "act10mini--activities__act10mini__level_act10mini_st02"
+  },
+  "summary": "info/activities/act10mini/level_act10mini_st03",
+  "title": "终将同行"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "17-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "17-6_风波暗涌/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/17-6_%E9%A3%8E%E6%B3%A2%E6%9A%97%E6%B6%8C/END"
+  },
+  "id": "main_17--obt__main__level_main_17-05_end",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_main_17-06_beg",
+    "previousChapterId": "main_17--obt__main__level_main_17-04_beg"
+  },
+  "subtitle": "17-6",
+  "summary": "info/obt/main/level_main_17-05_end",
+  "title": "风波暗涌"
+}

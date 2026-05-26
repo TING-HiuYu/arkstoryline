@@ -1,0 +1,19 @@
+{
+  "albumId": "act7mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PL-ST6_信/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PL-ST6_%E4%BF%A1/NBT"
+  },
+  "id": "act7mini--activities__act7mini__level_act7mini_st06",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act7mini--activities__act7mini__level_act7mini_st05"
+  },
+  "summary": "info/activities/act7mini/level_act7mini_st06",
+  "title": "信"
+}

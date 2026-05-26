@@ -1,0 +1,21 @@
+{
+  "albumId": "main_3",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "3-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "3-8_黄昏/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/3-8_%E9%BB%84%E6%98%8F/END"
+  },
+  "id": "main_3--obt__main__level_main_03-08_end",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "main_3--obt__main__level_main_03-08_beg"
+  },
+  "subtitle": "3-8",
+  "summary": "info/obt/main/level_main_03-08_end",
+  "title": "黄昏"
+}

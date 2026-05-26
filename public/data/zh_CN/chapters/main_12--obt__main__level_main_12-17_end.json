@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "12-19",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-19_飞跃，烟火/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-19_%E9%A3%9E%E8%B7%83%EF%BC%8C%E7%83%9F%E7%81%AB/END"
+  },
+  "id": "main_12--obt__main__level_main_12-17_end",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_main_12-18_beg",
+    "previousChapterId": "main_12--obt__main__level_main_12-16_beg"
+  },
+  "subtitle": "12-19",
+  "summary": "info/obt/main/level_main_12-17_end",
+  "title": "飞跃，烟火"
+}

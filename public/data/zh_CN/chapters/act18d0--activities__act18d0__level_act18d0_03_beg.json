@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "WD-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WD-3_仙人掌沙丘/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WD-3_%E4%BB%99%E4%BA%BA%E6%8E%8C%E6%B2%99%E4%B8%98/BEG"
+  },
+  "id": "act18d0--activities__act18d0__level_act18d0_03_beg",
+  "navigation": {
+    "nextChapterId": "act18d0--activities__act18d0__level_act18d0_03_end",
+    "previousChapterId": "act18d0--activities__act18d0__level_act18d0_02_end"
+  },
+  "subtitle": "WD-3",
+  "summary": "info/activities/act18d0/level_act18d0_03_beg",
+  "title": "仙人掌沙丘"
+}

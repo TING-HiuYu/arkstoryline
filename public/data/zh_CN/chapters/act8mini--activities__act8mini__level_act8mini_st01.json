@@ -1,0 +1,19 @@
+{
+  "albumId": "act8mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "VI-ST1_我不曾怀揣希望/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/VI-ST1_%E6%88%91%E4%B8%8D%E6%9B%BE%E6%80%80%E6%8F%A3%E5%B8%8C%E6%9C%9B/NBT"
+  },
+  "id": "act8mini--activities__act8mini__level_act8mini_st01",
+  "navigation": {
+    "nextChapterId": "act8mini--activities__act8mini__level_act8mini_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act8mini/level_act8mini_st01",
+  "title": "我不曾怀揣希望"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act28side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CV-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CV-8_告别往昔/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CV-8_%E5%91%8A%E5%88%AB%E5%BE%80%E6%98%94/BEG"
+  },
+  "id": "act28side--activities__act28side__level_act28side_08_beg",
+  "navigation": {
+    "nextChapterId": "act28side--activities__act28side__level_act28side_08_end",
+    "previousChapterId": "act28side--activities__act28side__level_act28side_07_end"
+  },
+  "subtitle": "CV-8",
+  "summary": "info/activities/act28side/level_act28side_08_beg",
+  "title": "告别往昔"
+}

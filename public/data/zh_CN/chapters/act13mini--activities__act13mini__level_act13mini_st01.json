@@ -1,0 +1,19 @@
+{
+  "albumId": "act13mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BW-ST1_向左向右/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BW-ST1_%E5%90%91%E5%B7%A6%E5%90%91%E5%8F%B3/NBT"
+  },
+  "id": "act13mini--activities__act13mini__level_act13mini_st01",
+  "navigation": {
+    "nextChapterId": "act13mini--activities__act13mini__level_act13mini_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act13mini/level_act13mini_st01",
+  "title": "向左向右"
+}

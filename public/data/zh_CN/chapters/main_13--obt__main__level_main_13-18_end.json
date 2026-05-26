@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "13-20",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "13-20_血潮翻涌/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-20_%E8%A1%80%E6%BD%AE%E7%BF%BB%E6%B6%8C/END"
+  },
+  "id": "main_13--obt__main__level_main_13-18_end",
+  "navigation": {
+    "nextChapterId": "main_13--obt__main__level_main_13-19_beg",
+    "previousChapterId": "main_13--obt__main__level_main_13-16_end"
+  },
+  "subtitle": "13-20",
+  "summary": "info/obt/main/level_main_13-18_end",
+  "title": "血潮翻涌"
+}

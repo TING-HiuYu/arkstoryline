@@ -1,0 +1,19 @@
+{
+  "albumId": "act12mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AW-ST3_我曾凝望/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AW-ST3_%E6%88%91%E6%9B%BE%E5%87%9D%E6%9C%9B/NBT"
+  },
+  "id": "act12mini--activities__act12mini__level_act12mini_st03",
+  "navigation": {
+    "nextChapterId": "act12mini--activities__act12mini__level_act12mini_st04",
+    "previousChapterId": "act12mini--activities__act12mini__level_act12mini_st02"
+  },
+  "summary": "info/activities/act12mini/level_act12mini_st03",
+  "title": "我曾凝望"
+}

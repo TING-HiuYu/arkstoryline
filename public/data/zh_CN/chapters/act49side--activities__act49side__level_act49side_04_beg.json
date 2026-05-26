@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-4_小雪崩/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-4_%E5%B0%8F%E9%9B%AA%E5%B4%A9/BEG"
+  },
+  "id": "act49side--activities__act49side__level_act49side_04_beg",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_04_end",
+    "previousChapterId": "act49side--activities__act49side__level_act49side_03_end"
+  },
+  "subtitle": "TA-4",
+  "summary": "info/activities/act49side/level_act49side_04_beg",
+  "title": "小雪崩"
+}

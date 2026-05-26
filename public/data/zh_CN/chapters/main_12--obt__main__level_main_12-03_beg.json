@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "12-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-4_团结就是奢望/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-4_%E5%9B%A2%E7%BB%93%E5%B0%B1%E6%98%AF%E5%A5%A2%E6%9C%9B/BEG"
+  },
+  "id": "main_12--obt__main__level_main_12-03_beg",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_main_12-03_end",
+    "previousChapterId": "main_12--obt__main__level_main_12-02_end"
+  },
+  "subtitle": "12-4",
+  "summary": "info/obt/main/level_main_12-03_beg",
+  "title": "团结就是奢望"
+}

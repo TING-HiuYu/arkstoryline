@@ -1,0 +1,19 @@
+{
+  "albumId": "act16mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TG-ST6_被踩住的影子/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TG-ST6_%E8%A2%AB%E8%B8%A9%E4%BD%8F%E7%9A%84%E5%BD%B1%E5%AD%90/NBT"
+  },
+  "id": "act16mini--activities__act16mini__level_act16mini_st06",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act16mini--activities__act16mini__level_act16mini_st05"
+  },
+  "summary": "info/activities/act16mini/level_act16mini_st06",
+  "title": "被踩住的影子"
+}

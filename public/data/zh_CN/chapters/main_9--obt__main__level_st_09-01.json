@@ -1,0 +1,21 @@
+{
+  "albumId": "main_9",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "9-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "9-1_风暴突击/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/9-1_%E9%A3%8E%E6%9A%B4%E7%AA%81%E5%87%BB/NBT"
+  },
+  "id": "main_9--obt__main__level_st_09-01",
+  "navigation": {
+    "nextChapterId": "main_9--obt__main__level_main_09-01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "9-1",
+  "summary": "info/obt/main/level_st_09-01",
+  "title": "风暴突击"
+}

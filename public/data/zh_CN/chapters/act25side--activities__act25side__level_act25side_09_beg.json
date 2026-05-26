@@ -1,0 +1,21 @@
+{
+  "albumId": "act25side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CW-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CW-9_恩怨纠葛/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CW-9_%E6%81%A9%E6%80%A8%E7%BA%A0%E8%91%9B/BEG"
+  },
+  "id": "act25side--activities__act25side__level_act25side_09_beg",
+  "navigation": {
+    "nextChapterId": "act25side--activities__act25side__level_act25side_09_end",
+    "previousChapterId": "act25side--activities__act25side__level_act25side_08_end"
+  },
+  "subtitle": "CW-9",
+  "summary": "info/activities/act25side/level_act25side_09_beg",
+  "title": "恩怨纠葛"
+}

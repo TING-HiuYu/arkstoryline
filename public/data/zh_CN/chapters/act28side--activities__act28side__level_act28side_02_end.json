@@ -1,0 +1,21 @@
+{
+  "albumId": "act28side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CV-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CV-2_双重保险/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CV-2_%E5%8F%8C%E9%87%8D%E4%BF%9D%E9%99%A9/END"
+  },
+  "id": "act28side--activities__act28side__level_act28side_02_end",
+  "navigation": {
+    "nextChapterId": "act28side--activities__act28side__level_act28side_03_beg",
+    "previousChapterId": "act28side--activities__act28side__level_act28side_02_beg"
+  },
+  "subtitle": "CV-2",
+  "summary": "info/activities/act28side/level_act28side_02_end",
+  "title": "双重保险"
+}

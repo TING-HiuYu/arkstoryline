@@ -1,0 +1,21 @@
+{
+  "albumId": "act14side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "BI-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BI-ST-3_一着不慎/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BI-ST-3_%E4%B8%80%E7%9D%80%E4%B8%8D%E6%85%8E/NBT"
+  },
+  "id": "act14side--activities__act14side__level_act14side_st03",
+  "navigation": {
+    "nextChapterId": "act14side--activities__act14side__level_act14side_06_beg",
+    "previousChapterId": "act14side--activities__act14side__level_act14side_05_end"
+  },
+  "subtitle": "BI-ST-3",
+  "summary": "info/activities/act14side/level_act14side_st03",
+  "title": "一着不慎"
+}

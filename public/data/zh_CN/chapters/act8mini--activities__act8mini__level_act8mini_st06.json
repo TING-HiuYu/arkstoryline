@@ -1,0 +1,19 @@
+{
+  "albumId": "act8mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "VI-ST6_我与最后的赌注/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/VI-ST6_%E6%88%91%E4%B8%8E%E6%9C%80%E5%90%8E%E7%9A%84%E8%B5%8C%E6%B3%A8/NBT"
+  },
+  "id": "act8mini--activities__act8mini__level_act8mini_st06",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act8mini--activities__act8mini__level_act8mini_st05"
+  },
+  "summary": "info/activities/act8mini/level_act8mini_st06",
+  "title": "我与最后的赌注"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act15side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "IW-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IW-ST-2_万物有灵/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-ST-2_%E4%B8%87%E7%89%A9%E6%9C%89%E7%81%B5/NBT"
+  },
+  "id": "act15side--activities__act15side__level_act15side_st02",
+  "navigation": {
+    "nextChapterId": "act15side--activities__act15side__level_act15side_05_beg",
+    "previousChapterId": "act15side--activities__act15side__level_act15side_04_end"
+  },
+  "subtitle": "IW-ST-2",
+  "summary": "info/activities/act15side/level_act15side_st02",
+  "title": "万物有灵"
+}

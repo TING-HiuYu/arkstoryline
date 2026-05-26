@@ -1,0 +1,21 @@
+{
+  "albumId": "act21side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IS-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IS-2_荣誉之人/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-2_%E8%8D%A3%E8%AA%89%E4%B9%8B%E4%BA%BA/END"
+  },
+  "id": "act21side--activities__act21side__level_act21side_02_end",
+  "navigation": {
+    "nextChapterId": "act21side--activities__act21side__level_act21side_03_beg",
+    "previousChapterId": "act21side--activities__act21side__level_act21side_02_beg"
+  },
+  "subtitle": "IS-2",
+  "summary": "info/activities/act21side/level_act21side_02_end",
+  "title": "荣誉之人"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act38side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "PV-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PV-5_“致新生活”/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-5_%E2%80%9C%E8%87%B4%E6%96%B0%E7%94%9F%E6%B4%BB%E2%80%9D/END"
+  },
+  "id": "act38side--activities__act38side__level_act38side_05_end",
+  "navigation": {
+    "nextChapterId": "act38side--activities__act38side__level_act38side_06_beg",
+    "previousChapterId": "act38side--activities__act38side__level_act38side_05_beg"
+  },
+  "subtitle": "PV-5",
+  "summary": "info/activities/act38side/level_act38side_05_end",
+  "title": "“致新生活”"
+}

@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-沙洲遗闻-e767408fae",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RA1-END-1/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RA1-END-1/NBT"
+  },
+  "id": "other-story-沙洲遗闻-e767408fae--ra1-end-1-nbt",
+  "navigation": {
+    "nextChapterId": "other-story-沙洲遗闻-e767408fae--ra1-end-2-nbt",
+    "previousChapterId": null
+  },
+  "subtitle": null,
+  "title": "寻宝与援兵"
+}

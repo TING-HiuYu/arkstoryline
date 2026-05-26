@@ -1,0 +1,21 @@
+{
+  "albumId": "act21side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IS-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IS-6_旧日碾轧/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-6_%E6%97%A7%E6%97%A5%E7%A2%BE%E8%BD%A7/END"
+  },
+  "id": "act21side--activities__act21side__level_act21side_06_end",
+  "navigation": {
+    "nextChapterId": "act21side--activities__act21side__level_act21side_07_beg",
+    "previousChapterId": "act21side--activities__act21side__level_act21side_06_beg"
+  },
+  "subtitle": "IS-6",
+  "summary": "info/activities/act21side/level_act21side_06_end",
+  "title": "旧日碾轧"
+}

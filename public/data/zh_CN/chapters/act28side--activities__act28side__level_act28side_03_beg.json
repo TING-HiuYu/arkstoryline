@@ -1,0 +1,21 @@
+{
+  "albumId": "act28side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CV-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CV-3_圈套/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CV-3_%E5%9C%88%E5%A5%97/BEG"
+  },
+  "id": "act28side--activities__act28side__level_act28side_03_beg",
+  "navigation": {
+    "nextChapterId": "act28side--activities__act28side__level_act28side_03_end",
+    "previousChapterId": "act28side--activities__act28side__level_act28side_02_end"
+  },
+  "subtitle": "CV-3",
+  "summary": "info/activities/act28side/level_act28side_03_beg",
+  "title": "圈套"
+}

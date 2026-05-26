@@ -1,0 +1,21 @@
+{
+  "albumId": "act18side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "LE-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "LE-8_命运/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/LE-8_%E5%91%BD%E8%BF%90/END"
+  },
+  "id": "act18side--activities__act18side__level_act18side_08_end",
+  "navigation": {
+    "nextChapterId": "act18side--activities__act18side__level_act18side_st03",
+    "previousChapterId": "act18side--activities__act18side__level_act18side_08_beg"
+  },
+  "subtitle": "LE-8",
+  "summary": "info/activities/act18side/level_act18side_08_end",
+  "title": "命运"
+}

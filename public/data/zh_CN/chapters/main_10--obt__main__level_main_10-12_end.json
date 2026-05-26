@@ -1,0 +1,21 @@
+{
+  "albumId": "main_10",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "10-14",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "10-14_瞄准/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-14_%E7%9E%84%E5%87%86/END"
+  },
+  "id": "main_10--obt__main__level_main_10-12_end",
+  "navigation": {
+    "nextChapterId": "main_10--obt__main__level_main_10-13_beg",
+    "previousChapterId": "main_10--obt__main__level_main_10-12_beg"
+  },
+  "subtitle": "10-14",
+  "summary": "info/obt/main/level_main_10-12_end",
+  "title": "瞄准"
+}

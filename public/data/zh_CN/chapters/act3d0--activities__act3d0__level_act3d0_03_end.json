@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-3_竞走赛/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-3_%E7%AB%9E%E8%B5%B0%E8%B5%9B/END"
+  },
+  "id": "act3d0--activities__act3d0__level_act3d0_03_end",
+  "navigation": {
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_04_beg",
+    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_03_beg"
+  },
+  "subtitle": "OF-3",
+  "summary": "info/activities/act3d0/level_act3d0_03_end",
+  "title": "竞走赛"
+}

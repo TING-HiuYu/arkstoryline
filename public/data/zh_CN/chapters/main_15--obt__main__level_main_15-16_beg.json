@@ -1,0 +1,21 @@
+{
+  "albumId": "main_15",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "15-18",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "15-18_从未怀疑，从未远离/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-18_%E4%BB%8E%E6%9C%AA%E6%80%80%E7%96%91%EF%BC%8C%E4%BB%8E%E6%9C%AA%E8%BF%9C%E7%A6%BB/BEG"
+  },
+  "id": "main_15--obt__main__level_main_15-16_beg",
+  "navigation": {
+    "nextChapterId": "main_15--obt__main__level_main_15-18_end",
+    "previousChapterId": "main_15--obt__main__level_main_15-15_end"
+  },
+  "subtitle": "15-18",
+  "summary": "info/obt/main/level_main_15-16_beg",
+  "title": "从未怀疑，从未远离"
+}

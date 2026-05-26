@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RE-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RE-4_兵力压制/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RE-4_%E5%85%B5%E5%8A%9B%E5%8E%8B%E5%88%B6/END"
+  },
+  "id": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--re-4-兵力压制-end",
+  "navigation": {
+    "nextChapterId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--re-5-渐入佳境-end",
+    "previousChapterId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--re-3-狂轰乱炸-end"
+  },
+  "subtitle": "RE-4",
+  "title": "RE-4 兵力压制 行动后"
+}

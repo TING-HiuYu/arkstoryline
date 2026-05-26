@@ -1,0 +1,21 @@
+{
+  "albumId": "act35side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "AS-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AS-1_节前热身/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AS-1_%E8%8A%82%E5%89%8D%E7%83%AD%E8%BA%AB/END"
+  },
+  "id": "act35side--activities__act35side__level_act35side_01_end",
+  "navigation": {
+    "nextChapterId": "act35side--activities__act35side__level_act35side_02_beg",
+    "previousChapterId": "act35side--activities__act35side__level_act35side_01_beg"
+  },
+  "subtitle": "AS-1",
+  "summary": "info/activities/act35side/level_act35side_01_end",
+  "title": "节前热身"
+}

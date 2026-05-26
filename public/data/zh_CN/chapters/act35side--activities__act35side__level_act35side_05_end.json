@@ -1,0 +1,21 @@
+{
+  "albumId": "act35side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "AS-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AS-5_文物也上班/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AS-5_%E6%96%87%E7%89%A9%E4%B9%9F%E4%B8%8A%E7%8F%AD/END"
+  },
+  "id": "act35side--activities__act35side__level_act35side_05_end",
+  "navigation": {
+    "nextChapterId": "act35side--activities__act35side__level_act35side_st02",
+    "previousChapterId": "act35side--activities__act35side__level_act35side_05_beg"
+  },
+  "subtitle": "AS-5",
+  "summary": "info/activities/act35side/level_act35side_05_end",
+  "title": "文物也上班"
+}

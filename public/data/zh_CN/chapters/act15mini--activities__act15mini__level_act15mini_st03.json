@@ -1,0 +1,19 @@
+{
+  "albumId": "act15mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FD-ST3_树影幢幢/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FD-ST3_%E6%A0%91%E5%BD%B1%E5%B9%A2%E5%B9%A2/NBT"
+  },
+  "id": "act15mini--activities__act15mini__level_act15mini_st03",
+  "navigation": {
+    "nextChapterId": "act15mini--activities__act15mini__level_act15mini_st04",
+    "previousChapterId": "act15mini--activities__act15mini__level_act15mini_st02"
+  },
+  "summary": "info/activities/act15mini/level_act15mini_st03",
+  "title": "树影幢幢"
+}

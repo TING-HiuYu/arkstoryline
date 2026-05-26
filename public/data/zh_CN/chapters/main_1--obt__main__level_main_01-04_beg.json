@@ -1,0 +1,21 @@
+{
+  "albumId": "main_1",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "1-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "1-4_先兆/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/1-4_%E5%85%88%E5%85%86/BEG"
+  },
+  "id": "main_1--obt__main__level_main_01-04_beg",
+  "navigation": {
+    "nextChapterId": "main_1--obt__main__level_main_01-06_beg",
+    "previousChapterId": "main_1--obt__main__level_main_01-03_end"
+  },
+  "subtitle": "1-4",
+  "summary": "info/obt/main/level_main_01-04_beg",
+  "title": "先兆"
+}

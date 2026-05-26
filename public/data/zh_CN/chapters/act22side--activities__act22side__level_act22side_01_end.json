@@ -1,0 +1,21 @@
+{
+  "albumId": "act22side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "FC-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FC-1_逃离与追逐/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FC-1_%E9%80%83%E7%A6%BB%E4%B8%8E%E8%BF%BD%E9%80%90/END"
+  },
+  "id": "act22side--activities__act22side__level_act22side_01_end",
+  "navigation": {
+    "nextChapterId": "act22side--activities__act22side__level_act22side_02_beg",
+    "previousChapterId": "act22side--activities__act22side__level_act22side_01_beg"
+  },
+  "subtitle": "FC-1",
+  "summary": "info/activities/act22side/level_act22side_01_end",
+  "title": "逃离与追逐"
+}

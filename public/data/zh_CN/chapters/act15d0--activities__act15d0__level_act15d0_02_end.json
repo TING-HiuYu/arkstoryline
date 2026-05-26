@@ -1,0 +1,21 @@
+{
+  "albumId": "act15d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "MB-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MB-2_另一个视角/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MB-2_%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%A7%86%E8%A7%92/END"
+  },
+  "id": "act15d0--activities__act15d0__level_act15d0_02_end",
+  "navigation": {
+    "nextChapterId": "act15d0--activities__act15d0__level_act15d0_03_beg",
+    "previousChapterId": "act15d0--activities__act15d0__level_act15d0_02_beg"
+  },
+  "subtitle": "MB-2",
+  "summary": "info/activities/act15d0/level_act15d0_02_end",
+  "title": "另一个视角"
+}

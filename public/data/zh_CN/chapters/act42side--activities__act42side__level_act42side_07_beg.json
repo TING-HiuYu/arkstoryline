@@ -1,0 +1,21 @@
+{
+  "albumId": "act42side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "MT-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MT-7_丧礼/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MT-7_%E4%B8%A7%E7%A4%BC/BEG"
+  },
+  "id": "act42side--activities__act42side__level_act42side_07_beg",
+  "navigation": {
+    "nextChapterId": "act42side--activities__act42side__level_act42side_07_end",
+    "previousChapterId": "act42side--activities__act42side__level_act42side_06_end"
+  },
+  "subtitle": "MT-7",
+  "summary": "info/activities/act42side/level_act42side_07_beg",
+  "title": "丧礼"
+}

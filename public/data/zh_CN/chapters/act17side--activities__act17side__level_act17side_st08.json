@@ -1,0 +1,21 @@
+{
+  "albumId": "act17side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "SN-ST-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SN-ST-8_指挥大厅/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-ST-8_%E6%8C%87%E6%8C%A5%E5%A4%A7%E5%8E%85/NBT"
+  },
+  "id": "act17side--activities__act17side__level_act17side_st08",
+  "navigation": {
+    "nextChapterId": "act17side--activities__act17side__level_act17side_st09",
+    "previousChapterId": "act17side--activities__act17side__level_act17side_07_end"
+  },
+  "subtitle": "SN-ST-8",
+  "summary": "info/activities/act17side/level_act17side_st08",
+  "title": "指挥大厅"
+}

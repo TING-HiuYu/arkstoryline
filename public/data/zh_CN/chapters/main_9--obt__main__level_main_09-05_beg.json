@@ -1,0 +1,21 @@
+{
+  "albumId": "main_9",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "9-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "9-6_深池/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/9-6_%E6%B7%B1%E6%B1%A0/BEG"
+  },
+  "id": "main_9--obt__main__level_main_09-05_beg",
+  "navigation": {
+    "nextChapterId": "main_9--obt__main__level_main_09-06_end",
+    "previousChapterId": "main_9--obt__main__level_main_09-04_end"
+  },
+  "subtitle": "9-6",
+  "summary": "info/obt/main/level_main_09-05_beg",
+  "title": "深池"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act24side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CF-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CF-9_决战！燃烧的狩魂！/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CF-9_%E5%86%B3%E6%88%98%EF%BC%81%E7%87%83%E7%83%A7%E7%9A%84%E7%8B%A9%E9%AD%82%EF%BC%81/BEG"
+  },
+  "id": "act24side--activities__act24side__level_act24side_09_beg",
+  "navigation": {
+    "nextChapterId": "act24side--activities__act24side__level_act24side_09_end",
+    "previousChapterId": "act24side--activities__act24side__level_act24side_08_end"
+  },
+  "subtitle": "CF-9",
+  "summary": "info/activities/act24side/level_act24side_09_beg",
+  "title": "决战！燃烧的狩魂！"
+}

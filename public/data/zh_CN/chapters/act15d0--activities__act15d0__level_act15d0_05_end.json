@@ -1,0 +1,21 @@
+{
+  "albumId": "act15d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "MB-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MB-5_危险交易/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MB-5_%E5%8D%B1%E9%99%A9%E4%BA%A4%E6%98%93/END"
+  },
+  "id": "act15d0--activities__act15d0__level_act15d0_05_end",
+  "navigation": {
+    "nextChapterId": "act15d0--activities__act15d0__level_act15d0_06_beg",
+    "previousChapterId": "act15d0--activities__act15d0__level_act15d0_05_beg"
+  },
+  "subtitle": "MB-5",
+  "summary": "info/activities/act15d0/level_act15d0_05_end",
+  "title": "危险交易"
+}

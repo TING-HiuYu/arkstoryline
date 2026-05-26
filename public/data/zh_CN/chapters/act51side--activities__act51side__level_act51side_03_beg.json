@@ -1,0 +1,21 @@
+{
+  "albumId": "act51side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "PA-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PA-3_阳光照耀圣骏堡/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PA-3_%E9%98%B3%E5%85%89%E7%85%A7%E8%80%80%E5%9C%A3%E9%AA%8F%E5%A0%A1/BEG"
+  },
+  "id": "act51side--activities__act51side__level_act51side_03_beg",
+  "navigation": {
+    "nextChapterId": "act51side--activities__act51side__level_act51side_03_end",
+    "previousChapterId": "act51side--activities__act51side__level_act51side_02_end"
+  },
+  "subtitle": "PA-3",
+  "summary": "info/activities/act51side/level_act51side_03_beg",
+  "title": "阳光照耀圣骏堡"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act37side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "GO-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GO-4_酒精与安慰剂/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GO-4_%E9%85%92%E7%B2%BE%E4%B8%8E%E5%AE%89%E6%85%B0%E5%89%82/BEG"
+  },
+  "id": "act37side--activities__act37side__level_act37side_04_beg",
+  "navigation": {
+    "nextChapterId": "act37side--activities__act37side__level_act37side_04_end",
+    "previousChapterId": "act37side--activities__act37side__level_act37side_03_end"
+  },
+  "subtitle": "GO-4",
+  "summary": "info/activities/act37side/level_act37side_04_beg",
+  "title": "酒精与安慰剂"
+}

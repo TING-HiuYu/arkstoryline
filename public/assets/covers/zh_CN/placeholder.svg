@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="cover placeholder">
+<defs>
+<linearGradient id="coverPlaceholderGradient" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#e2e8f0"/>
+<stop offset="100%" stop-color="#cbd5e1"/>
+</linearGradient>
+</defs>
+<rect width="800" height="450" fill="url(#coverPlaceholderGradient)"/>
+<rect x="34" y="34" width="732" height="382" fill="none" stroke="#94a3b8" stroke-width="6" stroke-dasharray="16 12"/>
+<text x="400" y="228" text-anchor="middle" fill="#475569" font-size="36" font-family="sans-serif">Cover Unavailable</text>
+</svg>

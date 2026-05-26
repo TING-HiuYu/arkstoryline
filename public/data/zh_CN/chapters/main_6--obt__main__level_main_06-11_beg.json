@@ -1,0 +1,21 @@
+{
+  "albumId": "main_6",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "6-12",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "6-12_冰原之雪/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/6-12_%E5%86%B0%E5%8E%9F%E4%B9%8B%E9%9B%AA/BEG"
+  },
+  "id": "main_6--obt__main__level_main_06-11_beg",
+  "navigation": {
+    "nextChapterId": "main_6--obt__main__level_main_06-12_end",
+    "previousChapterId": "main_6--obt__main__level_main_06-10_end"
+  },
+  "subtitle": "6-12",
+  "summary": "info/obt/main/level_main_06-11_beg",
+  "title": "冰原之雪"
+}

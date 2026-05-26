@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "R8-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "R8-9_相逢，总是离别/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/R8-9_%E7%9B%B8%E9%80%A2%EF%BC%8C%E6%80%BB%E6%98%AF%E7%A6%BB%E5%88%AB/END"
+  },
+  "id": "main_8--obt__main__level_main_08-10_end",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_main_08-12_beg",
+    "previousChapterId": "main_8--obt__main__level_main_08-10_beg"
+  },
+  "subtitle": "R8-9",
+  "summary": "info/obt/main/level_main_08-10_end",
+  "title": "相逢，总是离别"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act21side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IS-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IS-10_“狼之主”/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-10_%E2%80%9C%E7%8B%BC%E4%B9%8B%E4%B8%BB%E2%80%9D/END"
+  },
+  "id": "act21side--activities__act21side__level_act21side_10_end",
+  "navigation": {
+    "nextChapterId": "act21side--activities__act21side__level_act21side_st04",
+    "previousChapterId": "act21side--activities__act21side__level_act21side_10_beg"
+  },
+  "subtitle": "IS-10",
+  "summary": "info/activities/act21side/level_act21side_10_end",
+  "title": "“狼之主”"
+}

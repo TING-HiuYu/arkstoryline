@@ -1,0 +1,20 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "14-22",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-22_在哀愁绽放的时刻/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-22_%E5%9C%A8%E5%93%80%E6%84%81%E7%BB%BD%E6%94%BE%E7%9A%84%E6%97%B6%E5%88%BB/BEG"
+  },
+  "id": "main_14--obt__main__level_main_14-20_beg",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-20_end",
+    "previousChapterId": "main_14--obt__main__level_main_14-19_end"
+  },
+  "subtitle": "14-22",
+  "title": "在哀愁绽放的时刻"
+}

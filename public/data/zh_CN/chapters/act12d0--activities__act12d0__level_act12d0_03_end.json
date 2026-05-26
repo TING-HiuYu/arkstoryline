@@ -1,0 +1,21 @@
+{
+  "albumId": "act12d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RI-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RI-3_往昔/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RI-3_%E5%BE%80%E6%98%94/END"
+  },
+  "id": "act12d0--activities__act12d0__level_act12d0_03_end",
+  "navigation": {
+    "nextChapterId": "act12d0--activities__act12d0__level_act12d0_04_beg",
+    "previousChapterId": "act12d0--activities__act12d0__level_act12d0_03_beg"
+  },
+  "subtitle": "RI-3",
+  "summary": "info/activities/act12d0/level_act12d0_03_end",
+  "title": "往昔"
+}

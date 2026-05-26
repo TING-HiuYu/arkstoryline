@@ -1,0 +1,21 @@
+{
+  "albumId": "act42side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "MT-ST-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MT-ST-4_远行/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MT-ST-4_%E8%BF%9C%E8%A1%8C/NBT"
+  },
+  "id": "act42side--activities__act42side__level_act42side_st04",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act42side--activities__act42side__level_act42side_st03"
+  },
+  "subtitle": "MT-ST-4",
+  "summary": "info/activities/act42side/level_act42side_st04",
+  "title": "远行"
+}

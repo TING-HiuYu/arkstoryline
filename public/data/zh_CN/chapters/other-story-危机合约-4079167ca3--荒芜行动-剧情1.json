@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-危机合约-4079167ca3",
+  "avgTag": null,
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "荒芜行动/剧情1",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/%E8%8D%92%E8%8A%9C%E8%A1%8C%E5%8A%A8/%E5%89%A7%E6%83%851"
+  },
+  "id": "other-story-危机合约-4079167ca3--荒芜行动-剧情1",
+  "navigation": {
+    "nextChapterId": "other-story-危机合约-4079167ca3--荒芜行动-剧情2",
+    "previousChapterId": "other-story-危机合约-4079167ca3--危机合约-剧情"
+  },
+  "subtitle": null,
+  "title": "荒芜行动 P1"
+}

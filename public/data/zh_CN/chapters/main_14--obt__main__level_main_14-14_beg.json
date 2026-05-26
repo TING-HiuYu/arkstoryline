@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "14-16",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-16_抢占舷侧区域/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-16_%E6%8A%A2%E5%8D%A0%E8%88%B7%E4%BE%A7%E5%8C%BA%E5%9F%9F/BEG"
+  },
+  "id": "main_14--obt__main__level_main_14-14_beg",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-14_end",
+    "previousChapterId": "main_14--obt__main__level_main_14-13_end"
+  },
+  "subtitle": "14-16",
+  "summary": "info/obt/main/level_main_14-14_beg",
+  "title": "抢占舷侧区域"
+}

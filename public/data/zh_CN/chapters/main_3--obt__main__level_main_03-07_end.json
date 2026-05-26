@@ -1,0 +1,21 @@
+{
+  "albumId": "main_3",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "3-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "3-7_轰鸣/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/3-7_%E8%BD%B0%E9%B8%A3/END"
+  },
+  "id": "main_3--obt__main__level_main_03-07_end",
+  "navigation": {
+    "nextChapterId": "main_3--obt__main__level_main_03-08_beg",
+    "previousChapterId": "main_3--obt__main__level_main_03-07_beg"
+  },
+  "subtitle": "3-7",
+  "summary": "info/obt/main/level_main_03-07_end",
+  "title": "轰鸣"
+}

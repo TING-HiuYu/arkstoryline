@@ -1,0 +1,33 @@
+{
+  "id": "story_angel_set_2",
+  "slug": "story-angel-set-2",
+  "title": "改变中的不变",
+  "sourceEntryType": "UNKNOWN",
+  "albumKind": "operatorRecord",
+  "homeSection": "operatorRecord",
+  "timelineRank": 0,
+  "cover": {
+    "url": "https://media.prts.wiki/2/27/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%94%B9%E5%8F%98%E4%B8%AD%E7%9A%84%E4%B8%8D%E5%8F%98.png",
+    "source": "none",
+    "assetStatus": "missing",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 0,
+  "chapters": [
+    {
+      "id": "story_angel_set_2--obt__memory__story_angel_2_1",
+      "albumId": "story_angel_set_2",
+      "title": "改变中的不变",
+      "avgTag": "幕间",
+      "sort": 0,
+      "path": "chapters/story_angel_set_2--obt__memory__story_angel_2_1.json",
+      "downloadable": true
+    }
+  ],
+  "source": {
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
+  },
+  "extras": []
+}

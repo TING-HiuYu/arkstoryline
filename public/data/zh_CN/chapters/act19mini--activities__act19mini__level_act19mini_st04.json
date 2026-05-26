@@ -1,0 +1,19 @@
+{
+  "albumId": "act19mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FM-ST4_白锦/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FM-ST4_%E7%99%BD%E9%94%A6/NBT"
+  },
+  "id": "act19mini--activities__act19mini__level_act19mini_st04",
+  "navigation": {
+    "nextChapterId": "act19mini--activities__act19mini__level_act19mini_st05",
+    "previousChapterId": "act19mini--activities__act19mini__level_act19mini_st03"
+  },
+  "summary": "info/activities/act19mini/level_act19mini_st04",
+  "title": "白锦"
+}

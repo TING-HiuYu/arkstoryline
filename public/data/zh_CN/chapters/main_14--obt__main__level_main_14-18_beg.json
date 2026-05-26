@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "14-20",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-20_列王行迹/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-20_%E5%88%97%E7%8E%8B%E8%A1%8C%E8%BF%B9/BEG"
+  },
+  "id": "main_14--obt__main__level_main_14-18_beg",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-18_end",
+    "previousChapterId": "main_14--obt__main__level_main_14-17_end"
+  },
+  "subtitle": "14-20",
+  "summary": "info/obt/main/level_main_14-18_beg",
+  "title": "列王行迹"
+}

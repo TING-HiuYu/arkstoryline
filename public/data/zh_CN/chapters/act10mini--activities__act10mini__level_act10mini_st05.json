@@ -1,0 +1,19 @@
+{
+  "albumId": "act10mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TB-ST5_必有所偿/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TB-ST5_%E5%BF%85%E6%9C%89%E6%89%80%E5%81%BF/NBT"
+  },
+  "id": "act10mini--activities__act10mini__level_act10mini_st05",
+  "navigation": {
+    "nextChapterId": "act10mini--activities__act10mini__level_act10mini_st06",
+    "previousChapterId": "act10mini--activities__act10mini__level_act10mini_st04"
+  },
+  "summary": "info/activities/act10mini/level_act10mini_st05",
+  "title": "必有所偿"
+}

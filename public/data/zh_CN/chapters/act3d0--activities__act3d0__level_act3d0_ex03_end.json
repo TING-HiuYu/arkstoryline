@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-EX3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-EX3_采访环节/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-EX3_%E9%87%87%E8%AE%BF%E7%8E%AF%E8%8A%82/END"
+  },
+  "id": "act3d0--activities__act3d0__level_act3d0_ex03_end",
+  "navigation": {
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_ex06_end",
+    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_ex01_end"
+  },
+  "subtitle": "OF-EX3",
+  "summary": "info/activities/act3d0/level_act3d0_ex03_end",
+  "title": "采访环节"
+}

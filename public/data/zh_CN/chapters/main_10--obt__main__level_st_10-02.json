@@ -1,0 +1,21 @@
+{
+  "albumId": "main_10",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "10-13",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "10-13_交叉路口/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-13_%E4%BA%A4%E5%8F%89%E8%B7%AF%E5%8F%A3/NBT"
+  },
+  "id": "main_10--obt__main__level_st_10-02",
+  "navigation": {
+    "nextChapterId": "main_10--obt__main__level_main_10-12_beg",
+    "previousChapterId": "main_10--obt__main__level_main_10-11_end"
+  },
+  "subtitle": "10-13",
+  "summary": "info/obt/main/level_st_10-02",
+  "title": "交叉路口"
+}

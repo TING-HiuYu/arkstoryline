@@ -1,0 +1,19 @@
+{
+  "albumId": "act18mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SE-ST2_到乌萨斯去/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SE-ST2_%E5%88%B0%E4%B9%8C%E8%90%A8%E6%96%AF%E5%8E%BB/NBT"
+  },
+  "id": "act18mini--activities__act18mini__level_act18mini_st02",
+  "navigation": {
+    "nextChapterId": "act18mini--activities__act18mini__level_act18mini_st03",
+    "previousChapterId": "act18mini--activities__act18mini__level_act18mini_st01"
+  },
+  "summary": "info/activities/act18mini/level_act18mini_st02",
+  "title": "到乌萨斯去"
+}

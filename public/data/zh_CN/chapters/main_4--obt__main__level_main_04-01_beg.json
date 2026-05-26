@@ -1,0 +1,21 @@
+{
+  "albumId": "main_4",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "4-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "4-1_免费拥抱/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/4-1_%E5%85%8D%E8%B4%B9%E6%8B%A5%E6%8A%B1/BEG"
+  },
+  "id": "main_4--obt__main__level_main_04-01_beg",
+  "navigation": {
+    "nextChapterId": "main_4--obt__main__level_main_04-01_end",
+    "previousChapterId": null
+  },
+  "subtitle": "4-1",
+  "summary": "info/obt/main/level_main_04-01_beg",
+  "title": "免费拥抱"
+}

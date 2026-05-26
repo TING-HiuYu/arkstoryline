@@ -1,0 +1,19 @@
+{
+  "albumId": "act15mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FD-ST5_归乡/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FD-ST5_%E5%BD%92%E4%B9%A1/NBT"
+  },
+  "id": "act15mini--activities__act15mini__level_act15mini_st05",
+  "navigation": {
+    "nextChapterId": "act15mini--activities__act15mini__level_act15mini_st06",
+    "previousChapterId": "act15mini--activities__act15mini__level_act15mini_st04"
+  },
+  "summary": "info/activities/act15mini/level_act15mini_st05",
+  "title": "归乡"
+}

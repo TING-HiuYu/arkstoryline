@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-7_一锤定音/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-7_%E4%B8%80%E9%94%A4%E5%AE%9A%E9%9F%B3/END"
+  },
+  "id": "act3d0--activities__act3d0__level_act3d0_07_end",
+  "navigation": {
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_08_beg",
+    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_07_beg"
+  },
+  "subtitle": "OF-7",
+  "summary": "info/activities/act3d0/level_act3d0_07_end",
+  "title": "一锤定音"
+}

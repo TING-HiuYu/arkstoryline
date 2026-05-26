@@ -1,0 +1,21 @@
+{
+  "albumId": "act15d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "MB-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MB-5_危险交易/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MB-5_%E5%8D%B1%E9%99%A9%E4%BA%A4%E6%98%93/BEG"
+  },
+  "id": "act15d0--activities__act15d0__level_act15d0_05_beg",
+  "navigation": {
+    "nextChapterId": "act15d0--activities__act15d0__level_act15d0_05_end",
+    "previousChapterId": "act15d0--activities__act15d0__level_act15d0_04_end"
+  },
+  "subtitle": "MB-5",
+  "summary": "info/activities/act15d0/level_act15d0_05_beg",
+  "title": "危险交易"
+}

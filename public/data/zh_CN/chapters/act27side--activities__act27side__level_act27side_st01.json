@@ -1,0 +1,21 @@
+{
+  "albumId": "act27side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "SL-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SL-ST-1_到站旁/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SL-ST-1_%E5%88%B0%E7%AB%99%E6%97%81/NBT"
+  },
+  "id": "act27side--activities__act27side__level_act27side_st01",
+  "navigation": {
+    "nextChapterId": "act27side--activities__act27side__level_act27side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "SL-ST-1",
+  "summary": "info/activities/act27side/level_act27side_st01",
+  "title": "到站旁"
+}

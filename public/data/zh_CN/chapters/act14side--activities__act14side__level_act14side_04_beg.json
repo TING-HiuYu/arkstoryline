@@ -1,0 +1,21 @@
+{
+  "albumId": "act14side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "BI-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BI-4_立雪求道/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BI-4_%E7%AB%8B%E9%9B%AA%E6%B1%82%E9%81%93/BEG"
+  },
+  "id": "act14side--activities__act14side__level_act14side_04_beg",
+  "navigation": {
+    "nextChapterId": "act14side--activities__act14side__level_act14side_04_end",
+    "previousChapterId": "act14side--activities__act14side__level_act14side_st02"
+  },
+  "subtitle": "BI-4",
+  "summary": "info/activities/act14side/level_act14side_04_beg",
+  "title": "立雪求道"
+}

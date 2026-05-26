@@ -1,0 +1,21 @@
+{
+  "albumId": "act28side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "CV-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CV-ST-2_突然冲击/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CV-ST-2_%E7%AA%81%E7%84%B6%E5%86%B2%E5%87%BB/NBT"
+  },
+  "id": "act28side--activities__act28side__level_act28side_st02",
+  "navigation": {
+    "nextChapterId": "act28side--activities__act28side__level_act28side_05_beg",
+    "previousChapterId": "act28side--activities__act28side__level_act28side_04_end"
+  },
+  "subtitle": "CV-ST-2",
+  "summary": "info/activities/act28side/level_act28side_st02",
+  "title": "突然冲击"
+}

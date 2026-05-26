@@ -1,0 +1,21 @@
+{
+  "albumId": "act17side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SN-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SN-3_安静的步道/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-3_%E5%AE%89%E9%9D%99%E7%9A%84%E6%AD%A5%E9%81%93/END"
+  },
+  "id": "act17side--activities__act17side__level_act17side_03_end",
+  "navigation": {
+    "nextChapterId": "act17side--activities__act17side__level_act17side_st04",
+    "previousChapterId": "act17side--activities__act17side__level_act17side_st03"
+  },
+  "subtitle": "SN-3",
+  "summary": "info/activities/act17side/level_act17side_03_end",
+  "title": "安静的步道"
+}

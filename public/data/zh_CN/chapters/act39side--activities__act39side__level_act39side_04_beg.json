@@ -1,0 +1,21 @@
+{
+  "albumId": "act39side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "EP-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EP-4_重逢不乏意外/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EP-4_%E9%87%8D%E9%80%A2%E4%B8%8D%E4%B9%8F%E6%84%8F%E5%A4%96/BEG"
+  },
+  "id": "act39side--activities__act39side__level_act39side_04_beg",
+  "navigation": {
+    "nextChapterId": "act39side--activities__act39side__level_act39side_04_end",
+    "previousChapterId": "act39side--activities__act39side__level_act39side_03_end"
+  },
+  "subtitle": "EP-4",
+  "summary": "info/activities/act39side/level_act39side_04_beg",
+  "title": "重逢不乏意外"
+}

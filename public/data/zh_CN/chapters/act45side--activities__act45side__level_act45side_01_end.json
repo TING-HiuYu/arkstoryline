@@ -1,0 +1,21 @@
+{
+  "albumId": "act45side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SS-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SS-1_花格窗边的梦想/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SS-1_%E8%8A%B1%E6%A0%BC%E7%AA%97%E8%BE%B9%E7%9A%84%E6%A2%A6%E6%83%B3/END"
+  },
+  "id": "act45side--activities__act45side__level_act45side_01_end",
+  "navigation": {
+    "nextChapterId": "act45side--activities__act45side__level_act45side_02_beg",
+    "previousChapterId": "act45side--activities__act45side__level_act45side_01_beg"
+  },
+  "subtitle": "SS-1",
+  "summary": "info/activities/act45side/level_act45side_01_end",
+  "title": "花格窗边的梦想"
+}

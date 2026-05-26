@@ -1,0 +1,21 @@
+{
+  "albumId": "act24side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CF-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CF-5_野蛮肇事者/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CF-5_%E9%87%8E%E8%9B%AE%E8%82%87%E4%BA%8B%E8%80%85/END"
+  },
+  "id": "act24side--activities__act24side__level_act24side_05_end",
+  "navigation": {
+    "nextChapterId": "act24side--activities__act24side__level_act24side_06_beg",
+    "previousChapterId": "act24side--activities__act24side__level_act24side_05_beg"
+  },
+  "subtitle": "CF-5",
+  "summary": "info/activities/act24side/level_act24side_05_end",
+  "title": "野蛮肇事者"
+}

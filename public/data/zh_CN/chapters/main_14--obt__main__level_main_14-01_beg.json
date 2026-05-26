@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "14-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-2_作战对策会议/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-2_%E4%BD%9C%E6%88%98%E5%AF%B9%E7%AD%96%E4%BC%9A%E8%AE%AE/BEG"
+  },
+  "id": "main_14--obt__main__level_main_14-01_beg",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-01_end",
+    "previousChapterId": "main_14--obt__main__level_st_14-01"
+  },
+  "subtitle": "14-2",
+  "summary": "info/obt/main/level_main_14-01_beg",
+  "title": "作战对策会议"
+}

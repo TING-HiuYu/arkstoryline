@@ -1,0 +1,21 @@
+{
+  "albumId": "act5d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CB-EX3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CB-EX3_林中小屋/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-EX3_%E6%9E%97%E4%B8%AD%E5%B0%8F%E5%B1%8B/END"
+  },
+  "id": "act5d0--activities__act5d0__level_act5d0_ex03_end",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_ex02_end"
+  },
+  "subtitle": "CB-EX3",
+  "summary": "info/activities/act5d0/level_act5d0_ex03_end",
+  "title": "林中小屋"
+}

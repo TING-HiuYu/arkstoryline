@@ -1,0 +1,21 @@
+{
+  "albumId": "act51side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "PA-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PA-2_枷锁之中/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PA-2_%E6%9E%B7%E9%94%81%E4%B9%8B%E4%B8%AD/BEG"
+  },
+  "id": "act51side--activities__act51side__level_act51side_02_beg",
+  "navigation": {
+    "nextChapterId": "act51side--activities__act51side__level_act51side_02_end",
+    "previousChapterId": "act51side--activities__act51side__level_act51side_01_end"
+  },
+  "subtitle": "PA-2",
+  "summary": "info/activities/act51side/level_act51side_02_beg",
+  "title": "枷锁之中"
+}

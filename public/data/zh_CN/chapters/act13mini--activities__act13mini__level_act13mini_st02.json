@@ -1,0 +1,19 @@
+{
+  "albumId": "act13mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BW-ST2_隔墙有你/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BW-ST2_%E9%9A%94%E5%A2%99%E6%9C%89%E4%BD%A0/NBT"
+  },
+  "id": "act13mini--activities__act13mini__level_act13mini_st02",
+  "navigation": {
+    "nextChapterId": "act13mini--activities__act13mini__level_act13mini_st03",
+    "previousChapterId": "act13mini--activities__act13mini__level_act13mini_st01"
+  },
+  "summary": "info/activities/act13mini/level_act13mini_st02",
+  "title": "隔墙有你"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act27side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SL-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SL-6_林中小木屋/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SL-6_%E6%9E%97%E4%B8%AD%E5%B0%8F%E6%9C%A8%E5%B1%8B/END"
+  },
+  "id": "act27side--activities__act27side__level_act27side_06_end",
+  "navigation": {
+    "nextChapterId": "act27side--activities__act27side__level_act27side_07_beg",
+    "previousChapterId": "act27side--activities__act27side__level_act27side_06_beg"
+  },
+  "subtitle": "SL-6",
+  "summary": "info/activities/act27side/level_act27side_06_end",
+  "title": "林中小木屋"
+}

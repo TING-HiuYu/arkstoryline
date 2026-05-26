@@ -1,0 +1,19 @@
+{
+  "albumId": "act7d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SA-ST4_流浪者的归宿/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SA-ST4_%E6%B5%81%E6%B5%AA%E8%80%85%E7%9A%84%E5%BD%92%E5%AE%BF/NBT"
+  },
+  "id": "act7d5--activities__act7d5__level_act7d5_st04",
+  "navigation": {
+    "nextChapterId": "act7d5--activities__act7d5__level_act7d5_st05",
+    "previousChapterId": "act7d5--activities__act7d5__level_act7d5_st03"
+  },
+  "summary": "info/activities/act7d5/level_act7d5_st04",
+  "title": "流浪者的归宿"
+}

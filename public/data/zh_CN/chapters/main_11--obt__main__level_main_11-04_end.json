@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "11-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-5_等价交换/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-5_%E7%AD%89%E4%BB%B7%E4%BA%A4%E6%8D%A2/END"
+  },
+  "id": "main_11--obt__main__level_main_11-04_end",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_main_11-05_beg",
+    "previousChapterId": "main_11--obt__main__level_main_11-04_beg"
+  },
+  "subtitle": "11-5",
+  "summary": "info/obt/main/level_main_11-04_end",
+  "title": "等价交换"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act36side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DT-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DT-5_会饮图/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DT-5_%E4%BC%9A%E9%A5%AE%E5%9B%BE/END"
+  },
+  "id": "act36side--activities__act36side__level_act36side_05_end",
+  "navigation": {
+    "nextChapterId": "act36side--activities__act36side__level_act36side_06_beg",
+    "previousChapterId": "act36side--activities__act36side__level_act36side_05_beg"
+  },
+  "subtitle": "DT-5",
+  "summary": "info/activities/act36side/level_act36side_05_end",
+  "title": "会饮图"
+}

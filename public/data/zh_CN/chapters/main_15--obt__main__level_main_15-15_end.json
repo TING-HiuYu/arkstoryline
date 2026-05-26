@@ -1,0 +1,21 @@
+{
+  "albumId": "main_15",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "15-17",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "15-17_“她”/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-17_%E2%80%9C%E5%A5%B9%E2%80%9D/END"
+  },
+  "id": "main_15--obt__main__level_main_15-15_end",
+  "navigation": {
+    "nextChapterId": "main_15--obt__main__level_main_15-16_beg",
+    "previousChapterId": "main_15--obt__main__level_main_15-15_end_variation02"
+  },
+  "subtitle": "15-17",
+  "summary": "info/obt/main/level_main_15-15_end",
+  "title": "“她”"
+}

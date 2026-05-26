@@ -1,0 +1,356 @@
+{
+  "albumKind": "mainline",
+  "chapters": [
+    {
+      "albumId": "main_9",
+      "avgTag": "幕间",
+      "code": "9-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-1_风暴突击/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-1_%E9%A3%8E%E6%9A%B4%E7%AA%81%E5%87%BB/NBT"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_st_09-01",
+      "path": "chapters/main_9--obt__main__level_st_09-01.json",
+      "sort": 41,
+      "title": "风暴突击"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "行动前",
+      "code": "9-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-2_鬼魂危机/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-2_%E9%AC%BC%E9%AD%82%E5%8D%B1%E6%9C%BA/BEG"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_main_09-01_beg",
+      "path": "chapters/main_9--obt__main__level_main_09-01_beg.json",
+      "sort": 42,
+      "title": "鬼魂危机"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "行动后",
+      "code": "9-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-3_牌局/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-3_%E7%89%8C%E5%B1%80/END"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_main_09-02_end",
+      "path": "chapters/main_9--obt__main__level_main_09-02_end.json",
+      "sort": 43,
+      "title": "牌局"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "行动前",
+      "code": "9-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-4_暗火四起/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-4_%E6%9A%97%E7%81%AB%E5%9B%9B%E8%B5%B7/BEG"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_main_09-03_beg",
+      "path": "chapters/main_9--obt__main__level_main_09-03_beg.json",
+      "sort": 44,
+      "title": "暗火四起"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "行动后",
+      "code": "9-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-4_暗火四起/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-4_%E6%9A%97%E7%81%AB%E5%9B%9B%E8%B5%B7/END"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_main_09-03_end",
+      "path": "chapters/main_9--obt__main__level_main_09-03_end.json",
+      "sort": 45,
+      "title": "暗火四起"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "行动前",
+      "code": "9-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-5_临界值/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-5_%E4%B8%B4%E7%95%8C%E5%80%BC/BEG"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_main_09-04_beg",
+      "path": "chapters/main_9--obt__main__level_main_09-04_beg.json",
+      "sort": 46,
+      "title": "临界值"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "行动后",
+      "code": "9-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-5_临界值/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-5_%E4%B8%B4%E7%95%8C%E5%80%BC/END"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_main_09-04_end",
+      "path": "chapters/main_9--obt__main__level_main_09-04_end.json",
+      "sort": 47,
+      "title": "临界值"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "行动前",
+      "code": "9-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-6_深池/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-6_%E6%B7%B1%E6%B1%A0/BEG"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_main_09-05_beg",
+      "path": "chapters/main_9--obt__main__level_main_09-05_beg.json",
+      "sort": 48,
+      "title": "深池"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "行动后",
+      "code": "9-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-7_捉迷藏/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-7_%E6%8D%89%E8%BF%B7%E8%97%8F/END"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_main_09-06_end",
+      "path": "chapters/main_9--obt__main__level_main_09-06_end.json",
+      "sort": 49,
+      "title": "捉迷藏"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "幕间",
+      "code": "9-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-8_灰烬中的诗/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-8_%E7%81%B0%E7%83%AC%E4%B8%AD%E7%9A%84%E8%AF%97/NBT"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_st_09-02",
+      "path": "chapters/main_9--obt__main__level_st_09-02.json",
+      "sort": 50,
+      "title": "灰烬中的诗"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "行动前",
+      "code": "9-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-9_无辜者/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-9_%E6%97%A0%E8%BE%9C%E8%80%85/BEG"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_main_09-07_beg",
+      "path": "chapters/main_9--obt__main__level_main_09-07_beg.json",
+      "sort": 51,
+      "title": "无辜者"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "行动后",
+      "code": "9-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-10_雷声轰鸣/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-10_%E9%9B%B7%E5%A3%B0%E8%BD%B0%E9%B8%A3/END"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_main_09-08_end",
+      "path": "chapters/main_9--obt__main__level_main_09-08_end.json",
+      "sort": 52,
+      "title": "雷声轰鸣"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "行动前",
+      "code": "9-12",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-12_鬼影如潮/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-12_%E9%AC%BC%E5%BD%B1%E5%A6%82%E6%BD%AE/BEG"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_main_09-10_beg",
+      "path": "chapters/main_9--obt__main__level_main_09-10_beg.json",
+      "sort": 53,
+      "title": "鬼影如潮"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "行动后",
+      "code": "9-13",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-13_战地救援/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-13_%E6%88%98%E5%9C%B0%E6%95%91%E6%8F%B4/END"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_main_09-11_end",
+      "path": "chapters/main_9--obt__main__level_main_09-11_end.json",
+      "sort": 54,
+      "title": "战地救援"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "行动前",
+      "code": "9-14",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-14_风中旗帜/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-14_%E9%A3%8E%E4%B8%AD%E6%97%97%E5%B8%9C/BEG"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_main_09-12_beg",
+      "path": "chapters/main_9--obt__main__level_main_09-12_beg.json",
+      "sort": 55,
+      "title": "风中旗帜"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "行动后",
+      "code": "9-18",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-18_“破晓”/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-18_%E2%80%9C%E7%A0%B4%E6%99%93%E2%80%9D/END"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_main_09-16_end",
+      "path": "chapters/main_9--obt__main__level_main_09-16_end.json",
+      "sort": 56,
+      "title": "“破晓”"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "行动前",
+      "code": "9-19",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-19_长夜枪火/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-19_%E9%95%BF%E5%A4%9C%E6%9E%AA%E7%81%AB/BEG"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_main_09-17_beg",
+      "path": "chapters/main_9--obt__main__level_main_09-17_beg.json",
+      "sort": 57,
+      "title": "长夜枪火"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "行动后",
+      "code": "9-19",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-19_长夜枪火/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-19_%E9%95%BF%E5%A4%9C%E6%9E%AA%E7%81%AB/END"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_main_09-17_end",
+      "path": "chapters/main_9--obt__main__level_main_09-17_end.json",
+      "sort": 58,
+      "title": "长夜枪火"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "幕间",
+      "code": "9-20",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-20_临近的暴风/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-20_%E4%B8%B4%E8%BF%91%E7%9A%84%E6%9A%B4%E9%A3%8E/NBT"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_st_09-03",
+      "path": "chapters/main_9--obt__main__level_st_09-03.json",
+      "sort": 59,
+      "title": "临近的暴风"
+    },
+    {
+      "albumId": "main_9",
+      "avgTag": "幕间",
+      "code": "9-21",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "9-21_重燃/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/9-21_%E9%87%8D%E7%87%83/NBT"
+      },
+      "downloadable": true,
+      "id": "main_9--obt__main__level_st_09-04",
+      "path": "chapters/main_9--obt__main__level_st_09-04.json",
+      "sort": 60,
+      "title": "重燃"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_stormwatch",
+    "primaryImageId": "kv_stormwatch",
+    "source": "stage-kv",
+    "titleImageId": "title_stormwatch",
+    "url": "https://media.prts.wiki/a/ac/%E7%AB%A0%E8%8A%82%E5%90%8D%E7%A7%B0_%E7%AC%AC%E4%B9%9D%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 3004,
+  "homeSection": "mainline",
+  "id": "main_9",
+  "music": {
+    "arcTitle": "Ⅱ 残阳",
+    "movementTitle": "Ⅱ 残阳",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "main-9",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": -1,
+  "summary": "风笛所属的风暴突击队为了追查军用源石制品失窃案，\n来到了维多利亚的小丘郡，\n在调查中发现了潜行在这座城市里的“鬼魂部队”。\n矛盾在数百年间从未停止，战争一触即发。",
+  "timelineRank": -1,
+  "title": "风暴瞭望"
+}

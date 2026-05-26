@@ -1,0 +1,21 @@
+{
+  "albumId": "act24side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "CF-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CF-ST-2_林昏焰明/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CF-ST-2_%E6%9E%97%E6%98%8F%E7%84%B0%E6%98%8E/NBT"
+  },
+  "id": "act24side--activities__act24side__level_act24side_st02",
+  "navigation": {
+    "nextChapterId": "act24side--activities__act24side__level_act24side_05_beg",
+    "previousChapterId": "act24side--activities__act24side__level_act24side_04_end"
+  },
+  "subtitle": "CF-ST-2",
+  "summary": "info/activities/act24side/level_act24side_st02",
+  "title": "林昏焰明"
+}

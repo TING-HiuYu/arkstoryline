@@ -1,0 +1,21 @@
+{
+  "albumId": "act16side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "GA-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GA-4_安魂教堂/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GA-4_%E5%AE%89%E9%AD%82%E6%95%99%E5%A0%82/END"
+  },
+  "id": "act16side--activities__act16side__level_act16side_04_end",
+  "navigation": {
+    "nextChapterId": "act16side--activities__act16side__level_act16side_05_beg",
+    "previousChapterId": "act16side--activities__act16side__level_act16side_04_beg"
+  },
+  "subtitle": "GA-4",
+  "summary": "info/activities/act16side/level_act16side_04_end",
+  "title": "安魂教堂"
+}

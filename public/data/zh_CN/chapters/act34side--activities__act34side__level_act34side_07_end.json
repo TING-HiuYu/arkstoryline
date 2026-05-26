@@ -1,0 +1,21 @@
+{
+  "albumId": "act34side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "BP-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BP-7_从历史中来/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BP-7_%E4%BB%8E%E5%8E%86%E5%8F%B2%E4%B8%AD%E6%9D%A5/END"
+  },
+  "id": "act34side--activities__act34side__level_act34side_07_end",
+  "navigation": {
+    "nextChapterId": "act34side--activities__act34side__level_act34side_08_beg",
+    "previousChapterId": "act34side--activities__act34side__level_act34side_07_beg"
+  },
+  "subtitle": "BP-7",
+  "summary": "info/activities/act34side/level_act34side_07_end",
+  "title": "从历史中来"
+}

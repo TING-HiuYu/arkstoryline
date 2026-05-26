@@ -1,0 +1,329 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act20side",
+      "avgTag": "幕间",
+      "code": "IC-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-ST-1_旅行前夕/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-ST-1_%E6%97%85%E8%A1%8C%E5%89%8D%E5%A4%95/NBT"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_st01",
+      "path": "chapters/act20side--activities__act20side__level_act20side_st01.json",
+      "sort": 1,
+      "title": "旅行前夕"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "行动前",
+      "code": "IC-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-1_沉浸式游览/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-1_%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88/BEG"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_01_beg",
+      "path": "chapters/act20side--activities__act20side__level_act20side_01_beg.json",
+      "sort": 2,
+      "title": "沉浸式游览"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "行动后",
+      "code": "IC-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-1_沉浸式游览/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-1_%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%B8%E8%A7%88/END"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_01_end",
+      "path": "chapters/act20side--activities__act20side__level_act20side_01_end.json",
+      "sort": 3,
+      "title": "沉浸式游览"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "行动前",
+      "code": "IC-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-2_下坠/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-2_%E4%B8%8B%E5%9D%A0/BEG"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_02_beg",
+      "path": "chapters/act20side--activities__act20side__level_act20side_02_beg.json",
+      "sort": 4,
+      "title": "下坠"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "行动后",
+      "code": "IC-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-2_下坠/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-2_%E4%B8%8B%E5%9D%A0/END"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_02_end",
+      "path": "chapters/act20side--activities__act20side__level_act20side_02_end.json",
+      "sort": 5,
+      "title": "下坠"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "行动前",
+      "code": "IC-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-3_奇谈怪论/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-3_%E5%A5%87%E8%B0%88%E6%80%AA%E8%AE%BA/BEG"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_03_beg",
+      "path": "chapters/act20side--activities__act20side__level_act20side_03_beg.json",
+      "sort": 6,
+      "title": "奇谈怪论"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "行动后",
+      "code": "IC-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-3_奇谈怪论/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-3_%E5%A5%87%E8%B0%88%E6%80%AA%E8%AE%BA/END"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_03_end",
+      "path": "chapters/act20side--activities__act20side__level_act20side_03_end.json",
+      "sort": 7,
+      "title": "奇谈怪论"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "行动前",
+      "code": "IC-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-4_“大水坑”/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-4_%E2%80%9C%E5%A4%A7%E6%B0%B4%E5%9D%91%E2%80%9D/BEG"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_04_beg",
+      "path": "chapters/act20side--activities__act20side__level_act20side_04_beg.json",
+      "sort": 8,
+      "title": "“大水坑”"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "行动后",
+      "code": "IC-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-4_“大水坑”/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-4_%E2%80%9C%E5%A4%A7%E6%B0%B4%E5%9D%91%E2%80%9D/END"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_04_end",
+      "path": "chapters/act20side--activities__act20side__level_act20side_04_end.json",
+      "sort": 9,
+      "title": "“大水坑”"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "行动前",
+      "code": "IC-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-5_加速冲线/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-5_%E5%8A%A0%E9%80%9F%E5%86%B2%E7%BA%BF/BEG"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_05_beg",
+      "path": "chapters/act20side--activities__act20side__level_act20side_05_beg.json",
+      "sort": 10,
+      "title": "加速冲线"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "行动后",
+      "code": "IC-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-5_加速冲线/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-5_%E5%8A%A0%E9%80%9F%E5%86%B2%E7%BA%BF/END"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_05_end",
+      "path": "chapters/act20side--activities__act20side__level_act20side_05_end.json",
+      "sort": 11,
+      "title": "加速冲线"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "行动前",
+      "code": "IC-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-6_战逃反应/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-6_%E6%88%98%E9%80%83%E5%8F%8D%E5%BA%94/BEG"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_06_beg",
+      "path": "chapters/act20side--activities__act20side__level_act20side_06_beg.json",
+      "sort": 12,
+      "title": "战逃反应"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "行动后",
+      "code": "IC-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-6_战逃反应/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-6_%E6%88%98%E9%80%83%E5%8F%8D%E5%BA%94/END"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_06_end",
+      "path": "chapters/act20side--activities__act20side__level_act20side_06_end.json",
+      "sort": 13,
+      "title": "战逃反应"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "行动前",
+      "code": "IC-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-7_生活之道/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-7_%E7%94%9F%E6%B4%BB%E4%B9%8B%E9%81%93/BEG"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_07_beg",
+      "path": "chapters/act20side--activities__act20side__level_act20side_07_beg.json",
+      "sort": 14,
+      "title": "生活之道"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "行动后",
+      "code": "IC-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-7_生活之道/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-7_%E7%94%9F%E6%B4%BB%E4%B9%8B%E9%81%93/END"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_07_end",
+      "path": "chapters/act20side--activities__act20side__level_act20side_07_end.json",
+      "sort": 15,
+      "title": "生活之道"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "行动前",
+      "code": "IC-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-8_金属气味/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-8_%E9%87%91%E5%B1%9E%E6%B0%94%E5%91%B3/BEG"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_08_beg",
+      "path": "chapters/act20side--activities__act20side__level_act20side_08_beg.json",
+      "sort": 16,
+      "title": "金属气味"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "行动后",
+      "code": "IC-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-9_穹顶之上/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-9_%E7%A9%B9%E9%A1%B6%E4%B9%8B%E4%B8%8A/END"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_09_end",
+      "path": "chapters/act20side--activities__act20side__level_act20side_09_end.json",
+      "sort": 17,
+      "title": "穹顶之上"
+    },
+    {
+      "albumId": "act20side",
+      "avgTag": "幕间",
+      "code": "IC-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IC-ST-2_失乐园/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IC-ST-2_%E5%A4%B1%E4%B9%90%E5%9B%AD/NBT"
+      },
+      "downloadable": true,
+      "id": "act20side--activities__act20side__level_act20side_st02",
+      "path": "chapters/act20side--activities__act20side__level_act20side_st02.json",
+      "sort": 18,
+      "title": "失乐园"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_ideal_city_carnival_in_the_endless_summer",
+    "primaryImageId": "kv_ideal_city_carnival_in_the_endless_summer",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act20side",
+    "titleImageId": "title_ideal_city_carnival_in_the_endless_summer",
+    "url": "https://media.prts.wiki/a/a2/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%90%86%E6%83%B3%E5%9F%8E%EF%BC%9A%E9%95%BF%E5%A4%8F%E7%8B%82%E6%AC%A2%E5%AD%A3.png"
+  },
+  "extras": [],
+  "gameOrderRank": 4004,
+  "homeSection": "sideStory",
+  "id": "act20side",
+  "music": {
+    "arcTitle": "夏日律动",
+    "movementTitle": "夏日律动",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_15",
+      "tag_14",
+      "tag_13"
+    ]
+  },
+  "slug": "act20side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1660190400,
+  "summary": "因一封从丛林寄来的求援信，嘉维尔和森蚺动身返乡。\n极境与阿卡胡拉众人深入地下，准备解决一场大麻烦。\n当他们抵达地底城市，才发现真实情况远超预料。\n破碎的穹顶之下，杜林们在飞溅的水花中欢度夏日。\n竞争？矛盾？危机？通通靠边站！\n以清凉与畅饮为夏日续笔，狂欢尽头正是继续狂欢！",
+  "timelineRank": 1660190400,
+  "title": "理想城：长夏狂欢季"
+}

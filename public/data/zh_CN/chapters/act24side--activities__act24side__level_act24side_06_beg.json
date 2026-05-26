@@ -1,0 +1,21 @@
+{
+  "albumId": "act24side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CF-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CF-6_禁飞区/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CF-6_%E7%A6%81%E9%A3%9E%E5%8C%BA/BEG"
+  },
+  "id": "act24side--activities__act24side__level_act24side_06_beg",
+  "navigation": {
+    "nextChapterId": "act24side--activities__act24side__level_act24side_06_end",
+    "previousChapterId": "act24side--activities__act24side__level_act24side_05_end"
+  },
+  "subtitle": "CF-6",
+  "summary": "info/activities/act24side/level_act24side_06_beg",
+  "title": "禁飞区"
+}

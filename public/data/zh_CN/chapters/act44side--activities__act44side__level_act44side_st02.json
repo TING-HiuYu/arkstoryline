@@ -1,0 +1,21 @@
+{
+  "albumId": "act44side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "AT-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AT-ST-2_对称/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AT-ST-2_%E5%AF%B9%E7%A7%B0/NBT"
+  },
+  "id": "act44side--activities__act44side__level_act44side_st02",
+  "navigation": {
+    "nextChapterId": "act44side--activities__act44side__level_act44side_06_beg",
+    "previousChapterId": "act44side--activities__act44side__level_act44side_05_end"
+  },
+  "subtitle": "AT-ST-2",
+  "summary": "info/activities/act44side/level_act44side_st02",
+  "title": "对称"
+}

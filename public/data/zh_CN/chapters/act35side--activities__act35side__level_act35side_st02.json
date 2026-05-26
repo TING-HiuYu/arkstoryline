@@ -1,0 +1,21 @@
+{
+  "albumId": "act35side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "AS-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AS-ST-2_苏醒的城市/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AS-ST-2_%E8%8B%8F%E9%86%92%E7%9A%84%E5%9F%8E%E5%B8%82/NBT"
+  },
+  "id": "act35side--activities__act35side__level_act35side_st02",
+  "navigation": {
+    "nextChapterId": "act35side--activities__act35side__level_act35side_06_beg",
+    "previousChapterId": "act35side--activities__act35side__level_act35side_05_end"
+  },
+  "subtitle": "AS-ST-2",
+  "summary": "info/activities/act35side/level_act35side_st02",
+  "title": "苏醒的城市"
+}

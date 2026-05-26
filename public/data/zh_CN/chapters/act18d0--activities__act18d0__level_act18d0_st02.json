@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "WD-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WD-ST-2_异乡来客/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WD-ST-2_%E5%BC%82%E4%B9%A1%E6%9D%A5%E5%AE%A2/NBT"
+  },
+  "id": "act18d0--activities__act18d0__level_act18d0_st02",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act18d0--activities__act18d0__level_act18d0_08_end"
+  },
+  "subtitle": "WD-ST-2",
+  "summary": "info/activities/act18d0/level_act18d0_st02",
+  "title": "异乡来客"
+}

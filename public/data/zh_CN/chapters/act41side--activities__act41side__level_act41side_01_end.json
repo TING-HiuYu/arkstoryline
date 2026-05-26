@@ -1,0 +1,21 @@
+{
+  "albumId": "act41side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "EA-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EA-1_扉页所见/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-1_%E6%89%89%E9%A1%B5%E6%89%80%E8%A7%81/END"
+  },
+  "id": "act41side--activities__act41side__level_act41side_01_end",
+  "navigation": {
+    "nextChapterId": "act41side--activities__act41side__level_act41side_02_beg",
+    "previousChapterId": "act41side--activities__act41side__level_act41side_01_beg"
+  },
+  "subtitle": "EA-1",
+  "summary": "info/activities/act41side/level_act41side_01_end",
+  "title": "扉页所见"
+}

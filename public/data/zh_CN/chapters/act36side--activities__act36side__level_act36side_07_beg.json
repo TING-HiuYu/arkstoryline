@@ -1,0 +1,21 @@
+{
+  "albumId": "act36side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "DT-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DT-7_健康零食/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DT-7_%E5%81%A5%E5%BA%B7%E9%9B%B6%E9%A3%9F/BEG"
+  },
+  "id": "act36side--activities__act36side__level_act36side_07_beg",
+  "navigation": {
+    "nextChapterId": "act36side--activities__act36side__level_act36side_07_end",
+    "previousChapterId": "act36side--activities__act36side__level_act36side_06_end"
+  },
+  "subtitle": "DT-7",
+  "summary": "info/activities/act36side/level_act36side_07_beg",
+  "title": "健康零食"
+}

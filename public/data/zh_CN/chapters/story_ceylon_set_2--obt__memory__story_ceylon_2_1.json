@@ -1,0 +1,19 @@
+{
+  "albumId": "story_ceylon_set_2",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CW-ST-3_留下的人/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CW-ST-3_%E7%95%99%E4%B8%8B%E7%9A%84%E4%BA%BA/NBT"
+  },
+  "id": "story_ceylon_set_2--obt__memory__story_ceylon_2_1",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": null
+  },
+  "summary": "info/obt/memory/story_ceylon_2_1",
+  "title": "留下的人"
+}

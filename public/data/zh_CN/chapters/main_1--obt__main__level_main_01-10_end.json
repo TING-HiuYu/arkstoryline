@@ -1,0 +1,21 @@
+{
+  "albumId": "main_1",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "1-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "1-10_残留/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/1-10_%E6%AE%8B%E7%95%99/END"
+  },
+  "id": "main_1--obt__main__level_main_01-10_end",
+  "navigation": {
+    "nextChapterId": "main_1--obt__main__level_main_01-12_beg",
+    "previousChapterId": "main_1--obt__main__level_main_01-08_beg"
+  },
+  "subtitle": "1-10",
+  "summary": "info/obt/main/level_main_01-10_end",
+  "title": "残留"
+}

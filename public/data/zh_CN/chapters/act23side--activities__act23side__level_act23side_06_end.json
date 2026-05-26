@@ -1,0 +1,21 @@
+{
+  "albumId": "act23side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "WB-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WB-6_瑟瑟秋华/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WB-6_%E7%91%9F%E7%91%9F%E7%A7%8B%E5%8D%8E/END"
+  },
+  "id": "act23side--activities__act23side__level_act23side_06_end",
+  "navigation": {
+    "nextChapterId": "act23side--activities__act23side__level_act23side_07_beg",
+    "previousChapterId": "act23side--activities__act23side__level_act23side_05_beg"
+  },
+  "subtitle": "WB-6",
+  "summary": "info/activities/act23side/level_act23side_06_end",
+  "title": "瑟瑟秋华"
+}

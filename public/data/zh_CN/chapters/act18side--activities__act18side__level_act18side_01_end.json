@@ -1,0 +1,21 @@
+{
+  "albumId": "act18side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "LE-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "LE-1_闲聊波尔卡/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/LE-1_%E9%97%B2%E8%81%8A%E6%B3%A2%E5%B0%94%E5%8D%A1/END"
+  },
+  "id": "act18side--activities__act18side__level_act18side_01_end",
+  "navigation": {
+    "nextChapterId": "act18side--activities__act18side__level_act18side_02_beg",
+    "previousChapterId": "act18side--activities__act18side__level_act18side_01_beg"
+  },
+  "subtitle": "LE-1",
+  "summary": "info/activities/act18side/level_act18side_01_end",
+  "title": "闲聊波尔卡"
+}

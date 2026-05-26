@@ -1,0 +1,21 @@
+{
+  "albumId": "main_7",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "7-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "7-6_遗忘之地/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/7-6_%E9%81%97%E5%BF%98%E4%B9%8B%E5%9C%B0/END"
+  },
+  "id": "main_7--obt__main__level_main_07-05_end",
+  "navigation": {
+    "nextChapterId": "main_7--obt__main__level_st_07-02",
+    "previousChapterId": "main_7--obt__main__level_main_07-05_beg"
+  },
+  "subtitle": "7-6",
+  "summary": "info/obt/main/level_main_07-05_end",
+  "title": "遗忘之地"
+}

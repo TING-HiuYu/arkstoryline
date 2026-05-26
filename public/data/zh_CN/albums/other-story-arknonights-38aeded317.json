@@ -1,0 +1,34 @@
+{
+  "albumKind": "otherStory",
+  "chapters": [
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "APF-2025/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/APF-2025/NBT"
+      },
+      "id": "other-story-arknonights-38aeded317--apf-2025-nbt",
+      "sort": 1,
+      "title": "意外的救援"
+    }
+  ],
+  "gameOrderRank": 900000000,
+  "homeSection": "otherStory",
+  "id": "other-story-arknonights-38aeded317",
+  "otherStory": {
+    "albumTitle": "ARKnoNIGHTS",
+    "groupTitle": "四月辑录",
+    "sourceSection": "other"
+  },
+  "slug": "other-story-arknonights-38aeded317",
+  "source": {
+    "path": "storyline.index.sections.other",
+    "providerId": "prts",
+    "revision": "2026-05-26T20:55:23.000119+00:00"
+  },
+  "sourceEntryType": "ARCHIVE_EXTRA",
+  "timelineRank": 900000000,
+  "title": "ARKnoNIGHTS"
+}

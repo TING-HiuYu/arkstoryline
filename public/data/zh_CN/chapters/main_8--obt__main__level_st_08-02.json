@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "M8-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "M8-2_失语，产自多言/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/M8-2_%E5%A4%B1%E8%AF%AD%EF%BC%8C%E4%BA%A7%E8%87%AA%E5%A4%9A%E8%A8%80/NBT"
+  },
+  "id": "main_8--obt__main__level_st_08-02",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_main_08-04_beg",
+    "previousChapterId": "main_8--obt__main__level_main_08-03_end"
+  },
+  "subtitle": "M8-2",
+  "summary": "info/obt/main/level_st_08-02",
+  "title": "失语，产自多言"
+}

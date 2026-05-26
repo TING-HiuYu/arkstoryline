@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-11",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-11_长生劫/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-11_%E9%95%BF%E7%94%9F%E5%8A%AB/END"
+  },
+  "id": "act49side--activities__act49side__level_act49side_11_end",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_st02",
+    "previousChapterId": "act49side--activities__act49side__level_act49side_11_beg"
+  },
+  "subtitle": "TA-11",
+  "summary": "info/activities/act49side/level_act49side_11_end",
+  "title": "长生劫"
+}

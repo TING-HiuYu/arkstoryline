@@ -1,0 +1,21 @@
+{
+  "albumId": "act13d5",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "MN-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MN-5_斯沃玛食品/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MN-5_%E6%96%AF%E6%B2%83%E7%8E%9B%E9%A3%9F%E5%93%81/END"
+  },
+  "id": "act13d5--activities__act13d5__level_act13d5_05_end",
+  "navigation": {
+    "nextChapterId": "act13d5--activities__act13d5__level_act13d5_06_beg",
+    "previousChapterId": "act13d5--activities__act13d5__level_act13d5_05_beg"
+  },
+  "subtitle": "MN-5",
+  "summary": "info/activities/act13d5/level_act13d5_05_end",
+  "title": "斯沃玛食品"
+}

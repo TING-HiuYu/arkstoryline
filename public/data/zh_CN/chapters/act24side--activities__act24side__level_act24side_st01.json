@@ -1,0 +1,21 @@
+{
+  "albumId": "act24side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "CF-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CF-ST-1_噩梦/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CF-ST-1_%E5%99%A9%E6%A2%A6/NBT"
+  },
+  "id": "act24side--activities__act24side__level_act24side_st01",
+  "navigation": {
+    "nextChapterId": "act24side--activities__act24side__level_act24side_tr01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "CF-ST-1",
+  "summary": "info/activities/act24side/level_act24side_st01",
+  "title": "噩梦"
+}

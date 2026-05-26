@@ -1,0 +1,21 @@
+{
+  "albumId": "act21side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "IS-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IS-6_旧日碾轧/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-6_%E6%97%A7%E6%97%A5%E7%A2%BE%E8%BD%A7/BEG"
+  },
+  "id": "act21side--activities__act21side__level_act21side_06_beg",
+  "navigation": {
+    "nextChapterId": "act21side--activities__act21side__level_act21side_06_end",
+    "previousChapterId": "act21side--activities__act21side__level_act21side_05_end"
+  },
+  "subtitle": "IS-6",
+  "summary": "info/activities/act21side/level_act21side_06_beg",
+  "title": "旧日碾轧"
+}

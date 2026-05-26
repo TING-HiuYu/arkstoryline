@@ -1,0 +1,21 @@
+{
+  "albumId": "act39side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "EP-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EP-1_倒悬苍白海上/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EP-1_%E5%80%92%E6%82%AC%E8%8B%8D%E7%99%BD%E6%B5%B7%E4%B8%8A/BEG"
+  },
+  "id": "act39side--activities__act39side__level_act39side_01_beg",
+  "navigation": {
+    "nextChapterId": "act39side--activities__act39side__level_act39side_01_end",
+    "previousChapterId": "act39side--activities__act39side__level_act39side_st01"
+  },
+  "subtitle": "EP-1",
+  "summary": "info/activities/act39side/level_act39side_01_beg",
+  "title": "倒悬苍白海上"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act14side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "BI-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BI-1_不欢而聚/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BI-1_%E4%B8%8D%E6%AC%A2%E8%80%8C%E8%81%9A/BEG"
+  },
+  "id": "act14side--activities__act14side__level_act14side_01_beg",
+  "navigation": {
+    "nextChapterId": "act14side--activities__act14side__level_act14side_01_end",
+    "previousChapterId": null
+  },
+  "subtitle": "BI-1",
+  "summary": "info/activities/act14side/level_act14side_01_beg",
+  "title": "不欢而聚"
+}

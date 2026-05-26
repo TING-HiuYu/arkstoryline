@@ -1,0 +1,19 @@
+{
+  "albumId": "act20mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CG-ST2_生意经/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CG-ST2_%E7%94%9F%E6%84%8F%E7%BB%8F/NBT"
+  },
+  "id": "act20mini--activities__act20mini__level_act20mini_st02",
+  "navigation": {
+    "nextChapterId": "act20mini--activities__act20mini__level_act20mini_st03",
+    "previousChapterId": "act20mini--activities__act20mini__level_act20mini_st01"
+  },
+  "summary": "info/activities/act20mini/level_act20mini_st02",
+  "title": "生意经"
+}

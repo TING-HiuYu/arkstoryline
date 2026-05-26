@@ -1,0 +1,19 @@
+{
+  "albumId": "act8mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "VI-ST3_我不知是否值得/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/VI-ST3_%E6%88%91%E4%B8%8D%E7%9F%A5%E6%98%AF%E5%90%A6%E5%80%BC%E5%BE%97/NBT"
+  },
+  "id": "act8mini--activities__act8mini__level_act8mini_st03",
+  "navigation": {
+    "nextChapterId": "act8mini--activities__act8mini__level_act8mini_st04",
+    "previousChapterId": "act8mini--activities__act8mini__level_act8mini_st02"
+  },
+  "summary": "info/activities/act8mini/level_act8mini_st03",
+  "title": "我不知是否值得"
+}

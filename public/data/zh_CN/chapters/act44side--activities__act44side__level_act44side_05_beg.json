@@ -1,0 +1,21 @@
+{
+  "albumId": "act44side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "AT-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AT-5_遗祸/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AT-5_%E9%81%97%E7%A5%B8/BEG"
+  },
+  "id": "act44side--activities__act44side__level_act44side_05_beg",
+  "navigation": {
+    "nextChapterId": "act44side--activities__act44side__level_act44side_05_end",
+    "previousChapterId": "act44side--activities__act44side__level_act44side_04_end"
+  },
+  "subtitle": "AT-5",
+  "summary": "info/activities/act44side/level_act44side_05_beg",
+  "title": "遗祸"
+}

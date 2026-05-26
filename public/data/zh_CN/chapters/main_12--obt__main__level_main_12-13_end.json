@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "12-15",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-15_千疮百孔/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-15_%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94/END"
+  },
+  "id": "main_12--obt__main__level_main_12-13_end",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_main_12-14_beg",
+    "previousChapterId": "main_12--obt__main__level_main_12-13_beg"
+  },
+  "subtitle": "12-15",
+  "summary": "info/obt/main/level_main_12-13_end",
+  "title": "千疮百孔"
+}

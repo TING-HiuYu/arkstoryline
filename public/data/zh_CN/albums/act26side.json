@@ -1,0 +1,348 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act26side",
+      "avgTag": "幕间",
+      "code": "HE-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-ST-1_奉上冠冕/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-ST-1_%E5%A5%89%E4%B8%8A%E5%86%A0%E5%86%95/NBT"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_st01",
+      "path": "chapters/act26side--activities__act26side__level_act26side_st01.json",
+      "sort": 1,
+      "title": "奉上冠冕"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "行动前",
+      "code": "HE-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-1_我有一个荣美家乡/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-1_%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E8%8D%A3%E7%BE%8E%E5%AE%B6%E4%B9%A1/BEG"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_01_beg",
+      "path": "chapters/act26side--activities__act26side__level_act26side_01_beg.json",
+      "sort": 2,
+      "title": "我有一个荣美家乡"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "行动后",
+      "code": "HE-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-1_我有一个荣美家乡/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-1_%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E8%8D%A3%E7%BE%8E%E5%AE%B6%E4%B9%A1/END"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_01_end",
+      "path": "chapters/act26side--activities__act26side__level_act26side_01_end.json",
+      "sort": 3,
+      "title": "我有一个荣美家乡"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "行动前",
+      "code": "HE-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-2_生命运河/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-2_%E7%94%9F%E5%91%BD%E8%BF%90%E6%B2%B3/BEG"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_02_beg",
+      "path": "chapters/act26side--activities__act26side__level_act26side_02_beg.json",
+      "sort": 4,
+      "title": "生命运河"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "行动后",
+      "code": "HE-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-2_生命运河/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-2_%E7%94%9F%E5%91%BD%E8%BF%90%E6%B2%B3/END"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_02_end",
+      "path": "chapters/act26side--activities__act26side__level_act26side_02_end.json",
+      "sort": 5,
+      "title": "生命运河"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "行动前",
+      "code": "HE-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-3_岂可空手回天府？/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-3_%E5%B2%82%E5%8F%AF%E7%A9%BA%E6%89%8B%E5%9B%9E%E5%A4%A9%E5%BA%9C%EF%BC%9F/BEG"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_03_beg",
+      "path": "chapters/act26side--activities__act26side__level_act26side_03_beg.json",
+      "sort": 6,
+      "title": "岂可空手回天府？"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "行动后",
+      "code": "HE-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-3_岂可空手回天府？/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-3_%E5%B2%82%E5%8F%AF%E7%A9%BA%E6%89%8B%E5%9B%9E%E5%A4%A9%E5%BA%9C%EF%BC%9F/END"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_03_end",
+      "path": "chapters/act26side--activities__act26side__level_act26side_03_end.json",
+      "sort": 7,
+      "title": "岂可空手回天府？"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "行动前",
+      "code": "HE-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-4_我曾舍命为你/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-4_%E6%88%91%E6%9B%BE%E8%88%8D%E5%91%BD%E4%B8%BA%E4%BD%A0/BEG"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_04_beg",
+      "path": "chapters/act26side--activities__act26side__level_act26side_04_beg.json",
+      "sort": 8,
+      "title": "我曾舍命为你"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "行动后",
+      "code": "HE-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-4_我曾舍命为你/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-4_%E6%88%91%E6%9B%BE%E8%88%8D%E5%91%BD%E4%B8%BA%E4%BD%A0/END"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_04_end",
+      "path": "chapters/act26side--activities__act26side__level_act26side_04_end.json",
+      "sort": 9,
+      "title": "我曾舍命为你"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "行动前",
+      "code": "HE-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-5_主在圣殿中/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-5_%E4%B8%BB%E5%9C%A8%E5%9C%A3%E6%AE%BF%E4%B8%AD/BEG"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_05_beg",
+      "path": "chapters/act26side--activities__act26side__level_act26side_05_beg.json",
+      "sort": 10,
+      "title": "主在圣殿中"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "行动后",
+      "code": "HE-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-5_主在圣殿中/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-5_%E4%B8%BB%E5%9C%A8%E5%9C%A3%E6%AE%BF%E4%B8%AD/END"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_05_end",
+      "path": "chapters/act26side--activities__act26side__level_act26side_05_end.json",
+      "sort": 11,
+      "title": "主在圣殿中"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "行动前",
+      "code": "HE-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-6_夜半歌声/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-6_%E5%A4%9C%E5%8D%8A%E6%AD%8C%E5%A3%B0/BEG"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_06_beg",
+      "path": "chapters/act26side--activities__act26side__level_act26side_06_beg.json",
+      "sort": 12,
+      "title": "夜半歌声"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "行动后",
+      "code": "HE-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-6_夜半歌声/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-6_%E5%A4%9C%E5%8D%8A%E6%AD%8C%E5%A3%B0/END"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_06_end",
+      "path": "chapters/act26side--activities__act26side__level_act26side_06_end.json",
+      "sort": 13,
+      "title": "夜半歌声"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "幕间",
+      "code": "HE-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-ST-2_在花园里/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-ST-2_%E5%9C%A8%E8%8A%B1%E5%9B%AD%E9%87%8C/NBT"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_st02",
+      "path": "chapters/act26side--activities__act26side__level_act26side_st02.json",
+      "sort": 14,
+      "title": "在花园里"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "行动前",
+      "code": "HE-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-7_以爱相连/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-7_%E4%BB%A5%E7%88%B1%E7%9B%B8%E8%BF%9E/BEG"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_07_beg",
+      "path": "chapters/act26side--activities__act26side__level_act26side_07_beg.json",
+      "sort": 15,
+      "title": "以爱相连"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "行动后",
+      "code": "HE-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-7_以爱相连/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-7_%E4%BB%A5%E7%88%B1%E7%9B%B8%E8%BF%9E/END"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_07_end",
+      "path": "chapters/act26side--activities__act26side__level_act26side_07_end.json",
+      "sort": 16,
+      "title": "以爱相连"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "行动前",
+      "code": "HE-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-8_愿跟随主/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-8_%E6%84%BF%E8%B7%9F%E9%9A%8F%E4%B8%BB/BEG"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_08_beg",
+      "path": "chapters/act26side--activities__act26side__level_act26side_08_beg.json",
+      "sort": 17,
+      "title": "愿跟随主"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "行动后",
+      "code": "HE-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-8_愿跟随主/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-8_%E6%84%BF%E8%B7%9F%E9%9A%8F%E4%B8%BB/END"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_08_end",
+      "path": "chapters/act26side--activities__act26side__level_act26side_08_end.json",
+      "sort": 18,
+      "title": "愿跟随主"
+    },
+    {
+      "albumId": "act26side",
+      "avgTag": "幕间",
+      "code": "HE-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HE-ST-3_慈光引导/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HE-ST-3_%E6%85%88%E5%85%89%E5%BC%95%E5%AF%BC/NBT"
+      },
+      "downloadable": true,
+      "id": "act26side--activities__act26side__level_act26side_st03",
+      "path": "chapters/act26side--activities__act26side__level_act26side_st03.json",
+      "sort": 19,
+      "title": "慈光引导"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_hortus_de_escapismo",
+    "primaryImageId": "kv_hortus_de_escapismo",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act26side",
+    "titleImageId": "title_hortus_de_escapismo",
+    "url": "https://media.prts.wiki/3/33/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%A9%BA%E6%83%B3%E8%8A%B1%E5%BA%AD.png"
+  },
+  "extras": [],
+  "gameOrderRank": 5001,
+  "homeSection": "sideStory",
+  "id": "act26side",
+  "music": {
+    "arcTitle": "那被祝福的",
+    "movementTitle": "那被祝福的",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_03",
+      "tag_15",
+      "tag_16",
+      "tag_13",
+      "tag_12",
+      "tag_14"
+    ]
+  },
+  "slug": "act26side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1686196800,
+  "summary": "六十年来杳无音讯的安布罗修修道院传来呼救的讯息，\n乐园搁浅在不毛之地，秩序游离在坍毁边缘。\n情谊的建立需跨越险阻，信任的崩塌却顺理成章，\n当虔信者不得不抛却信仰，无辜者不得不戴罪求情，\n年轻的圣徒自我诘问：不存在谬误的苦难当如何纠正？",
+  "timelineRank": 1686196800,
+  "title": "空想花庭"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act38side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "PV-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PV-6_“复仇于我”/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-6_%E2%80%9C%E5%A4%8D%E4%BB%87%E4%BA%8E%E6%88%91%E2%80%9D/END"
+  },
+  "id": "act38side--activities__act38side__level_act38side_06_end",
+  "navigation": {
+    "nextChapterId": "act38side--activities__act38side__level_act38side_07_beg",
+    "previousChapterId": "act38side--activities__act38side__level_act38side_06_beg"
+  },
+  "subtitle": "PV-6",
+  "summary": "info/activities/act38side/level_act38side_06_end",
+  "title": "“复仇于我”"
+}

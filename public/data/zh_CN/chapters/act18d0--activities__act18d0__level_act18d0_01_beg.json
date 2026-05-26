@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "WD-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WD-1_赤角小镇之围/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WD-1_%E8%B5%A4%E8%A7%92%E5%B0%8F%E9%95%87%E4%B9%8B%E5%9B%B4/BEG"
+  },
+  "id": "act18d0--activities__act18d0__level_act18d0_01_beg",
+  "navigation": {
+    "nextChapterId": "act18d0--activities__act18d0__level_act18d0_01_end",
+    "previousChapterId": null
+  },
+  "subtitle": "WD-1",
+  "summary": "info/activities/act18d0/level_act18d0_01_beg",
+  "title": "赤角小镇之围"
+}

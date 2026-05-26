@@ -1,0 +1,19 @@
+{
+  "albumId": "act14mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DC-ST3_不问鬼神/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DC-ST3_%E4%B8%8D%E9%97%AE%E9%AC%BC%E7%A5%9E/NBT"
+  },
+  "id": "act14mini--activities__act14mini__level_act14mini_st03",
+  "navigation": {
+    "nextChapterId": "act14mini--activities__act14mini__level_act14mini_st04",
+    "previousChapterId": "act14mini--activities__act14mini__level_act14mini_st02"
+  },
+  "summary": "info/activities/act14mini/level_act14mini_st03",
+  "title": "不问鬼神"
+}

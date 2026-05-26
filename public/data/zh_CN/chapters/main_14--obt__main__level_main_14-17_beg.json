@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "14-19",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-19_晶簇之内/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-19_%E6%99%B6%E7%B0%87%E4%B9%8B%E5%86%85/BEG"
+  },
+  "id": "main_14--obt__main__level_main_14-17_beg",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-17_end",
+    "previousChapterId": "main_14--obt__main__level_main_14-16_end"
+  },
+  "subtitle": "14-19",
+  "summary": "info/obt/main/level_main_14-17_beg",
+  "title": "晶簇之内"
+}

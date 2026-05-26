@@ -1,0 +1,21 @@
+{
+  "albumId": "act21side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IS-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IS-5_恒久法则/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-5_%E6%81%92%E4%B9%85%E6%B3%95%E5%88%99/END"
+  },
+  "id": "act21side--activities__act21side__level_act21side_05_end",
+  "navigation": {
+    "nextChapterId": "act21side--activities__act21side__level_act21side_06_beg",
+    "previousChapterId": "act21side--activities__act21side__level_act21side_05_beg"
+  },
+  "subtitle": "IS-5",
+  "summary": "info/activities/act21side/level_act21side_05_end",
+  "title": "恒久法则"
+}

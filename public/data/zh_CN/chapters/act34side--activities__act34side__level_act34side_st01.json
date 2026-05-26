@@ -1,0 +1,21 @@
+{
+  "albumId": "act34side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "BP-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BP-ST-1_浪潮守望者/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BP-ST-1_%E6%B5%AA%E6%BD%AE%E5%AE%88%E6%9C%9B%E8%80%85/NBT"
+  },
+  "id": "act34side--activities__act34side__level_act34side_st01",
+  "navigation": {
+    "nextChapterId": "act34side--activities__act34side__level_act34side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "BP-ST-1",
+  "summary": "info/activities/act34side/level_act34side_st01",
+  "title": "浪潮守望者"
+}

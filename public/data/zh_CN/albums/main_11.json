@@ -1,0 +1,468 @@
+{
+  "albumKind": "mainline",
+  "chapters": [
+    {
+      "albumId": "main_11",
+      "avgTag": "行动前",
+      "code": "11-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-1_维护荣耀/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-1_%E7%BB%B4%E6%8A%A4%E8%8D%A3%E8%80%80/BEG"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-01_beg",
+      "path": "chapters/main_11--obt__main__level_main_11-01_beg.json",
+      "sort": 89,
+      "title": "维护荣耀"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动后",
+      "code": "11-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-1_维护荣耀/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-1_%E7%BB%B4%E6%8A%A4%E8%8D%A3%E8%80%80/END"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-01_end",
+      "path": "chapters/main_11--obt__main__level_main_11-01_end.json",
+      "sort": 90,
+      "title": "维护荣耀"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动前",
+      "code": "11-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-2_一丝光亮/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-2_%E4%B8%80%E4%B8%9D%E5%85%89%E4%BA%AE/BEG"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-02_beg",
+      "path": "chapters/main_11--obt__main__level_main_11-02_beg.json",
+      "sort": 91,
+      "title": "一丝光亮"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动后",
+      "code": "11-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-2_一丝光亮/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-2_%E4%B8%80%E4%B8%9D%E5%85%89%E4%BA%AE/END"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-02_end",
+      "path": "chapters/main_11--obt__main__level_main_11-02_end.json",
+      "sort": 92,
+      "title": "一丝光亮"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动前",
+      "code": "11-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-3_蒸汽升腾/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-3_%E8%92%B8%E6%B1%BD%E5%8D%87%E8%85%BE/BEG"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-03_beg",
+      "path": "chapters/main_11--obt__main__level_main_11-03_beg.json",
+      "sort": 93,
+      "title": "蒸汽升腾"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动后",
+      "code": "11-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-3_蒸汽升腾/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-3_%E8%92%B8%E6%B1%BD%E5%8D%87%E8%85%BE/END"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-03_end",
+      "path": "chapters/main_11--obt__main__level_main_11-03_end.json",
+      "sort": 94,
+      "title": "蒸汽升腾"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "幕间",
+      "code": "11-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-4_何谓理想/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-4_%E4%BD%95%E8%B0%93%E7%90%86%E6%83%B3/NBT"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_st_11-01",
+      "path": "chapters/main_11--obt__main__level_st_11-01.json",
+      "sort": 95,
+      "title": "何谓理想"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动前",
+      "code": "11-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-5_等价交换/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-5_%E7%AD%89%E4%BB%B7%E4%BA%A4%E6%8D%A2/BEG"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-04_beg",
+      "path": "chapters/main_11--obt__main__level_main_11-04_beg.json",
+      "sort": 96,
+      "title": "等价交换"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动后",
+      "code": "11-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-5_等价交换/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-5_%E7%AD%89%E4%BB%B7%E4%BA%A4%E6%8D%A2/END"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-04_end",
+      "path": "chapters/main_11--obt__main__level_main_11-04_end.json",
+      "sort": 97,
+      "title": "等价交换"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动前",
+      "code": "11-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-6_演绎文明/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-6_%E6%BC%94%E7%BB%8E%E6%96%87%E6%98%8E/BEG"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-05_beg",
+      "path": "chapters/main_11--obt__main__level_main_11-05_beg.json",
+      "sort": 98,
+      "title": "演绎文明"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动后",
+      "code": "11-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-7_卷入洪流/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-7_%E5%8D%B7%E5%85%A5%E6%B4%AA%E6%B5%81/END"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-06_end",
+      "path": "chapters/main_11--obt__main__level_main_11-06_end.json",
+      "sort": 99,
+      "title": "卷入洪流"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动前",
+      "code": "11-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-8_停滞/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-8_%E5%81%9C%E6%BB%9E/BEG"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-07_beg",
+      "path": "chapters/main_11--obt__main__level_main_11-07_beg.json",
+      "sort": 100,
+      "title": "停滞"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动后",
+      "code": "11-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-8_停滞/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-8_%E5%81%9C%E6%BB%9E/END"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-07_end",
+      "path": "chapters/main_11--obt__main__level_main_11-07_end.json",
+      "sort": 101,
+      "title": "停滞"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动前",
+      "code": "11-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-9_以命换命/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-9_%E4%BB%A5%E5%91%BD%E6%8D%A2%E5%91%BD/BEG"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-08_beg",
+      "path": "chapters/main_11--obt__main__level_main_11-08_beg.json",
+      "sort": 102,
+      "title": "以命换命"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动后",
+      "code": "11-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-9_以命换命/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-9_%E4%BB%A5%E5%91%BD%E6%8D%A2%E5%91%BD/END"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-08_end",
+      "path": "chapters/main_11--obt__main__level_main_11-08_end.json",
+      "sort": 103,
+      "title": "以命换命"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "幕间",
+      "code": "11-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-10_异路相对/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-10_%E5%BC%82%E8%B7%AF%E7%9B%B8%E5%AF%B9/NBT"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_st_11-02",
+      "path": "chapters/main_11--obt__main__level_st_11-02.json",
+      "sort": 104,
+      "title": "异路相对"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动前",
+      "code": "11-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-11_立场不同/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-11_%E7%AB%8B%E5%9C%BA%E4%B8%8D%E5%90%8C/BEG"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-09_beg",
+      "path": "chapters/main_11--obt__main__level_main_11-09_beg.json",
+      "sort": 105,
+      "title": "立场不同"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动后",
+      "code": "11-12",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-12_汹涌而来/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-12_%E6%B1%B9%E6%B6%8C%E8%80%8C%E6%9D%A5/END"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-10_end",
+      "path": "chapters/main_11--obt__main__level_main_11-10_end.json",
+      "sort": 106,
+      "title": "汹涌而来"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动前",
+      "code": "11-14",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-14_一场相见/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-14_%E4%B8%80%E5%9C%BA%E7%9B%B8%E8%A7%81/BEG"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-12_beg",
+      "path": "chapters/main_11--obt__main__level_main_11-12_beg.json",
+      "sort": 107,
+      "title": "一场相见"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动后",
+      "code": "11-14",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-14_一场相见/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-14_%E4%B8%80%E5%9C%BA%E7%9B%B8%E8%A7%81/END"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-12_end",
+      "path": "chapters/main_11--obt__main__level_main_11-12_end.json",
+      "sort": 108,
+      "title": "一场相见"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动前",
+      "code": "11-15",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-15_土地震颤/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-15_%E5%9C%9F%E5%9C%B0%E9%9C%87%E9%A2%A4/BEG"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-13_beg",
+      "path": "chapters/main_11--obt__main__level_main_11-13_beg.json",
+      "sort": 109,
+      "title": "土地震颤"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动后",
+      "code": "11-16",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-16_荣光猎场/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-16_%E8%8D%A3%E5%85%89%E7%8C%8E%E5%9C%BA/END"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-14_end",
+      "path": "chapters/main_11--obt__main__level_main_11-14_end.json",
+      "sort": 110,
+      "title": "荣光猎场"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动前",
+      "code": "11-17",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-17_回答我/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-17_%E5%9B%9E%E7%AD%94%E6%88%91/BEG"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-15_beg",
+      "path": "chapters/main_11--obt__main__level_main_11-15_beg.json",
+      "sort": 111,
+      "title": "回答我"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动后",
+      "code": "11-17",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-17_回答我/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-17_%E5%9B%9E%E7%AD%94%E6%88%91/END"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-15_end",
+      "path": "chapters/main_11--obt__main__level_main_11-15_end.json",
+      "sort": 112,
+      "title": "回答我"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动前",
+      "code": "11-19",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-19_直指命运/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-19_%E7%9B%B4%E6%8C%87%E5%91%BD%E8%BF%90/BEG"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-17_beg",
+      "path": "chapters/main_11--obt__main__level_main_11-17_beg.json",
+      "sort": 113,
+      "title": "直指命运"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "行动后",
+      "code": "11-19",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-19_直指命运/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-19_%E7%9B%B4%E6%8C%87%E5%91%BD%E8%BF%90/END"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_main_11-17_end",
+      "path": "chapters/main_11--obt__main__level_main_11-17_end.json",
+      "sort": 114,
+      "title": "直指命运"
+    },
+    {
+      "albumId": "main_11",
+      "avgTag": "幕间",
+      "code": "11-21",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "11-21_不可避免/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/11-21_%E4%B8%8D%E5%8F%AF%E9%81%BF%E5%85%8D/NBT"
+      },
+      "downloadable": true,
+      "id": "main_11--obt__main__level_st_11-03",
+      "path": "chapters/main_11--obt__main__level_st_11-03.json",
+      "sort": 115,
+      "title": "不可避免"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_return_to_mist",
+    "primaryImageId": "kv_return_to_mist",
+    "source": "stage-kv",
+    "titleImageId": "title_return_to_mist",
+    "url": "https://media.prts.wiki/5/5d/%E7%AB%A0%E8%8A%82%E5%90%8D%E7%A7%B0_%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 4006,
+  "homeSection": "mainline",
+  "id": "main_11",
+  "music": {
+    "arcTitle": "Ⅱ 残阳",
+    "movementTitle": "Ⅱ 残阳",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "main-11",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": -1,
+  "summary": "二十六年前，她目睹王嗣手持国剑出现在人们面前。\n人们欢呼雀跃，却不曾料到这是风雨前最后的平静。\n二十六年后，她依旧是贵族，却不再有当年的意气。\n如今，王嗣回归，可这已不是她熟悉的那个国度。\n以荣光为氅的甲胄，正在坟墓深处等待两人的到来。",
+  "timelineRank": -1,
+  "title": "淬火尘霾"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act40side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "OR-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OR-ST-3_须问汤/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OR-ST-3_%E9%A1%BB%E9%97%AE%E6%B1%A4/NBT"
+  },
+  "id": "act40side--activities__act40side__level_act40side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act40side--activities__act40side__level_act40side_09_end"
+  },
+  "subtitle": "OR-ST-3",
+  "summary": "info/activities/act40side/level_act40side_st03",
+  "title": "须问汤"
+}

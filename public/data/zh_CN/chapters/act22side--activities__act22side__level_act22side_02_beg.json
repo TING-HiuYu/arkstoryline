@@ -1,0 +1,21 @@
+{
+  "albumId": "act22side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "FC-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FC-2_不幸重逢/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FC-2_%E4%B8%8D%E5%B9%B8%E9%87%8D%E9%80%A2/BEG"
+  },
+  "id": "act22side--activities__act22side__level_act22side_02_beg",
+  "navigation": {
+    "nextChapterId": "act22side--activities__act22side__level_act22side_02_end",
+    "previousChapterId": "act22side--activities__act22side__level_act22side_01_end"
+  },
+  "subtitle": "FC-2",
+  "summary": "info/activities/act22side/level_act22side_02_beg",
+  "title": "不幸重逢"
+}

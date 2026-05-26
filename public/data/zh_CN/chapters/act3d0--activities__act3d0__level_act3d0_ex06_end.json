@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-EX6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-EX6_完美落幕/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-EX6_%E5%AE%8C%E7%BE%8E%E8%90%BD%E5%B9%95/END"
+  },
+  "id": "act3d0--activities__act3d0__level_act3d0_ex06_end",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_ex03_end"
+  },
+  "subtitle": "OF-EX6",
+  "summary": "info/activities/act3d0/level_act3d0_ex06_end",
+  "title": "完美落幕"
+}

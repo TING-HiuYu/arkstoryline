@@ -1,0 +1,19 @@
+{
+  "albumId": "act10mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TB-ST6_叮咚作响/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TB-ST6_%E5%8F%AE%E5%92%9A%E4%BD%9C%E5%93%8D/NBT"
+  },
+  "id": "act10mini--activities__act10mini__level_act10mini_st06",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act10mini--activities__act10mini__level_act10mini_st05"
+  },
+  "summary": "info/activities/act10mini/level_act10mini_st06",
+  "title": "叮咚作响"
+}

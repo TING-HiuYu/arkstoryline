@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-萨卡兹的无终奇语-6505326ff7",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RO4-END-1/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RO4-END-1/NBT"
+  },
+  "id": "other-story-萨卡兹的无终奇语-6505326ff7--ro4-end-1-nbt",
+  "navigation": {
+    "nextChapterId": "other-story-萨卡兹的无终奇语-6505326ff7--ro4-end-2-nbt",
+    "previousChapterId": "other-story-萨卡兹的无终奇语-6505326ff7--ro4-beg-nbt"
+  },
+  "subtitle": null,
+  "title": "憧憬未来"
+}

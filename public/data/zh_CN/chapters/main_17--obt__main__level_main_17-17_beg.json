@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "17-18",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "17-18_灵魂悄然/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/17-18_%E7%81%B5%E9%AD%82%E6%82%84%E7%84%B6/BEG"
+  },
+  "id": "main_17--obt__main__level_main_17-17_beg",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_main_17-17_end",
+    "previousChapterId": "main_17--obt__main__level_main_17-16_end"
+  },
+  "subtitle": "17-18",
+  "summary": "info/obt/main/level_main_17-17_beg",
+  "title": "灵魂悄然"
+}

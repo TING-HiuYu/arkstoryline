@@ -1,0 +1,21 @@
+{
+  "albumId": "act12side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DH-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DH-4_铁人三项/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DH-4_%E9%93%81%E4%BA%BA%E4%B8%89%E9%A1%B9/END"
+  },
+  "id": "act12side--activities__act12side__level_act12side_04_end",
+  "navigation": {
+    "nextChapterId": "act12side--activities__act12side__level_act12side_05_beg",
+    "previousChapterId": "act12side--activities__act12side__level_act12side_04_beg"
+  },
+  "subtitle": "DH-4",
+  "summary": "info/activities/act12side/level_act12side_04_end",
+  "title": "铁人三项"
+}

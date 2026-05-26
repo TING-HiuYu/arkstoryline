@@ -1,0 +1,21 @@
+{
+  "albumId": "act28side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CV-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CV-6_猎人之夜/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CV-6_%E7%8C%8E%E4%BA%BA%E4%B9%8B%E5%A4%9C/END"
+  },
+  "id": "act28side--activities__act28side__level_act28side_06_end",
+  "navigation": {
+    "nextChapterId": "act28side--activities__act28side__level_act28side_07_beg",
+    "previousChapterId": "act28side--activities__act28side__level_act28side_06_beg"
+  },
+  "subtitle": "CV-6",
+  "summary": "info/activities/act28side/level_act28side_06_end",
+  "title": "猎人之夜"
+}

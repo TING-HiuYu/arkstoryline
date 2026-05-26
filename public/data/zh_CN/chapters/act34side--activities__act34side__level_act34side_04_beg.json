@@ -1,0 +1,21 @@
+{
+  "albumId": "act34side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "BP-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BP-4_牺牲与代价/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BP-4_%E7%89%BA%E7%89%B2%E4%B8%8E%E4%BB%A3%E4%BB%B7/BEG"
+  },
+  "id": "act34side--activities__act34side__level_act34side_04_beg",
+  "navigation": {
+    "nextChapterId": "act34side--activities__act34side__level_act34side_04_end",
+    "previousChapterId": "act34side--activities__act34side__level_act34side_03_end"
+  },
+  "subtitle": "BP-4",
+  "summary": "info/activities/act34side/level_act34side_04_beg",
+  "title": "牺牲与代价"
+}

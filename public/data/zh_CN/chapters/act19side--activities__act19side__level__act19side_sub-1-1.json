@@ -1,0 +1,21 @@
+{
+  "albumId": "act19side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "DV-S-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DV-S-1_困心/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DV-S-1_%E5%9B%B0%E5%BF%83/NBT"
+  },
+  "id": "act19side--activities__act19side__level__act19side_sub-1-1",
+  "navigation": {
+    "nextChapterId": "act19side--activities__act19side__level_act19side_05_end",
+    "previousChapterId": "act19side--activities__act19side__level_act19side_05_beg"
+  },
+  "subtitle": "DV-S-1",
+  "summary": "info/activities/act19side/level/act19side_sub-1-1",
+  "title": "困心"
+}

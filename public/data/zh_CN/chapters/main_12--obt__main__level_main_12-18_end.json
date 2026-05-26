@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "12-20",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-20_诚挚邀请/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-20_%E8%AF%9A%E6%8C%9A%E9%82%80%E8%AF%B7/END"
+  },
+  "id": "main_12--obt__main__level_main_12-18_end",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_st_12-03",
+    "previousChapterId": "main_12--obt__main__level_main_12-18_beg"
+  },
+  "subtitle": "12-20",
+  "summary": "info/obt/main/level_main_12-18_end",
+  "title": "诚挚邀请"
+}

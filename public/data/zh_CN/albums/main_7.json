@@ -1,0 +1,356 @@
+{
+  "albumKind": "mainline",
+  "chapters": [
+    {
+      "albumId": "main_7",
+      "avgTag": "幕间",
+      "code": "7-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-1_32:00:00/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-1_32%3A00%3A00/NBT"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_st_07-01",
+      "path": "chapters/main_7--obt__main__level_st_07-01.json",
+      "sort": 1,
+      "title": "32:00:00"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "行动前",
+      "code": "7-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-2_别离之夜/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-2_%E5%88%AB%E7%A6%BB%E4%B9%8B%E5%A4%9C/BEG"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_main_07-01_beg",
+      "path": "chapters/main_7--obt__main__level_main_07-01_beg.json",
+      "sort": 2,
+      "title": "别离之夜"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "行动后",
+      "code": "7-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-2_别离之夜/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-2_%E5%88%AB%E7%A6%BB%E4%B9%8B%E5%A4%9C/END"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_main_07-01_end",
+      "path": "chapters/main_7--obt__main__level_main_07-01_end.json",
+      "sort": 3,
+      "title": "别离之夜"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "行动前",
+      "code": "7-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-3_变节之刃/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-3_%E5%8F%98%E8%8A%82%E4%B9%8B%E5%88%83/BEG"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_main_07-02_beg",
+      "path": "chapters/main_7--obt__main__level_main_07-02_beg.json",
+      "sort": 4,
+      "title": "变节之刃"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "行动后",
+      "code": "7-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-3_变节之刃/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-3_%E5%8F%98%E8%8A%82%E4%B9%8B%E5%88%83/END"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_main_07-02_end",
+      "path": "chapters/main_7--obt__main__level_main_07-02_end.json",
+      "sort": 5,
+      "title": "变节之刃"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "行动前",
+      "code": "7-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-4_并肩之约-1/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-4_%E5%B9%B6%E8%82%A9%E4%B9%8B%E7%BA%A6-1/BEG"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_main_07-03_beg",
+      "path": "chapters/main_7--obt__main__level_main_07-03_beg.json",
+      "sort": 6,
+      "title": "并肩之约-1"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "行动后",
+      "code": "7-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-5_并肩之约-2/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-5_%E5%B9%B6%E8%82%A9%E4%B9%8B%E7%BA%A6-2/END"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_main_07-04_end",
+      "path": "chapters/main_7--obt__main__level_main_07-04_end.json",
+      "sort": 7,
+      "title": "并肩之约-2"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "行动前",
+      "code": "7-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-6_遗忘之地/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-6_%E9%81%97%E5%BF%98%E4%B9%8B%E5%9C%B0/BEG"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_main_07-05_beg",
+      "path": "chapters/main_7--obt__main__level_main_07-05_beg.json",
+      "sort": 8,
+      "title": "遗忘之地"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "行动后",
+      "code": "7-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-6_遗忘之地/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-6_%E9%81%97%E5%BF%98%E4%B9%8B%E5%9C%B0/END"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_main_07-05_end",
+      "path": "chapters/main_7--obt__main__level_main_07-05_end.json",
+      "sort": 9,
+      "title": "遗忘之地"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "幕间",
+      "code": "7-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-7_26:37:14/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-7_26%3A37%3A14/NBT"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_st_07-02",
+      "path": "chapters/main_7--obt__main__level_st_07-02.json",
+      "sort": 10,
+      "title": "26:37:14"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "行动前",
+      "code": "7-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-8_沉默者之怒-1/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-8_%E6%B2%89%E9%BB%98%E8%80%85%E4%B9%8B%E6%80%92-1/BEG"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_main_07-06_beg",
+      "path": "chapters/main_7--obt__main__level_main_07-06_beg.json",
+      "sort": 11,
+      "title": "沉默者之怒-1"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "行动后",
+      "code": "7-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-9_沉默者之怒-2/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-9_%E6%B2%89%E9%BB%98%E8%80%85%E4%B9%8B%E6%80%92-2/END"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_main_07-07_end",
+      "path": "chapters/main_7--obt__main__level_main_07-07_end.json",
+      "sort": 12,
+      "title": "沉默者之怒-2"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "行动前",
+      "code": "7-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-10_暗淡者之火/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-10_%E6%9A%97%E6%B7%A1%E8%80%85%E4%B9%8B%E7%81%AB/BEG"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_main_07-08_beg",
+      "path": "chapters/main_7--obt__main__level_main_07-08_beg.json",
+      "sort": 13,
+      "title": "暗淡者之火"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "行动后",
+      "code": "7-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-10_暗淡者之火/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-10_%E6%9A%97%E6%B7%A1%E8%80%85%E4%B9%8B%E7%81%AB/END"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_main_07-08_end",
+      "path": "chapters/main_7--obt__main__level_main_07-08_end.json",
+      "sort": 14,
+      "title": "暗淡者之火"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "行动前",
+      "code": "7-13",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-13_感染者之盾-1/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-13_%E6%84%9F%E6%9F%93%E8%80%85%E4%B9%8B%E7%9B%BE-1/BEG"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_main_07-11_beg",
+      "path": "chapters/main_7--obt__main__level_main_07-11_beg.json",
+      "sort": 15,
+      "title": "感染者之盾-1"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "行动后",
+      "code": "7-17",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-17_感染者之盾-2/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-17_%E6%84%9F%E6%9F%93%E8%80%85%E4%B9%8B%E7%9B%BE-2/END"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_main_07-15_end",
+      "path": "chapters/main_7--obt__main__level_main_07-15_end.json",
+      "sort": 16,
+      "title": "感染者之盾-2"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "行动前",
+      "code": "7-18",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-18_爱国者之死/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-18_%E7%88%B1%E5%9B%BD%E8%80%85%E4%B9%8B%E6%AD%BB/BEG"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_main_07-16_beg",
+      "path": "chapters/main_7--obt__main__level_main_07-16_beg.json",
+      "sort": 17,
+      "title": "爱国者之死"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "行动后",
+      "code": "7-18",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-18_爱国者之死/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-18_%E7%88%B1%E5%9B%BD%E8%80%85%E4%B9%8B%E6%AD%BB/END"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_main_07-16_end",
+      "path": "chapters/main_7--obt__main__level_main_07-16_end.json",
+      "sort": 18,
+      "title": "爱国者之死"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "幕间",
+      "code": "7-19",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-19_11:15:38/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-19_11%3A15%3A38/NBT"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_st_07-03",
+      "path": "chapters/main_7--obt__main__level_st_07-03.json",
+      "sort": 19,
+      "title": "11:15:38"
+    },
+    {
+      "albumId": "main_7",
+      "avgTag": "幕间",
+      "code": "7-20",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "7-20_??:??:??/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/7-20_%3F%3F%3A%3F%3F%3A%3F%3F/NBT"
+      },
+      "downloadable": true,
+      "id": "main_7--obt__main__level_st_07-04",
+      "path": "chapters/main_7--obt__main__level_st_07-04.json",
+      "sort": 20,
+      "title": "??:??:??"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_the_birth_of_tragedy",
+    "primaryImageId": "kv_the_birth_of_tragedy",
+    "source": "stage-kv",
+    "titleImageId": "title_the_birth_of_tragedy",
+    "url": "https://media.prts.wiki/7/76/%E7%AB%A0%E8%8A%82%E5%90%8D%E7%A7%B0_%E7%AC%AC%E4%B8%83%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 1015,
+  "homeSection": "mainline",
+  "id": "main_7",
+  "music": {
+    "arcTitle": "Ⅰ 幻灭",
+    "movementTitle": "Ⅰ 幻灭",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "main-7",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": -1,
+  "summary": "面对即将撞上龙门的切城核心区，罗德岛开始反击。\n最赤诚的“叛徒”孤身离开了她爱着的城市。\n最坚韧的父亲缅怀着身死异乡的女儿。\n他们都准备拼尽全力对抗命运。",
+  "timelineRank": -1,
+  "title": "苦难摇篮"
+}

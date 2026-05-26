@@ -1,0 +1,21 @@
+{
+  "albumId": "act43side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "AD-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AD-1_彩排日/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AD-1_%E5%BD%A9%E6%8E%92%E6%97%A5/BEG"
+  },
+  "id": "act43side--activities__act43side__level_act43side_01_beg",
+  "navigation": {
+    "nextChapterId": "act43side--activities__act43side__level_act43side_01_end",
+    "previousChapterId": "act43side--activities__act43side__level_act43side_st01"
+  },
+  "subtitle": "AD-1",
+  "summary": "info/activities/act43side/level_act43side_01_beg",
+  "title": "彩排日"
+}

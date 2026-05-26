@@ -1,0 +1,19 @@
+{
+  "albumId": "act12mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AW-ST4_不得安宁/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AW-ST4_%E4%B8%8D%E5%BE%97%E5%AE%89%E5%AE%81/NBT"
+  },
+  "id": "act12mini--activities__act12mini__level_act12mini_st04",
+  "navigation": {
+    "nextChapterId": "act12mini--activities__act12mini__level_act12mini_st05",
+    "previousChapterId": "act12mini--activities__act12mini__level_act12mini_st03"
+  },
+  "summary": "info/activities/act12mini/level_act12mini_st04",
+  "title": "不得安宁"
+}

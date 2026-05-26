@@ -1,0 +1,21 @@
+{
+  "albumId": "act22side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "FC-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FC-ST-2_自灰烬之中/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FC-ST-2_%E8%87%AA%E7%81%B0%E7%83%AC%E4%B9%8B%E4%B8%AD/NBT"
+  },
+  "id": "act22side--activities__act22side__level_act22side_st02",
+  "navigation": {
+    "nextChapterId": "act22side--activities__act22side__level_act22side_08_beg",
+    "previousChapterId": "act22side--activities__act22side__level_act22side_07_end"
+  },
+  "subtitle": "FC-ST-2",
+  "summary": "info/activities/act22side/level_act22side_st02",
+  "title": "自灰烬之中"
+}

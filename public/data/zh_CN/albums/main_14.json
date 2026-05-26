@@ -1,0 +1,692 @@
+{
+  "albumKind": "mainline",
+  "chapters": [
+    {
+      "albumId": "main_14",
+      "avgTag": "幕间",
+      "code": "14-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-1_从回忆中坠落/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-1_%E4%BB%8E%E5%9B%9E%E5%BF%86%E4%B8%AD%E5%9D%A0%E8%90%BD/NBT"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_st_14-01",
+      "path": "chapters/main_14--obt__main__level_st_14-01.json",
+      "sort": 170,
+      "title": "从回忆中坠落"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-2_作战对策会议/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-2_%E4%BD%9C%E6%88%98%E5%AF%B9%E7%AD%96%E4%BC%9A%E8%AE%AE/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-01_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-01_beg.json",
+      "sort": 171,
+      "title": "作战对策会议"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-2_作战对策会议/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-2_%E4%BD%9C%E6%88%98%E5%AF%B9%E7%AD%96%E4%BC%9A%E8%AE%AE/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-01_end",
+      "path": "chapters/main_14--obt__main__level_main_14-01_end.json",
+      "sort": 172,
+      "title": "作战对策会议"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-3_破解锤砧战术/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-3_%E7%A0%B4%E8%A7%A3%E9%94%A4%E7%A0%A7%E6%88%98%E6%9C%AF/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-02_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-02_beg.json",
+      "sort": 173,
+      "title": "破解锤砧战术"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-3_破解锤砧战术/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-3_%E7%A0%B4%E8%A7%A3%E9%94%A4%E7%A0%A7%E6%88%98%E6%9C%AF/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-02_end",
+      "path": "chapters/main_14--obt__main__level_main_14-02_end.json",
+      "sort": 174,
+      "title": "破解锤砧战术"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-4_通讯静默解除/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-4_%E9%80%9A%E8%AE%AF%E9%9D%99%E9%BB%98%E8%A7%A3%E9%99%A4/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-03_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-03_beg.json",
+      "sort": 175,
+      "title": "通讯静默解除"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-4_通讯静默解除/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-4_%E9%80%9A%E8%AE%AF%E9%9D%99%E9%BB%98%E8%A7%A3%E9%99%A4/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-03_end",
+      "path": "chapters/main_14--obt__main__level_main_14-03_end.json",
+      "sort": 176,
+      "title": "通讯静默解除"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-5_探查岩洞区域/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-5_%E6%8E%A2%E6%9F%A5%E5%B2%A9%E6%B4%9E%E5%8C%BA%E5%9F%9F/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-04_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-04_beg.json",
+      "sort": 177,
+      "title": "探查岩洞区域"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-5_探查岩洞区域/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-5_%E6%8E%A2%E6%9F%A5%E5%B2%A9%E6%B4%9E%E5%8C%BA%E5%9F%9F/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-04_end",
+      "path": "chapters/main_14--obt__main__level_main_14-04_end.json",
+      "sort": 178,
+      "title": "探查岩洞区域"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-6_确认交战视界/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-6_%E7%A1%AE%E8%AE%A4%E4%BA%A4%E6%88%98%E8%A7%86%E7%95%8C/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-05_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-05_beg.json",
+      "sort": 179,
+      "title": "确认交战视界"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-6_确认交战视界/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-6_%E7%A1%AE%E8%AE%A4%E4%BA%A4%E6%88%98%E8%A7%86%E7%95%8C/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-05_end",
+      "path": "chapters/main_14--obt__main__level_main_14-05_end.json",
+      "sort": 180,
+      "title": "确认交战视界"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-7_执行反制作战/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-7_%E6%89%A7%E8%A1%8C%E5%8F%8D%E5%88%B6%E4%BD%9C%E6%88%98/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-06_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-06_beg.json",
+      "sort": 181,
+      "title": "执行反制作战"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-7_执行反制作战/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-7_%E6%89%A7%E8%A1%8C%E5%8F%8D%E5%88%B6%E4%BD%9C%E6%88%98/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-06_end",
+      "path": "chapters/main_14--obt__main__level_main_14-06_end.json",
+      "sort": 182,
+      "title": "执行反制作战"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-8_抵近支援作战/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-8_%E6%8A%B5%E8%BF%91%E6%94%AF%E6%8F%B4%E4%BD%9C%E6%88%98/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-07_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-07_beg.json",
+      "sort": 183,
+      "title": "抵近支援作战"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-8_抵近支援作战/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-8_%E6%8A%B5%E8%BF%91%E6%94%AF%E6%8F%B4%E4%BD%9C%E6%88%98/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-07_end",
+      "path": "chapters/main_14--obt__main__level_main_14-07_end.json",
+      "sort": 184,
+      "title": "抵近支援作战"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-9_应对饱和打击/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-9_%E5%BA%94%E5%AF%B9%E9%A5%B1%E5%92%8C%E6%89%93%E5%87%BB/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-08_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-08_beg.json",
+      "sort": 185,
+      "title": "应对饱和打击"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-9_应对饱和打击/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-9_%E5%BA%94%E5%AF%B9%E9%A5%B1%E5%92%8C%E6%89%93%E5%87%BB/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-08_end",
+      "path": "chapters/main_14--obt__main__level_main_14-08_end.json",
+      "sort": 186,
+      "title": "应对饱和打击"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-10_自光辉中奔涌/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-10_%E8%87%AA%E5%85%89%E8%BE%89%E4%B8%AD%E5%A5%94%E6%B6%8C/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-09_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-09_beg.json",
+      "sort": 187,
+      "title": "自光辉中奔涌"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-10_自光辉中奔涌/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-10_%E8%87%AA%E5%85%89%E8%BE%89%E4%B8%AD%E5%A5%94%E6%B6%8C/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-09_end",
+      "path": "chapters/main_14--obt__main__level_main_14-09_end.json",
+      "sort": 188,
+      "title": "自光辉中奔涌"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-11_所谓“英雄”/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-11_%E6%89%80%E8%B0%93%E2%80%9C%E8%8B%B1%E9%9B%84%E2%80%9D/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-10_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-10_beg.json",
+      "sort": 189,
+      "title": "所谓“英雄”"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-11_所谓“英雄”/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-11_%E6%89%80%E8%B0%93%E2%80%9C%E8%8B%B1%E9%9B%84%E2%80%9D/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-10_end",
+      "path": "chapters/main_14--obt__main__level_main_14-10_end.json",
+      "sort": 190,
+      "title": "所谓“英雄”"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-12",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-12_使徒/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-12_%E4%BD%BF%E5%BE%92/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-11_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-11_beg.json",
+      "sort": 191,
+      "title": "使徒"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-12",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-12_使徒/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-12_%E4%BD%BF%E5%BE%92/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-11_end",
+      "path": "chapters/main_14--obt__main__level_main_14-11_end.json",
+      "sort": 192,
+      "title": "使徒"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "幕间",
+      "code": "14-13",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-13_自原点中降临/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-13_%E8%87%AA%E5%8E%9F%E7%82%B9%E4%B8%AD%E9%99%8D%E4%B8%B4/NBT"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_st_14-02",
+      "path": "chapters/main_14--obt__main__level_st_14-02.json",
+      "sort": 193,
+      "title": "自原点中降临"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-14",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-14_高空拒阻行动/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-14_%E9%AB%98%E7%A9%BA%E6%8B%92%E9%98%BB%E8%A1%8C%E5%8A%A8/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-12_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-12_beg.json",
+      "sort": 194,
+      "title": "高空拒阻行动"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-15",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-15_突破外围防线/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-15_%E7%AA%81%E7%A0%B4%E5%A4%96%E5%9B%B4%E9%98%B2%E7%BA%BF/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-13_end",
+      "path": "chapters/main_14--obt__main__level_main_14-13_end.json",
+      "sort": 195,
+      "title": "突破外围防线"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-16",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-16_抢占舷侧区域/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-16_%E6%8A%A2%E5%8D%A0%E8%88%B7%E4%BE%A7%E5%8C%BA%E5%9F%9F/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-14_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-14_beg.json",
+      "sort": 196,
+      "title": "抢占舷侧区域"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-16",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-16_抢占舷侧区域/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-16_%E6%8A%A2%E5%8D%A0%E8%88%B7%E4%BE%A7%E5%8C%BA%E5%9F%9F/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-14_end",
+      "path": "chapters/main_14--obt__main__level_main_14-14_end.json",
+      "sort": 197,
+      "title": "抢占舷侧区域"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-17",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-17_核心舱攻防战/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-17_%E6%A0%B8%E5%BF%83%E8%88%B1%E6%94%BB%E9%98%B2%E6%88%98/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-15_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-15_beg.json",
+      "sort": 198,
+      "title": "核心舱攻防战"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-18",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-18_在炽燃间咆哮/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-18_%E5%9C%A8%E7%82%BD%E7%87%83%E9%97%B4%E5%92%86%E5%93%AE/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-16_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-16_beg.json",
+      "sort": 199,
+      "title": "在炽燃间咆哮"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-18",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-18_在炽燃间咆哮/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-18_%E5%9C%A8%E7%82%BD%E7%87%83%E9%97%B4%E5%92%86%E5%93%AE/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-16_end",
+      "path": "chapters/main_14--obt__main__level_main_14-16_end.json",
+      "sort": 200,
+      "title": "在炽燃间咆哮"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-19",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-19_晶簇之内/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-19_%E6%99%B6%E7%B0%87%E4%B9%8B%E5%86%85/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-17_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-17_beg.json",
+      "sort": 201,
+      "title": "晶簇之内"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-19",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-19_晶簇之内/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-19_%E6%99%B6%E7%B0%87%E4%B9%8B%E5%86%85/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-17_end",
+      "path": "chapters/main_14--obt__main__level_main_14-17_end.json",
+      "sort": 202,
+      "title": "晶簇之内"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-20",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-20_列王行迹/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-20_%E5%88%97%E7%8E%8B%E8%A1%8C%E8%BF%B9/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-18_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-18_beg.json",
+      "sort": 203,
+      "title": "列王行迹"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-20",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-20_列王行迹/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-20_%E5%88%97%E7%8E%8B%E8%A1%8C%E8%BF%B9/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-18_end",
+      "path": "chapters/main_14--obt__main__level_main_14-18_end.json",
+      "sort": 204,
+      "title": "列王行迹"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-21",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-21_万千愿景/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-21_%E4%B8%87%E5%8D%83%E6%84%BF%E6%99%AF/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-19_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-19_beg.json",
+      "sort": 205,
+      "title": "万千愿景"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-21",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-21_万千愿景/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-21_%E4%B8%87%E5%8D%83%E6%84%BF%E6%99%AF/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-19_end",
+      "path": "chapters/main_14--obt__main__level_main_14-19_end.json",
+      "sort": 206,
+      "title": "万千愿景"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动前",
+      "code": "14-22",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-22_在哀愁绽放的时刻/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-22_%E5%9C%A8%E5%93%80%E6%84%81%E7%BB%BD%E6%94%BE%E7%9A%84%E6%97%B6%E5%88%BB/BEG"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-20_beg",
+      "path": "chapters/main_14--obt__main__level_main_14-20_beg.json",
+      "sort": 207,
+      "title": "在哀愁绽放的时刻"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "行动后",
+      "code": "14-22",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-22_在哀愁绽放的时刻/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-22_%E5%9C%A8%E5%93%80%E6%84%81%E7%BB%BD%E6%94%BE%E7%9A%84%E6%97%B6%E5%88%BB/END"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_main_14-20_end",
+      "path": "chapters/main_14--obt__main__level_main_14-20_end.json",
+      "sort": 208,
+      "title": "在哀愁绽放的时刻"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "幕间",
+      "code": "14-23",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "14-23_良夜将死/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/14-23_%E8%89%AF%E5%A4%9C%E5%B0%86%E6%AD%BB/NBT"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_st_14-03",
+      "path": "chapters/main_14--obt__main__level_st_14-03.json",
+      "sort": 209,
+      "title": "良夜将死"
+    },
+    {
+      "albumId": "main_14",
+      "avgTag": "幕间",
+      "code": "EG-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EG-6_慈悲遗愿/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EG-6_%E6%85%88%E6%82%B2%E9%81%97%E6%84%BF/NBT"
+      },
+      "downloadable": true,
+      "id": "main_14--obt__main__level_spst_14-01",
+      "path": "chapters/main_14--obt__main__level_spst_14-01.json",
+      "sort": 210,
+      "title": "慈悲遗愿"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_absolved_will_be_the_seekers",
+    "primaryImageId": "kv_absolved_will_be_the_seekers",
+    "source": "stage-kv",
+    "titleImageId": "title_absolved_will_be_the_seekers",
+    "url": "https://media.prts.wiki/9/92/%E7%AB%A0%E8%8A%82%E5%90%8D%E7%A7%B0_%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 5011,
+  "homeSection": "mainline",
+  "id": "main_14",
+  "music": {
+    "arcTitle": "Ⅱ 残阳",
+    "movementTitle": "Ⅱ 残阳",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "main-14",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": -1,
+  "summary": "流放的狮子终会履行自己的责任。\n报丧的女妖鸣响了最后的丧钟。\n通天的巨塔，源石内的宇宙，\n代表萨卡兹的她，代表罗德岛的你。\n你再次握紧了她的手——",
+  "timelineRank": -1,
+  "title": "慈悲灯塔"
+}

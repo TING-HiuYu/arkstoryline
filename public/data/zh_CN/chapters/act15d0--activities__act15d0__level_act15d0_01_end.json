@@ -1,0 +1,21 @@
+{
+  "albumId": "act15d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "MB-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MB-1_密会/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MB-1_%E5%AF%86%E4%BC%9A/END"
+  },
+  "id": "act15d0--activities__act15d0__level_act15d0_01_end",
+  "navigation": {
+    "nextChapterId": "act15d0--activities__act15d0__level_act15d0_02_beg",
+    "previousChapterId": "act15d0--activities__act15d0__level_act15d0_01_beg"
+  },
+  "subtitle": "MB-1",
+  "summary": "info/activities/act15d0/level_act15d0_01_end",
+  "title": "密会"
+}

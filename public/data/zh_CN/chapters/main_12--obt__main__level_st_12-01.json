@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "12-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-1_火光热浪/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-1_%E7%81%AB%E5%85%89%E7%83%AD%E6%B5%AA/NBT"
+  },
+  "id": "main_12--obt__main__level_st_12-01",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_main_12-01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "12-1",
+  "summary": "info/obt/main/level_st_12-01",
+  "title": "火光热浪"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act31side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "HS-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HS-2_祭神农/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HS-2_%E7%A5%AD%E7%A5%9E%E5%86%9C/BEG"
+  },
+  "id": "act31side--activities__act31side__level_act31side_02_beg",
+  "navigation": {
+    "nextChapterId": "act31side--activities__act31side__level_act31side_02_end",
+    "previousChapterId": "act31side--activities__act31side__level_act31side_01_end"
+  },
+  "subtitle": "HS-2",
+  "summary": "info/activities/act31side/level_act31side_02_beg",
+  "title": "祭神农"
+}

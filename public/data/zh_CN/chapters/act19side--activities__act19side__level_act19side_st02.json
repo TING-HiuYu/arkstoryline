@@ -1,0 +1,21 @@
+{
+  "albumId": "act19side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "DV-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DV-ST-2_启程/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DV-ST-2_%E5%90%AF%E7%A8%8B/NBT"
+  },
+  "id": "act19side--activities__act19side__level_act19side_st02",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act19side--activities__act19side__level_act19side_08_end"
+  },
+  "subtitle": "DV-ST-2",
+  "summary": "info/activities/act19side/level_act19side_st02",
+  "title": "启程"
+}

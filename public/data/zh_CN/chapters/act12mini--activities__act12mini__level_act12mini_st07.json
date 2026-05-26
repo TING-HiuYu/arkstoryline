@@ -1,0 +1,19 @@
+{
+  "albumId": "act12mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AW-ST7_告别词/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AW-ST7_%E5%91%8A%E5%88%AB%E8%AF%8D/NBT"
+  },
+  "id": "act12mini--activities__act12mini__level_act12mini_st07",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act12mini--activities__act12mini__level_act12mini_st06"
+  },
+  "summary": "info/activities/act12mini/level_act12mini_st07",
+  "title": "告别词"
+}

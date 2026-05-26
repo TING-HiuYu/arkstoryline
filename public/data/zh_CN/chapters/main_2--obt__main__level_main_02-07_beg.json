@@ -1,0 +1,21 @@
+{
+  "albumId": "main_2",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "2-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "2-7_注意卫生/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/2-7_%E6%B3%A8%E6%84%8F%E5%8D%AB%E7%94%9F/BEG"
+  },
+  "id": "main_2--obt__main__level_main_02-07_beg",
+  "navigation": {
+    "nextChapterId": "main_2--obt__main__level_main_02-07_end",
+    "previousChapterId": "main_2--obt__main__level_main_02-06_end"
+  },
+  "subtitle": "2-7",
+  "summary": "info/obt/main/level_main_02-07_beg",
+  "title": "注意卫生"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "14-17",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-17_核心舱攻防战/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-17_%E6%A0%B8%E5%BF%83%E8%88%B1%E6%94%BB%E9%98%B2%E6%88%98/BEG"
+  },
+  "id": "main_14--obt__main__level_main_14-15_beg",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-16_beg",
+    "previousChapterId": "main_14--obt__main__level_main_14-14_end"
+  },
+  "subtitle": "14-17",
+  "summary": "info/obt/main/level_main_14-15_beg",
+  "title": "核心舱攻防战"
+}

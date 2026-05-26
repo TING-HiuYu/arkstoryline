@@ -1,0 +1,19 @@
+{
+  "albumId": "act4d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SW-ST2_破局者/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SW-ST2_%E7%A0%B4%E5%B1%80%E8%80%85/NBT"
+  },
+  "id": "act4d0--activities__act4d0__level_act4d0_st02",
+  "navigation": {
+    "nextChapterId": "act4d0--activities__act4d0__level_act4d0_st03",
+    "previousChapterId": "act4d0--activities__act4d0__level_act4d0_st01"
+  },
+  "summary": "info/activities/act4d0/level_act4d0_st02",
+  "title": "破局者"
+}

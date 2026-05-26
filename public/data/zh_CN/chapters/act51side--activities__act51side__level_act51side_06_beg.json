@@ -1,0 +1,21 @@
+{
+  "albumId": "act51side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "PA-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PA-6_各自流亡/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PA-6_%E5%90%84%E8%87%AA%E6%B5%81%E4%BA%A1/BEG"
+  },
+  "id": "act51side--activities__act51side__level_act51side_06_beg",
+  "navigation": {
+    "nextChapterId": "act51side--activities__act51side__level_act51side_06_end",
+    "previousChapterId": "act51side--activities__act51side__level_act51side_05_end"
+  },
+  "subtitle": "PA-6",
+  "summary": "info/activities/act51side/level_act51side_06_beg",
+  "title": "各自流亡"
+}

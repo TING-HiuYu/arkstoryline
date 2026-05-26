@@ -1,0 +1,21 @@
+{
+  "albumId": "act33side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "BB-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BB-9_尘埃落定/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BB-9_%E5%B0%98%E5%9F%83%E8%90%BD%E5%AE%9A/END"
+  },
+  "id": "act33side--activities__act33side__level_act33side_09_end",
+  "navigation": {
+    "nextChapterId": "act33side--activities__act33side__level_act33side_10_beg",
+    "previousChapterId": "act33side--activities__act33side__level_act33side_09_beg"
+  },
+  "subtitle": "BB-9",
+  "summary": "info/activities/act33side/level_act33side_09_end",
+  "title": "尘埃落定"
+}

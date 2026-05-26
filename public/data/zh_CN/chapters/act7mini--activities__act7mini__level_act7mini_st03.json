@@ -1,0 +1,19 @@
+{
+  "albumId": "act7mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PL-ST3_真假怪谈/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PL-ST3_%E7%9C%9F%E5%81%87%E6%80%AA%E8%B0%88/NBT"
+  },
+  "id": "act7mini--activities__act7mini__level_act7mini_st03",
+  "navigation": {
+    "nextChapterId": "act7mini--activities__act7mini__level_act7mini_st04",
+    "previousChapterId": "act7mini--activities__act7mini__level_act7mini_st02"
+  },
+  "summary": "info/activities/act7mini/level_act7mini_st03",
+  "title": "真假怪谈"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act25side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CW-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CW-5_柳暗花明/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CW-5_%E6%9F%B3%E6%9A%97%E8%8A%B1%E6%98%8E/END"
+  },
+  "id": "act25side--activities__act25side__level_act25side_05_end",
+  "navigation": {
+    "nextChapterId": "act25side--activities__act25side__level_act25side_06_beg",
+    "previousChapterId": "act25side--activities__act25side__level_act25side_05_beg"
+  },
+  "subtitle": "CW-5",
+  "summary": "info/activities/act25side/level_act25side_05_end",
+  "title": "柳暗花明"
+}

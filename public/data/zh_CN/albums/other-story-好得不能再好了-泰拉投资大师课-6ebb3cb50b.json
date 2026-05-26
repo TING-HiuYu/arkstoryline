@@ -1,0 +1,47 @@
+{
+  "albumKind": "otherStory",
+  "chapters": [
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "APF-2024/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/APF-2024/NBT"
+      },
+      "id": "other-story-好得不能再好了-泰拉投资大师课-6ebb3cb50b--apf-2024-nbt",
+      "sort": 1,
+      "title": "金牌讲师"
+    },
+    {
+      "avgTag": "行动后",
+      "code": "IM-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "IM-1_水中捞月/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IM-1_%E6%B0%B4%E4%B8%AD%E6%8D%9E%E6%9C%88/END"
+      },
+      "id": "other-story-好得不能再好了-泰拉投资大师课-6ebb3cb50b--im-1-水中捞月-end",
+      "sort": 2,
+      "title": "IM-1 水中捞月 行动后"
+    }
+  ],
+  "gameOrderRank": 900000003,
+  "homeSection": "otherStory",
+  "id": "other-story-好得不能再好了-泰拉投资大师课-6ebb3cb50b",
+  "otherStory": {
+    "albumTitle": "好得不能再好了！泰拉投资大师课",
+    "groupTitle": "四月辑录",
+    "sourceSection": "other"
+  },
+  "slug": "other-story-好得不能再好了-泰拉投资大师课-6ebb3cb50b",
+  "source": {
+    "path": "storyline.index.sections.other",
+    "providerId": "prts",
+    "revision": "2026-05-26T20:55:23.000119+00:00"
+  },
+  "sourceEntryType": "ARCHIVE_EXTRA",
+  "timelineRank": 900000003,
+  "title": "好得不能再好了！泰拉投资大师课"
+}

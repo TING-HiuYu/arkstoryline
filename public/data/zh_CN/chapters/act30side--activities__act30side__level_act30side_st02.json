@@ -1,0 +1,21 @@
+{
+  "albumId": "act30side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "RS-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RS-ST-2_登山铁道/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RS-ST-2_%E7%99%BB%E5%B1%B1%E9%93%81%E9%81%93/NBT"
+  },
+  "id": "act30side--activities__act30side__level_act30side_st02",
+  "navigation": {
+    "nextChapterId": "act30side--activities__act30side__level_act30side_06_beg",
+    "previousChapterId": "act30side--activities__act30side__level_act30side_05_end"
+  },
+  "subtitle": "RS-ST-2",
+  "summary": "info/activities/act30side/level_act30side_st02",
+  "title": "登山铁道"
+}

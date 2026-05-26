@@ -1,0 +1,21 @@
+{
+  "albumId": "act41side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "EA-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EA-3_惶惑与冲动/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-3_%E6%83%B6%E6%83%91%E4%B8%8E%E5%86%B2%E5%8A%A8/BEG"
+  },
+  "id": "act41side--activities__act41side__level_act41side_03_beg",
+  "navigation": {
+    "nextChapterId": "act41side--activities__act41side__level_act41side_03_end",
+    "previousChapterId": "act41side--activities__act41side__level_act41side_02_end"
+  },
+  "subtitle": "EA-3",
+  "summary": "info/activities/act41side/level_act41side_03_beg",
+  "title": "惶惑与冲动"
+}

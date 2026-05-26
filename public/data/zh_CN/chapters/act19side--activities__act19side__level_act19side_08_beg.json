@@ -1,0 +1,21 @@
+{
+  "albumId": "act19side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "DV-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DV-8_连接内心/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DV-8_%E8%BF%9E%E6%8E%A5%E5%86%85%E5%BF%83/BEG"
+  },
+  "id": "act19side--activities__act19side__level_act19side_08_beg",
+  "navigation": {
+    "nextChapterId": "act19side--activities__act19side__level_act19side_08_end",
+    "previousChapterId": "act19side--activities__act19side__level_act19side_07_end"
+  },
+  "subtitle": "DV-8",
+  "summary": "info/activities/act19side/level_act19side_08_beg",
+  "title": "连接内心"
+}

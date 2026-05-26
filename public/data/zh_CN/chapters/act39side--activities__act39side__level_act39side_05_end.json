@@ -1,0 +1,21 @@
+{
+  "albumId": "act39side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "EP-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EP-5_熄灭过去的灯/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EP-5_%E7%86%84%E7%81%AD%E8%BF%87%E5%8E%BB%E7%9A%84%E7%81%AF/END"
+  },
+  "id": "act39side--activities__act39side__level_act39side_05_end",
+  "navigation": {
+    "nextChapterId": "act39side--activities__act39side__level_act39side_06_beg",
+    "previousChapterId": "act39side--activities__act39side__level_act39side_05_beg"
+  },
+  "subtitle": "EP-5",
+  "summary": "info/activities/act39side/level_act39side_05_end",
+  "title": "熄灭过去的灯"
+}

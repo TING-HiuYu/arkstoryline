@@ -1,0 +1,21 @@
+{
+  "albumId": "act13side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "NL-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "NL-ST-3_酣眠的城市/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/NL-ST-3_%E9%85%A3%E7%9C%A0%E7%9A%84%E5%9F%8E%E5%B8%82/NBT"
+  },
+  "id": "act13side--activities__act13side__level_act13side_st03",
+  "navigation": {
+    "nextChapterId": "act13side--activities__act13side__level_act13side_07_beg",
+    "previousChapterId": "act13side--activities__act13side__level_act13side_06_end"
+  },
+  "subtitle": "NL-ST-3",
+  "summary": "info/activities/act13side/level_act13side_st03",
+  "title": "酣眠的城市"
+}

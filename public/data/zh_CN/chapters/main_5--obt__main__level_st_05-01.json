@@ -1,0 +1,21 @@
+{
+  "albumId": "main_5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "5-11",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "5-11_棋胜后着/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/5-11_%E6%A3%8B%E8%83%9C%E5%90%8E%E7%9D%80/NBT"
+  },
+  "id": "main_5--obt__main__level_st_05-01",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "main_5--obt__main__level_main_05-10_end"
+  },
+  "subtitle": "5-11",
+  "summary": "info/obt/main/level_st_05-01",
+  "title": "棋胜后着"
+}

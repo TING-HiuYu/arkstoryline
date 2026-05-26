@@ -1,0 +1,21 @@
+{
+  "albumId": "act41side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "EA-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EA-8_夜尽之时/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-8_%E5%A4%9C%E5%B0%BD%E4%B9%8B%E6%97%B6/END"
+  },
+  "id": "act41side--activities__act41side__level_act41side_08_end",
+  "navigation": {
+    "nextChapterId": "act41side--activities__act41side__level_act41side_st03",
+    "previousChapterId": "act41side--activities__act41side__level_act41side_08_beg"
+  },
+  "subtitle": "EA-8",
+  "summary": "info/activities/act41side/level_act41side_08_end",
+  "title": "夜尽之时"
+}

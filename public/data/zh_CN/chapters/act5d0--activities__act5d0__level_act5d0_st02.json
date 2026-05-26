@@ -1,0 +1,21 @@
+{
+  "albumId": "act5d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "CB-ST2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CB-ST2_午夜龙门/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-ST2_%E5%8D%88%E5%A4%9C%E9%BE%99%E9%97%A8/NBT"
+  },
+  "id": "act5d0--activities__act5d0__level_act5d0_st02",
+  "navigation": {
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_10_beg",
+    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_09_end"
+  },
+  "subtitle": "CB-ST2",
+  "summary": "info/activities/act5d0/level_act5d0_st02",
+  "title": "午夜龙门"
+}

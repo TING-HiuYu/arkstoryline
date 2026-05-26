@@ -1,0 +1,21 @@
+{
+  "albumId": "act44side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "AT-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AT-7_冷月/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AT-7_%E5%86%B7%E6%9C%88/END"
+  },
+  "id": "act44side--activities__act44side__level_act44side_07_end",
+  "navigation": {
+    "nextChapterId": "act44side--activities__act44side__level_act44side_08_beg",
+    "previousChapterId": "act44side--activities__act44side__level_act44side_07_beg"
+  },
+  "subtitle": "AT-7",
+  "summary": "info/activities/act44side/level_act44side_07_end",
+  "title": "冷月"
+}

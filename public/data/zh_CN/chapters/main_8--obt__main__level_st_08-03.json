@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "M8-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "M8-3_死亡，召之即来/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/M8-3_%E6%AD%BB%E4%BA%A1%EF%BC%8C%E5%8F%AC%E4%B9%8B%E5%8D%B3%E6%9D%A5/NBT"
+  },
+  "id": "main_8--obt__main__level_st_08-03",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_main_08-05_beg",
+    "previousChapterId": "main_8--obt__main__level_main_08-04_end"
+  },
+  "subtitle": "M8-3",
+  "summary": "info/obt/main/level_st_08-03",
+  "title": "死亡，召之即来"
+}

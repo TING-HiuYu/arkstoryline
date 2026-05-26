@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "11-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-2_一丝光亮/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-2_%E4%B8%80%E4%B8%9D%E5%85%89%E4%BA%AE/END"
+  },
+  "id": "main_11--obt__main__level_main_11-02_end",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_main_11-03_beg",
+    "previousChapterId": "main_11--obt__main__level_main_11-02_beg"
+  },
+  "subtitle": "11-2",
+  "summary": "info/obt/main/level_main_11-02_end",
+  "title": "一丝光亮"
+}

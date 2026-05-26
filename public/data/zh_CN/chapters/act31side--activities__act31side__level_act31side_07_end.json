@@ -1,0 +1,21 @@
+{
+  "albumId": "act31side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "HS-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HS-7_梦四时/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HS-7_%E6%A2%A6%E5%9B%9B%E6%97%B6/END"
+  },
+  "id": "act31side--activities__act31side__level_act31side_07_end",
+  "navigation": {
+    "nextChapterId": "act31side--activities__act31side__level_act31side_08_beg",
+    "previousChapterId": "act31side--activities__act31side__level_act31side_06_beg"
+  },
+  "subtitle": "HS-7",
+  "summary": "info/activities/act31side/level_act31side_07_end",
+  "title": "梦四时"
+}

@@ -1,0 +1,360 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act14side",
+      "avgTag": "行动前",
+      "code": "BI-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-1_不欢而聚/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-1_%E4%B8%8D%E6%AC%A2%E8%80%8C%E8%81%9A/BEG"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_01_beg",
+      "path": "chapters/act14side--activities__act14side__level_act14side_01_beg.json",
+      "sort": 1,
+      "title": "不欢而聚"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "行动后",
+      "code": "BI-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-1_不欢而聚/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-1_%E4%B8%8D%E6%AC%A2%E8%80%8C%E8%81%9A/END"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_01_end",
+      "path": "chapters/act14side--activities__act14side__level_act14side_01_end.json",
+      "sort": 2,
+      "title": "不欢而聚"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "幕间",
+      "code": "BI-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-ST-1_入乡随俗/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-ST-1_%E5%85%A5%E4%B9%A1%E9%9A%8F%E4%BF%97/NBT"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_st01",
+      "path": "chapters/act14side--activities__act14side__level_act14side_st01.json",
+      "sort": 3,
+      "title": "入乡随俗"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "行动前",
+      "code": "BI-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-2_息事宁人/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-2_%E6%81%AF%E4%BA%8B%E5%AE%81%E4%BA%BA/BEG"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_02_beg",
+      "path": "chapters/act14side--activities__act14side__level_act14side_02_beg.json",
+      "sort": 4,
+      "title": "息事宁人"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "行动后",
+      "code": "BI-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-2_息事宁人/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-2_%E6%81%AF%E4%BA%8B%E5%AE%81%E4%BA%BA/END"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_02_end",
+      "path": "chapters/act14side--activities__act14side__level_act14side_02_end.json",
+      "sort": 5,
+      "title": "息事宁人"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "行动前",
+      "code": "BI-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-3_人心难测/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-3_%E4%BA%BA%E5%BF%83%E9%9A%BE%E6%B5%8B/BEG"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_03_beg",
+      "path": "chapters/act14side--activities__act14side__level_act14side_03_beg.json",
+      "sort": 6,
+      "title": "人心难测"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "行动后",
+      "code": "BI-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-3_人心难测/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-3_%E4%BA%BA%E5%BF%83%E9%9A%BE%E6%B5%8B/END"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_03_end",
+      "path": "chapters/act14side--activities__act14side__level_act14side_03_end.json",
+      "sort": 7,
+      "title": "人心难测"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "幕间",
+      "code": "BI-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-ST-2_山雪欲来/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-ST-2_%E5%B1%B1%E9%9B%AA%E6%AC%B2%E6%9D%A5/NBT"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_st02",
+      "path": "chapters/act14side--activities__act14side__level_act14side_st02.json",
+      "sort": 8,
+      "title": "山雪欲来"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "行动前",
+      "code": "BI-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-4_立雪求道/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-4_%E7%AB%8B%E9%9B%AA%E6%B1%82%E9%81%93/BEG"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_04_beg",
+      "path": "chapters/act14side--activities__act14side__level_act14side_04_beg.json",
+      "sort": 9,
+      "title": "立雪求道"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "行动后",
+      "code": "BI-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-4_立雪求道/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-4_%E7%AB%8B%E9%9B%AA%E6%B1%82%E9%81%93/END"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_04_end",
+      "path": "chapters/act14side--activities__act14side__level_act14side_04_end.json",
+      "sort": 10,
+      "title": "立雪求道"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "行动前",
+      "code": "BI-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-5_猎场/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-5_%E7%8C%8E%E5%9C%BA/BEG"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_05_beg",
+      "path": "chapters/act14side--activities__act14side__level_act14side_05_beg.json",
+      "sort": 11,
+      "title": "猎场"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "行动后",
+      "code": "BI-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-5_猎场/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-5_%E7%8C%8E%E5%9C%BA/END"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_05_end",
+      "path": "chapters/act14side--activities__act14side__level_act14side_05_end.json",
+      "sort": 12,
+      "title": "猎场"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "幕间",
+      "code": "BI-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-ST-3_一着不慎/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-ST-3_%E4%B8%80%E7%9D%80%E4%B8%8D%E6%85%8E/NBT"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_st03",
+      "path": "chapters/act14side--activities__act14side__level_act14side_st03.json",
+      "sort": 13,
+      "title": "一着不慎"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "行动前",
+      "code": "BI-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-6_歧路/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-6_%E6%AD%A7%E8%B7%AF/BEG"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_06_beg",
+      "path": "chapters/act14side--activities__act14side__level_act14side_06_beg.json",
+      "sort": 14,
+      "title": "歧路"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "行动后",
+      "code": "BI-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-6_歧路/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-6_%E6%AD%A7%E8%B7%AF/END"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_06_end",
+      "path": "chapters/act14side--activities__act14side__level_act14side_06_end.json",
+      "sort": 15,
+      "title": "歧路"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "行动前",
+      "code": "BI-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-7_破冰/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-7_%E7%A0%B4%E5%86%B0/BEG"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_07_beg",
+      "path": "chapters/act14side--activities__act14side__level_act14side_07_beg.json",
+      "sort": 16,
+      "title": "破冰"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "行动后",
+      "code": "BI-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-7_破冰/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-7_%E7%A0%B4%E5%86%B0/END"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_07_end",
+      "path": "chapters/act14side--activities__act14side__level_act14side_07_end.json",
+      "sort": 17,
+      "title": "破冰"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "行动前",
+      "code": "BI-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-8_将军/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-8_%E5%B0%86%E5%86%9B/BEG"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_08_beg",
+      "path": "chapters/act14side--activities__act14side__level_act14side_08_beg.json",
+      "sort": 18,
+      "title": "将军"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "行动后",
+      "code": "BI-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-8_将军/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-8_%E5%B0%86%E5%86%9B/END"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_08_end",
+      "path": "chapters/act14side--activities__act14side__level_act14side_08_end.json",
+      "sort": 19,
+      "title": "将军"
+    },
+    {
+      "albumId": "act14side",
+      "avgTag": "幕间",
+      "code": "BI-ST-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BI-ST-4_封盘/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BI-ST-4_%E5%B0%81%E7%9B%98/NBT"
+      },
+      "downloadable": true,
+      "id": "act14side--activities__act14side__level_act14side_st04",
+      "path": "chapters/act14side--activities__act14side__level_act14side_st04.json",
+      "sort": 20,
+      "title": "封盘"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_break_the_ice",
+    "primaryImageId": "kv_break_the_ice",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act14side",
+    "titleImageId": "title_break_the_ice",
+    "url": "https://media.prts.wiki/6/62/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E9%A3%8E%E9%9B%AA%E8%BF%87%E5%A2%83.png"
+  },
+  "extras": [],
+  "gameOrderRank": 3007,
+  "homeSection": "sideStory",
+  "id": "act14side",
+  "music": {
+    "arcTitle": "山雪与银铁",
+    "movementTitle": "山雪与银铁",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_12",
+      "tag_11"
+    ]
+  },
+  "slug": "act14side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1640059200,
+  "summary": "在这片雪境中，\n重重山峦保卫的，是亘古的虔诚信仰，\n厚厚积雪掩盖的，是积年的庞大危机。\n在罕有人及的山巅之上，\n神明无言，守护千年。\n在炊烟袅袅的祥和之境，\n铁路长驱，冲破藩篱。",
+  "timelineRank": 1640059200,
+  "title": "风雪过境"
+}

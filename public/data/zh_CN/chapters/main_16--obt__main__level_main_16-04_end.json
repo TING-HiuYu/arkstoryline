@@ -1,0 +1,21 @@
+{
+  "albumId": "main_16",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "16-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "16-4_友人成众/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/16-4_%E5%8F%8B%E4%BA%BA%E6%88%90%E4%BC%97/END"
+  },
+  "id": "main_16--obt__main__level_main_16-04_end",
+  "navigation": {
+    "nextChapterId": "main_16--obt__main__level_main_16-05_beg",
+    "previousChapterId": "main_16--obt__main__level_main_16-04_beg"
+  },
+  "subtitle": "16-4",
+  "summary": "info/obt/main/level_main_16-04_end",
+  "title": "友人成众"
+}

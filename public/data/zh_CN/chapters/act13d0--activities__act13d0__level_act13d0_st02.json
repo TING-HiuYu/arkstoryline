@@ -1,0 +1,19 @@
+{
+  "albumId": "act13d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FA-ST2_域外同族/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FA-ST2_%E5%9F%9F%E5%A4%96%E5%90%8C%E6%97%8F/NBT"
+  },
+  "id": "act13d0--activities__act13d0__level_act13d0_st02",
+  "navigation": {
+    "nextChapterId": "act13d0--activities__act13d0__level_act13d0_st03",
+    "previousChapterId": "act13d0--activities__act13d0__level_act13d0_st01"
+  },
+  "summary": "info/activities/act13d0/level_act13d0_st02",
+  "title": "域外同族"
+}

@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-好得不能再好了-泰拉投资大师课-6ebb3cb50b",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IM-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IM-1_水中捞月/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IM-1_%E6%B0%B4%E4%B8%AD%E6%8D%9E%E6%9C%88/END"
+  },
+  "id": "other-story-好得不能再好了-泰拉投资大师课-6ebb3cb50b--im-1-水中捞月-end",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "other-story-好得不能再好了-泰拉投资大师课-6ebb3cb50b--apf-2024-nbt"
+  },
+  "subtitle": "IM-1",
+  "title": "IM-1 水中捞月 行动后"
+}

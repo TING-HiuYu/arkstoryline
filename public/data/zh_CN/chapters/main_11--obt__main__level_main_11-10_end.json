@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "11-12",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-12_汹涌而来/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-12_%E6%B1%B9%E6%B6%8C%E8%80%8C%E6%9D%A5/END"
+  },
+  "id": "main_11--obt__main__level_main_11-10_end",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_main_11-12_beg",
+    "previousChapterId": "main_11--obt__main__level_main_11-09_beg"
+  },
+  "subtitle": "11-12",
+  "summary": "info/obt/main/level_main_11-10_end",
+  "title": "汹涌而来"
+}

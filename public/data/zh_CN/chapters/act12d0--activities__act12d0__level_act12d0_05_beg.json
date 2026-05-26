@@ -1,0 +1,21 @@
+{
+  "albumId": "act12d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "RI-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RI-5_各有所长/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RI-5_%E5%90%84%E6%9C%89%E6%89%80%E9%95%BF/BEG"
+  },
+  "id": "act12d0--activities__act12d0__level_act12d0_05_beg",
+  "navigation": {
+    "nextChapterId": "act12d0--activities__act12d0__level_act12d0_05_end",
+    "previousChapterId": "act12d0--activities__act12d0__level_act12d0_st01"
+  },
+  "subtitle": "RI-5",
+  "summary": "info/activities/act12d0/level_act12d0_05_beg",
+  "title": "各有所长"
+}

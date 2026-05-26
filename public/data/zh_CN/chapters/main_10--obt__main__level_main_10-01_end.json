@@ -1,0 +1,21 @@
+{
+  "albumId": "main_10",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "10-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "10-2_抢夺目标/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-2_%E6%8A%A2%E5%A4%BA%E7%9B%AE%E6%A0%87/END"
+  },
+  "id": "main_10--obt__main__level_main_10-01_end",
+  "navigation": {
+    "nextChapterId": "main_10--obt__main__level_main_10-02_beg",
+    "previousChapterId": "main_10--obt__main__level_main_10-01_beg"
+  },
+  "subtitle": "10-2",
+  "summary": "info/obt/main/level_main_10-01_end",
+  "title": "抢夺目标"
+}

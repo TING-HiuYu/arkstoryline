@@ -1,0 +1,21 @@
+{
+  "albumId": "main_16",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "16-19",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "16-19_狂人的誓言/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/16-19_%E7%8B%82%E4%BA%BA%E7%9A%84%E8%AA%93%E8%A8%80/NBT"
+  },
+  "id": "main_16--obt__main__level_st_16-02",
+  "navigation": {
+    "nextChapterId": "main_16--obt__main__level_spst_16-01",
+    "previousChapterId": "main_16--obt__main__level_main_16-18_end"
+  },
+  "subtitle": "16-19",
+  "summary": "info/obt/main/level_st_16-02",
+  "title": "狂人的誓言"
+}

@@ -1,0 +1,143 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act4d0",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SW-ST1_无名氏的战争/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SW-ST1_%E6%97%A0%E5%90%8D%E6%B0%8F%E7%9A%84%E6%88%98%E4%BA%89/NBT"
+      },
+      "downloadable": true,
+      "id": "act4d0--activities__act4d0__level_act4d0_st01",
+      "path": "chapters/act4d0--activities__act4d0__level_act4d0_st01.json",
+      "sort": 1,
+      "title": "无名氏的战争"
+    },
+    {
+      "albumId": "act4d0",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SW-ST2_破局者/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SW-ST2_%E7%A0%B4%E5%B1%80%E8%80%85/NBT"
+      },
+      "downloadable": true,
+      "id": "act4d0--activities__act4d0__level_act4d0_st02",
+      "path": "chapters/act4d0--activities__act4d0__level_act4d0_st02.json",
+      "sort": 2,
+      "title": "破局者"
+    },
+    {
+      "albumId": "act4d0",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SW-ST3_射击训练/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SW-ST3_%E5%B0%84%E5%87%BB%E8%AE%AD%E7%BB%83/NBT"
+      },
+      "downloadable": true,
+      "id": "act4d0--activities__act4d0__level_act4d0_st03",
+      "path": "chapters/act4d0--activities__act4d0__level_act4d0_st03.json",
+      "sort": 3,
+      "title": "射击训练"
+    },
+    {
+      "albumId": "act4d0",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SW-ST4_存续公正/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SW-ST4_%E5%AD%98%E7%BB%AD%E5%85%AC%E6%AD%A3/NBT"
+      },
+      "downloadable": true,
+      "id": "act4d0--activities__act4d0__level_act4d0_st04",
+      "path": "chapters/act4d0--activities__act4d0__level_act4d0_st04.json",
+      "sort": 4,
+      "title": "存续公正"
+    },
+    {
+      "albumId": "act4d0",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SW-ST5_课后作业/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SW-ST5_%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A/NBT"
+      },
+      "downloadable": true,
+      "id": "act4d0--activities__act4d0__level_act4d0_st05",
+      "path": "chapters/act4d0--activities__act4d0__level_act4d0_st05.json",
+      "sort": 5,
+      "title": "课后作业"
+    },
+    {
+      "albumId": "act4d0",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SW-ST6_北极星/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SW-ST6_%E5%8C%97%E6%9E%81%E6%98%9F/NBT"
+      },
+      "downloadable": true,
+      "id": "act4d0--activities__act4d0__level_act4d0_st06",
+      "path": "chapters/act4d0--activities__act4d0__level_act4d0_st06.json",
+      "sort": 6,
+      "title": "北极星"
+    },
+    {
+      "albumId": "act4d0",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SW-ST7_和光同尘/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SW-ST7_%E5%92%8C%E5%85%89%E5%90%8C%E5%B0%98/NBT"
+      },
+      "downloadable": true,
+      "id": "act4d0--activities__act4d0__level_act4d0_st07",
+      "path": "chapters/act4d0--activities__act4d0__level_act4d0_st07.json",
+      "sort": 7,
+      "title": "和光同尘"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_operational_intelligence",
+    "primaryImageId": "kv_operational_intelligence",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act4d0",
+    "storyPicId": "storyPic_act4d0",
+    "titleImageId": "title_operational_intelligence",
+    "url": "https://media.prts.wiki/2/2e/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%88%98%E5%9C%B0%E7%A7%98%E9%97%BB.png"
+  },
+  "extras": [],
+  "gameOrderRank": 1009,
+  "homeSection": "sideStory",
+  "id": "act4d0",
+  "music": {
+    "arcTitle": "泰拉奇谈",
+    "movementTitle": "泰拉奇谈",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act4d0",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1571126400,
+  "summary": "硝烟中的低语，刀尖下的抉择......\n战争从来不以围墙划分其边界，\n而战场中，也从不缺乏被掩埋的故事。",
+  "timelineRank": 1571126400,
+  "title": "战地秘闻"
+}

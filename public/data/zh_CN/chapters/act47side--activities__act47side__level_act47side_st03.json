@@ -1,0 +1,21 @@
+{
+  "albumId": "act47side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "UR-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "UR-ST-3_复航/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/UR-ST-3_%E5%A4%8D%E8%88%AA/NBT"
+  },
+  "id": "act47side--activities__act47side__level_act47side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act47side--activities__act47side__level_act47side_08_end"
+  },
+  "subtitle": "UR-ST-3",
+  "summary": "info/activities/act47side/level_act47side_st03",
+  "title": "复航"
+}

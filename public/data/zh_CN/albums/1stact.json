@@ -1,0 +1,296 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "1stact",
+      "avgTag": "行动前",
+      "code": "GT-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GT-1_日正当中/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GT-1_%E6%97%A5%E6%AD%A3%E5%BD%93%E4%B8%AD/BEG"
+      },
+      "downloadable": true,
+      "id": "1stact--activities__a001__level_a001_01_beg",
+      "path": "chapters/1stact--activities__a001__level_a001_01_beg.json",
+      "sort": 1,
+      "title": "日正当中"
+    },
+    {
+      "albumId": "1stact",
+      "avgTag": "行动后",
+      "code": "GT-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GT-1_日正当中/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GT-1_%E6%97%A5%E6%AD%A3%E5%BD%93%E4%B8%AD/END"
+      },
+      "downloadable": true,
+      "id": "1stact--activities__a001__level_a001_01_end",
+      "path": "chapters/1stact--activities__a001__level_a001_01_end.json",
+      "sort": 2,
+      "title": "日正当中"
+    },
+    {
+      "albumId": "1stact",
+      "avgTag": "行动前",
+      "code": "GT-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GT-2_察言观色/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GT-2_%E5%AF%9F%E8%A8%80%E8%A7%82%E8%89%B2/BEG"
+      },
+      "downloadable": true,
+      "id": "1stact--activities__a001__level_a001_02_beg",
+      "path": "chapters/1stact--activities__a001__level_a001_02_beg.json",
+      "sort": 3,
+      "title": "察言观色"
+    },
+    {
+      "albumId": "1stact",
+      "avgTag": "行动后",
+      "code": "GT-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GT-2_察言观色/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GT-2_%E5%AF%9F%E8%A8%80%E8%A7%82%E8%89%B2/END"
+      },
+      "downloadable": true,
+      "id": "1stact--activities__a001__level_a001_02_end",
+      "path": "chapters/1stact--activities__a001__level_a001_02_end.json",
+      "sort": 4,
+      "title": "察言观色"
+    },
+    {
+      "albumId": "1stact",
+      "avgTag": "行动前",
+      "code": "GT-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GT-3_意外之旅/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GT-3_%E6%84%8F%E5%A4%96%E4%B9%8B%E6%97%85/BEG"
+      },
+      "downloadable": true,
+      "id": "1stact--activities__a001__level_a001_03_beg",
+      "path": "chapters/1stact--activities__a001__level_a001_03_beg.json",
+      "sort": 5,
+      "title": "意外之旅"
+    },
+    {
+      "albumId": "1stact",
+      "avgTag": "行动后",
+      "code": "GT-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GT-3_意外之旅/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GT-3_%E6%84%8F%E5%A4%96%E4%B9%8B%E6%97%85/END"
+      },
+      "downloadable": true,
+      "id": "1stact--activities__a001__level_a001_03_end",
+      "path": "chapters/1stact--activities__a001__level_a001_03_end.json",
+      "sort": 6,
+      "title": "意外之旅"
+    },
+    {
+      "albumId": "1stact",
+      "avgTag": "行动前",
+      "code": "GT-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GT-4_污点证人/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GT-4_%E6%B1%A1%E7%82%B9%E8%AF%81%E4%BA%BA/BEG"
+      },
+      "downloadable": true,
+      "id": "1stact--activities__a001__level_a001_04_beg",
+      "path": "chapters/1stact--activities__a001__level_a001_04_beg.json",
+      "sort": 7,
+      "title": "污点证人"
+    },
+    {
+      "albumId": "1stact",
+      "avgTag": "行动后",
+      "code": "GT-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GT-4_污点证人/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GT-4_%E6%B1%A1%E7%82%B9%E8%AF%81%E4%BA%BA/END"
+      },
+      "downloadable": true,
+      "id": "1stact--activities__a001__level_a001_04_end",
+      "path": "chapters/1stact--activities__a001__level_a001_04_end.json",
+      "sort": 8,
+      "title": "污点证人"
+    },
+    {
+      "albumId": "1stact",
+      "avgTag": "行动前",
+      "code": "GT-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GT-5_各抒己见/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GT-5_%E5%90%84%E6%8A%92%E5%B7%B1%E8%A7%81/BEG"
+      },
+      "downloadable": true,
+      "id": "1stact--activities__a001__level_a001_05_beg",
+      "path": "chapters/1stact--activities__a001__level_a001_05_beg.json",
+      "sort": 9,
+      "title": "各抒己见"
+    },
+    {
+      "albumId": "1stact",
+      "avgTag": "行动后",
+      "code": "GT-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GT-5_各抒己见/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GT-5_%E5%90%84%E6%8A%92%E5%B7%B1%E8%A7%81/END"
+      },
+      "downloadable": true,
+      "id": "1stact--activities__a001__level_a001_05_end",
+      "path": "chapters/1stact--activities__a001__level_a001_05_end.json",
+      "sort": 10,
+      "title": "各抒己见"
+    },
+    {
+      "albumId": "1stact",
+      "avgTag": "行动前",
+      "code": "GT-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GT-6_黄金三角/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GT-6_%E9%BB%84%E9%87%91%E4%B8%89%E8%A7%92/BEG"
+      },
+      "downloadable": true,
+      "id": "1stact--activities__a001__level_a001_06_beg",
+      "path": "chapters/1stact--activities__a001__level_a001_06_beg.json",
+      "sort": 11,
+      "title": "黄金三角"
+    },
+    {
+      "albumId": "1stact",
+      "avgTag": "行动后",
+      "code": "GT-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GT-6_黄金三角/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GT-6_%E9%BB%84%E9%87%91%E4%B8%89%E8%A7%92/END"
+      },
+      "downloadable": true,
+      "id": "1stact--activities__a001__level_a001_06_end",
+      "path": "chapters/1stact--activities__a001__level_a001_06_end.json",
+      "sort": 12,
+      "title": "黄金三角"
+    },
+    {
+      "albumId": "1stact",
+      "avgTag": "行动后",
+      "code": "GT-EX-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GT-EX-1_大地惊雷/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GT-EX-1_%E5%A4%A7%E5%9C%B0%E6%83%8A%E9%9B%B7/END"
+      },
+      "downloadable": true,
+      "id": "1stact--activities__a001__level_a001_ex01_end",
+      "path": "chapters/1stact--activities__a001__level_a001_ex01_end.json",
+      "sort": 13,
+      "title": "大地惊雷"
+    },
+    {
+      "albumId": "1stact",
+      "avgTag": "行动后",
+      "code": "GT-EX-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GT-EX-3_与狼共舞/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GT-EX-3_%E4%B8%8E%E7%8B%BC%E5%85%B1%E8%88%9E/END"
+      },
+      "downloadable": true,
+      "id": "1stact--activities__a001__level_a001_ex03_end",
+      "path": "chapters/1stact--activities__a001__level_a001_ex03_end.json",
+      "sort": 14,
+      "title": "与狼共舞"
+    },
+    {
+      "albumId": "1stact",
+      "avgTag": "行动后",
+      "code": "GT-HX-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GT-HX-1_碧血金沙/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GT-HX-1_%E7%A2%A7%E8%A1%80%E9%87%91%E6%B2%99/END"
+      },
+      "downloadable": true,
+      "id": "1stact--activities__a001__level_a001_ex04_end",
+      "path": "chapters/1stact--activities__a001__level_a001_ex04_end.json",
+      "sort": 15,
+      "title": "碧血金沙"
+    },
+    {
+      "albumId": "1stact",
+      "avgTag": "行动后",
+      "code": "GT-HX-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GT-HX-3_西部往事/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GT-HX-3_%E8%A5%BF%E9%83%A8%E5%BE%80%E4%BA%8B/END"
+      },
+      "downloadable": true,
+      "id": "1stact--activities__a001__level_a001_ex06_end",
+      "path": "chapters/1stact--activities__a001__level_a001_ex06_end.json",
+      "sort": 16,
+      "title": "西部往事"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_grani_and_the_knights_treasure",
+    "primaryImageId": "kv_grani_and_the_knights_treasure",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act1d0",
+    "titleImageId": "title_grani_and_the_knights_treasure",
+    "url": "https://media.prts.wiki/6/63/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E9%AA%91%E5%85%B5%E4%B8%8E%E7%8C%8E%E4%BA%BA.png"
+  },
+  "extras": [],
+  "gameOrderRank": 1006,
+  "homeSection": "sideStory",
+  "id": "1stact",
+  "music": {
+    "arcTitle": "自海渊的一瞥",
+    "movementTitle": "自海渊的一瞥",
+    "recommended": true,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_01",
+      "tag_12"
+    ]
+  },
+  "slug": "1stact",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1559181600,
+  "summary": "卡西米尔的偏远村庄滴水村最近被赏金猎人们所占据，\n这些人大肆破坏，目的是想获得埋藏在此的骑士宝藏。\n收到求救信号后，骑警格拉尼自告奋勇前来解决此事，\n她真的能够驱逐赏金猎人，\n找到神秘的骑士宝藏，\n还滴水村和平吗？\n让我们拭目以待。",
+  "timelineRank": 1559181600,
+  "title": "骑兵与猎人"
+}

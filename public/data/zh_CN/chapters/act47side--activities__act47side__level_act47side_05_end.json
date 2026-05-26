@@ -1,0 +1,21 @@
+{
+  "albumId": "act47side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "UR-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "UR-5_注目礼/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/UR-5_%E6%B3%A8%E7%9B%AE%E7%A4%BC/END"
+  },
+  "id": "act47side--activities__act47side__level_act47side_05_end",
+  "navigation": {
+    "nextChapterId": "act47side--activities__act47side__level_act47side_06_beg",
+    "previousChapterId": "act47side--activities__act47side__level_act47side_05_beg"
+  },
+  "subtitle": "UR-5",
+  "summary": "info/activities/act47side/level_act47side_05_end",
+  "title": "注目礼"
+}

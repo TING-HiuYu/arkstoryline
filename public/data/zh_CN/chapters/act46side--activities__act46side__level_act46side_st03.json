@@ -1,0 +1,21 @@
+{
+  "albumId": "act46side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "OS-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OS-ST-3_寻心道途/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OS-ST-3_%E5%AF%BB%E5%BF%83%E9%81%93%E9%80%94/NBT"
+  },
+  "id": "act46side--activities__act46side__level_act46side_st03",
+  "navigation": {
+    "nextChapterId": "act46side--activities__act46side__level_act46side_09_beg",
+    "previousChapterId": "act46side--activities__act46side__level_act46side_08_end"
+  },
+  "subtitle": "OS-ST-3",
+  "summary": "info/activities/act46side/level_act46side_st03",
+  "title": "寻心道途"
+}

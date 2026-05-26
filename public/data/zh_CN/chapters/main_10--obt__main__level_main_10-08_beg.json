@@ -1,0 +1,21 @@
+{
+  "albumId": "main_10",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "10-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "10-9_他乡故知/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-9_%E4%BB%96%E4%B9%A1%E6%95%85%E7%9F%A5/BEG"
+  },
+  "id": "main_10--obt__main__level_main_10-08_beg",
+  "navigation": {
+    "nextChapterId": "main_10--obt__main__level_main_10-08_end",
+    "previousChapterId": "main_10--obt__main__level_main_10-07_end"
+  },
+  "subtitle": "10-9",
+  "summary": "info/obt/main/level_main_10-08_beg",
+  "title": "他乡故知"
+}

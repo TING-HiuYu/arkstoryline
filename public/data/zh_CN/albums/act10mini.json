@@ -1,0 +1,128 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act10mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TB-ST1_或许有时/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TB-ST1_%E6%88%96%E8%AE%B8%E6%9C%89%E6%97%B6/NBT"
+      },
+      "downloadable": true,
+      "id": "act10mini--activities__act10mini__level_act10mini_st01",
+      "path": "chapters/act10mini--activities__act10mini__level_act10mini_st01.json",
+      "sort": 1,
+      "title": "或许有时"
+    },
+    {
+      "albumId": "act10mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TB-ST2_我如浮萍/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TB-ST2_%E6%88%91%E5%A6%82%E6%B5%AE%E8%90%8D/NBT"
+      },
+      "downloadable": true,
+      "id": "act10mini--activities__act10mini__level_act10mini_st02",
+      "path": "chapters/act10mini--activities__act10mini__level_act10mini_st02.json",
+      "sort": 2,
+      "title": "我如浮萍"
+    },
+    {
+      "albumId": "act10mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TB-ST3_终将同行/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TB-ST3_%E7%BB%88%E5%B0%86%E5%90%8C%E8%A1%8C/NBT"
+      },
+      "downloadable": true,
+      "id": "act10mini--activities__act10mini__level_act10mini_st03",
+      "path": "chapters/act10mini--activities__act10mini__level_act10mini_st03.json",
+      "sort": 3,
+      "title": "终将同行"
+    },
+    {
+      "albumId": "act10mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TB-ST4_孤行骑警/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TB-ST4_%E5%AD%A4%E8%A1%8C%E9%AA%91%E8%AD%A6/NBT"
+      },
+      "downloadable": true,
+      "id": "act10mini--activities__act10mini__level_act10mini_st04",
+      "path": "chapters/act10mini--activities__act10mini__level_act10mini_st04.json",
+      "sort": 4,
+      "title": "孤行骑警"
+    },
+    {
+      "albumId": "act10mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TB-ST5_必有所偿/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TB-ST5_%E5%BF%85%E6%9C%89%E6%89%80%E5%81%BF/NBT"
+      },
+      "downloadable": true,
+      "id": "act10mini--activities__act10mini__level_act10mini_st05",
+      "path": "chapters/act10mini--activities__act10mini__level_act10mini_st05.json",
+      "sort": 5,
+      "title": "必有所偿"
+    },
+    {
+      "albumId": "act10mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TB-ST6_叮咚作响/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TB-ST6_%E5%8F%AE%E5%92%9A%E4%BD%9C%E5%93%8D/NBT"
+      },
+      "downloadable": true,
+      "id": "act10mini--activities__act10mini__level_act10mini_st06",
+      "path": "chapters/act10mini--activities__act10mini__level_act10mini_st06.json",
+      "sort": 6,
+      "title": "叮咚作响"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_a_light_spark_in_darkness",
+    "primaryImageId": "kv_a_light_spark_in_darkness",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act10mini",
+    "storyPicId": "storyPic_act10mini",
+    "titleImageId": "title_a_light_spark_in_darkness",
+    "url": "https://media.prts.wiki/2/27/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E9%98%B4%E4%BA%91%E7%81%AB%E8%8A%B1.png"
+  },
+  "extras": [],
+  "gameOrderRank": 3009,
+  "homeSection": "sideStory",
+  "id": "act10mini",
+  "music": {
+    "arcTitle": "泰拉奇谈",
+    "movementTitle": "泰拉奇谈",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act10mini",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1644912000,
+  "summary": "卡拉顿的阴云之下，一场大火将“绿意火花”焚为废墟，\n也摧毁了苏茜那微小却遥不可及的梦想。\n在浓烟背后，一场针对感染者的丑陋阴谋正在扩张......",
+  "timelineRank": 1644912000,
+  "title": "阴云火花"
+}

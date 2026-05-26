@@ -1,0 +1,19 @@
+{
+  "albumId": "act14mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DC-ST4_出入平安/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DC-ST4_%E5%87%BA%E5%85%A5%E5%B9%B3%E5%AE%89/NBT"
+  },
+  "id": "act14mini--activities__act14mini__level_act14mini_st04",
+  "navigation": {
+    "nextChapterId": "act14mini--activities__act14mini__level_act14mini_st05",
+    "previousChapterId": "act14mini--activities__act14mini__level_act14mini_st03"
+  },
+  "summary": "info/activities/act14mini/level_act14mini_st04",
+  "title": "出入平安"
+}

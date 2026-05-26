@@ -1,0 +1,21 @@
+{
+  "albumId": "main_6",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "6-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "6-3_同时走失/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/6-3_%E5%90%8C%E6%97%B6%E8%B5%B0%E5%A4%B1/BEG"
+  },
+  "id": "main_6--obt__main__level_main_06-03_beg",
+  "navigation": {
+    "nextChapterId": "main_6--obt__main__level_main_06-03_end",
+    "previousChapterId": "main_6--obt__main__level_main_06-02_end"
+  },
+  "subtitle": "6-3",
+  "summary": "info/obt/main/level_main_06-03_beg",
+  "title": "同时走失"
+}

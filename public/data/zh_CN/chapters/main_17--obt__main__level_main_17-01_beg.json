@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "17-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "17-2_救赎迟来/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/17-2_%E6%95%91%E8%B5%8E%E8%BF%9F%E6%9D%A5/BEG"
+  },
+  "id": "main_17--obt__main__level_main_17-01_beg",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_main_tr28_end",
+    "previousChapterId": "main_17--obt__main__level_st_17-01"
+  },
+  "subtitle": "17-2",
+  "summary": "info/obt/main/level_main_17-01_beg",
+  "title": "救赎迟来"
+}

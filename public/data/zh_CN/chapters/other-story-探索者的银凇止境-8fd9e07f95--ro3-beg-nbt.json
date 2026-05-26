@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-探索者的银凇止境-8fd9e07f95",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RO3-BEG/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RO3-BEG/NBT"
+  },
+  "id": "other-story-探索者的银凇止境-8fd9e07f95--ro3-beg-nbt",
+  "navigation": {
+    "nextChapterId": "other-story-探索者的银凇止境-8fd9e07f95--ro3-end-1-nbt",
+    "previousChapterId": null
+  },
+  "subtitle": null,
+  "title": "序章"
+}

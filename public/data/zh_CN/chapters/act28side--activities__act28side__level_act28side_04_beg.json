@@ -1,0 +1,21 @@
+{
+  "albumId": "act28side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CV-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CV-4_缺席的人/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CV-4_%E7%BC%BA%E5%B8%AD%E7%9A%84%E4%BA%BA/BEG"
+  },
+  "id": "act28side--activities__act28side__level_act28side_04_beg",
+  "navigation": {
+    "nextChapterId": "act28side--activities__act28side__level_act28side_04_end",
+    "previousChapterId": "act28side--activities__act28side__level_act28side_03_end"
+  },
+  "subtitle": "CV-4",
+  "summary": "info/activities/act28side/level_act28side_04_beg",
+  "title": "缺席的人"
+}

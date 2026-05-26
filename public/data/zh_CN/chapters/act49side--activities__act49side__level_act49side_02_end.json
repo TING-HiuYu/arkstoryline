@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-2_大头鬼/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-2_%E5%A4%A7%E5%A4%B4%E9%AC%BC/END"
+  },
+  "id": "act49side--activities__act49side__level_act49side_02_end",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_03_beg",
+    "previousChapterId": "act49side--activities__act49side__level_act49side_02_beg"
+  },
+  "subtitle": "TA-2",
+  "summary": "info/activities/act49side/level_act49side_02_end",
+  "title": "大头鬼"
+}

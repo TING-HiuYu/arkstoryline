@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "13-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "13-10_幻境迁流/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-10_%E5%B9%BB%E5%A2%83%E8%BF%81%E6%B5%81/END"
+  },
+  "id": "main_13--obt__main__level_main_13-08_end",
+  "navigation": {
+    "nextChapterId": "main_13--obt__main__level_main_13-09_beg",
+    "previousChapterId": "main_13--obt__main__level_st_13-02"
+  },
+  "subtitle": "13-10",
+  "summary": "info/obt/main/level_main_13-08_end",
+  "title": "幻境迁流"
+}

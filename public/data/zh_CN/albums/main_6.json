@@ -1,0 +1,468 @@
+{
+  "albumKind": "mainline",
+  "chapters": [
+    {
+      "albumId": "main_6",
+      "avgTag": "行动前",
+      "code": "6-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-1_僵局/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-1_%E5%83%B5%E5%B1%80/BEG"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-01_beg",
+      "path": "chapters/main_6--obt__main__level_main_06-01_beg.json",
+      "sort": 1,
+      "title": "僵局"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动后",
+      "code": "6-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-1_僵局/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-1_%E5%83%B5%E5%B1%80/END"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-01_end",
+      "path": "chapters/main_6--obt__main__level_main_06-01_end.json",
+      "sort": 2,
+      "title": "僵局"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动前",
+      "code": "6-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-2_一些误会/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-2_%E4%B8%80%E4%BA%9B%E8%AF%AF%E4%BC%9A/BEG"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-02_beg",
+      "path": "chapters/main_6--obt__main__level_main_06-02_beg.json",
+      "sort": 3,
+      "title": "一些误会"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动后",
+      "code": "6-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-2_一些误会/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-2_%E4%B8%80%E4%BA%9B%E8%AF%AF%E4%BC%9A/END"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-02_end",
+      "path": "chapters/main_6--obt__main__level_main_06-02_end.json",
+      "sort": 4,
+      "title": "一些误会"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动前",
+      "code": "6-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-3_同时走失/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-3_%E5%90%8C%E6%97%B6%E8%B5%B0%E5%A4%B1/BEG"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-03_beg",
+      "path": "chapters/main_6--obt__main__level_main_06-03_beg.json",
+      "sort": 5,
+      "title": "同时走失"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动后",
+      "code": "6-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-3_同时走失/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-3_%E5%90%8C%E6%97%B6%E8%B5%B0%E5%A4%B1/END"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-03_end",
+      "path": "chapters/main_6--obt__main__level_main_06-03_end.json",
+      "sort": 6,
+      "title": "同时走失"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动前",
+      "code": "6-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-4_溃烂的疮疤/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-4_%E6%BA%83%E7%83%82%E7%9A%84%E7%96%AE%E7%96%A4/BEG"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-04_beg",
+      "path": "chapters/main_6--obt__main__level_main_06-04_beg.json",
+      "sort": 7,
+      "title": "溃烂的疮疤"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动后",
+      "code": "6-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-4_溃烂的疮疤/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-4_%E6%BA%83%E7%83%82%E7%9A%84%E7%96%AE%E7%96%A4/END"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-04_end",
+      "path": "chapters/main_6--obt__main__level_main_06-04_end.json",
+      "sort": 8,
+      "title": "溃烂的疮疤"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动前",
+      "code": "6-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-5_解决谁？/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-5_%E8%A7%A3%E5%86%B3%E8%B0%81%EF%BC%9F/BEG"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-05_beg",
+      "path": "chapters/main_6--obt__main__level_main_06-05_beg.json",
+      "sort": 9,
+      "title": "解决谁？"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动后",
+      "code": "6-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-5_解决谁？/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-5_%E8%A7%A3%E5%86%B3%E8%B0%81%EF%BC%9F/END"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-05_end",
+      "path": "chapters/main_6--obt__main__level_main_06-05_end.json",
+      "sort": 10,
+      "title": "解决谁？"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "幕间",
+      "code": "6-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-6_别说过去的事/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-6_%E5%88%AB%E8%AF%B4%E8%BF%87%E5%8E%BB%E7%9A%84%E4%BA%8B/NBT"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_st_06-01",
+      "path": "chapters/main_6--obt__main__level_st_06-01.json",
+      "sort": 11,
+      "title": "别说过去的事"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动前",
+      "code": "6-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-7_断弦/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-7_%E6%96%AD%E5%BC%A6/BEG"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-06_beg",
+      "path": "chapters/main_6--obt__main__level_main_06-06_beg.json",
+      "sort": 12,
+      "title": "断弦"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动后",
+      "code": "6-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-7_断弦/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-7_%E6%96%AD%E5%BC%A6/END"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-06_end",
+      "path": "chapters/main_6--obt__main__level_main_06-06_end.json",
+      "sort": 13,
+      "title": "断弦"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动前",
+      "code": "6-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-8_只是从天而降！/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-8_%E5%8F%AA%E6%98%AF%E4%BB%8E%E5%A4%A9%E8%80%8C%E9%99%8D%EF%BC%81/BEG"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-07_beg",
+      "path": "chapters/main_6--obt__main__level_main_06-07_beg.json",
+      "sort": 14,
+      "title": "只是从天而降！"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动后",
+      "code": "6-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-8_只是从天而降！/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-8_%E5%8F%AA%E6%98%AF%E4%BB%8E%E5%A4%A9%E8%80%8C%E9%99%8D%EF%BC%81/END"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-07_end",
+      "path": "chapters/main_6--obt__main__level_main_06-07_end.json",
+      "sort": 15,
+      "title": "只是从天而降！"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动前",
+      "code": "6-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-9_换一个角度/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-9_%E6%8D%A2%E4%B8%80%E4%B8%AA%E8%A7%92%E5%BA%A6/BEG"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-08_beg",
+      "path": "chapters/main_6--obt__main__level_main_06-08_beg.json",
+      "sort": 16,
+      "title": "换一个角度"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动后",
+      "code": "6-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-10_解开铃铛/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-10_%E8%A7%A3%E5%BC%80%E9%93%83%E9%93%9B/END"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-09_end",
+      "path": "chapters/main_6--obt__main__level_main_06-09_end.json",
+      "sort": 17,
+      "title": "解开铃铛"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动前",
+      "code": "6-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-11_“这种事”/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-11_%E2%80%9C%E8%BF%99%E7%A7%8D%E4%BA%8B%E2%80%9D/BEG"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-10_beg",
+      "path": "chapters/main_6--obt__main__level_main_06-10_beg.json",
+      "sort": 18,
+      "title": "“这种事”"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动后",
+      "code": "6-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-11_“这种事”/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-11_%E2%80%9C%E8%BF%99%E7%A7%8D%E4%BA%8B%E2%80%9D/END"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-10_end",
+      "path": "chapters/main_6--obt__main__level_main_06-10_end.json",
+      "sort": 19,
+      "title": "“这种事”"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动前",
+      "code": "6-12",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-12_冰原之雪/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-12_%E5%86%B0%E5%8E%9F%E4%B9%8B%E9%9B%AA/BEG"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-11_beg",
+      "path": "chapters/main_6--obt__main__level_main_06-11_beg.json",
+      "sort": 20,
+      "title": "冰原之雪"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动后",
+      "code": "6-14",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-14_冰原之霜/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-14_%E5%86%B0%E5%8E%9F%E4%B9%8B%E9%9C%9C/END"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-12_end",
+      "path": "chapters/main_6--obt__main__level_main_06-12_end.json",
+      "sort": 20,
+      "title": "冰原之霜"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "幕间",
+      "code": "6-13",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-13_没有火,没有光/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-13_%E6%B2%A1%E6%9C%89%E7%81%AB%2C%E6%B2%A1%E6%9C%89%E5%85%89/NBT"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_st_06-02",
+      "path": "chapters/main_6--obt__main__level_st_06-02.json",
+      "sort": 21,
+      "title": "没有火,没有光"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动前",
+      "code": "6-15",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-15_不错的回忆/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-15_%E4%B8%8D%E9%94%99%E7%9A%84%E5%9B%9E%E5%BF%86/BEG"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-13_beg",
+      "path": "chapters/main_6--obt__main__level_main_06-13_beg.json",
+      "sort": 22,
+      "title": "不错的回忆"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动后",
+      "code": "6-15",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-15_不错的回忆/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-15_%E4%B8%8D%E9%94%99%E7%9A%84%E5%9B%9E%E5%BF%86/END"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-13_end",
+      "path": "chapters/main_6--obt__main__level_main_06-13_end.json",
+      "sort": 23,
+      "title": "不错的回忆"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动前",
+      "code": "6-16",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-16_黑兔子,白兔子/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-16_%E9%BB%91%E5%85%94%E5%AD%90%2C%E7%99%BD%E5%85%94%E5%AD%90/BEG"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-14_beg",
+      "path": "chapters/main_6--obt__main__level_main_06-14_beg.json",
+      "sort": 24,
+      "title": "黑兔子,白兔子"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "行动后",
+      "code": "6-17",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-17_冬逝/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-17_%E5%86%AC%E9%80%9D/END"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_main_06-15_end",
+      "path": "chapters/main_6--obt__main__level_main_06-15_end.json",
+      "sort": 25,
+      "title": "冬逝"
+    },
+    {
+      "albumId": "main_6",
+      "avgTag": "幕间",
+      "code": "6-18",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "6-18_只有你知道/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/6-18_%E5%8F%AA%E6%9C%89%E4%BD%A0%E7%9F%A5%E9%81%93/NBT"
+      },
+      "downloadable": true,
+      "id": "main_6--obt__main__level_st_06-03",
+      "path": "chapters/main_6--obt__main__level_st_06-03.json",
+      "sort": 26,
+      "title": "只有你知道"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_partial_necrosis",
+    "primaryImageId": "kv_partial_necrosis",
+    "source": "stage-kv",
+    "titleImageId": "title_partial_necrosis",
+    "url": "https://media.prts.wiki/c/cb/%E7%AB%A0%E8%8A%82%E5%90%8D%E7%A7%B0_%E7%AC%AC%E5%85%AD%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 1011,
+  "homeSection": "mainline",
+  "id": "main_6",
+  "music": {
+    "arcTitle": "Ⅰ 幻灭",
+    "movementTitle": "Ⅰ 幻灭",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "main-6",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": -1,
+  "summary": "不明的黑影行于龙门阴暗的街巷。\n牧群几近疯狂，整合运动的兵力逐渐溃散。\n当你再一次遇见她，\n你已知晓你们之间的结局唯有一种。\n严寒归于温暖，霜雪终究消散。",
+  "timelineRank": -1,
+  "title": "局部坏死"
+}

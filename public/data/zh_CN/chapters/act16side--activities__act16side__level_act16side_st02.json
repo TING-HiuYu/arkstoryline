@@ -1,0 +1,21 @@
+{
+  "albumId": "act16side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "GA-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GA-ST-2_鸢尾花/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GA-ST-2_%E9%B8%A2%E5%B0%BE%E8%8A%B1/NBT"
+  },
+  "id": "act16side--activities__act16side__level_act16side_st02",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act16side--activities__act16side__level_act16side_08_end"
+  },
+  "subtitle": "GA-ST-2",
+  "summary": "info/activities/act16side/level_act16side_st02",
+  "title": "鸢尾花"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_9",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "9-19",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "9-19_长夜枪火/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/9-19_%E9%95%BF%E5%A4%9C%E6%9E%AA%E7%81%AB/END"
+  },
+  "id": "main_9--obt__main__level_main_09-17_end",
+  "navigation": {
+    "nextChapterId": "main_9--obt__main__level_st_09-03",
+    "previousChapterId": "main_9--obt__main__level_main_09-17_beg"
+  },
+  "subtitle": "9-19",
+  "summary": "info/obt/main/level_main_09-17_end",
+  "title": "长夜枪火"
+}

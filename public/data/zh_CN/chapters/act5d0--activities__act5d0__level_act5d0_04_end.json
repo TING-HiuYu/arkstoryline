@@ -1,0 +1,21 @@
+{
+  "albumId": "act5d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CB-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CB-4_7:59P.M./END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-4_7%3A59P.M./END"
+  },
+  "id": "act5d0--activities__act5d0__level_act5d0_04_end",
+  "navigation": {
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_05_beg",
+    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_04_beg"
+  },
+  "subtitle": "CB-4",
+  "summary": "info/activities/act5d0/level_act5d0_04_end",
+  "title": "7:59P.M."
+}

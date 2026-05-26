@@ -1,0 +1,21 @@
+{
+  "albumId": "act39side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "EP-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EP-ST-1_别了，盐漠/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EP-ST-1_%E5%88%AB%E4%BA%86%EF%BC%8C%E7%9B%90%E6%BC%A0/NBT"
+  },
+  "id": "act39side--activities__act39side__level_act39side_st01",
+  "navigation": {
+    "nextChapterId": "act39side--activities__act39side__level_act39side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "EP-ST-1",
+  "summary": "info/activities/act39side/level_act39side_st01",
+  "title": "别了，盐漠"
+}

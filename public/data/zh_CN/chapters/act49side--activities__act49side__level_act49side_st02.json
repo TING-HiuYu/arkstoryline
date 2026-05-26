@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-ST-2_史不失书/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-ST-2_%E5%8F%B2%E4%B8%8D%E5%A4%B1%E4%B9%A6/NBT"
+  },
+  "id": "act49side--activities__act49side__level_act49side_st02",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act49side--activities__act49side__level_act49side_11_end"
+  },
+  "subtitle": "TA-ST-2",
+  "summary": "info/activities/act49side/level_act49side_st02",
+  "title": "史不失书"
+}

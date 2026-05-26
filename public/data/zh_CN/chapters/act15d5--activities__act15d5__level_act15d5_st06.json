@@ -1,0 +1,19 @@
+{
+  "albumId": "act15d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BH-ST6_剑与天秤/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BH-ST6_%E5%89%91%E4%B8%8E%E5%A4%A9%E7%A7%A4/NBT"
+  },
+  "id": "act15d5--activities__act15d5__level_act15d5_st06",
+  "navigation": {
+    "nextChapterId": "act15d5--activities__act15d5__level_act15d5_st07",
+    "previousChapterId": "act15d5--activities__act15d5__level_act15d5_st05"
+  },
+  "summary": "info/activities/act15d5/level_act15d5_st06",
+  "title": "剑与天秤"
+}

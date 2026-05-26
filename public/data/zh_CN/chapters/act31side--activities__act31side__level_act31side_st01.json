@@ -1,0 +1,21 @@
+{
+  "albumId": "act31side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "HS-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HS-ST-1_禾下梦/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HS-ST-1_%E7%A6%BE%E4%B8%8B%E6%A2%A6/NBT"
+  },
+  "id": "act31side--activities__act31side__level_act31side_st01",
+  "navigation": {
+    "nextChapterId": "act31side--activities__act31side__level_act31side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "HS-ST-1",
+  "summary": "info/activities/act31side/level_act31side_st01",
+  "title": "禾下梦"
+}

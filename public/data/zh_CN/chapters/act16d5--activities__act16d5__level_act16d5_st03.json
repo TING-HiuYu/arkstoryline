@@ -1,0 +1,21 @@
+{
+  "albumId": "act16d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "WR-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WR-ST-3_一问之答/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WR-ST-3_%E4%B8%80%E9%97%AE%E4%B9%8B%E7%AD%94/NBT"
+  },
+  "id": "act16d5--activities__act16d5__level_act16d5_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act16d5--activities__act16d5__level_act16d5_10_end"
+  },
+  "subtitle": "WR-ST-3",
+  "summary": "info/activities/act16d5/level_act16d5_st03",
+  "title": "一问之答"
+}

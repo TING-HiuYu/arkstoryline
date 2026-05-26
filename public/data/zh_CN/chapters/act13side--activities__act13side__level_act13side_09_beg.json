@@ -1,0 +1,21 @@
+{
+  "albumId": "act13side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "NL-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "NL-9_叹息/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/NL-9_%E5%8F%B9%E6%81%AF/BEG"
+  },
+  "id": "act13side--activities__act13side__level_act13side_09_beg",
+  "navigation": {
+    "nextChapterId": "act13side--activities__act13side__level_act13side_09_end",
+    "previousChapterId": "act13side--activities__act13side__level_act13side_08_end"
+  },
+  "subtitle": "NL-9",
+  "summary": "info/activities/act13side/level_act13side_09_beg",
+  "title": "叹息"
+}

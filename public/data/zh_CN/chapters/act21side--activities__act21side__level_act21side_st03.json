@@ -1,0 +1,21 @@
+{
+  "albumId": "act21side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "IS-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IS-ST-3_剜刺/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-ST-3_%E5%89%9C%E5%88%BA/NBT"
+  },
+  "id": "act21side--activities__act21side__level_act21side_st03",
+  "navigation": {
+    "nextChapterId": "act21side--activities__act21side__level_act21side_09_beg",
+    "previousChapterId": "act21side--activities__act21side__level_act21side_08_end"
+  },
+  "subtitle": "IS-ST-3",
+  "summary": "info/activities/act21side/level_act21side_st03",
+  "title": "剜刺"
+}

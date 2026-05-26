@@ -1,0 +1,21 @@
+{
+  "albumId": "act16side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "GA-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GA-7_光与影/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GA-7_%E5%85%89%E4%B8%8E%E5%BD%B1/BEG"
+  },
+  "id": "act16side--activities__act16side__level_act16side_07_beg",
+  "navigation": {
+    "nextChapterId": "act16side--activities__act16side__level_act16side_07_end",
+    "previousChapterId": "act16side--activities__act16side__level_act16side_06_end"
+  },
+  "subtitle": "GA-7",
+  "summary": "info/activities/act16side/level_act16side_07_beg",
+  "title": "光与影"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_6",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "6-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "6-10_解开铃铛/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/6-10_%E8%A7%A3%E5%BC%80%E9%93%83%E9%93%9B/END"
+  },
+  "id": "main_6--obt__main__level_main_06-09_end",
+  "navigation": {
+    "nextChapterId": "main_6--obt__main__level_main_06-10_beg",
+    "previousChapterId": "main_6--obt__main__level_main_06-08_beg"
+  },
+  "subtitle": "6-10",
+  "summary": "info/obt/main/level_main_06-09_end",
+  "title": "解开铃铛"
+}

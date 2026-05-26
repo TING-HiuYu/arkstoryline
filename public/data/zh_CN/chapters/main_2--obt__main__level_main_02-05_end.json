@@ -1,0 +1,21 @@
+{
+  "albumId": "main_2",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "2-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "2-5_高空坠物/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/2-5_%E9%AB%98%E7%A9%BA%E5%9D%A0%E7%89%A9/END"
+  },
+  "id": "main_2--obt__main__level_main_02-05_end",
+  "navigation": {
+    "nextChapterId": "main_2--obt__main__level_main_02-06_beg",
+    "previousChapterId": "main_2--obt__main__level_main_02-05_beg"
+  },
+  "subtitle": "2-5",
+  "summary": "info/obt/main/level_main_02-05_end",
+  "title": "高空坠物"
+}

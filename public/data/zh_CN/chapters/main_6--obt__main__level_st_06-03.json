@@ -1,0 +1,21 @@
+{
+  "albumId": "main_6",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "6-18",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "6-18_只有你知道/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/6-18_%E5%8F%AA%E6%9C%89%E4%BD%A0%E7%9F%A5%E9%81%93/NBT"
+  },
+  "id": "main_6--obt__main__level_st_06-03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "main_6--obt__main__level_main_06-15_end"
+  },
+  "subtitle": "6-18",
+  "summary": "info/obt/main/level_st_06-03",
+  "title": "只有你知道"
+}

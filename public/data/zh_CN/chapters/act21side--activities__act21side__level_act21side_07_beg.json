@@ -1,0 +1,21 @@
+{
+  "albumId": "act21side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "IS-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IS-7_何以忘却/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-7_%E4%BD%95%E4%BB%A5%E5%BF%98%E5%8D%B4/BEG"
+  },
+  "id": "act21side--activities__act21side__level_act21side_07_beg",
+  "navigation": {
+    "nextChapterId": "act21side--activities__act21side__level_act21side_07_end",
+    "previousChapterId": "act21side--activities__act21side__level_act21side_06_end"
+  },
+  "subtitle": "IS-7",
+  "summary": "info/activities/act21side/level_act21side_07_beg",
+  "title": "何以忘却"
+}

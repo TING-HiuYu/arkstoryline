@@ -1,0 +1,21 @@
+{
+  "albumId": "act43side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "AD-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AD-8_登台致礼/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AD-8_%E7%99%BB%E5%8F%B0%E8%87%B4%E7%A4%BC/END"
+  },
+  "id": "act43side--activities__act43side__level_act43side_08_end",
+  "navigation": {
+    "nextChapterId": "act43side--activities__act43side__level_act43side_st03",
+    "previousChapterId": "act43side--activities__act43side__level_act43side_08_beg"
+  },
+  "subtitle": "AD-8",
+  "summary": "info/activities/act43side/level_act43side_08_end",
+  "title": "登台致礼"
+}

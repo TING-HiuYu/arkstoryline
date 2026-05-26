@@ -1,0 +1,19 @@
+{
+  "albumId": "act11mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TC-ST1_布朗陶/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TC-ST1_%E5%B8%83%E6%9C%97%E9%99%B6/NBT"
+  },
+  "id": "act11mini--activities__act11mini__level_act11mini_st01",
+  "navigation": {
+    "nextChapterId": "act11mini--activities__act11mini__level_act11mini_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act11mini/level_act11mini_st01",
+  "title": "布朗陶"
+}

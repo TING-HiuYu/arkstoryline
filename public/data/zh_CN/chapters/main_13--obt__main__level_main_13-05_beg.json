@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "13-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "13-6_典范之名/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-6_%E5%85%B8%E8%8C%83%E4%B9%8B%E5%90%8D/BEG"
+  },
+  "id": "main_13--obt__main__level_main_13-05_beg",
+  "navigation": {
+    "nextChapterId": "main_13--obt__main__level_main_13-05_end",
+    "previousChapterId": "main_13--obt__main__level_main_13-04_end"
+  },
+  "subtitle": "13-6",
+  "summary": "info/obt/main/level_main_13-05_beg",
+  "title": "典范之名"
+}

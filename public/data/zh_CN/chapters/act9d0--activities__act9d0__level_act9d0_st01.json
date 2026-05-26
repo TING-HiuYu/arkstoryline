@@ -1,0 +1,21 @@
+{
+  "albumId": "act9d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "DM-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DM-ST-1_求生/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DM-ST-1_%E6%B1%82%E7%94%9F/NBT"
+  },
+  "id": "act9d0--activities__act9d0__level_act9d0_st01",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act9d0--activities__act9d0__level_act9d0_06_end"
+  },
+  "subtitle": "DM-ST-1",
+  "summary": "info/activities/act9d0/level_act9d0_st01",
+  "title": "求生"
+}

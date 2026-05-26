@@ -1,0 +1,21 @@
+{
+  "albumId": "act16side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "GA-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GA-2_散步时光/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GA-2_%E6%95%A3%E6%AD%A5%E6%97%B6%E5%85%89/END"
+  },
+  "id": "act16side--activities__act16side__level_act16side_02_end",
+  "navigation": {
+    "nextChapterId": "act16side--activities__act16side__level_act16side_03_beg",
+    "previousChapterId": "act16side--activities__act16side__level_act16side_02_beg"
+  },
+  "subtitle": "GA-2",
+  "summary": "info/activities/act16side/level_act16side_02_end",
+  "title": "散步时光"
+}

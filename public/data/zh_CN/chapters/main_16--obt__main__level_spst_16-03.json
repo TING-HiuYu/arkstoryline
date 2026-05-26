@@ -1,0 +1,21 @@
+{
+  "albumId": "main_16",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "EG-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EG-9_归乡/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EG-9_%E5%BD%92%E4%B9%A1/NBT"
+  },
+  "id": "main_16--obt__main__level_spst_16-03",
+  "navigation": {
+    "nextChapterId": "main_16--obt__main__level_spst_16-04",
+    "previousChapterId": "main_16--obt__main__level_spst_16-02"
+  },
+  "subtitle": "EG-9",
+  "summary": "info/obt/main/level_spst_16-03",
+  "title": "归乡"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-5_别阻止我/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-5_%E5%88%AB%E9%98%BB%E6%AD%A2%E6%88%91/END"
+  },
+  "id": "act3d0--activities__act3d0__level_act3d0_05_end",
+  "navigation": {
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_06_beg",
+    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_05_beg"
+  },
+  "subtitle": "OF-5",
+  "summary": "info/activities/act3d0/level_act3d0_05_end",
+  "title": "别阻止我"
+}

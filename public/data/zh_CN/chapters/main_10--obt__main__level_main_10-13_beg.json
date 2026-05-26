@@ -1,0 +1,21 @@
+{
+  "albumId": "main_10",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "10-15",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "10-15_逃离炮火/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-15_%E9%80%83%E7%A6%BB%E7%82%AE%E7%81%AB/BEG"
+  },
+  "id": "main_10--obt__main__level_main_10-13_beg",
+  "navigation": {
+    "nextChapterId": "main_10--obt__main__level_main_10-14_end",
+    "previousChapterId": "main_10--obt__main__level_main_10-12_end"
+  },
+  "subtitle": "10-15",
+  "summary": "info/obt/main/level_main_10-13_beg",
+  "title": "逃离炮火"
+}

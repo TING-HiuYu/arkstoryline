@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "12-18",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-18_晚安/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-18_%E6%99%9A%E5%AE%89/BEG"
+  },
+  "id": "main_12--obt__main__level_main_12-16_beg",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_main_12-17_end",
+    "previousChapterId": "main_12--obt__main__level_main_12-15_end"
+  },
+  "subtitle": "12-18",
+  "summary": "info/obt/main/level_main_12-16_beg",
+  "title": "晚安"
+}

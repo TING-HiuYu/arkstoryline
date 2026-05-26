@@ -1,0 +1,21 @@
+{
+  "albumId": "act29side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "ZT-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ZT-4_狂想曲“望想”/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ZT-4_%E7%8B%82%E6%83%B3%E6%9B%B2%E2%80%9C%E6%9C%9B%E6%83%B3%E2%80%9D/BEG"
+  },
+  "id": "act29side--activities__act29side__level_act29side_04_beg",
+  "navigation": {
+    "nextChapterId": "act29side--activities__act29side__level_act29side_04_end",
+    "previousChapterId": "act29side--activities__act29side__level_act29side_st02"
+  },
+  "subtitle": "ZT-4",
+  "summary": "info/activities/act29side/level_act29side_04_beg",
+  "title": "狂想曲“望想”"
+}

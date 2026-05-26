@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "14-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-5_探查岩洞区域/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-5_%E6%8E%A2%E6%9F%A5%E5%B2%A9%E6%B4%9E%E5%8C%BA%E5%9F%9F/END"
+  },
+  "id": "main_14--obt__main__level_main_14-04_end",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-05_beg",
+    "previousChapterId": "main_14--obt__main__level_main_14-04_beg"
+  },
+  "subtitle": "14-5",
+  "summary": "info/obt/main/level_main_14-04_end",
+  "title": "探查岩洞区域"
+}

@@ -1,0 +1,19 @@
+{
+  "albumId": "act11mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TC-ST5_和而不同/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TC-ST5_%E5%92%8C%E8%80%8C%E4%B8%8D%E5%90%8C/NBT"
+  },
+  "id": "act11mini--activities__act11mini__level_act11mini_st05",
+  "navigation": {
+    "nextChapterId": "act11mini--activities__act11mini__level_act11mini_st06",
+    "previousChapterId": "act11mini--activities__act11mini__level_act11mini_st04"
+  },
+  "summary": "info/activities/act11mini/level_act11mini_st05",
+  "title": "和而不同"
+}

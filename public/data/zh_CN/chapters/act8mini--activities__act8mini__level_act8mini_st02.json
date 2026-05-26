@@ -1,0 +1,19 @@
+{
+  "albumId": "act8mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "VI-ST2_我不会全部遗忘/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/VI-ST2_%E6%88%91%E4%B8%8D%E4%BC%9A%E5%85%A8%E9%83%A8%E9%81%97%E5%BF%98/NBT"
+  },
+  "id": "act8mini--activities__act8mini__level_act8mini_st02",
+  "navigation": {
+    "nextChapterId": "act8mini--activities__act8mini__level_act8mini_st03",
+    "previousChapterId": "act8mini--activities__act8mini__level_act8mini_st01"
+  },
+  "summary": "info/activities/act8mini/level_act8mini_st02",
+  "title": "我不会全部遗忘"
+}

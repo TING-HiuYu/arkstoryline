@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "TR-24",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TR-24_寻迹而行/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TR-24_%E5%AF%BB%E8%BF%B9%E8%80%8C%E8%A1%8C/BEG"
+  },
+  "id": "main_13--obt__main__level_main_13-06_beg",
+  "navigation": {
+    "nextChapterId": "main_13--obt__main__level_main_13-07_end",
+    "previousChapterId": "main_13--obt__main__level_main_13-05_end"
+  },
+  "subtitle": "TR-24",
+  "summary": "info/obt/main/level_main_13-06_beg",
+  "title": "寻迹而行"
+}

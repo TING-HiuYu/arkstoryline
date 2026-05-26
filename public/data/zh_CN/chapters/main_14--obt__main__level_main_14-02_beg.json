@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "14-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-3_破解锤砧战术/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-3_%E7%A0%B4%E8%A7%A3%E9%94%A4%E7%A0%A7%E6%88%98%E6%9C%AF/BEG"
+  },
+  "id": "main_14--obt__main__level_main_14-02_beg",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-02_end",
+    "previousChapterId": "main_14--obt__main__level_main_14-01_end"
+  },
+  "subtitle": "14-3",
+  "summary": "info/obt/main/level_main_14-02_beg",
+  "title": "破解锤砧战术"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act5d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CB-EX2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CB-EX2_南辕北辙/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-EX2_%E5%8D%97%E8%BE%95%E5%8C%97%E8%BE%99/END"
+  },
+  "id": "act5d0--activities__act5d0__level_act5d0_ex02_end",
+  "navigation": {
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_ex03_end",
+    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_ex01_end"
+  },
+  "subtitle": "CB-EX2",
+  "summary": "info/activities/act5d0/level_act5d0_ex02_end",
+  "title": "南辕北辙"
+}

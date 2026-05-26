@@ -1,0 +1,21 @@
+{
+  "albumId": "act15side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "IW-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IW-9_岁相/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-9_%E5%B2%81%E7%9B%B8/BEG"
+  },
+  "id": "act15side--activities__act15side__level_act15side_09_beg",
+  "navigation": {
+    "nextChapterId": "act15side--activities__act15side__level_act15side_09_end",
+    "previousChapterId": "act15side--activities__act15side__level_act15side_07_end"
+  },
+  "subtitle": "IW-9",
+  "summary": "info/activities/act15side/level_act15side_09_beg",
+  "title": "岁相"
+}

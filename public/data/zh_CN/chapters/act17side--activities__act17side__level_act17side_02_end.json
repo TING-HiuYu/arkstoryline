@@ -1,0 +1,21 @@
+{
+  "albumId": "act17side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SN-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SN-2_广场南路/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-2_%E5%B9%BF%E5%9C%BA%E5%8D%97%E8%B7%AF/END"
+  },
+  "id": "act17side--activities__act17side__level_act17side_02_end",
+  "navigation": {
+    "nextChapterId": "act17side--activities__act17side__level_act17side_st03",
+    "previousChapterId": "act17side--activities__act17side__level_act17side_st02"
+  },
+  "subtitle": "SN-2",
+  "summary": "info/activities/act17side/level_act17side_02_end",
+  "title": "广场南路"
+}

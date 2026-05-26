@@ -1,0 +1,21 @@
+{
+  "albumId": "main_4",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "4-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "4-3_人工制冷/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/4-3_%E4%BA%BA%E5%B7%A5%E5%88%B6%E5%86%B7/BEG"
+  },
+  "id": "main_4--obt__main__level_main_04-03_beg",
+  "navigation": {
+    "nextChapterId": "main_4--obt__main__level_main_04-03_end",
+    "previousChapterId": "main_4--obt__main__level_main_04-02_end"
+  },
+  "subtitle": "4-3",
+  "summary": "info/obt/main/level_main_04-03_beg",
+  "title": "人工制冷"
+}

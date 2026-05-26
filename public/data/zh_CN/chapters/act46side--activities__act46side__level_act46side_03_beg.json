@@ -1,0 +1,21 @@
+{
+  "albumId": "act46side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "OS-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OS-3_雪灌木中/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OS-3_%E9%9B%AA%E7%81%8C%E6%9C%A8%E4%B8%AD/BEG"
+  },
+  "id": "act46side--activities__act46side__level_act46side_03_beg",
+  "navigation": {
+    "nextChapterId": "act46side--activities__act46side__level_act46side_03_end",
+    "previousChapterId": "act46side--activities__act46side__level_act46side_02_end"
+  },
+  "subtitle": "OS-3",
+  "summary": "info/activities/act46side/level_act46side_03_beg",
+  "title": "雪灌木中"
+}

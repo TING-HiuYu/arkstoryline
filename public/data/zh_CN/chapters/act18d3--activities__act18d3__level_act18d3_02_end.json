@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d3",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SV-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SV-2_歌手/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-2_%E6%AD%8C%E6%89%8B/END"
+  },
+  "id": "act18d3--activities__act18d3__level_act18d3_02_end",
+  "navigation": {
+    "nextChapterId": "act18d3--activities__act18d3__level_act18d3_03_beg",
+    "previousChapterId": "act18d3--activities__act18d3__level_act18d3_02_beg"
+  },
+  "subtitle": "SV-2",
+  "summary": "info/activities/act18d3/level_act18d3_02_end",
+  "title": "歌手"
+}

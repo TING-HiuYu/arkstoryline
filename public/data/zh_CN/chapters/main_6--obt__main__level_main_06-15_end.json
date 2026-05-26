@@ -1,0 +1,21 @@
+{
+  "albumId": "main_6",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "6-17",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "6-17_冬逝/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/6-17_%E5%86%AC%E9%80%9D/END"
+  },
+  "id": "main_6--obt__main__level_main_06-15_end",
+  "navigation": {
+    "nextChapterId": "main_6--obt__main__level_st_06-03",
+    "previousChapterId": "main_6--obt__main__level_main_06-14_beg"
+  },
+  "subtitle": "6-17",
+  "summary": "info/obt/main/level_main_06-15_end",
+  "title": "冬逝"
+}

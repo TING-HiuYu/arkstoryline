@@ -1,0 +1,21 @@
+{
+  "albumId": "main_16",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "16-14",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "16-14_唯有坦途/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/16-14_%E5%94%AF%E6%9C%89%E5%9D%A6%E9%80%94/BEG"
+  },
+  "id": "main_16--obt__main__level_main_16-14_beg",
+  "navigation": {
+    "nextChapterId": "main_16--obt__main__level_main_16-15_beg",
+    "previousChapterId": "main_16--obt__main__level_main_16-13_beg"
+  },
+  "subtitle": "16-14",
+  "summary": "info/obt/main/level_main_16-14_beg",
+  "title": "唯有坦途"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act31side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "HS-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HS-1_赴大荒/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HS-1_%E8%B5%B4%E5%A4%A7%E8%8D%92/BEG"
+  },
+  "id": "act31side--activities__act31side__level_act31side_01_beg",
+  "navigation": {
+    "nextChapterId": "act31side--activities__act31side__level_act31side_01_end",
+    "previousChapterId": "act31side--activities__act31side__level_act31side_st01"
+  },
+  "subtitle": "HS-1",
+  "summary": "info/activities/act31side/level_act31side_01_beg",
+  "title": "赴大荒"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act23side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "WB-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WB-4_不念往昔/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WB-4_%E4%B8%8D%E5%BF%B5%E5%BE%80%E6%98%94/END"
+  },
+  "id": "act23side--activities__act23side__level_act23side_04_end",
+  "navigation": {
+    "nextChapterId": "act23side--activities__act23side__level_act23side_st02",
+    "previousChapterId": "act23side--activities__act23side__level_act23side_04_beg"
+  },
+  "subtitle": "WB-4",
+  "summary": "info/activities/act23side/level_act23side_04_end",
+  "title": "不念往昔"
+}

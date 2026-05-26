@@ -1,0 +1,21 @@
+{
+  "albumId": "main_15",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "15-14",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "15-14_在尘或血中/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-14_%E5%9C%A8%E5%B0%98%E6%88%96%E8%A1%80%E4%B8%AD/BEG"
+  },
+  "id": "main_15--obt__main__level_main_15-13_beg",
+  "navigation": {
+    "nextChapterId": "main_15--obt__main__level_main_15-14_end",
+    "previousChapterId": "main_15--obt__main__level_main_15-12_end"
+  },
+  "subtitle": "15-14",
+  "summary": "info/obt/main/level_main_15-13_beg",
+  "title": "在尘或血中"
+}

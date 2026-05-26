@@ -1,0 +1,21 @@
+{
+  "albumId": "act47side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "UR-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "UR-1_嘈杂的天空/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/UR-1_%E5%98%88%E6%9D%82%E7%9A%84%E5%A4%A9%E7%A9%BA/BEG"
+  },
+  "id": "act47side--activities__act47side__level_act47side_01_beg",
+  "navigation": {
+    "nextChapterId": "act47side--activities__act47side__level_act47side_01_end",
+    "previousChapterId": "act47side--activities__act47side__level_act47side_st01"
+  },
+  "subtitle": "UR-1",
+  "summary": "info/activities/act47side/level_act47side_01_beg",
+  "title": "嘈杂的天空"
+}

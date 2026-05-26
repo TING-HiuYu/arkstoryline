@@ -1,0 +1,82 @@
+{
+  "albumKind": "otherStory",
+  "chapters": [
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RO1-BEG/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RO1-BEG/NBT"
+      },
+      "id": "other-story-傀影与猩红孤钻-0ec479da60--ro1-beg-nbt",
+      "sort": 1,
+      "title": "序章"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RO1-END-1/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RO1-END-1/NBT"
+      },
+      "id": "other-story-傀影与猩红孤钻-0ec479da60--ro1-end-1-nbt",
+      "sort": 2,
+      "title": "舞会终场"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RO1-END-2/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RO1-END-2/NBT"
+      },
+      "id": "other-story-傀影与猩红孤钻-0ec479da60--ro1-end-2-nbt",
+      "sort": 3,
+      "title": "滑稽喜剧"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RO1-END-3/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RO1-END-3/NBT"
+      },
+      "id": "other-story-傀影与猩红孤钻-0ec479da60--ro1-end-3-nbt",
+      "sort": 4,
+      "title": "盛大揭幕"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RO1-END-4/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RO1-END-4/NBT"
+      },
+      "id": "other-story-傀影与猩红孤钻-0ec479da60--ro1-end-4-nbt",
+      "sort": 5,
+      "title": "沉默之章"
+    }
+  ],
+  "gameOrderRank": 900000016,
+  "homeSection": "otherStory",
+  "id": "other-story-傀影与猩红孤钻-0ec479da60",
+  "otherStory": {
+    "albumTitle": "傀影与猩红孤钻",
+    "groupTitle": "集成战略",
+    "sourceSection": "other"
+  },
+  "slug": "other-story-傀影与猩红孤钻-0ec479da60",
+  "source": {
+    "path": "storyline.index.sections.other",
+    "providerId": "prts",
+    "revision": "2026-05-26T20:55:23.000119+00:00"
+  },
+  "sourceEntryType": "ARCHIVE_EXTRA",
+  "timelineRank": 900000016,
+  "title": "傀影与猩红孤钻"
+}

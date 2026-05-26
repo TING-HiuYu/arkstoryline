@@ -1,0 +1,660 @@
+{
+  "albumKind": "mainline",
+  "chapters": [
+    {
+      "albumId": "main_8",
+      "avgTag": "行动前",
+      "code": "R8-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "R8-1_昨日，谷壳将裂/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/R8-1_%E6%98%A8%E6%97%A5%EF%BC%8C%E8%B0%B7%E5%A3%B3%E5%B0%86%E8%A3%82/BEG"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-01_beg",
+      "path": "chapters/main_8--obt__main__level_main_08-01_beg.json",
+      "sort": 1,
+      "title": "昨日，谷壳将裂"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动后",
+      "code": "R8-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "R8-1_昨日，谷壳将裂/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/R8-1_%E6%98%A8%E6%97%A5%EF%BC%8C%E8%B0%B7%E5%A3%B3%E5%B0%86%E8%A3%82/END"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-01_end",
+      "path": "chapters/main_8--obt__main__level_main_08-01_end.json",
+      "sort": 2,
+      "title": "昨日，谷壳将裂"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "幕间",
+      "code": "M8-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "M8-1_今日，血色满溢/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/M8-1_%E4%BB%8A%E6%97%A5%EF%BC%8C%E8%A1%80%E8%89%B2%E6%BB%A1%E6%BA%A2/NBT"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_st_08-01",
+      "path": "chapters/main_8--obt__main__level_st_08-01.json",
+      "sort": 3,
+      "title": "今日，血色满溢"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动前",
+      "code": "R8-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "R8-3_麦秆，极易燃烧/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/R8-3_%E9%BA%A6%E7%A7%86%EF%BC%8C%E6%9E%81%E6%98%93%E7%87%83%E7%83%A7/BEG"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-03_beg",
+      "path": "chapters/main_8--obt__main__level_main_08-03_beg.json",
+      "sort": 4,
+      "title": "麦秆，极易燃烧"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动后",
+      "code": "R8-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "R8-3_麦秆，极易燃烧/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/R8-3_%E9%BA%A6%E7%A7%86%EF%BC%8C%E6%9E%81%E6%98%93%E7%87%83%E7%83%A7/END"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-03_end",
+      "path": "chapters/main_8--obt__main__level_main_08-03_end.json",
+      "sort": 5,
+      "title": "麦秆，极易燃烧"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "幕间",
+      "code": "M8-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "M8-2_失语，产自多言/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/M8-2_%E5%A4%B1%E8%AF%AD%EF%BC%8C%E4%BA%A7%E8%87%AA%E5%A4%9A%E8%A8%80/NBT"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_st_08-02",
+      "path": "chapters/main_8--obt__main__level_st_08-02.json",
+      "sort": 6,
+      "title": "失语，产自多言"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动前",
+      "code": "R8-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "R8-4_火种，一触即灭/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/R8-4_%E7%81%AB%E7%A7%8D%EF%BC%8C%E4%B8%80%E8%A7%A6%E5%8D%B3%E7%81%AD/BEG"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-04_beg",
+      "path": "chapters/main_8--obt__main__level_main_08-04_beg.json",
+      "sort": 7,
+      "title": "火种，一触即灭"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动后",
+      "code": "R8-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "R8-4_火种，一触即灭/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/R8-4_%E7%81%AB%E7%A7%8D%EF%BC%8C%E4%B8%80%E8%A7%A6%E5%8D%B3%E7%81%AD/END"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-04_end",
+      "path": "chapters/main_8--obt__main__level_main_08-04_end.json",
+      "sort": 8,
+      "title": "火种，一触即灭"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "幕间",
+      "code": "M8-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "M8-3_死亡，召之即来/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/M8-3_%E6%AD%BB%E4%BA%A1%EF%BC%8C%E5%8F%AC%E4%B9%8B%E5%8D%B3%E6%9D%A5/NBT"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_st_08-03",
+      "path": "chapters/main_8--obt__main__level_st_08-03.json",
+      "sort": 9,
+      "title": "死亡，召之即来"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动前",
+      "code": "R8-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "R8-5_寒冷，来自知觉/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/R8-5_%E5%AF%92%E5%86%B7%EF%BC%8C%E6%9D%A5%E8%87%AA%E7%9F%A5%E8%A7%89/BEG"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-05_beg",
+      "path": "chapters/main_8--obt__main__level_main_08-05_beg.json",
+      "sort": 10,
+      "title": "寒冷，来自知觉"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动后",
+      "code": "R8-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "R8-5_寒冷，来自知觉/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/R8-5_%E5%AF%92%E5%86%B7%EF%BC%8C%E6%9D%A5%E8%87%AA%E7%9F%A5%E8%A7%89/END"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-05_end",
+      "path": "chapters/main_8--obt__main__level_main_08-05_end.json",
+      "sort": 11,
+      "title": "寒冷，来自知觉"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "幕间",
+      "code": "M8-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "M8-4_意志，片缕幻影/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/M8-4_%E6%84%8F%E5%BF%97%EF%BC%8C%E7%89%87%E7%BC%95%E5%B9%BB%E5%BD%B1/NBT"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_st_08-04",
+      "path": "chapters/main_8--obt__main__level_st_08-04.json",
+      "sort": 12,
+      "title": "意志，片缕幻影"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动前",
+      "code": "R8-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "R8-6_战场，蔓延不止/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/R8-6_%E6%88%98%E5%9C%BA%EF%BC%8C%E8%94%93%E5%BB%B6%E4%B8%8D%E6%AD%A2/BEG"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-06_beg",
+      "path": "chapters/main_8--obt__main__level_main_08-06_beg.json",
+      "sort": 13,
+      "title": "战场，蔓延不止"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动后",
+      "code": "R8-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "R8-6_战场，蔓延不止/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/R8-6_%E6%88%98%E5%9C%BA%EF%BC%8C%E8%94%93%E5%BB%B6%E4%B8%8D%E6%AD%A2/END"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-06_end",
+      "path": "chapters/main_8--obt__main__level_main_08-06_end.json",
+      "sort": 14,
+      "title": "战场，蔓延不止"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "幕间",
+      "code": "M8-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "M8-5_厄运，等候已久/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/M8-5_%E5%8E%84%E8%BF%90%EF%BC%8C%E7%AD%89%E5%80%99%E5%B7%B2%E4%B9%85/NBT"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_st_08-05",
+      "path": "chapters/main_8--obt__main__level_st_08-05.json",
+      "sort": 15,
+      "title": "厄运，等候已久"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动前",
+      "code": "R8-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "R8-8_人心，向背无常/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/R8-8_%E4%BA%BA%E5%BF%83%EF%BC%8C%E5%90%91%E8%83%8C%E6%97%A0%E5%B8%B8/BEG"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-08_beg",
+      "path": "chapters/main_8--obt__main__level_main_08-08_beg.json",
+      "sort": 16,
+      "title": "人心，向背无常"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动后",
+      "code": "R8-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "R8-8_人心，向背无常/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/R8-8_%E4%BA%BA%E5%BF%83%EF%BC%8C%E5%90%91%E8%83%8C%E6%97%A0%E5%B8%B8/END"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-08_end",
+      "path": "chapters/main_8--obt__main__level_main_08-08_end.json",
+      "sort": 17,
+      "title": "人心，向背无常"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动前",
+      "code": "M8-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "M8-6_再见，只为再见/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/M8-6_%E5%86%8D%E8%A7%81%EF%BC%8C%E5%8F%AA%E4%B8%BA%E5%86%8D%E8%A7%81/BEG"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-09_beg",
+      "path": "chapters/main_8--obt__main__level_main_08-09_beg.json",
+      "sort": 18,
+      "title": "再见，只为再见"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动后",
+      "code": "M8-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "M8-6_再见，只为再见/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/M8-6_%E5%86%8D%E8%A7%81%EF%BC%8C%E5%8F%AA%E4%B8%BA%E5%86%8D%E8%A7%81/END"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-09_end",
+      "path": "chapters/main_8--obt__main__level_main_08-09_end.json",
+      "sort": 19,
+      "title": "再见，只为再见"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动前",
+      "code": "R8-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "R8-9_相逢，总是离别/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/R8-9_%E7%9B%B8%E9%80%A2%EF%BC%8C%E6%80%BB%E6%98%AF%E7%A6%BB%E5%88%AB/BEG"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-10_beg",
+      "path": "chapters/main_8--obt__main__level_main_08-10_beg.json",
+      "sort": 20,
+      "title": "相逢，总是离别"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动后",
+      "code": "R8-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "R8-9_相逢，总是离别/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/R8-9_%E7%9B%B8%E9%80%A2%EF%BC%8C%E6%80%BB%E6%98%AF%E7%A6%BB%E5%88%AB/END"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-10_end",
+      "path": "chapters/main_8--obt__main__level_main_08-10_end.json",
+      "sort": 21,
+      "title": "相逢，总是离别"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动前",
+      "code": "M8-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "M8-7_恶言，报应不爽/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/M8-7_%E6%81%B6%E8%A8%80%EF%BC%8C%E6%8A%A5%E5%BA%94%E4%B8%8D%E7%88%BD/BEG"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-12_beg",
+      "path": "chapters/main_8--obt__main__level_main_08-12_beg.json",
+      "sort": 22,
+      "title": "恶言，报应不爽"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动后",
+      "code": "M8-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "M8-7_恶言，报应不爽/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/M8-7_%E6%81%B6%E8%A8%80%EF%BC%8C%E6%8A%A5%E5%BA%94%E4%B8%8D%E7%88%BD/END"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-12_end",
+      "path": "chapters/main_8--obt__main__level_main_08-12_end.json",
+      "sort": 23,
+      "title": "恶言，报应不爽"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动前",
+      "code": "R8-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "R8-11_落雪，浸黑国土/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/R8-11_%E8%90%BD%E9%9B%AA%EF%BC%8C%E6%B5%B8%E9%BB%91%E5%9B%BD%E5%9C%9F/BEG"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-13_beg",
+      "path": "chapters/main_8--obt__main__level_main_08-13_beg.json",
+      "sort": 24,
+      "title": "落雪，浸黑国土"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动后",
+      "code": "R8-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "R8-11_落雪，浸黑国土/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/R8-11_%E8%90%BD%E9%9B%AA%EF%BC%8C%E6%B5%B8%E9%BB%91%E5%9B%BD%E5%9C%9F/END"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-13_end",
+      "path": "chapters/main_8--obt__main__level_main_08-13_end.json",
+      "sort": 25,
+      "title": "落雪，浸黑国土"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动前",
+      "code": "M8-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "M8-8_苏醒，浮出梦乡/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/M8-8_%E8%8B%8F%E9%86%92%EF%BC%8C%E6%B5%AE%E5%87%BA%E6%A2%A6%E4%B9%A1/BEG"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-14_beg",
+      "path": "chapters/main_8--obt__main__level_main_08-14_beg.json",
+      "sort": 26,
+      "title": "苏醒，浮出梦乡"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动后",
+      "code": "M8-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "M8-8_苏醒，浮出梦乡/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/M8-8_%E8%8B%8F%E9%86%92%EF%BC%8C%E6%B5%AE%E5%87%BA%E6%A2%A6%E4%B9%A1/END"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-14_end",
+      "path": "chapters/main_8--obt__main__level_main_08-14_end.json",
+      "sort": 27,
+      "title": "苏醒，浮出梦乡"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动前",
+      "code": "JT8-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "JT8-1_恨火，流向原野/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/JT8-1_%E6%81%A8%E7%81%AB%EF%BC%8C%E6%B5%81%E5%90%91%E5%8E%9F%E9%87%8E/BEG"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-15_beg",
+      "path": "chapters/main_8--obt__main__level_main_08-15_beg.json",
+      "sort": 28,
+      "title": "恨火，流向原野"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动后",
+      "code": "JT8-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "JT8-1_恨火，流向原野/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/JT8-1_%E6%81%A8%E7%81%AB%EF%BC%8C%E6%B5%81%E5%90%91%E5%8E%9F%E9%87%8E/END"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-15_end",
+      "path": "chapters/main_8--obt__main__level_main_08-15_end.json",
+      "sort": 29,
+      "title": "恨火，流向原野"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动前",
+      "code": "JT8-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "JT8-2_睁眼，便是日暮/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/JT8-2_%E7%9D%81%E7%9C%BC%EF%BC%8C%E4%BE%BF%E6%98%AF%E6%97%A5%E6%9A%AE/BEG"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-16_beg",
+      "path": "chapters/main_8--obt__main__level_main_08-16_beg.json",
+      "sort": 30,
+      "title": "睁眼，便是日暮"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动后",
+      "code": "JT8-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "JT8-2_睁眼，便是日暮/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/JT8-2_%E7%9D%81%E7%9C%BC%EF%BC%8C%E4%BE%BF%E6%98%AF%E6%97%A5%E6%9A%AE/END"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-16_end",
+      "path": "chapters/main_8--obt__main__level_main_08-16_end.json",
+      "sort": 31,
+      "title": "睁眼，便是日暮"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动前",
+      "code": "JT8-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "JT8-3_昂首，足践烈焰/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/JT8-3_%E6%98%82%E9%A6%96%EF%BC%8C%E8%B6%B3%E8%B7%B5%E7%83%88%E7%84%B0/BEG"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-17_beg",
+      "path": "chapters/main_8--obt__main__level_main_08-17_beg.json",
+      "sort": 32,
+      "title": "昂首，足践烈焰"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "行动后",
+      "code": "JT8-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "JT8-3_昂首，足践烈焰/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/JT8-3_%E6%98%82%E9%A6%96%EF%BC%8C%E8%B6%B3%E8%B7%B5%E7%83%88%E7%84%B0/END"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_main_08-17_end",
+      "path": "chapters/main_8--obt__main__level_main_08-17_end.json",
+      "sort": 33,
+      "title": "昂首，足践烈焰"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "幕间",
+      "code": "END8-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "END8-1_尾声，抑或开始/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/END8-1_%E5%B0%BE%E5%A3%B0%EF%BC%8C%E6%8A%91%E6%88%96%E5%BC%80%E5%A7%8B/NBT"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_st_08-06",
+      "path": "chapters/main_8--obt__main__level_st_08-06.json",
+      "sort": 34,
+      "title": "尾声，抑或开始"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "幕间",
+      "code": "EG-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EG-3_燃烧的片段3/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EG-3_%E7%87%83%E7%83%A7%E7%9A%84%E7%89%87%E6%AE%B53/NBT"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_spst_08-01",
+      "path": "chapters/main_8--obt__main__level_spst_08-01.json",
+      "sort": 35,
+      "title": "燃烧的片段3"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "幕间",
+      "code": "EG-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EG-2_燃烧的片段2/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EG-2_%E7%87%83%E7%83%A7%E7%9A%84%E7%89%87%E6%AE%B52/NBT"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_spst_08-02",
+      "path": "chapters/main_8--obt__main__level_spst_08-02.json",
+      "sort": 36,
+      "title": "燃烧的片段2"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "幕间",
+      "code": "EG-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EG-1_燃烧的片段1/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EG-1_%E7%87%83%E7%83%A7%E7%9A%84%E7%89%87%E6%AE%B51/NBT"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_spst_08-03",
+      "path": "chapters/main_8--obt__main__level_spst_08-03.json",
+      "sort": 37,
+      "title": "燃烧的片段1"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "幕间",
+      "code": "EG-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EG-4_燃烧的片段4/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EG-4_%E7%87%83%E7%83%A7%E7%9A%84%E7%89%87%E6%AE%B54/NBT"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_spst_08-04",
+      "path": "chapters/main_8--obt__main__level_spst_08-04.json",
+      "sort": 38,
+      "title": "燃烧的片段4"
+    },
+    {
+      "albumId": "main_8",
+      "avgTag": "幕间",
+      "code": "EG-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EG-5_燃烧的片段5/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EG-5_%E7%87%83%E7%83%A7%E7%9A%84%E7%89%87%E6%AE%B55/NBT"
+      },
+      "downloadable": true,
+      "id": "main_8--obt__main__level_spst_08-05",
+      "path": "chapters/main_8--obt__main__level_spst_08-05.json",
+      "sort": 39,
+      "title": "燃烧的片段5"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_roaring_flare",
+    "primaryImageId": "kv_roaring_flare",
+    "source": "stage-kv",
+    "titleImageId": "title_roaring_flare",
+    "url": "https://media.prts.wiki/4/48/%E7%AB%A0%E8%8A%82%E5%90%8D%E7%A7%B0_%E7%AC%AC%E5%85%AB%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 2006,
+  "homeSection": "mainline",
+  "id": "main_8",
+  "music": {
+    "arcTitle": "Ⅰ 幻灭",
+    "movementTitle": "Ⅰ 幻灭",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "main-8",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": -1,
+  "summary": "经历了和整合运动的数次殊死交火，\n罗德岛终于来到了塔露拉面前。\n在成为如今的“塔露拉”前，\n她也曾是一个心怀理想的青年。\n她听过的，她见过的，让她成为现在的她。\n陈亦如此。",
+  "timelineRank": -1,
+  "title": "怒号光明"
+}

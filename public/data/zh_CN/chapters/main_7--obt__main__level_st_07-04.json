@@ -1,0 +1,21 @@
+{
+  "albumId": "main_7",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "7-20",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "7-20_??:??:??/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/7-20_%3F%3F%3A%3F%3F%3A%3F%3F/NBT"
+  },
+  "id": "main_7--obt__main__level_st_07-04",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "main_7--obt__main__level_st_07-03"
+  },
+  "subtitle": "7-20",
+  "summary": "info/obt/main/level_st_07-04",
+  "title": "??:??:??"
+}

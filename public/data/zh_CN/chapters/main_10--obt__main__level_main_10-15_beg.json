@@ -1,0 +1,21 @@
+{
+  "albumId": "main_10",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "10-17",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "10-17_坚城高墙/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-17_%E5%9D%9A%E5%9F%8E%E9%AB%98%E5%A2%99/BEG"
+  },
+  "id": "main_10--obt__main__level_main_10-15_beg",
+  "navigation": {
+    "nextChapterId": "main_10--obt__main__level_main_10-15_end",
+    "previousChapterId": "main_10--obt__main__level_main_10-14_end"
+  },
+  "subtitle": "10-17",
+  "summary": "info/obt/main/level_main_10-15_beg",
+  "title": "坚城高墙"
+}

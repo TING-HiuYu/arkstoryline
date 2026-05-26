@@ -1,0 +1,19 @@
+{
+  "albumId": "act10d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SV-ST5_胡言秘语/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-ST5_%E8%83%A1%E8%A8%80%E7%A7%98%E8%AF%AD/NBT"
+  },
+  "id": "act10d5--activities__act10d5__level_act10d5_st05",
+  "navigation": {
+    "nextChapterId": "act10d5--activities__act10d5__level_act10d5_st06",
+    "previousChapterId": "act10d5--activities__act10d5__level_act10d5_st04"
+  },
+  "summary": "info/activities/act10d5/level_act10d5_st05",
+  "title": "胡言秘语"
+}

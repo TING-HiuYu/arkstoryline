@@ -1,0 +1,21 @@
+{
+  "albumId": "act37side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "GO-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GO-3_议会公决/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GO-3_%E8%AE%AE%E4%BC%9A%E5%85%AC%E5%86%B3/END"
+  },
+  "id": "act37side--activities__act37side__level_act37side_03_end",
+  "navigation": {
+    "nextChapterId": "act37side--activities__act37side__level_act37side_04_beg",
+    "previousChapterId": "act37side--activities__act37side__level_act37side_03_beg"
+  },
+  "subtitle": "GO-3",
+  "summary": "info/activities/act37side/level_act37side_03_end",
+  "title": "议会公决"
+}

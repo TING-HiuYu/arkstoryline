@@ -1,0 +1,21 @@
+{
+  "albumId": "act40side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OR-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OR-8_金玉藏心/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OR-8_%E9%87%91%E7%8E%89%E8%97%8F%E5%BF%83/END"
+  },
+  "id": "act40side--activities__act40side__level_act40side_08_end",
+  "navigation": {
+    "nextChapterId": "act40side--activities__act40side__level_act40side_09_beg",
+    "previousChapterId": "act40side--activities__act40side__level_act40side_08_beg"
+  },
+  "subtitle": "OR-8",
+  "summary": "info/activities/act40side/level_act40side_08_end",
+  "title": "金玉藏心"
+}

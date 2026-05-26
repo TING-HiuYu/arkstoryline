@@ -1,0 +1,21 @@
+{
+  "albumId": "act15side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IW-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IW-5_货与人/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-5_%E8%B4%A7%E4%B8%8E%E4%BA%BA/END"
+  },
+  "id": "act15side--activities__act15side__level_act15side_05_end",
+  "navigation": {
+    "nextChapterId": "act15side--activities__act15side__level_act15side_06_beg",
+    "previousChapterId": "act15side--activities__act15side__level_act15side_05_beg"
+  },
+  "subtitle": "IW-5",
+  "summary": "info/activities/act15side/level_act15side_05_end",
+  "title": "货与人"
+}

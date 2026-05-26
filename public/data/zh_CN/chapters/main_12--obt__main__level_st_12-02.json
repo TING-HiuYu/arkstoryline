@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "12-11",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-11_时不我待/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-11_%E6%97%B6%E4%B8%8D%E6%88%91%E5%BE%85/NBT"
+  },
+  "id": "main_12--obt__main__level_st_12-02",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_main_12-10_beg",
+    "previousChapterId": "main_12--obt__main__level_main_12-09_end"
+  },
+  "subtitle": "12-11",
+  "summary": "info/obt/main/level_st_12-02",
+  "title": "时不我待"
+}

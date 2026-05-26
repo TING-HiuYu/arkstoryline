@@ -1,0 +1,21 @@
+{
+  "albumId": "main_16",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "16-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "16-9_疯人的辩护/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/16-9_%E7%96%AF%E4%BA%BA%E7%9A%84%E8%BE%A9%E6%8A%A4/BEG"
+  },
+  "id": "main_16--obt__main__level_main_16-09_beg",
+  "navigation": {
+    "nextChapterId": "main_16--obt__main__level_main_16-09_end",
+    "previousChapterId": "main_16--obt__main__level_main_16-08_end"
+  },
+  "subtitle": "16-9",
+  "summary": "info/obt/main/level_main_16-09_beg",
+  "title": "疯人的辩护"
+}

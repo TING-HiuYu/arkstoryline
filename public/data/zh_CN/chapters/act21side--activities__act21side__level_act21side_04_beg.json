@@ -1,0 +1,21 @@
+{
+  "albumId": "act21side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "IS-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IS-4_苦夜惊雷/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-4_%E8%8B%A6%E5%A4%9C%E6%83%8A%E9%9B%B7/BEG"
+  },
+  "id": "act21side--activities__act21side__level_act21side_04_beg",
+  "navigation": {
+    "nextChapterId": "act21side--activities__act21side__level_act21side_04_end",
+    "previousChapterId": "act21side--activities__act21side__level_act21side_03_end"
+  },
+  "subtitle": "IS-4",
+  "summary": "info/activities/act21side/level_act21side_04_beg",
+  "title": "苦夜惊雷"
+}

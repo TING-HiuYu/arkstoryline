@@ -1,0 +1,21 @@
+{
+  "albumId": "act18side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "LE-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "LE-4_惊愕/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/LE-4_%E6%83%8A%E6%84%95/BEG"
+  },
+  "id": "act18side--activities__act18side__level_act18side_04_beg",
+  "navigation": {
+    "nextChapterId": "act18side--activities__act18side__level_act18side_04_end",
+    "previousChapterId": "act18side--activities__act18side__level_act18side_03_end"
+  },
+  "subtitle": "LE-4",
+  "summary": "info/activities/act18side/level_act18side_04_beg",
+  "title": "惊愕"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act29side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "ZT-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ZT-ST-2_间奏“未竟赋格”/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ZT-ST-2_%E9%97%B4%E5%A5%8F%E2%80%9C%E6%9C%AA%E7%AB%9F%E8%B5%8B%E6%A0%BC%E2%80%9D/NBT"
+  },
+  "id": "act29side--activities__act29side__level_act29side_st02",
+  "navigation": {
+    "nextChapterId": "act29side--activities__act29side__level_act29side_04_beg",
+    "previousChapterId": "act29side--activities__act29side__level_act29side_03_end"
+  },
+  "subtitle": "ZT-ST-2",
+  "summary": "info/activities/act29side/level_act29side_st02",
+  "title": "间奏“未竟赋格”"
+}

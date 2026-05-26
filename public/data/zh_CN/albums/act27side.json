@@ -1,0 +1,346 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act27side",
+      "avgTag": "幕间",
+      "code": "SL-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-ST-1_到站旁/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-ST-1_%E5%88%B0%E7%AB%99%E6%97%81/NBT"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_st01",
+      "path": "chapters/act27side--activities__act27side__level_act27side_st01.json",
+      "sort": 1,
+      "title": "到站旁"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "行动前",
+      "code": "SL-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-1_你的耳朵长不长？/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-1_%E4%BD%A0%E7%9A%84%E8%80%B3%E6%9C%B5%E9%95%BF%E4%B8%8D%E9%95%BF%EF%BC%9F/BEG"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_01_beg",
+      "path": "chapters/act27side--activities__act27side__level_act27side_01_beg.json",
+      "sort": 2,
+      "title": "你的耳朵长不长？"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "行动后",
+      "code": "SL-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-1_你的耳朵长不长？/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-1_%E4%BD%A0%E7%9A%84%E8%80%B3%E6%9C%B5%E9%95%BF%E4%B8%8D%E9%95%BF%EF%BC%9F/END"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_01_end",
+      "path": "chapters/act27side--activities__act27side__level_act27side_01_end.json",
+      "sort": 3,
+      "title": "你的耳朵长不长？"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "行动前",
+      "code": "SL-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-2_小蓝孩/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-2_%E5%B0%8F%E8%93%9D%E5%AD%A9/BEG"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_02_beg",
+      "path": "chapters/act27side--activities__act27side__level_act27side_02_beg.json",
+      "sort": 4,
+      "title": "小蓝孩"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "行动后",
+      "code": "SL-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-2_小蓝孩/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-2_%E5%B0%8F%E8%93%9D%E5%AD%A9/END"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_02_end",
+      "path": "chapters/act27side--activities__act27side__level_act27side_02_end.json",
+      "sort": 5,
+      "title": "小蓝孩"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "行动前",
+      "code": "SL-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-3_手指之家/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-3_%E6%89%8B%E6%8C%87%E4%B9%8B%E5%AE%B6/BEG"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_03_beg",
+      "path": "chapters/act27side--activities__act27side__level_act27side_03_beg.json",
+      "sort": 6,
+      "title": "手指之家"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "行动后",
+      "code": "SL-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-3_手指之家/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-3_%E6%89%8B%E6%8C%87%E4%B9%8B%E5%AE%B6/END"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_03_end",
+      "path": "chapters/act27side--activities__act27side__level_act27side_03_end.json",
+      "sort": 7,
+      "title": "手指之家"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "行动前",
+      "code": "SL-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-4_一个水手出海了/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-4_%E4%B8%80%E4%B8%AA%E6%B0%B4%E6%89%8B%E5%87%BA%E6%B5%B7%E4%BA%86/BEG"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_04_beg",
+      "path": "chapters/act27side--activities__act27side__level_act27side_04_beg.json",
+      "sort": 8,
+      "title": "一个水手出海了"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "行动后",
+      "code": "SL-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-4_一个水手出海了/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-4_%E4%B8%80%E4%B8%AA%E6%B0%B4%E6%89%8B%E5%87%BA%E6%B5%B7%E4%BA%86/END"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_04_end",
+      "path": "chapters/act27side--activities__act27side__level_act27side_04_end.json",
+      "sort": 9,
+      "title": "一个水手出海了"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "行动前",
+      "code": "SL-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-5_我会唱一首彩虹/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-5_%E6%88%91%E4%BC%9A%E5%94%B1%E4%B8%80%E9%A6%96%E5%BD%A9%E8%99%B9/BEG"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_05_beg",
+      "path": "chapters/act27side--activities__act27side__level_act27side_05_beg.json",
+      "sort": 10,
+      "title": "我会唱一首彩虹"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "行动后",
+      "code": "SL-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-5_我会唱一首彩虹/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-5_%E6%88%91%E4%BC%9A%E5%94%B1%E4%B8%80%E9%A6%96%E5%BD%A9%E8%99%B9/END"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_05_end",
+      "path": "chapters/act27side--activities__act27side__level_act27side_05_end.json",
+      "sort": 11,
+      "title": "我会唱一首彩虹"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "幕间",
+      "code": "SL-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-ST-2_雨啊，雨啊，快离开/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-ST-2_%E9%9B%A8%E5%95%8A%EF%BC%8C%E9%9B%A8%E5%95%8A%EF%BC%8C%E5%BF%AB%E7%A6%BB%E5%BC%80/NBT"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_st02",
+      "path": "chapters/act27side--activities__act27side__level_act27side_st02.json",
+      "sort": 12,
+      "title": "雨啊，雨啊，快离开"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "行动前",
+      "code": "SL-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-6_林中小木屋/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-6_%E6%9E%97%E4%B8%AD%E5%B0%8F%E6%9C%A8%E5%B1%8B/BEG"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_06_beg",
+      "path": "chapters/act27side--activities__act27side__level_act27side_06_beg.json",
+      "sort": 13,
+      "title": "林中小木屋"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "行动后",
+      "code": "SL-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-6_林中小木屋/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-6_%E6%9E%97%E4%B8%AD%E5%B0%8F%E6%9C%A8%E5%B1%8B/END"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_06_end",
+      "path": "chapters/act27side--activities__act27side__level_act27side_06_end.json",
+      "sort": 14,
+      "title": "林中小木屋"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "行动前",
+      "code": "SL-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-7_靠着我的肩膀哭泣/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-7_%E9%9D%A0%E7%9D%80%E6%88%91%E7%9A%84%E8%82%A9%E8%86%80%E5%93%AD%E6%B3%A3/BEG"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_07_beg",
+      "path": "chapters/act27side--activities__act27side__level_act27side_07_beg.json",
+      "sort": 15,
+      "title": "靠着我的肩膀哭泣"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "行动后",
+      "code": "SL-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-7_靠着我的肩膀哭泣/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-7_%E9%9D%A0%E7%9D%80%E6%88%91%E7%9A%84%E8%82%A9%E8%86%80%E5%93%AD%E6%B3%A3/END"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_07_end",
+      "path": "chapters/act27side--activities__act27side__level_act27side_07_end.json",
+      "sort": 16,
+      "title": "靠着我的肩膀哭泣"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "行动前",
+      "code": "SL-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-8_爱之歌/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-8_%E7%88%B1%E4%B9%8B%E6%AD%8C/BEG"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_08_beg",
+      "path": "chapters/act27side--activities__act27side__level_act27side_08_beg.json",
+      "sort": 17,
+      "title": "爱之歌"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "行动后",
+      "code": "SL-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-8_爱之歌/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-8_%E7%88%B1%E4%B9%8B%E6%AD%8C/END"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_08_end",
+      "path": "chapters/act27side--activities__act27side__level_act27side_08_end.json",
+      "sort": 18,
+      "title": "爱之歌"
+    },
+    {
+      "albumId": "act27side",
+      "avgTag": "幕间",
+      "code": "SL-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SL-ST-3_晴天/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SL-ST-3_%E6%99%B4%E5%A4%A9/NBT"
+      },
+      "downloadable": true,
+      "id": "act27side--activities__act27side__level_act27side_st03",
+      "path": "chapters/act27side--activities__act27side__level_act27side_st03.json",
+      "sort": 19,
+      "title": "晴天"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_so_long_adele",
+    "primaryImageId": "kv_so_long_adele",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act27side",
+    "titleImageId": "title_so_long_adele",
+    "url": "https://media.prts.wiki/f/fc/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%81%AB%E5%B1%B1%E6%97%85%E6%A2%A6.png"
+  },
+  "extras": [],
+  "gameOrderRank": 5003,
+  "homeSection": "sideStory",
+  "id": "act27side",
+  "music": {
+    "arcTitle": "夏日律动",
+    "movementTitle": "夏日律动",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_16",
+      "tag_14",
+      "tag_13",
+      "tag_15"
+    ]
+  },
+  "slug": "act27side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1690862400,
+  "summary": "汐斯塔搬上了移动城市，离开了那座火山。\n新家园已然建立，旅人们却不愿舍弃回忆。\n火山学者伸手触碰往事，云朵忽而似绒毛飘落。\n晚风融化了夏夜的梦，木吉他奏起温柔的气泡声。\n大地的脉搏炽热，名为爱的火山终会喷薄......\n是告别，是重逢，也是心中恒久的歌。",
+  "timelineRank": 1690862400,
+  "title": "火山旅梦"
+}

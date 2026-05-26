@@ -1,0 +1,21 @@
+{
+  "albumId": "act11d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "TW-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TW-3_高塔烟火/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TW-3_%E9%AB%98%E5%A1%94%E7%83%9F%E7%81%AB/END"
+  },
+  "id": "act11d0--activities__act11d0__level_act11d0_03_end",
+  "navigation": {
+    "nextChapterId": "act11d0--activities__act11d0__level_act11d0_04_beg",
+    "previousChapterId": "act11d0--activities__act11d0__level_act11d0_03_beg"
+  },
+  "subtitle": "TW-3",
+  "summary": "info/activities/act11d0/level_act11d0_03_end",
+  "title": "高塔烟火"
+}

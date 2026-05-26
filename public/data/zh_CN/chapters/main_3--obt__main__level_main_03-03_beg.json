@@ -1,0 +1,21 @@
+{
+  "albumId": "main_3",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "3-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "3-3_回旋/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/3-3_%E5%9B%9E%E6%97%8B/BEG"
+  },
+  "id": "main_3--obt__main__level_main_03-03_beg",
+  "navigation": {
+    "nextChapterId": "main_3--obt__main__level_main_03-03_end",
+    "previousChapterId": "main_3--obt__main__level_main_03-02_end"
+  },
+  "subtitle": "3-3",
+  "summary": "info/obt/main/level_main_03-03_beg",
+  "title": "回旋"
+}

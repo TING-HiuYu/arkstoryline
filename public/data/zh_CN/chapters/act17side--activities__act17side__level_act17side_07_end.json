@@ -1,0 +1,21 @@
+{
+  "albumId": "act17side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SN-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SN-7_黄金回廊/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-7_%E9%BB%84%E9%87%91%E5%9B%9E%E5%BB%8A/END"
+  },
+  "id": "act17side--activities__act17side__level_act17side_07_end",
+  "navigation": {
+    "nextChapterId": "act17side--activities__act17side__level_act17side_st08",
+    "previousChapterId": "act17side--activities__act17side__level_act17side_st07"
+  },
+  "subtitle": "SN-7",
+  "summary": "info/activities/act17side/level_act17side_07_end",
+  "title": "黄金回廊"
+}

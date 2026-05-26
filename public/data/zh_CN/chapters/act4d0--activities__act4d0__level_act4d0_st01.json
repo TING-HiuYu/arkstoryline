@@ -1,0 +1,19 @@
+{
+  "albumId": "act4d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SW-ST1_无名氏的战争/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SW-ST1_%E6%97%A0%E5%90%8D%E6%B0%8F%E7%9A%84%E6%88%98%E4%BA%89/NBT"
+  },
+  "id": "act4d0--activities__act4d0__level_act4d0_st01",
+  "navigation": {
+    "nextChapterId": "act4d0--activities__act4d0__level_act4d0_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act4d0/level_act4d0_st01",
+  "title": "无名氏的战争"
+}

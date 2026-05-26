@@ -1,0 +1,21 @@
+{
+  "albumId": "1stact",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "GT-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GT-5_各抒己见/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GT-5_%E5%90%84%E6%8A%92%E5%B7%B1%E8%A7%81/BEG"
+  },
+  "id": "1stact--activities__a001__level_a001_05_beg",
+  "navigation": {
+    "nextChapterId": "1stact--activities__a001__level_a001_05_end",
+    "previousChapterId": "1stact--activities__a001__level_a001_04_end"
+  },
+  "subtitle": "GT-5",
+  "summary": "info/activities/a001/level_a001_05_beg",
+  "title": "各抒己见"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-ST5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-ST5_此生挚爱/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-ST5_%E6%AD%A4%E7%94%9F%E6%8C%9A%E7%88%B1/NBT"
+  },
+  "id": "act3d0--activities__act3d0__level_act3d0_st05",
+  "navigation": {
+    "nextChapterId": "act3d0--activities__act11d7__level_act11d7_st01",
+    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_08_end"
+  },
+  "subtitle": "OF-ST5",
+  "summary": "info/activities/act3d0/level_act3d0_st05",
+  "title": "此生挚爱"
+}

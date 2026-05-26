@@ -1,0 +1,19 @@
+{
+  "albumId": "act19mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FM-ST6_凌绝顶/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FM-ST6_%E5%87%8C%E7%BB%9D%E9%A1%B6/NBT"
+  },
+  "id": "act19mini--activities__act19mini__level_act19mini_st06",
+  "navigation": {
+    "nextChapterId": "act19mini--activities__act19mini__level_act19mini_st07",
+    "previousChapterId": "act19mini--activities__act19mini__level_act19mini_st05"
+  },
+  "summary": "info/activities/act19mini/level_act19mini_st06",
+  "title": "凌绝顶"
+}

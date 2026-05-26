@@ -1,0 +1,21 @@
+{
+  "albumId": "act18side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "LE-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "LE-6_骷髅之舞/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/LE-6_%E9%AA%B7%E9%AB%85%E4%B9%8B%E8%88%9E/END"
+  },
+  "id": "act18side--activities__act18side__level_act18side_06_end",
+  "navigation": {
+    "nextChapterId": "act18side--activities__act18side__level_act18side_07_beg",
+    "previousChapterId": "act18side--activities__act18side__level_act18side_06_beg"
+  },
+  "subtitle": "LE-6",
+  "summary": "info/activities/act18side/level_act18side_06_end",
+  "title": "骷髅之舞"
+}

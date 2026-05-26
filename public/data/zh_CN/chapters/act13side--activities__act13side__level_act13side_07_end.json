@@ -1,0 +1,21 @@
+{
+  "albumId": "act13side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "NL-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "NL-7_梦的余韵/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/NL-7_%E6%A2%A6%E7%9A%84%E4%BD%99%E9%9F%B5/END"
+  },
+  "id": "act13side--activities__act13side__level_act13side_07_end",
+  "navigation": {
+    "nextChapterId": "act13side--activities__act13side__level_act13side_08_beg",
+    "previousChapterId": "act13side--activities__act13side__level_act13side_07_beg"
+  },
+  "subtitle": "NL-7",
+  "summary": "info/activities/act13side/level_act13side_07_end",
+  "title": "梦的余韵"
+}

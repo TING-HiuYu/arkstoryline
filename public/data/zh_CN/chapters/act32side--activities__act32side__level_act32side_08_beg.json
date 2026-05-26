@@ -1,0 +1,21 @@
+{
+  "albumId": "act32side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CR-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CR-8_一跃而下/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CR-8_%E4%B8%80%E8%B7%83%E8%80%8C%E4%B8%8B/BEG"
+  },
+  "id": "act32side--activities__act32side__level_act32side_08_beg",
+  "navigation": {
+    "nextChapterId": "act32side--activities__act32side__level_act32side_08_end",
+    "previousChapterId": "act32side--activities__act32side__level_act32side_07_end"
+  },
+  "subtitle": "CR-8",
+  "summary": "info/activities/act32side/level_act32side_08_beg",
+  "title": "一跃而下"
+}

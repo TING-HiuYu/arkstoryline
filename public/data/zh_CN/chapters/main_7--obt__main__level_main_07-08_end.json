@@ -1,0 +1,21 @@
+{
+  "albumId": "main_7",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "7-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "7-10_暗淡者之火/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/7-10_%E6%9A%97%E6%B7%A1%E8%80%85%E4%B9%8B%E7%81%AB/END"
+  },
+  "id": "main_7--obt__main__level_main_07-08_end",
+  "navigation": {
+    "nextChapterId": "main_7--obt__main__level_main_07-11_beg",
+    "previousChapterId": "main_7--obt__main__level_main_07-08_beg"
+  },
+  "subtitle": "7-10",
+  "summary": "info/obt/main/level_main_07-08_end",
+  "title": "暗淡者之火"
+}

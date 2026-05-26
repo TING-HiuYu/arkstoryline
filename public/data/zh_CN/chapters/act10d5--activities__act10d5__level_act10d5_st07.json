@@ -1,0 +1,19 @@
+{
+  "albumId": "act10d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SV-ST7_在春天之前/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-ST7_%E5%9C%A8%E6%98%A5%E5%A4%A9%E4%B9%8B%E5%89%8D/NBT"
+  },
+  "id": "act10d5--activities__act10d5__level_act10d5_st07",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act10d5--activities__act10d5__level_act10d5_st06"
+  },
+  "summary": "info/activities/act10d5/level_act10d5_st07",
+  "title": "在春天之前"
+}

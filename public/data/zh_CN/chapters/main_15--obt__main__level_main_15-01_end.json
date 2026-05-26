@@ -1,0 +1,21 @@
+{
+  "albumId": "main_15",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "15-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "15-2_执此剑者/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-2_%E6%89%A7%E6%AD%A4%E5%89%91%E8%80%85/END"
+  },
+  "id": "main_15--obt__main__level_main_15-01_end",
+  "navigation": {
+    "nextChapterId": "main_15--obt__main__level_main_15-02_beg",
+    "previousChapterId": "main_15--obt__main__level_main_15-01_beg"
+  },
+  "subtitle": "15-2",
+  "summary": "info/obt/main/level_main_15-01_end",
+  "title": "执此剑者"
+}

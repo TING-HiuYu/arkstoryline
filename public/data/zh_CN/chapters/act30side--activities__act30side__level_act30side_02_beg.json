@@ -1,0 +1,21 @@
+{
+  "albumId": "act30side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "RS-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RS-2_同车异图/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RS-2_%E5%90%8C%E8%BD%A6%E5%BC%82%E5%9B%BE/BEG"
+  },
+  "id": "act30side--activities__act30side__level_act30side_02_beg",
+  "navigation": {
+    "nextChapterId": "act30side--activities__act30side__level_act30side_02_end",
+    "previousChapterId": "act30side--activities__act30side__level_act30side_01_end"
+  },
+  "subtitle": "RS-2",
+  "summary": "info/activities/act30side/level_act30side_02_beg",
+  "title": "同车异图"
+}

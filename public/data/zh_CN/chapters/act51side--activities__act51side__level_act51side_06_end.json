@@ -1,0 +1,21 @@
+{
+  "albumId": "act51side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "PA-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PA-6_各自流亡/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PA-6_%E5%90%84%E8%87%AA%E6%B5%81%E4%BA%A1/END"
+  },
+  "id": "act51side--activities__act51side__level_act51side_06_end",
+  "navigation": {
+    "nextChapterId": "act51side--activities__act51side__level_act51side_07_beg",
+    "previousChapterId": "act51side--activities__act51side__level_act51side_06_beg"
+  },
+  "subtitle": "PA-6",
+  "summary": "info/activities/act51side/level_act51side_06_end",
+  "title": "各自流亡"
+}

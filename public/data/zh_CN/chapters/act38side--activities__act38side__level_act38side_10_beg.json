@@ -1,0 +1,21 @@
+{
+  "albumId": "act38side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "PV-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PV-10_铳响/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-10_%E9%93%B3%E5%93%8D/BEG"
+  },
+  "id": "act38side--activities__act38side__level_act38side_10_beg",
+  "navigation": {
+    "nextChapterId": "act38side--activities__act38side__level_act38side_10_end",
+    "previousChapterId": "act38side--activities__act38side__level_act38side_09_end"
+  },
+  "subtitle": "PV-10",
+  "summary": "info/activities/act38side/level_act38side_10_beg",
+  "title": "铳响"
+}

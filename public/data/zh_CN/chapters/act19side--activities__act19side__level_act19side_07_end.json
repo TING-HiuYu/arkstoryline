@@ -1,0 +1,21 @@
+{
+  "albumId": "act19side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DV-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DV-7_疯狂的信号/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DV-7_%E7%96%AF%E7%8B%82%E7%9A%84%E4%BF%A1%E5%8F%B7/END"
+  },
+  "id": "act19side--activities__act19side__level_act19side_07_end",
+  "navigation": {
+    "nextChapterId": "act19side--activities__act19side__level_act19side_08_beg",
+    "previousChapterId": "act19side--activities__act19side__level__act19side_sub-1-2"
+  },
+  "subtitle": "DV-7",
+  "summary": "info/activities/act19side/level_act19side_07_end",
+  "title": "疯狂的信号"
+}

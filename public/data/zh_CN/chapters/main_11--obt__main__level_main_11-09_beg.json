@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "11-11",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-11_立场不同/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-11_%E7%AB%8B%E5%9C%BA%E4%B8%8D%E5%90%8C/BEG"
+  },
+  "id": "main_11--obt__main__level_main_11-09_beg",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_main_11-10_end",
+    "previousChapterId": "main_11--obt__main__level_st_11-02"
+  },
+  "subtitle": "11-11",
+  "summary": "info/obt/main/level_main_11-09_beg",
+  "title": "立场不同"
+}

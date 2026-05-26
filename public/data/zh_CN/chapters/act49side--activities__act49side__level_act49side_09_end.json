@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-9_气合/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-9_%E6%B0%94%E5%90%88/END"
+  },
+  "id": "act49side--activities__act49side__level_act49side_09_end",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_10_beg",
+    "previousChapterId": "act49side--activities__act49side__level_act49side_09_beg"
+  },
+  "subtitle": "TA-9",
+  "summary": "info/activities/act49side/level_act49side_09_end",
+  "title": "气合"
+}

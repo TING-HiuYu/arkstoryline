@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "17-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "17-5_不过空壳/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/17-5_%E4%B8%8D%E8%BF%87%E7%A9%BA%E5%A3%B3/BEG"
+  },
+  "id": "main_17--obt__main__level_main_17-04_beg",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_main_17-05_end",
+    "previousChapterId": "main_17--obt__main__level_main_17-03_end"
+  },
+  "subtitle": "17-5",
+  "summary": "info/obt/main/level_main_17-04_beg",
+  "title": "不过空壳"
+}

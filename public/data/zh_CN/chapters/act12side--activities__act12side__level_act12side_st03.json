@@ -1,0 +1,21 @@
+{
+  "albumId": "act12side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "DH-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DH-ST-3_请君入瓮/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DH-ST-3_%E8%AF%B7%E5%90%9B%E5%85%A5%E7%93%AE/NBT"
+  },
+  "id": "act12side--activities__act12side__level_act12side_st03",
+  "navigation": {
+    "nextChapterId": "act12side--activities__act12side__level_act12side_07_beg",
+    "previousChapterId": "act12side--activities__act12side__level_act12side_06_end"
+  },
+  "subtitle": "DH-ST-3",
+  "summary": "info/activities/act12side/level_act12side_st03",
+  "title": "请君入瓮"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "14-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-3_破解锤砧战术/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-3_%E7%A0%B4%E8%A7%A3%E9%94%A4%E7%A0%A7%E6%88%98%E6%9C%AF/END"
+  },
+  "id": "main_14--obt__main__level_main_14-02_end",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-03_beg",
+    "previousChapterId": "main_14--obt__main__level_main_14-02_beg"
+  },
+  "subtitle": "14-3",
+  "summary": "info/obt/main/level_main_14-02_end",
+  "title": "破解锤砧战术"
+}

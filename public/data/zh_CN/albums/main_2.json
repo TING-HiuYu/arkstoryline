@@ -1,0 +1,356 @@
+{
+  "albumKind": "mainline",
+  "chapters": [
+    {
+      "albumId": "main_2",
+      "avgTag": "行动前",
+      "code": "TR-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TR-11_战术阻滞/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TR-11_%E6%88%98%E6%9C%AF%E9%98%BB%E6%BB%9E/BEG"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-01_beg",
+      "path": "chapters/main_2--obt__main__level_main_02-01_beg.json",
+      "sort": 1,
+      "title": "战术阻滞"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动后",
+      "code": "2-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-1_龙门之行/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-1_%E9%BE%99%E9%97%A8%E4%B9%8B%E8%A1%8C/END"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-01_end",
+      "path": "chapters/main_2--obt__main__level_main_02-01_end.json",
+      "sort": 2,
+      "title": "龙门之行"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动前",
+      "code": "2-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-2_兵不接刃/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-2_%E5%85%B5%E4%B8%8D%E6%8E%A5%E5%88%83/BEG"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-02_beg",
+      "path": "chapters/main_2--obt__main__level_main_02-02_beg.json",
+      "sort": 3,
+      "title": "兵不接刃"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动后",
+      "code": "2-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-2_兵不接刃/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-2_%E5%85%B5%E4%B8%8D%E6%8E%A5%E5%88%83/END"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-02_end",
+      "path": "chapters/main_2--obt__main__level_main_02-02_end.json",
+      "sort": 4,
+      "title": "兵不接刃"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动前",
+      "code": "2-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-3_无罪推定/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-3_%E6%97%A0%E7%BD%AA%E6%8E%A8%E5%AE%9A/BEG"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-03_beg",
+      "path": "chapters/main_2--obt__main__level_main_02-03_beg.json",
+      "sort": 5,
+      "title": "无罪推定"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动后",
+      "code": "2-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-3_无罪推定/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-3_%E6%97%A0%E7%BD%AA%E6%8E%A8%E5%AE%9A/END"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-03_end",
+      "path": "chapters/main_2--obt__main__level_main_02-03_end.json",
+      "sort": 6,
+      "title": "无罪推定"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动前",
+      "code": "2-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-4_企鹅物流/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-4_%E4%BC%81%E9%B9%85%E7%89%A9%E6%B5%81/BEG"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-04_beg",
+      "path": "chapters/main_2--obt__main__level_main_02-04_beg.json",
+      "sort": 7,
+      "title": "企鹅物流"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动后",
+      "code": "2-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-4_企鹅物流/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-4_%E4%BC%81%E9%B9%85%E7%89%A9%E6%B5%81/END"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-04_end",
+      "path": "chapters/main_2--obt__main__level_main_02-04_end.json",
+      "sort": 8,
+      "title": "企鹅物流"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动前",
+      "code": "2-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-5_高空坠物/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-5_%E9%AB%98%E7%A9%BA%E5%9D%A0%E7%89%A9/BEG"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-05_beg",
+      "path": "chapters/main_2--obt__main__level_main_02-05_beg.json",
+      "sort": 9,
+      "title": "高空坠物"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动后",
+      "code": "2-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-5_高空坠物/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-5_%E9%AB%98%E7%A9%BA%E5%9D%A0%E7%89%A9/END"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-05_end",
+      "path": "chapters/main_2--obt__main__level_main_02-05_end.json",
+      "sort": 10,
+      "title": "高空坠物"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动前",
+      "code": "2-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-6_握紧扶手/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-6_%E6%8F%A1%E7%B4%A7%E6%89%B6%E6%89%8B/BEG"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-06_beg",
+      "path": "chapters/main_2--obt__main__level_main_02-06_beg.json",
+      "sort": 11,
+      "title": "握紧扶手"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动后",
+      "code": "2-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-6_握紧扶手/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-6_%E6%8F%A1%E7%B4%A7%E6%89%B6%E6%89%8B/END"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-06_end",
+      "path": "chapters/main_2--obt__main__level_main_02-06_end.json",
+      "sort": 12,
+      "title": "握紧扶手"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动前",
+      "code": "2-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-7_注意卫生/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-7_%E6%B3%A8%E6%84%8F%E5%8D%AB%E7%94%9F/BEG"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-07_beg",
+      "path": "chapters/main_2--obt__main__level_main_02-07_beg.json",
+      "sort": 13,
+      "title": "注意卫生"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动后",
+      "code": "2-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-7_注意卫生/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-7_%E6%B3%A8%E6%84%8F%E5%8D%AB%E7%94%9F/END"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-07_end",
+      "path": "chapters/main_2--obt__main__level_main_02-07_end.json",
+      "sort": 14,
+      "title": "注意卫生"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动前",
+      "code": "2-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-8_不做约定/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-8_%E4%B8%8D%E5%81%9A%E7%BA%A6%E5%AE%9A/BEG"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-08_beg",
+      "path": "chapters/main_2--obt__main__level_main_02-08_beg.json",
+      "sort": 15,
+      "title": "不做约定"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动后",
+      "code": "2-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-8_不做约定/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-8_%E4%B8%8D%E5%81%9A%E7%BA%A6%E5%AE%9A/END"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-08_end",
+      "path": "chapters/main_2--obt__main__level_main_02-08_end.json",
+      "sort": 16,
+      "title": "不做约定"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动前",
+      "code": "2-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-9_操作暗箱/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-9_%E6%93%8D%E4%BD%9C%E6%9A%97%E7%AE%B1/BEG"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-09_beg",
+      "path": "chapters/main_2--obt__main__level_main_02-09_beg.json",
+      "sort": 17,
+      "title": "操作暗箱"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动后",
+      "code": "2-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-9_操作暗箱/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-9_%E6%93%8D%E4%BD%9C%E6%9A%97%E7%AE%B1/END"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-09_end",
+      "path": "chapters/main_2--obt__main__level_main_02-09_end.json",
+      "sort": 18,
+      "title": "操作暗箱"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动前",
+      "code": "2-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-10_病入膏肓/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-10_%E7%97%85%E5%85%A5%E8%86%8F%E8%82%93/BEG"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-10_beg",
+      "path": "chapters/main_2--obt__main__level_main_02-10_beg.json",
+      "sort": 19,
+      "title": "病入膏肓"
+    },
+    {
+      "albumId": "main_2",
+      "avgTag": "行动后",
+      "code": "2-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "2-10_病入膏肓/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/2-10_%E7%97%85%E5%85%A5%E8%86%8F%E8%82%93/END"
+      },
+      "downloadable": true,
+      "id": "main_2--obt__main__level_main_02-10_end",
+      "path": "chapters/main_2--obt__main__level_main_02-10_end.json",
+      "sort": 20,
+      "title": "病入膏肓"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_seperated_hearts",
+    "primaryImageId": "kv_seperated_hearts",
+    "source": "stage-kv",
+    "titleImageId": "title_seperated_hearts",
+    "url": "https://media.prts.wiki/d/d8/%E7%AB%A0%E8%8A%82%E5%90%8D%E7%A7%B0_%E7%AC%AC%E4%BA%8C%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 1003,
+  "homeSection": "mainline",
+  "id": "main_2",
+  "music": {
+    "arcTitle": "init. 觉醒",
+    "movementTitle": "init. 觉醒",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "main-2",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": -1,
+  "summary": "为了得到龙门支持，罗德岛与执政者魏彦吾达成合作。\n通过企鹅物流的情报，阿米娅找到了乌萨斯女孩米莎。\n与此同时，整合运动也派出了干部对米莎展开追捕。\n看似普通的女孩究竟有什么特别身份，\n能吸引多方势力的关注......",
+  "timelineRank": -1,
+  "title": "异卵同生"
+}

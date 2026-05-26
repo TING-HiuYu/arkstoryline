@@ -1,0 +1,21 @@
+{
+  "albumId": "main_10",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "10-18",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "10-18_理想的倒影/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-18_%E7%90%86%E6%83%B3%E7%9A%84%E5%80%92%E5%BD%B1/NBT"
+  },
+  "id": "main_10--obt__main__level_st_10-03",
+  "navigation": {
+    "nextChapterId": "main_10--obt__main__level_st_10-04",
+    "previousChapterId": "main_10--obt__main__level_main_10-15_end"
+  },
+  "subtitle": "10-18",
+  "summary": "info/obt/main/level_st_10-03",
+  "title": "理想的倒影"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act39side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "EP-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EP-ST-2_倾泻腐朽的花/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EP-ST-2_%E5%80%BE%E6%B3%BB%E8%85%90%E6%9C%BD%E7%9A%84%E8%8A%B1/NBT"
+  },
+  "id": "act39side--activities__act39side__level_act39side_st02",
+  "navigation": {
+    "nextChapterId": "act39side--activities__act39side__level_act39side_07_beg",
+    "previousChapterId": "act39side--activities__act39side__level_act39side_06_end"
+  },
+  "subtitle": "EP-ST-2",
+  "summary": "info/activities/act39side/level_act39side_st02",
+  "title": "倾泻腐朽的花"
+}

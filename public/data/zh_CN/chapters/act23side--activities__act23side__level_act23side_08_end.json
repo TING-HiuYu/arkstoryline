@@ -1,0 +1,21 @@
+{
+  "albumId": "act23side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "WB-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WB-8_旷古之晤/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WB-8_%E6%97%B7%E5%8F%A4%E4%B9%8B%E6%99%A4/END"
+  },
+  "id": "act23side--activities__act23side__level_act23side_08_end",
+  "navigation": {
+    "nextChapterId": "act23side--activities__act23side__level_act23side_09_beg",
+    "previousChapterId": "act23side--activities__act23side__level_act23side_08_beg"
+  },
+  "subtitle": "WB-8",
+  "summary": "info/activities/act23side/level_act23side_08_end",
+  "title": "旷古之晤"
+}

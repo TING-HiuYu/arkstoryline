@@ -1,0 +1,344 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act48side",
+      "avgTag": "幕间",
+      "code": "ME-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-ST-1_涉过流淌的河/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-ST-1_%E6%B6%89%E8%BF%87%E6%B5%81%E6%B7%8C%E7%9A%84%E6%B2%B3/NBT"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_st01",
+      "path": "chapters/act48side--activities__act48side__level_act48side_st01.json",
+      "sort": 1,
+      "title": "涉过流淌的河"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "行动前",
+      "code": "ME-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-1_工作与时日/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-1_%E5%B7%A5%E4%BD%9C%E4%B8%8E%E6%97%B6%E6%97%A5/BEG"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_01_beg",
+      "path": "chapters/act48side--activities__act48side__level_act48side_01_beg.json",
+      "sort": 2,
+      "title": "工作与时日"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "行动后",
+      "code": "ME-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-1_工作与时日/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-1_%E5%B7%A5%E4%BD%9C%E4%B8%8E%E6%97%B6%E6%97%A5/END"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_01_end",
+      "path": "chapters/act48side--activities__act48side__level_act48side_01_end.json",
+      "sort": 3,
+      "title": "工作与时日"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "行动前",
+      "code": "ME-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-2_命定的终点/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-2_%E5%91%BD%E5%AE%9A%E7%9A%84%E7%BB%88%E7%82%B9/BEG"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_02_beg",
+      "path": "chapters/act48side--activities__act48side__level_act48side_02_beg.json",
+      "sort": 4,
+      "title": "命定的终点"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "行动后",
+      "code": "ME-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-2_命定的终点/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-2_%E5%91%BD%E5%AE%9A%E7%9A%84%E7%BB%88%E7%82%B9/END"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_02_end",
+      "path": "chapters/act48side--activities__act48side__level_act48side_02_end.json",
+      "sort": 5,
+      "title": "命定的终点"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "行动前",
+      "code": "ME-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-3_无解的谜题/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-3_%E6%97%A0%E8%A7%A3%E7%9A%84%E8%B0%9C%E9%A2%98/BEG"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_03_beg",
+      "path": "chapters/act48side--activities__act48side__level_act48side_03_beg.json",
+      "sort": 6,
+      "title": "无解的谜题"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "行动后",
+      "code": "ME-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-3_无解的谜题/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-3_%E6%97%A0%E8%A7%A3%E7%9A%84%E8%B0%9C%E9%A2%98/END"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_03_end",
+      "path": "chapters/act48side--activities__act48side__level_act48side_03_end.json",
+      "sort": 7,
+      "title": "无解的谜题"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "行动前",
+      "code": "ME-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-4_失手/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-4_%E5%A4%B1%E6%89%8B/BEG"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_04_beg",
+      "path": "chapters/act48side--activities__act48side__level_act48side_04_beg.json",
+      "sort": 8,
+      "title": "失手"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "行动后",
+      "code": "ME-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-4_失手/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-4_%E5%A4%B1%E6%89%8B/END"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_04_end",
+      "path": "chapters/act48side--activities__act48side__level_act48side_04_end.json",
+      "sort": 9,
+      "title": "失手"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "幕间",
+      "code": "ME-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-ST-2_一个无声的夜晚/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-ST-2_%E4%B8%80%E4%B8%AA%E6%97%A0%E5%A3%B0%E7%9A%84%E5%A4%9C%E6%99%9A/NBT"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_st02",
+      "path": "chapters/act48side--activities__act48side__level_act48side_st02.json",
+      "sort": 10,
+      "title": "一个无声的夜晚"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "行动前",
+      "code": "ME-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-5_汇流/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-5_%E6%B1%87%E6%B5%81/BEG"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_05_beg",
+      "path": "chapters/act48side--activities__act48side__level_act48side_05_beg.json",
+      "sort": 11,
+      "title": "汇流"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "行动后",
+      "code": "ME-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-5_汇流/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-5_%E6%B1%87%E6%B5%81/END"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_05_end",
+      "path": "chapters/act48side--activities__act48side__level_act48side_05_end.json",
+      "sort": 12,
+      "title": "汇流"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "行动前",
+      "code": "ME-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-6_旧日诗篇/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-6_%E6%97%A7%E6%97%A5%E8%AF%97%E7%AF%87/BEG"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_06_beg",
+      "path": "chapters/act48side--activities__act48side__level_act48side_06_beg.json",
+      "sort": 13,
+      "title": "旧日诗篇"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "行动后",
+      "code": "ME-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-6_旧日诗篇/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-6_%E6%97%A7%E6%97%A5%E8%AF%97%E7%AF%87/END"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_06_end",
+      "path": "chapters/act48side--activities__act48side__level_act48side_06_end.json",
+      "sort": 14,
+      "title": "旧日诗篇"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "行动前",
+      "code": "ME-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-7_奔袭/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-7_%E5%A5%94%E8%A2%AD/BEG"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_07_beg",
+      "path": "chapters/act48side--activities__act48side__level_act48side_07_beg.json",
+      "sort": 15,
+      "title": "奔袭"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "行动后",
+      "code": "ME-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-7_奔袭/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-7_%E5%A5%94%E8%A2%AD/END"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_07_end",
+      "path": "chapters/act48side--activities__act48side__level_act48side_07_end.json",
+      "sort": 16,
+      "title": "奔袭"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "行动前",
+      "code": "ME-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-8_神谕示显/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-8_%E7%A5%9E%E8%B0%95%E7%A4%BA%E6%98%BE/BEG"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_08_beg",
+      "path": "chapters/act48side--activities__act48side__level_act48side_08_beg.json",
+      "sort": 17,
+      "title": "神谕示显"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "行动后",
+      "code": "ME-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-8_神谕示显/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-8_%E7%A5%9E%E8%B0%95%E7%A4%BA%E6%98%BE/END"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_08_end",
+      "path": "chapters/act48side--activities__act48side__level_act48side_08_end.json",
+      "sort": 18,
+      "title": "神谕示显"
+    },
+    {
+      "albumId": "act48side",
+      "avgTag": "幕间",
+      "code": "ME-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "ME-ST-3_无法再一次踏入的河/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/ME-ST-3_%E6%97%A0%E6%B3%95%E5%86%8D%E4%B8%80%E6%AC%A1%E8%B8%8F%E5%85%A5%E7%9A%84%E6%B2%B3/NBT"
+      },
+      "downloadable": true,
+      "id": "act48side--activities__act48side__level_act48side_st03",
+      "path": "chapters/act48side--activities__act48side__level_act48side_st03.json",
+      "sort": 19,
+      "title": "无法再一次踏入的河"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_medjehtiqedti_bound",
+    "primaryImageId": "kv_medjehtiqedti_bound",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act48side",
+    "titleImageId": "title_medjehtiqedti_bound",
+    "url": "https://media.prts.wiki/4/42/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E9%9B%85%E8%B5%9B%E5%8A%AA%E6%96%AF%E5%A4%8D%E4%BB%87%E8%AE%B0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 7007,
+  "homeSection": "sideStory",
+  "id": "act48side",
+  "music": {
+    "arcTitle": "泰拉奇谈",
+    "movementTitle": "泰拉奇谈",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_11",
+      "tag_13"
+    ]
+  },
+  "slug": "act48side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1767913200,
+  "summary": "洁白的高墙，青翠的绿野，“群山环绕的花园”——\n在这座米诺斯最初的城邦雅赛努斯，\n带着神谕归乡的漂泊者，与失去了故土的摆渡人，\n遭遇了自曾经的敌国萨尔贡前来的大使梅捷缇克缇。\n无法化解的家国仇恨该如何排遣？\n必须达成的使命与内心的正义之间，该如何选择？\n米诺斯人向往的英雄，又该由谁来定义？",
+  "timelineRank": 1767913200,
+  "title": "雅赛努斯复仇记"
+}

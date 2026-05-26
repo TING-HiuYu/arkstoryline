@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-7_相思断/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-7_%E7%9B%B8%E6%80%9D%E6%96%AD/END"
+  },
+  "id": "act49side--activities__act49side__level_act49side_07_end",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_08_beg",
+    "previousChapterId": "act49side--activities__act49side__level_act49side_07_beg"
+  },
+  "subtitle": "TA-7",
+  "summary": "info/activities/act49side/level_act49side_07_end",
+  "title": "相思断"
+}

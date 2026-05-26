@@ -1,0 +1,21 @@
+{
+  "albumId": "act45side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "SS-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SS-4_名为客房区的迷宫/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SS-4_%E5%90%8D%E4%B8%BA%E5%AE%A2%E6%88%BF%E5%8C%BA%E7%9A%84%E8%BF%B7%E5%AE%AB/BEG"
+  },
+  "id": "act45side--activities__act45side__level_act45side_04_beg",
+  "navigation": {
+    "nextChapterId": "act45side--activities__act45side__level_act45side_04_end",
+    "previousChapterId": "act45side--activities__act45side__level_act45side_03_end"
+  },
+  "subtitle": "SS-4",
+  "summary": "info/activities/act45side/level_act45side_04_beg",
+  "title": "名为客房区的迷宫"
+}

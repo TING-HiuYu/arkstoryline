@@ -1,0 +1,21 @@
+{
+  "albumId": "act25side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CW-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CW-1_迷雾重重/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CW-1_%E8%BF%B7%E9%9B%BE%E9%87%8D%E9%87%8D/BEG"
+  },
+  "id": "act25side--activities__act25side__level_act25side_01_beg",
+  "navigation": {
+    "nextChapterId": "act25side--activities__act25side__level_act25side_01_end",
+    "previousChapterId": "act25side--activities__act25side__level_act25side_st01"
+  },
+  "subtitle": "CW-1",
+  "summary": "info/activities/act25side/level_act25side_01_beg",
+  "title": "迷雾重重"
+}

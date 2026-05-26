@@ -1,0 +1,19 @@
+{
+  "albumId": "act8mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "VI-ST4_我所思不止于此/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/VI-ST4_%E6%88%91%E6%89%80%E6%80%9D%E4%B8%8D%E6%AD%A2%E4%BA%8E%E6%AD%A4/NBT"
+  },
+  "id": "act8mini--activities__act8mini__level_act8mini_st04",
+  "navigation": {
+    "nextChapterId": "act8mini--activities__act8mini__level_act8mini_st05",
+    "previousChapterId": "act8mini--activities__act8mini__level_act8mini_st03"
+  },
+  "summary": "info/activities/act8mini/level_act8mini_st04",
+  "title": "我所思不止于此"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act43side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "AD-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AD-1_彩排日/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AD-1_%E5%BD%A9%E6%8E%92%E6%97%A5/END"
+  },
+  "id": "act43side--activities__act43side__level_act43side_01_end",
+  "navigation": {
+    "nextChapterId": "act43side--activities__act43side__level_act43side_02_beg",
+    "previousChapterId": "act43side--activities__act43side__level_act43side_01_beg"
+  },
+  "subtitle": "AD-1",
+  "summary": "info/activities/act43side/level_act43side_01_end",
+  "title": "彩排日"
+}

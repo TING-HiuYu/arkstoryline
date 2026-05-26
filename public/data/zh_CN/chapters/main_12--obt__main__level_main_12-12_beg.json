@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "12-14",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-14_捂住耳朵/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-14_%E6%8D%82%E4%BD%8F%E8%80%B3%E6%9C%B5/BEG"
+  },
+  "id": "main_12--obt__main__level_main_12-12_beg",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_main_12-12_end",
+    "previousChapterId": "main_12--obt__main__level_main_12-11_end"
+  },
+  "subtitle": "12-14",
+  "summary": "info/obt/main/level_main_12-12_beg",
+  "title": "捂住耳朵"
+}

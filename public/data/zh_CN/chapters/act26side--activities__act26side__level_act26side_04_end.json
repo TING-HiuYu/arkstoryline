@@ -1,0 +1,21 @@
+{
+  "albumId": "act26side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "HE-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HE-4_我曾舍命为你/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HE-4_%E6%88%91%E6%9B%BE%E8%88%8D%E5%91%BD%E4%B8%BA%E4%BD%A0/END"
+  },
+  "id": "act26side--activities__act26side__level_act26side_04_end",
+  "navigation": {
+    "nextChapterId": "act26side--activities__act26side__level_act26side_05_beg",
+    "previousChapterId": "act26side--activities__act26side__level_act26side_04_beg"
+  },
+  "subtitle": "HE-4",
+  "summary": "info/activities/act26side/level_act26side_04_end",
+  "title": "我曾舍命为你"
+}

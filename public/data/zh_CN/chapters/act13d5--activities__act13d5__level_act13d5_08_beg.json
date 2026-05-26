@@ -1,0 +1,21 @@
+{
+  "albumId": "act13d5",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "MN-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MN-8_商业联合/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MN-8_%E5%95%86%E4%B8%9A%E8%81%94%E5%90%88/BEG"
+  },
+  "id": "act13d5--activities__act13d5__level_act13d5_08_beg",
+  "navigation": {
+    "nextChapterId": "act13d5--activities__act13d5__level_act13d5_08_end",
+    "previousChapterId": "act13d5--activities__act13d5__level_act13d5_st02"
+  },
+  "subtitle": "MN-8",
+  "summary": "info/activities/act13d5/level_act13d5_08_beg",
+  "title": "商业联合"
+}

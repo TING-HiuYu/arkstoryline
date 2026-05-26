@@ -1,0 +1,21 @@
+{
+  "albumId": "act26side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "HE-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HE-7_以爱相连/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HE-7_%E4%BB%A5%E7%88%B1%E7%9B%B8%E8%BF%9E/BEG"
+  },
+  "id": "act26side--activities__act26side__level_act26side_07_beg",
+  "navigation": {
+    "nextChapterId": "act26side--activities__act26side__level_act26side_07_end",
+    "previousChapterId": "act26side--activities__act26side__level_act26side_st02"
+  },
+  "subtitle": "HE-7",
+  "summary": "info/activities/act26side/level_act26side_07_beg",
+  "title": "以爱相连"
+}

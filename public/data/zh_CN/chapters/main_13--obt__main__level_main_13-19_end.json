@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "13-21",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "13-21_殷红君主/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-21_%E6%AE%B7%E7%BA%A2%E5%90%9B%E4%B8%BB/END"
+  },
+  "id": "main_13--obt__main__level_main_13-19_end",
+  "navigation": {
+    "nextChapterId": "main_13--obt__main__level_st_13-03",
+    "previousChapterId": "main_13--obt__main__level_main_13-19_beg"
+  },
+  "subtitle": "13-21",
+  "summary": "info/obt/main/level_main_13-19_end",
+  "title": "殷红君主"
+}

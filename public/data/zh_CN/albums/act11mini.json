@@ -1,0 +1,128 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act11mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TC-ST1_布朗陶/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TC-ST1_%E5%B8%83%E6%9C%97%E9%99%B6/NBT"
+      },
+      "downloadable": true,
+      "id": "act11mini--activities__act11mini__level_act11mini_st01",
+      "path": "chapters/act11mini--activities__act11mini__level_act11mini_st01.json",
+      "sort": 1,
+      "title": "布朗陶"
+    },
+    {
+      "albumId": "act11mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TC-ST2_后会有期/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TC-ST2_%E5%90%8E%E4%BC%9A%E6%9C%89%E6%9C%9F/NBT"
+      },
+      "downloadable": true,
+      "id": "act11mini--activities__act11mini__level_act11mini_st02",
+      "path": "chapters/act11mini--activities__act11mini__level_act11mini_st02.json",
+      "sort": 2,
+      "title": "后会有期"
+    },
+    {
+      "albumId": "act11mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TC-ST3_狼与狼群/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TC-ST3_%E7%8B%BC%E4%B8%8E%E7%8B%BC%E7%BE%A4/NBT"
+      },
+      "downloadable": true,
+      "id": "act11mini--activities__act11mini__level_act11mini_st03",
+      "path": "chapters/act11mini--activities__act11mini__level_act11mini_st03.json",
+      "sort": 3,
+      "title": "狼与狼群"
+    },
+    {
+      "albumId": "act11mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TC-ST4_再见罗伊/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TC-ST4_%E5%86%8D%E8%A7%81%E7%BD%97%E4%BC%8A/NBT"
+      },
+      "downloadable": true,
+      "id": "act11mini--activities__act11mini__level_act11mini_st04",
+      "path": "chapters/act11mini--activities__act11mini__level_act11mini_st04.json",
+      "sort": 4,
+      "title": "再见罗伊"
+    },
+    {
+      "albumId": "act11mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TC-ST5_和而不同/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TC-ST5_%E5%92%8C%E8%80%8C%E4%B8%8D%E5%90%8C/NBT"
+      },
+      "downloadable": true,
+      "id": "act11mini--activities__act11mini__level_act11mini_st05",
+      "path": "chapters/act11mini--activities__act11mini__level_act11mini_st05.json",
+      "sort": 5,
+      "title": "和而不同"
+    },
+    {
+      "albumId": "act11mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "TC-ST6_真实故事/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TC-ST6_%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B/NBT"
+      },
+      "downloadable": true,
+      "id": "act11mini--activities__act11mini__level_act11mini_st06",
+      "path": "chapters/act11mini--activities__act11mini__level_act11mini_st06.json",
+      "sort": 6,
+      "title": "真实故事"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_to_be_continued",
+    "primaryImageId": "kv_to_be_continued",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act11mini",
+    "storyPicId": "storyPic_act11mini",
+    "titleImageId": "title_to_be_continued",
+    "url": "https://media.prts.wiki/d/de/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%9C%AA%E5%B0%BD%E7%AF%87%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 4003,
+  "homeSection": "sideStory",
+  "id": "act11mini",
+  "music": {
+    "arcTitle": "泰拉奇谈",
+    "movementTitle": "泰拉奇谈",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act11mini",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1658217600,
+  "summary": "从雪域到汐斯塔，从叙拉古到卡西米尔，\n此地飞溅的海水会在不久后化作彼处雪花飘落而下。\n人亦是如此。迁移，联系，独处，团聚。\n镜头移开后，生活仍在继续。",
+  "timelineRank": 1658217600,
+  "title": "未尽篇章"
+}

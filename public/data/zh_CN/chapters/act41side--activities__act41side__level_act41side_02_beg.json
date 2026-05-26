@@ -1,0 +1,21 @@
+{
+  "albumId": "act41side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "EA-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EA-2_不过别离/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-2_%E4%B8%8D%E8%BF%87%E5%88%AB%E7%A6%BB/BEG"
+  },
+  "id": "act41side--activities__act41side__level_act41side_02_beg",
+  "navigation": {
+    "nextChapterId": "act41side--activities__act41side__level_act41side_02_end",
+    "previousChapterId": "act41side--activities__act41side__level_act41side_01_end"
+  },
+  "subtitle": "EA-2",
+  "summary": "info/activities/act41side/level_act41side_02_beg",
+  "title": "不过别离"
+}

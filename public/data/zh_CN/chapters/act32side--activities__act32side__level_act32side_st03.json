@@ -1,0 +1,21 @@
+{
+  "albumId": "act32side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "CR-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CR-ST-3_艺术馆餐厅/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CR-ST-3_%E8%89%BA%E6%9C%AF%E9%A6%86%E9%A4%90%E5%8E%85/NBT"
+  },
+  "id": "act32side--activities__act32side__level_act32side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act32side--activities__act32side__level_act32side_08_end"
+  },
+  "subtitle": "CR-ST-3",
+  "summary": "info/activities/act32side/level_act32side_st03",
+  "title": "艺术馆餐厅"
+}

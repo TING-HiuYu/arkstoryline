@@ -1,0 +1,21 @@
+{
+  "albumId": "main_2",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "2-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "2-3_无罪推定/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/2-3_%E6%97%A0%E7%BD%AA%E6%8E%A8%E5%AE%9A/END"
+  },
+  "id": "main_2--obt__main__level_main_02-03_end",
+  "navigation": {
+    "nextChapterId": "main_2--obt__main__level_main_02-04_beg",
+    "previousChapterId": "main_2--obt__main__level_main_02-03_beg"
+  },
+  "subtitle": "2-3",
+  "summary": "info/obt/main/level_main_02-03_end",
+  "title": "无罪推定"
+}

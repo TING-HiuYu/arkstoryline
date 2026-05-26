@@ -1,0 +1,21 @@
+{
+  "albumId": "act5d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CB-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CB-2_7:15P.M./END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-2_7%3A15P.M./END"
+  },
+  "id": "act5d0--activities__act5d0__level_act5d0_02_end",
+  "navigation": {
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_03_beg",
+    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_02_beg"
+  },
+  "subtitle": "CB-2",
+  "summary": "info/activities/act5d0/level_act5d0_02_end",
+  "title": "7:15P.M."
+}

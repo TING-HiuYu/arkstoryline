@@ -1,0 +1,21 @@
+{
+  "albumId": "act9d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "DM-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DM-8_离散/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DM-8_%E7%A6%BB%E6%95%A3/BEG"
+  },
+  "id": "act9d0--activities__act9d0__level_act9d0_06_beg",
+  "navigation": {
+    "nextChapterId": "act9d0--activities__act9d0__level_act9d0_06_end",
+    "previousChapterId": "act9d0--activities__act9d0__level_act9d0_05_end"
+  },
+  "subtitle": "DM-8",
+  "summary": "info/activities/act9d0/level_act9d0_06_beg",
+  "title": "离散"
+}

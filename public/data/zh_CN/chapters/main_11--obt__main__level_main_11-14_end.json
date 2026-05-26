@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "11-16",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-16_荣光猎场/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-16_%E8%8D%A3%E5%85%89%E7%8C%8E%E5%9C%BA/END"
+  },
+  "id": "main_11--obt__main__level_main_11-14_end",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_main_11-15_beg",
+    "previousChapterId": "main_11--obt__main__level_main_11-13_beg"
+  },
+  "subtitle": "11-16",
+  "summary": "info/obt/main/level_main_11-14_end",
+  "title": "荣光猎场"
+}

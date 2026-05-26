@@ -1,0 +1,21 @@
+{
+  "albumId": "act42side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "MT-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MT-ST-3_重逢/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MT-ST-3_%E9%87%8D%E9%80%A2/NBT"
+  },
+  "id": "act42side--activities__act42side__level_act42side_st03",
+  "navigation": {
+    "nextChapterId": "act42side--activities__act42side__level_act42side_st04",
+    "previousChapterId": "act42side--activities__act42side__level_act42side_10_end"
+  },
+  "subtitle": "MT-ST-3",
+  "summary": "info/activities/act42side/level_act42side_st03",
+  "title": "重逢"
+}

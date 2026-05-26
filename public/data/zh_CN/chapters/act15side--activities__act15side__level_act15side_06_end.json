@@ -1,0 +1,21 @@
+{
+  "albumId": "act15side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IW-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IW-6_传说/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-6_%E4%BC%A0%E8%AF%B4/END"
+  },
+  "id": "act15side--activities__act15side__level_act15side_06_end",
+  "navigation": {
+    "nextChapterId": "act15side--activities__act15side__level_act15side_07_beg",
+    "previousChapterId": "act15side--activities__act15side__level_act15side_06_beg"
+  },
+  "subtitle": "IW-6",
+  "summary": "info/activities/act15side/level_act15side_06_end",
+  "title": "传说"
+}

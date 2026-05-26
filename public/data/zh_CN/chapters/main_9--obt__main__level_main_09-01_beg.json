@@ -1,0 +1,21 @@
+{
+  "albumId": "main_9",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "9-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "9-2_鬼魂危机/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/9-2_%E9%AC%BC%E9%AD%82%E5%8D%B1%E6%9C%BA/BEG"
+  },
+  "id": "main_9--obt__main__level_main_09-01_beg",
+  "navigation": {
+    "nextChapterId": "main_9--obt__main__level_main_09-02_end",
+    "previousChapterId": "main_9--obt__main__level_st_09-01"
+  },
+  "subtitle": "9-2",
+  "summary": "info/obt/main/level_main_09-01_beg",
+  "title": "鬼魂危机"
+}

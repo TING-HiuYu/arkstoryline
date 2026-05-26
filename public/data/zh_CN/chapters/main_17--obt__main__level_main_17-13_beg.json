@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "17-14",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "17-14_难如雪覆/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/17-14_%E9%9A%BE%E5%A6%82%E9%9B%AA%E8%A6%86/BEG"
+  },
+  "id": "main_17--obt__main__level_main_17-13_beg",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_main_17-14_beg",
+    "previousChapterId": "main_17--obt__main__level_main_17-12_beg"
+  },
+  "subtitle": "17-14",
+  "summary": "info/obt/main/level_main_17-13_beg",
+  "title": "难如雪覆"
+}

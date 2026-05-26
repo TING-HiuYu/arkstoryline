@@ -1,0 +1,21 @@
+{
+  "albumId": "act36side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DT-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DT-2_雨林解毒炖汤/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DT-2_%E9%9B%A8%E6%9E%97%E8%A7%A3%E6%AF%92%E7%82%96%E6%B1%A4/END"
+  },
+  "id": "act36side--activities__act36side__level_act36side_02_end",
+  "navigation": {
+    "nextChapterId": "act36side--activities__act36side__level_act36side_03_beg",
+    "previousChapterId": "act36side--activities__act36side__level_act36side_02_beg"
+  },
+  "subtitle": "DT-2",
+  "summary": "info/activities/act36side/level_act36side_02_end",
+  "title": "雨林解毒炖汤"
+}

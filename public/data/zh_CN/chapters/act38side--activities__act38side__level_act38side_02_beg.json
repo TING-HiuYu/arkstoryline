@@ -1,0 +1,21 @@
+{
+  "albumId": "act38side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "PV-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PV-2_择路/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-2_%E6%8B%A9%E8%B7%AF/BEG"
+  },
+  "id": "act38side--activities__act38side__level_act38side_02_beg",
+  "navigation": {
+    "nextChapterId": "act38side--activities__act38side__level_act38side_02_end",
+    "previousChapterId": "act38side--activities__act38side__level_act38side_01_end"
+  },
+  "subtitle": "PV-2",
+  "summary": "info/activities/act38side/level_act38side_02_beg",
+  "title": "择路"
+}

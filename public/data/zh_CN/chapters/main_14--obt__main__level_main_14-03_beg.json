@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "14-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-4_通讯静默解除/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-4_%E9%80%9A%E8%AE%AF%E9%9D%99%E9%BB%98%E8%A7%A3%E9%99%A4/BEG"
+  },
+  "id": "main_14--obt__main__level_main_14-03_beg",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-03_end",
+    "previousChapterId": "main_14--obt__main__level_main_14-02_end"
+  },
+  "subtitle": "14-4",
+  "summary": "info/obt/main/level_main_14-03_beg",
+  "title": "通讯静默解除"
+}

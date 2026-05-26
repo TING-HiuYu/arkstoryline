@@ -1,0 +1,21 @@
+{
+  "albumId": "act34side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "BP-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BP-6_阿戈尔失格/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BP-6_%E9%98%BF%E6%88%88%E5%B0%94%E5%A4%B1%E6%A0%BC/END"
+  },
+  "id": "act34side--activities__act34side__level_act34side_06_end",
+  "navigation": {
+    "nextChapterId": "act34side--activities__act34side__level_act34side_st02",
+    "previousChapterId": "act34side--activities__act34side__level_act34side_06_beg"
+  },
+  "subtitle": "BP-6",
+  "summary": "info/activities/act34side/level_act34side_06_end",
+  "title": "阿戈尔失格"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act41side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "EA-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EA-5_溺火/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-5_%E6%BA%BA%E7%81%AB/BEG"
+  },
+  "id": "act41side--activities__act41side__level_act41side_05_beg",
+  "navigation": {
+    "nextChapterId": "act41side--activities__act41side__level_act41side_05_end",
+    "previousChapterId": "act41side--activities__act41side__level_act41side_04_end"
+  },
+  "subtitle": "EA-5",
+  "summary": "info/activities/act41side/level_act41side_05_beg",
+  "title": "溺火"
+}

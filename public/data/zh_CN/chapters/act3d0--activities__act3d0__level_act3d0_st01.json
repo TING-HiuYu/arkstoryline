@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-ST1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-ST1_摇滚起来/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-ST1_%E6%91%87%E6%BB%9A%E8%B5%B7%E6%9D%A5/NBT"
+  },
+  "id": "act3d0--activities__act3d0__level_act3d0_st01",
+  "navigation": {
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_01_beg",
+    "previousChapterId": "act3d0--activities__act3d0__ui_act3d0_campselect"
+  },
+  "subtitle": "OF-ST1",
+  "summary": "info/activities/act3d0/level_act3d0_st01",
+  "title": "摇滚起来"
+}

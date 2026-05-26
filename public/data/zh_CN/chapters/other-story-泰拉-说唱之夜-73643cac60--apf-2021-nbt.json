@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-泰拉-说唱之夜-73643cac60",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "APF-2021/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/APF-2021/NBT"
+  },
+  "id": "other-story-泰拉-说唱之夜-73643cac60--apf-2021-nbt",
+  "navigation": {
+    "nextChapterId": "other-story-泰拉-说唱之夜-73643cac60--lttb-extraordinary-rap-battle-end",
+    "previousChapterId": null
+  },
+  "subtitle": null,
+  "title": "嘻哈之王"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "14-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-6_确认交战视界/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-6_%E7%A1%AE%E8%AE%A4%E4%BA%A4%E6%88%98%E8%A7%86%E7%95%8C/BEG"
+  },
+  "id": "main_14--obt__main__level_main_14-05_beg",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-05_end",
+    "previousChapterId": "main_14--obt__main__level_main_14-04_end"
+  },
+  "subtitle": "14-6",
+  "summary": "info/obt/main/level_main_14-05_beg",
+  "title": "确认交战视界"
+}

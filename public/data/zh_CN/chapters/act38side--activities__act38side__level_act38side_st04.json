@@ -1,0 +1,21 @@
+{
+  "albumId": "act38side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "PV-ST-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PV-ST-4_《管理法修正案》/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-ST-4_%E3%80%8A%E7%AE%A1%E7%90%86%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88%E3%80%8B/NBT"
+  },
+  "id": "act38side--activities__act38side__level_act38side_st04",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act38side--activities__act38side__level_act38side_10_end"
+  },
+  "subtitle": "PV-ST-4",
+  "summary": "info/activities/act38side/level_act38side_st04",
+  "title": "《管理法修正案》"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_10",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "10-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "10-5_城市的呼吸/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-5_%E5%9F%8E%E5%B8%82%E7%9A%84%E5%91%BC%E5%90%B8/BEG"
+  },
+  "id": "main_10--obt__main__level_main_10-04_beg",
+  "navigation": {
+    "nextChapterId": "main_10--obt__main__level_main_10-04_end",
+    "previousChapterId": "main_10--obt__main__level_main_10-03_end"
+  },
+  "subtitle": "10-5",
+  "summary": "info/obt/main/level_main_10-04_beg",
+  "title": "城市的呼吸"
+}

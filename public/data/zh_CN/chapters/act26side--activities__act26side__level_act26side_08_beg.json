@@ -1,0 +1,21 @@
+{
+  "albumId": "act26side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "HE-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HE-8_愿跟随主/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HE-8_%E6%84%BF%E8%B7%9F%E9%9A%8F%E4%B8%BB/BEG"
+  },
+  "id": "act26side--activities__act26side__level_act26side_08_beg",
+  "navigation": {
+    "nextChapterId": "act26side--activities__act26side__level_act26side_08_end",
+    "previousChapterId": "act26side--activities__act26side__level_act26side_07_end"
+  },
+  "subtitle": "HE-8",
+  "summary": "info/activities/act26side/level_act26side_08_beg",
+  "title": "愿跟随主"
+}

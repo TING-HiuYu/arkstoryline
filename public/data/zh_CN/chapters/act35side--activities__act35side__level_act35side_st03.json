@@ -1,0 +1,21 @@
+{
+  "albumId": "act35side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "AS-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AS-ST-3_十字路口，再出发/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AS-ST-3_%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3%EF%BC%8C%E5%86%8D%E5%87%BA%E5%8F%91/NBT"
+  },
+  "id": "act35side--activities__act35side__level_act35side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act35side--activities__act35side__level_act35side_09_end"
+  },
+  "subtitle": "AS-ST-3",
+  "summary": "info/activities/act35side/level_act35side_st03",
+  "title": "十字路口，再出发"
+}

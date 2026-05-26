@@ -1,0 +1,21 @@
+{
+  "albumId": "act46side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "OS-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OS-8_宣告在途/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OS-8_%E5%AE%A3%E5%91%8A%E5%9C%A8%E9%80%94/BEG"
+  },
+  "id": "act46side--activities__act46side__level_act46side_08_beg",
+  "navigation": {
+    "nextChapterId": "act46side--activities__act46side__level_act46side_08_end",
+    "previousChapterId": "act46side--activities__act46side__level_act46side_07_end"
+  },
+  "subtitle": "OS-8",
+  "summary": "info/activities/act46side/level_act46side_08_beg",
+  "title": "宣告在途"
+}

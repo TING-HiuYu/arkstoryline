@@ -1,0 +1,21 @@
+{
+  "albumId": "main_16",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "EG-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EG-8_往事/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EG-8_%E5%BE%80%E4%BA%8B/NBT"
+  },
+  "id": "main_16--obt__main__level_spst_16-02",
+  "navigation": {
+    "nextChapterId": "main_16--obt__main__level_spst_16-03",
+    "previousChapterId": "main_16--obt__main__level_spst_16-01"
+  },
+  "subtitle": "EG-8",
+  "summary": "info/obt/main/level_spst_16-02",
+  "title": "往事"
+}

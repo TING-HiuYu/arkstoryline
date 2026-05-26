@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "JT8-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "JT8-1_恨火，流向原野/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/JT8-1_%E6%81%A8%E7%81%AB%EF%BC%8C%E6%B5%81%E5%90%91%E5%8E%9F%E9%87%8E/BEG"
+  },
+  "id": "main_8--obt__main__level_main_08-15_beg",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_main_08-15_end",
+    "previousChapterId": "main_8--obt__main__level_main_08-14_end"
+  },
+  "subtitle": "JT8-1",
+  "summary": "info/obt/main/level_main_08-15_beg",
+  "title": "恨火，流向原野"
+}

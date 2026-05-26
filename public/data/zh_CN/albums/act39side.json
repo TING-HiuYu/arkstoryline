@@ -1,0 +1,344 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act39side",
+      "avgTag": "幕间",
+      "code": "EP-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-ST-1_别了，盐漠/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-ST-1_%E5%88%AB%E4%BA%86%EF%BC%8C%E7%9B%90%E6%BC%A0/NBT"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_st01",
+      "path": "chapters/act39side--activities__act39side__level_act39side_st01.json",
+      "sort": 1,
+      "title": "别了，盐漠"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "行动前",
+      "code": "EP-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-1_倒悬苍白海上/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-1_%E5%80%92%E6%82%AC%E8%8B%8D%E7%99%BD%E6%B5%B7%E4%B8%8A/BEG"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_01_beg",
+      "path": "chapters/act39side--activities__act39side__level_act39side_01_beg.json",
+      "sort": 2,
+      "title": "倒悬苍白海上"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "行动后",
+      "code": "EP-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-1_倒悬苍白海上/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-1_%E5%80%92%E6%82%AC%E8%8B%8D%E7%99%BD%E6%B5%B7%E4%B8%8A/END"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_01_end",
+      "path": "chapters/act39side--activities__act39side__level_act39side_01_end.json",
+      "sort": 3,
+      "title": "倒悬苍白海上"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "行动前",
+      "code": "EP-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-2_腿部拆卸疗法/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-2_%E8%85%BF%E9%83%A8%E6%8B%86%E5%8D%B8%E7%96%97%E6%B3%95/BEG"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_02_beg",
+      "path": "chapters/act39side--activities__act39side__level_act39side_02_beg.json",
+      "sort": 4,
+      "title": "腿部拆卸疗法"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "行动后",
+      "code": "EP-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-2_腿部拆卸疗法/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-2_%E8%85%BF%E9%83%A8%E6%8B%86%E5%8D%B8%E7%96%97%E6%B3%95/END"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_02_end",
+      "path": "chapters/act39side--activities__act39side__level_act39side_02_end.json",
+      "sort": 5,
+      "title": "腿部拆卸疗法"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "行动前",
+      "code": "EP-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-3_大出血的舞步/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-3_%E5%A4%A7%E5%87%BA%E8%A1%80%E7%9A%84%E8%88%9E%E6%AD%A5/BEG"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_03_beg",
+      "path": "chapters/act39side--activities__act39side__level_act39side_03_beg.json",
+      "sort": 6,
+      "title": "大出血的舞步"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "行动后",
+      "code": "EP-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-3_大出血的舞步/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-3_%E5%A4%A7%E5%87%BA%E8%A1%80%E7%9A%84%E8%88%9E%E6%AD%A5/END"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_03_end",
+      "path": "chapters/act39side--activities__act39side__level_act39side_03_end.json",
+      "sort": 7,
+      "title": "大出血的舞步"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "行动前",
+      "code": "EP-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-4_重逢不乏意外/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-4_%E9%87%8D%E9%80%A2%E4%B8%8D%E4%B9%8F%E6%84%8F%E5%A4%96/BEG"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_04_beg",
+      "path": "chapters/act39side--activities__act39side__level_act39side_04_beg.json",
+      "sort": 8,
+      "title": "重逢不乏意外"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "行动后",
+      "code": "EP-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-4_重逢不乏意外/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-4_%E9%87%8D%E9%80%A2%E4%B8%8D%E4%B9%8F%E6%84%8F%E5%A4%96/END"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_04_end",
+      "path": "chapters/act39side--activities__act39side__level_act39side_04_end.json",
+      "sort": 9,
+      "title": "重逢不乏意外"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "行动前",
+      "code": "EP-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-5_熄灭过去的灯/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-5_%E7%86%84%E7%81%AD%E8%BF%87%E5%8E%BB%E7%9A%84%E7%81%AF/BEG"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_05_beg",
+      "path": "chapters/act39side--activities__act39side__level_act39side_05_beg.json",
+      "sort": 10,
+      "title": "熄灭过去的灯"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "行动后",
+      "code": "EP-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-5_熄灭过去的灯/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-5_%E7%86%84%E7%81%AD%E8%BF%87%E5%8E%BB%E7%9A%84%E7%81%AF/END"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_05_end",
+      "path": "chapters/act39side--activities__act39side__level_act39side_05_end.json",
+      "sort": 11,
+      "title": "熄灭过去的灯"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "行动前",
+      "code": "EP-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-6_若退路在燃烧/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-6_%E8%8B%A5%E9%80%80%E8%B7%AF%E5%9C%A8%E7%87%83%E7%83%A7/BEG"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_06_beg",
+      "path": "chapters/act39side--activities__act39side__level_act39side_06_beg.json",
+      "sort": 12,
+      "title": "若退路在燃烧"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "行动后",
+      "code": "EP-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-6_若退路在燃烧/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-6_%E8%8B%A5%E9%80%80%E8%B7%AF%E5%9C%A8%E7%87%83%E7%83%A7/END"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_06_end",
+      "path": "chapters/act39side--activities__act39side__level_act39side_06_end.json",
+      "sort": 13,
+      "title": "若退路在燃烧"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "幕间",
+      "code": "EP-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-ST-2_倾泻腐朽的花/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-ST-2_%E5%80%BE%E6%B3%BB%E8%85%90%E6%9C%BD%E7%9A%84%E8%8A%B1/NBT"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_st02",
+      "path": "chapters/act39side--activities__act39side__level_act39side_st02.json",
+      "sort": 14,
+      "title": "倾泻腐朽的花"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "行动前",
+      "code": "EP-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-7_我的罗盘/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-7_%E6%88%91%E7%9A%84%E7%BD%97%E7%9B%98/BEG"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_07_beg",
+      "path": "chapters/act39side--activities__act39side__level_act39side_07_beg.json",
+      "sort": 15,
+      "title": "我的罗盘"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "行动后",
+      "code": "EP-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-7_我的罗盘/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-7_%E6%88%91%E7%9A%84%E7%BD%97%E7%9B%98/END"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_07_end",
+      "path": "chapters/act39side--activities__act39side__level_act39side_07_end.json",
+      "sort": 16,
+      "title": "我的罗盘"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "行动前",
+      "code": "EP-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-8_见证，征服，定义/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-8_%E8%A7%81%E8%AF%81%EF%BC%8C%E5%BE%81%E6%9C%8D%EF%BC%8C%E5%AE%9A%E4%B9%89/BEG"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_08_beg",
+      "path": "chapters/act39side--activities__act39side__level_act39side_08_beg.json",
+      "sort": 17,
+      "title": "见证，征服，定义"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "行动后",
+      "code": "EP-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-8_见证，征服，定义/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-8_%E8%A7%81%E8%AF%81%EF%BC%8C%E5%BE%81%E6%9C%8D%EF%BC%8C%E5%AE%9A%E4%B9%89/END"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_08_end",
+      "path": "chapters/act39side--activities__act39side__level_act39side_08_end.json",
+      "sort": 18,
+      "title": "见证，征服，定义"
+    },
+    {
+      "albumId": "act39side",
+      "avgTag": "幕间",
+      "code": "EP-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "EP-ST-3_别了，大地/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/EP-ST-3_%E5%88%AB%E4%BA%86%EF%BC%8C%E5%A4%A7%E5%9C%B0/NBT"
+      },
+      "downloadable": true,
+      "id": "act39side--activities__act39side__level_act39side_st03",
+      "path": "chapters/act39side--activities__act39side__level_act39side_st03.json",
+      "sort": 19,
+      "title": "别了，大地"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_exodus_from_the_pale_sea",
+    "primaryImageId": "kv_exodus_from_the_pale_sea",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act39side",
+    "titleImageId": "title_exodus_from_the_pale_sea",
+    "url": "https://media.prts.wiki/b/ba/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E5%87%BA%E8%8B%8D%E7%99%BD%E6%B5%B7.png"
+  },
+  "extras": [],
+  "gameOrderRank": 6006,
+  "homeSection": "sideStory",
+  "id": "act39side",
+  "music": {
+    "arcTitle": "自海渊的一瞥",
+    "movementTitle": "自海渊的一瞥",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_12",
+      "tag_13"
+    ]
+  },
+  "slug": "act39side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1733371200,
+  "summary": "深入伊比利亚的盐漠寻找失落剑术的棘刺，\n却意外被沙盗绑架，他必须炼制罗盘以换取自由。\n炼金术师曾以手中的罗盘制伏海洋，\n如今，白色的盐漠中，仍然残存着潮声。\n残破的船上扬起船帆，\n苍白海外，是否还有你的渴望之物？",
+  "timelineRank": 1733371200,
+  "title": "出苍白海"
+}

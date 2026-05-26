@@ -1,0 +1,21 @@
+{
+  "albumId": "act21side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "IS-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IS-ST-2_切开/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-ST-2_%E5%88%87%E5%BC%80/NBT"
+  },
+  "id": "act21side--activities__act21side__level_act21side_st02",
+  "navigation": {
+    "nextChapterId": "act21side--activities__act21side__level_act21side_05_beg",
+    "previousChapterId": "act21side--activities__act21side__level_act21side_04_end"
+  },
+  "subtitle": "IS-ST-2",
+  "summary": "info/activities/act21side/level_act21side_st02",
+  "title": "切开"
+}

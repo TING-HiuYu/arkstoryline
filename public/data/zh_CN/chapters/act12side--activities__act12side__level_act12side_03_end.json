@@ -1,0 +1,21 @@
+{
+  "albumId": "act12side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DH-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DH-3_拔铳相助/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DH-3_%E6%8B%94%E9%93%B3%E7%9B%B8%E5%8A%A9/END"
+  },
+  "id": "act12side--activities__act12side__level_act12side_03_end",
+  "navigation": {
+    "nextChapterId": "act12side--activities__act12side__level_act12side_st02",
+    "previousChapterId": "act12side--activities__act12side__level_act12side_03_beg"
+  },
+  "subtitle": "DH-3",
+  "summary": "info/activities/act12side/level_act12side_03_end",
+  "title": "拔铳相助"
+}

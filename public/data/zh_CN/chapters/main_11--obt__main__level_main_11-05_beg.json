@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "11-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-6_演绎文明/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-6_%E6%BC%94%E7%BB%8E%E6%96%87%E6%98%8E/BEG"
+  },
+  "id": "main_11--obt__main__level_main_11-05_beg",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_main_11-06_end",
+    "previousChapterId": "main_11--obt__main__level_main_11-04_end"
+  },
+  "subtitle": "11-6",
+  "summary": "info/obt/main/level_main_11-05_beg",
+  "title": "演绎文明"
+}

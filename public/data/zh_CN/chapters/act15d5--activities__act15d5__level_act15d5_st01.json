@@ -1,0 +1,19 @@
+{
+  "albumId": "act15d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BH-ST1_无续集/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BH-ST1_%E6%97%A0%E7%BB%AD%E9%9B%86/NBT"
+  },
+  "id": "act15d5--activities__act15d5__level_act15d5_st01",
+  "navigation": {
+    "nextChapterId": "act15d5--activities__act15d5__level_act15d5_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act15d5/level_act15d5_st01",
+  "title": "无续集"
+}

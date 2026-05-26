@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-重启锚点-399ad3d227",
+  "avgTag": null,
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RA2/ENTRY",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RA2/ENTRY"
+  },
+  "id": "other-story-重启锚点-399ad3d227--ra2-entry",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "other-story-重启锚点-399ad3d227--ra2-sp-2-nbt"
+  },
+  "subtitle": null,
+  "title": "可露希尔的任务汇报"
+}

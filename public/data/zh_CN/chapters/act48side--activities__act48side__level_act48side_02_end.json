@@ -1,0 +1,21 @@
+{
+  "albumId": "act48side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "ME-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ME-2_命定的终点/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ME-2_%E5%91%BD%E5%AE%9A%E7%9A%84%E7%BB%88%E7%82%B9/END"
+  },
+  "id": "act48side--activities__act48side__level_act48side_02_end",
+  "navigation": {
+    "nextChapterId": "act48side--activities__act48side__level_act48side_03_beg",
+    "previousChapterId": "act48side--activities__act48side__level_act48side_02_beg"
+  },
+  "subtitle": "ME-2",
+  "summary": "info/activities/act48side/level_act48side_02_end",
+  "title": "命定的终点"
+}

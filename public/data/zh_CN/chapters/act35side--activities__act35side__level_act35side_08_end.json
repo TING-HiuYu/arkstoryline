@@ -1,0 +1,21 @@
+{
+  "albumId": "act35side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "AS-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AS-8_黄沙尽头/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AS-8_%E9%BB%84%E6%B2%99%E5%B0%BD%E5%A4%B4/END"
+  },
+  "id": "act35side--activities__act35side__level_act35side_08_end",
+  "navigation": {
+    "nextChapterId": "act35side--activities__act35side__level_act35side_09_beg",
+    "previousChapterId": "act35side--activities__act35side__level_act35side_08_beg"
+  },
+  "subtitle": "AS-8",
+  "summary": "info/activities/act35side/level_act35side_08_end",
+  "title": "黄沙尽头"
+}

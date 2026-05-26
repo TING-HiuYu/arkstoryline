@@ -1,0 +1,21 @@
+{
+  "albumId": "act30side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RS-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RS-8_极限时速/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RS-8_%E6%9E%81%E9%99%90%E6%97%B6%E9%80%9F/END"
+  },
+  "id": "act30side--activities__act30side__level_act30side_08_end",
+  "navigation": {
+    "nextChapterId": "act30side--activities__act30side__level_act30side_st03",
+    "previousChapterId": "act30side--activities__act30side__level_act30side_08_beg"
+  },
+  "subtitle": "RS-8",
+  "summary": "info/activities/act30side/level_act30side_08_end",
+  "title": "极限时速"
+}

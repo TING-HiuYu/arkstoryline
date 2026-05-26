@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-沙洲遗闻-e767408fae",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RA1-ST1/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RA1-ST1/NBT"
+  },
+  "id": "other-story-沙洲遗闻-e767408fae--ra1-st1-nbt",
+  "navigation": {
+    "nextChapterId": "other-story-沙洲遗闻-e767408fae--ra1-entry",
+    "previousChapterId": "other-story-沙洲遗闻-e767408fae--ra1-end-3-nbt"
+  },
+  "subtitle": null,
+  "title": "见证往昔"
+}

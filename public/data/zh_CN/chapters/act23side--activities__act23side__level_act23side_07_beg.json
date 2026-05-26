@@ -1,0 +1,21 @@
+{
+  "albumId": "act23side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "WB-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WB-7_“屏风卫”/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WB-7_%E2%80%9C%E5%B1%8F%E9%A3%8E%E5%8D%AB%E2%80%9D/BEG"
+  },
+  "id": "act23side--activities__act23side__level_act23side_07_beg",
+  "navigation": {
+    "nextChapterId": "act23side--activities__act23side__level_act23side_07_end",
+    "previousChapterId": "act23side--activities__act23side__level_act23side_06_end"
+  },
+  "subtitle": "WB-7",
+  "summary": "info/activities/act23side/level_act23side_07_beg",
+  "title": "“屏风卫”"
+}

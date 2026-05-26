@@ -1,0 +1,21 @@
+{
+  "albumId": "main_5",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "5-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "5-4_没人在家/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/5-4_%E6%B2%A1%E4%BA%BA%E5%9C%A8%E5%AE%B6/BEG"
+  },
+  "id": "main_5--obt__main__level_main_05-04_beg",
+  "navigation": {
+    "nextChapterId": "main_5--obt__main__level_main_05-04_end",
+    "previousChapterId": "main_5--obt__main__level_main_05-03_end"
+  },
+  "subtitle": "5-4",
+  "summary": "info/obt/main/level_main_05-04_beg",
+  "title": "没人在家"
+}

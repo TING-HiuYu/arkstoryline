@@ -1,0 +1,21 @@
+{
+  "albumId": "act22side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "FC-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FC-3_引燃草垛/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FC-3_%E5%BC%95%E7%87%83%E8%8D%89%E5%9E%9B/BEG"
+  },
+  "id": "act22side--activities__act22side__level_act22side_03_beg",
+  "navigation": {
+    "nextChapterId": "act22side--activities__act22side__level_act22side_03_end",
+    "previousChapterId": "act22side--activities__act22side__level_act22side_02_end"
+  },
+  "subtitle": "FC-3",
+  "summary": "info/activities/act22side/level_act22side_03_beg",
+  "title": "引燃草垛"
+}

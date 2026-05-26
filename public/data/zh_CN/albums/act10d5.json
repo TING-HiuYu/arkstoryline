@@ -1,0 +1,143 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act10d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-ST1_习惯/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-ST1_%E4%B9%A0%E6%83%AF/NBT"
+      },
+      "downloadable": true,
+      "id": "act10d5--activities__act10d5__level_act10d5_st01",
+      "path": "chapters/act10d5--activities__act10d5__level_act10d5_st01.json",
+      "sort": 1,
+      "title": "习惯"
+    },
+    {
+      "albumId": "act10d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-ST2_被选择的/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-ST2_%E8%A2%AB%E9%80%89%E6%8B%A9%E7%9A%84/NBT"
+      },
+      "downloadable": true,
+      "id": "act10d5--activities__act10d5__level_act10d5_st02",
+      "path": "chapters/act10d5--activities__act10d5__level_act10d5_st02.json",
+      "sort": 2,
+      "title": "被选择的"
+    },
+    {
+      "albumId": "act10d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-ST3_在梦中相遇/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-ST3_%E5%9C%A8%E6%A2%A6%E4%B8%AD%E7%9B%B8%E9%81%87/NBT"
+      },
+      "downloadable": true,
+      "id": "act10d5--activities__act10d5__level_act10d5_st03",
+      "path": "chapters/act10d5--activities__act10d5__level_act10d5_st03.json",
+      "sort": 3,
+      "title": "在梦中相遇"
+    },
+    {
+      "albumId": "act10d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-ST4_表里不一/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-ST4_%E8%A1%A8%E9%87%8C%E4%B8%8D%E4%B8%80/NBT"
+      },
+      "downloadable": true,
+      "id": "act10d5--activities__act10d5__level_act10d5_st04",
+      "path": "chapters/act10d5--activities__act10d5__level_act10d5_st04.json",
+      "sort": 4,
+      "title": "表里不一"
+    },
+    {
+      "albumId": "act10d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-ST5_胡言秘语/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-ST5_%E8%83%A1%E8%A8%80%E7%A7%98%E8%AF%AD/NBT"
+      },
+      "downloadable": true,
+      "id": "act10d5--activities__act10d5__level_act10d5_st05",
+      "path": "chapters/act10d5--activities__act10d5__level_act10d5_st05.json",
+      "sort": 5,
+      "title": "胡言秘语"
+    },
+    {
+      "albumId": "act10d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-ST6_一切照常/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-ST6_%E4%B8%80%E5%88%87%E7%85%A7%E5%B8%B8/NBT"
+      },
+      "downloadable": true,
+      "id": "act10d5--activities__act10d5__level_act10d5_st06",
+      "path": "chapters/act10d5--activities__act10d5__level_act10d5_st06.json",
+      "sort": 6,
+      "title": "一切照常"
+    },
+    {
+      "albumId": "act10d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "SV-ST7_在春天之前/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SV-ST7_%E5%9C%A8%E6%98%A5%E5%A4%A9%E4%B9%8B%E5%89%8D/NBT"
+      },
+      "downloadable": true,
+      "id": "act10d5--activities__act10d5__level_act10d5_st07",
+      "path": "chapters/act10d5--activities__act10d5__level_act10d5_st07.json",
+      "sort": 7,
+      "title": "在春天之前"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_children_of_ursus",
+    "primaryImageId": "kv_children_of_ursus",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act10d5",
+    "storyPicId": "storyPic_act10d5",
+    "titleImageId": "title_children_of_ursus",
+    "url": "https://media.prts.wiki/7/77/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E4%B9%8C%E8%90%A8%E6%96%AF%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BB%AC.png"
+  },
+  "extras": [],
+  "gameOrderRank": 2001,
+  "homeSection": "sideStory",
+  "id": "act10d5",
+  "music": {
+    "arcTitle": "燎原",
+    "movementTitle": "燎原",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act10d5",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1592467200,
+  "summary": "切尔诺伯格的那个冬天如此漫长。\n残留的寒意，至今仍纠缠着彼得海姆中学的幸存者。\n那些无法改变、无法面对、无法挽回的事......\n那些必须铭记、必须前行、必须信赖的原因。",
+  "timelineRank": 1592467200,
+  "title": "乌萨斯的孩子们"
+}

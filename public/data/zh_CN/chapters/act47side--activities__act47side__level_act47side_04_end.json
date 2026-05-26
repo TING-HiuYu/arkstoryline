@@ -1,0 +1,21 @@
+{
+  "albumId": "act47side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "UR-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "UR-4_晴空湍流/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/UR-4_%E6%99%B4%E7%A9%BA%E6%B9%8D%E6%B5%81/END"
+  },
+  "id": "act47side--activities__act47side__level_act47side_04_end",
+  "navigation": {
+    "nextChapterId": "act47side--activities__act47side__level_act47side_st02",
+    "previousChapterId": "act47side--activities__act47side__level_act47side_04_beg"
+  },
+  "subtitle": "UR-4",
+  "summary": "info/activities/act47side/level_act47side_04_end",
+  "title": "晴空湍流"
+}

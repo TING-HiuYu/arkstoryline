@@ -1,0 +1,21 @@
+{
+  "albumId": "act30side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RS-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RS-4_重回正轨/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RS-4_%E9%87%8D%E5%9B%9E%E6%AD%A3%E8%BD%A8/END"
+  },
+  "id": "act30side--activities__act30side__level_act30side_04_end",
+  "navigation": {
+    "nextChapterId": "act30side--activities__act30side__level_act30side_05_beg",
+    "previousChapterId": "act30side--activities__act30side__level_act30side_04_beg"
+  },
+  "subtitle": "RS-4",
+  "summary": "info/activities/act30side/level_act30side_04_end",
+  "title": "重回正轨"
+}

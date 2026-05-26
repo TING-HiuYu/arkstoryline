@@ -1,0 +1,21 @@
+{
+  "albumId": "act27side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "SL-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SL-ST-3_晴天/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SL-ST-3_%E6%99%B4%E5%A4%A9/NBT"
+  },
+  "id": "act27side--activities__act27side__level_act27side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act27side--activities__act27side__level_act27side_08_end"
+  },
+  "subtitle": "SL-ST-3",
+  "summary": "info/activities/act27side/level_act27side_st03",
+  "title": "晴天"
+}

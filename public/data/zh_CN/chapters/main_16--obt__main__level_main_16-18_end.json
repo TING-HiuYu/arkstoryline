@@ -1,0 +1,21 @@
+{
+  "albumId": "main_16",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "16-18",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "16-18_红日留驻/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/16-18_%E7%BA%A2%E6%97%A5%E7%95%99%E9%A9%BB/END"
+  },
+  "id": "main_16--obt__main__level_main_16-18_end",
+  "navigation": {
+    "nextChapterId": "main_16--obt__main__level_st_16-02",
+    "previousChapterId": "main_16--obt__main__level_main_16-17_beg"
+  },
+  "subtitle": "16-18",
+  "summary": "info/obt/main/level_main_16-18_end",
+  "title": "红日留驻"
+}

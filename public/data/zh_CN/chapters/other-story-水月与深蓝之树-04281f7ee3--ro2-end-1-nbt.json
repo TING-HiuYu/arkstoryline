@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-水月与深蓝之树-04281f7ee3",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RO2-END-1/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RO2-END-1/NBT"
+  },
+  "id": "other-story-水月与深蓝之树-04281f7ee3--ro2-end-1-nbt",
+  "navigation": {
+    "nextChapterId": "other-story-水月与深蓝之树-04281f7ee3--ro2-end-2-nbt",
+    "previousChapterId": "other-story-水月与深蓝之树-04281f7ee3--ro2-beg-nbt"
+  },
+  "subtitle": null,
+  "title": "平凡即是喜乐"
+}

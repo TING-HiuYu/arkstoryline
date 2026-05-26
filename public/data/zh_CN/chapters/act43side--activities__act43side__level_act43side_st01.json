@@ -1,0 +1,21 @@
+{
+  "albumId": "act43side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "AD-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AD-ST-1_唆使一场死亡/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AD-ST-1_%E5%94%86%E4%BD%BF%E4%B8%80%E5%9C%BA%E6%AD%BB%E4%BA%A1/NBT"
+  },
+  "id": "act43side--activities__act43side__level_act43side_st01",
+  "navigation": {
+    "nextChapterId": "act43side--activities__act43side__level_act43side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "AD-ST-1",
+  "summary": "info/activities/act43side/level_act43side_st01",
+  "title": "唆使一场死亡"
+}

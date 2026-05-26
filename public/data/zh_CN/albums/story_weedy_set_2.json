@@ -1,0 +1,33 @@
+{
+  "id": "story_weedy_set_2",
+  "slug": "story-weedy-set-2",
+  "title": "盐漠上的海风",
+  "sourceEntryType": "UNKNOWN",
+  "albumKind": "operatorRecord",
+  "homeSection": "operatorRecord",
+  "timelineRank": 0,
+  "cover": {
+    "url": "https://media.prts.wiki/b/bb/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%9B%90%E6%BC%A0%E4%B8%8A%E7%9A%84%E6%B5%B7%E9%A3%8E.png",
+    "source": "none",
+    "assetStatus": "missing",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 0,
+  "chapters": [
+    {
+      "id": "story_weedy_set_2--obt__memory__story_weedy_2_1",
+      "albumId": "story_weedy_set_2",
+      "title": "盐漠上的海风",
+      "avgTag": "幕间",
+      "sort": 0,
+      "path": "chapters/story_weedy_set_2--obt__memory__story_weedy_2_1.json",
+      "downloadable": true
+    }
+  ],
+  "source": {
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
+  },
+  "extras": []
+}

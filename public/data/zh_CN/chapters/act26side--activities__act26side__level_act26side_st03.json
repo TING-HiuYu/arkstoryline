@@ -1,0 +1,21 @@
+{
+  "albumId": "act26side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "HE-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HE-ST-3_慈光引导/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HE-ST-3_%E6%85%88%E5%85%89%E5%BC%95%E5%AF%BC/NBT"
+  },
+  "id": "act26side--activities__act26side__level_act26side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act26side--activities__act26side__level_act26side_08_end"
+  },
+  "subtitle": "HE-ST-3",
+  "summary": "info/activities/act26side/level_act26side_st03",
+  "title": "慈光引导"
+}

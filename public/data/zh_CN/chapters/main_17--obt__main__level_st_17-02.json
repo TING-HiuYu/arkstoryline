@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "17-19",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "17-19_面向旷野呼号/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/17-19_%E9%9D%A2%E5%90%91%E6%97%B7%E9%87%8E%E5%91%BC%E5%8F%B7/NBT"
+  },
+  "id": "main_17--obt__main__level_st_17-02",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_st_17-03",
+    "previousChapterId": "main_17--obt__main__level_main_17-17_end"
+  },
+  "subtitle": "17-19",
+  "summary": "info/obt/main/level_st_17-02",
+  "title": "面向旷野呼号"
+}

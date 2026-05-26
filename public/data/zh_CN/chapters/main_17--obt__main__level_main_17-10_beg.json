@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "17-11",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "17-11_孤寂生地/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/17-11_%E5%AD%A4%E5%AF%82%E7%94%9F%E5%9C%B0/BEG"
+  },
+  "id": "main_17--obt__main__level_main_17-10_beg",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_main_17-11_end",
+    "previousChapterId": "main_17--obt__main__level_main_17-09_end"
+  },
+  "subtitle": "17-11",
+  "summary": "info/obt/main/level_main_17-10_beg",
+  "title": "孤寂生地"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act40side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "OR-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OR-3_油泼扯面/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OR-3_%E6%B2%B9%E6%B3%BC%E6%89%AF%E9%9D%A2/BEG"
+  },
+  "id": "act40side--activities__act40side__level_act40side_03_beg",
+  "navigation": {
+    "nextChapterId": "act40side--activities__act40side__level_act40side_03_end",
+    "previousChapterId": "act40side--activities__act40side__level_act40side_02_end"
+  },
+  "subtitle": "OR-3",
+  "summary": "info/activities/act40side/level_act40side_03_beg",
+  "title": "油泼扯面"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act25side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CW-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CW-3_台前幕后/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CW-3_%E5%8F%B0%E5%89%8D%E5%B9%95%E5%90%8E/END"
+  },
+  "id": "act25side--activities__act25side__level_act25side_03_end",
+  "navigation": {
+    "nextChapterId": "act25side--activities__act25side__level_act25side_st02",
+    "previousChapterId": "act25side--activities__act25side__level_act25side_03_beg"
+  },
+  "subtitle": "CW-3",
+  "summary": "info/activities/act25side/level_act25side_03_end",
+  "title": "台前幕后"
+}

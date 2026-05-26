@@ -1,0 +1,327 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act16side",
+      "avgTag": "幕间",
+      "code": "GA-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-ST-1_风云际会/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-ST-1_%E9%A3%8E%E4%BA%91%E9%99%85%E4%BC%9A/NBT"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_st01",
+      "path": "chapters/act16side--activities__act16side__level_act16side_st01.json",
+      "sort": 1,
+      "title": "风云际会"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "行动前",
+      "code": "GA-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-1_灯下黑/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-1_%E7%81%AF%E4%B8%8B%E9%BB%91/BEG"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_01_beg",
+      "path": "chapters/act16side--activities__act16side__level_act16side_01_beg.json",
+      "sort": 2,
+      "title": "灯下黑"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "行动后",
+      "code": "GA-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-1_灯下黑/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-1_%E7%81%AF%E4%B8%8B%E9%BB%91/END"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_01_end",
+      "path": "chapters/act16side--activities__act16side__level_act16side_01_end.json",
+      "sort": 3,
+      "title": "灯下黑"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "行动前",
+      "code": "GA-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-2_散步时光/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-2_%E6%95%A3%E6%AD%A5%E6%97%B6%E5%85%89/BEG"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_02_beg",
+      "path": "chapters/act16side--activities__act16side__level_act16side_02_beg.json",
+      "sort": 4,
+      "title": "散步时光"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "行动后",
+      "code": "GA-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-2_散步时光/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-2_%E6%95%A3%E6%AD%A5%E6%97%B6%E5%85%89/END"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_02_end",
+      "path": "chapters/act16side--activities__act16side__level_act16side_02_end.json",
+      "sort": 5,
+      "title": "散步时光"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "行动前",
+      "code": "GA-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-3_混血儿/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-3_%E6%B7%B7%E8%A1%80%E5%84%BF/BEG"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_03_beg",
+      "path": "chapters/act16side--activities__act16side__level_act16side_03_beg.json",
+      "sort": 6,
+      "title": "混血儿"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "行动后",
+      "code": "GA-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-3_混血儿/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-3_%E6%B7%B7%E8%A1%80%E5%84%BF/END"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_03_end",
+      "path": "chapters/act16side--activities__act16side__level_act16side_03_end.json",
+      "sort": 7,
+      "title": "混血儿"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "行动前",
+      "code": "GA-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-4_安魂教堂/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-4_%E5%AE%89%E9%AD%82%E6%95%99%E5%A0%82/BEG"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_04_beg",
+      "path": "chapters/act16side--activities__act16side__level_act16side_04_beg.json",
+      "sort": 8,
+      "title": "安魂教堂"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "行动后",
+      "code": "GA-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-4_安魂教堂/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-4_%E5%AE%89%E9%AD%82%E6%95%99%E5%A0%82/END"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_04_end",
+      "path": "chapters/act16side--activities__act16side__level_act16side_04_end.json",
+      "sort": 9,
+      "title": "安魂教堂"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "行动前",
+      "code": "GA-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-5_葬礼/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-5_%E8%91%AC%E7%A4%BC/BEG"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_05_beg",
+      "path": "chapters/act16side--activities__act16side__level_act16side_05_beg.json",
+      "sort": 10,
+      "title": "葬礼"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "行动后",
+      "code": "GA-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-5_葬礼/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-5_%E8%91%AC%E7%A4%BC/END"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_05_end",
+      "path": "chapters/act16side--activities__act16side__level_act16side_05_end.json",
+      "sort": 11,
+      "title": "葬礼"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "行动前",
+      "code": "GA-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-6_安魂曲/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-6_%E5%AE%89%E9%AD%82%E6%9B%B2/BEG"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_06_beg",
+      "path": "chapters/act16side--activities__act16side__level_act16side_06_beg.json",
+      "sort": 12,
+      "title": "安魂曲"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "行动后",
+      "code": "GA-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-6_安魂曲/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-6_%E5%AE%89%E9%AD%82%E6%9B%B2/END"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_06_end",
+      "path": "chapters/act16side--activities__act16side__level_act16side_06_end.json",
+      "sort": 13,
+      "title": "安魂曲"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "行动前",
+      "code": "GA-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-7_光与影/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-7_%E5%85%89%E4%B8%8E%E5%BD%B1/BEG"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_07_beg",
+      "path": "chapters/act16side--activities__act16side__level_act16side_07_beg.json",
+      "sort": 14,
+      "title": "光与影"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "行动后",
+      "code": "GA-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-7_光与影/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-7_%E5%85%89%E4%B8%8E%E5%BD%B1/END"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_07_end",
+      "path": "chapters/act16side--activities__act16side__level_act16side_07_end.json",
+      "sort": 15,
+      "title": "光与影"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "行动前",
+      "code": "GA-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-8_影与灰/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-8_%E5%BD%B1%E4%B8%8E%E7%81%B0/BEG"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_08_beg",
+      "path": "chapters/act16side--activities__act16side__level_act16side_08_beg.json",
+      "sort": 16,
+      "title": "影与灰"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "行动后",
+      "code": "GA-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-8_影与灰/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-8_%E5%BD%B1%E4%B8%8E%E7%81%B0/END"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_08_end",
+      "path": "chapters/act16side--activities__act16side__level_act16side_08_end.json",
+      "sort": 17,
+      "title": "影与灰"
+    },
+    {
+      "albumId": "act16side",
+      "avgTag": "幕间",
+      "code": "GA-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "GA-ST-2_鸢尾花/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/GA-ST-2_%E9%B8%A2%E5%B0%BE%E8%8A%B1/NBT"
+      },
+      "downloadable": true,
+      "id": "act16side--activities__act16side__level_act16side_st02",
+      "path": "chapters/act16side--activities__act16side__level_act16side_st02.json",
+      "sort": 18,
+      "title": "鸢尾花"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_guiding_ahead",
+    "primaryImageId": "kv_guiding_ahead",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act16side",
+    "titleImageId": "title_guiding_ahead",
+    "url": "https://media.prts.wiki/1/14/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E5%90%BE%E5%AF%BC%E5%85%88%E8%B7%AF.png"
+  },
+  "extras": [],
+  "gameOrderRank": 3010,
+  "homeSection": "sideStory",
+  "id": "act16side",
+  "music": {
+    "arcTitle": "那被祝福的",
+    "movementTitle": "那被祝福的",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_13"
+    ]
+  },
+  "slug": "act16side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1647316800,
+  "summary": "一场空前盛大的万国峰会，\n让各国使节齐聚于圣城拉特兰。\n永不黯淡的光环下，共享着喜乐荣辉；\n从不停歇的铳炮声，抵御着苦痛幽暗。\n外来的旅人连连惊叹，归乡的信使默默祷告：\n愿无上的恩典赐下，愿永恒的救赎降下。\n愿你我在指引下，行向未明的远方。",
+  "timelineRank": 1647316800,
+  "title": "吾导先路"
+}

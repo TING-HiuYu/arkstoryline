@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-5_别阻止我/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-5_%E5%88%AB%E9%98%BB%E6%AD%A2%E6%88%91/BEG"
+  },
+  "id": "act3d0--activities__act3d0__level_act3d0_05_beg",
+  "navigation": {
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_05_end",
+    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_st03"
+  },
+  "subtitle": "OF-5",
+  "summary": "info/activities/act3d0/level_act3d0_05_beg",
+  "title": "别阻止我"
+}

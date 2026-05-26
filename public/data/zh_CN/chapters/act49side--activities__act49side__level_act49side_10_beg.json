@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-10_镇神头/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-10_%E9%95%87%E7%A5%9E%E5%A4%B4/BEG"
+  },
+  "id": "act49side--activities__act49side__level_act49side_10_beg",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_10_end",
+    "previousChapterId": "act49side--activities__act49side__level_act49side_09_end"
+  },
+  "subtitle": "TA-10",
+  "summary": "info/activities/act49side/level_act49side_10_beg",
+  "title": "镇神头"
+}

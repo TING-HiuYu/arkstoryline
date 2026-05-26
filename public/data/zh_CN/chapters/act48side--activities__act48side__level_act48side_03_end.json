@@ -1,0 +1,21 @@
+{
+  "albumId": "act48side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "ME-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ME-3_无解的谜题/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ME-3_%E6%97%A0%E8%A7%A3%E7%9A%84%E8%B0%9C%E9%A2%98/END"
+  },
+  "id": "act48side--activities__act48side__level_act48side_03_end",
+  "navigation": {
+    "nextChapterId": "act48side--activities__act48side__level_act48side_04_beg",
+    "previousChapterId": "act48side--activities__act48side__level_act48side_03_beg"
+  },
+  "subtitle": "ME-3",
+  "summary": "info/activities/act48side/level_act48side_03_end",
+  "title": "无解的谜题"
+}

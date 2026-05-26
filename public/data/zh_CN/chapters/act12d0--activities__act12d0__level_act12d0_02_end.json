@@ -1,0 +1,21 @@
+{
+  "albumId": "act12d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RI-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RI-2_粗细有别/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RI-2_%E7%B2%97%E7%BB%86%E6%9C%89%E5%88%AB/END"
+  },
+  "id": "act12d0--activities__act12d0__level_act12d0_02_end",
+  "navigation": {
+    "nextChapterId": "act12d0--activities__act12d0__level_act12d0_03_beg",
+    "previousChapterId": "act12d0--activities__act12d0__level_act12d0_02_beg"
+  },
+  "subtitle": "RI-2",
+  "summary": "info/activities/act12d0/level_act12d0_02_end",
+  "title": "粗细有别"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_9",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "9-19",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "9-19_长夜枪火/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/9-19_%E9%95%BF%E5%A4%9C%E6%9E%AA%E7%81%AB/BEG"
+  },
+  "id": "main_9--obt__main__level_main_09-17_beg",
+  "navigation": {
+    "nextChapterId": "main_9--obt__main__level_main_09-17_end",
+    "previousChapterId": "main_9--obt__main__level_main_09-16_end"
+  },
+  "subtitle": "9-19",
+  "summary": "info/obt/main/level_main_09-17_beg",
+  "title": "长夜枪火"
+}

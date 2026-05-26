@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "12-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-10_广播热线正繁忙/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-10_%E5%B9%BF%E6%92%AD%E7%83%AD%E7%BA%BF%E6%AD%A3%E7%B9%81%E5%BF%99/END"
+  },
+  "id": "main_12--obt__main__level_main_12-09_end",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_st_12-02",
+    "previousChapterId": "main_12--obt__main__level_main_12-08_beg"
+  },
+  "subtitle": "12-10",
+  "summary": "info/obt/main/level_main_12-09_end",
+  "title": "广播热线正繁忙"
+}

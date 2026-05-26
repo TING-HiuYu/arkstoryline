@@ -1,0 +1,21 @@
+{
+  "albumId": "act51side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "PA-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PA-ST-1_群氓/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PA-ST-1_%E7%BE%A4%E6%B0%93/NBT"
+  },
+  "id": "act51side--activities__act51side__level_act51side_st01",
+  "navigation": {
+    "nextChapterId": "act51side--activities__act51side__level_act51side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "PA-ST-1",
+  "summary": "info/activities/act51side/level_act51side_st01",
+  "title": "群氓"
+}

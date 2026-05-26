@@ -1,0 +1,19 @@
+{
+  "albumId": "act7mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PL-ST2_烁烁星火/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PL-ST2_%E7%83%81%E7%83%81%E6%98%9F%E7%81%AB/NBT"
+  },
+  "id": "act7mini--activities__act7mini__level_act7mini_st02",
+  "navigation": {
+    "nextChapterId": "act7mini--activities__act7mini__level_act7mini_st03",
+    "previousChapterId": "act7mini--activities__act7mini__level_act7mini_st01"
+  },
+  "summary": "info/activities/act7mini/level_act7mini_st02",
+  "title": "烁烁星火"
+}

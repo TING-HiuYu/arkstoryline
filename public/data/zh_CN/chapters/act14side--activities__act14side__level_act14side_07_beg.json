@@ -1,0 +1,21 @@
+{
+  "albumId": "act14side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "BI-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BI-7_破冰/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BI-7_%E7%A0%B4%E5%86%B0/BEG"
+  },
+  "id": "act14side--activities__act14side__level_act14side_07_beg",
+  "navigation": {
+    "nextChapterId": "act14side--activities__act14side__level_act14side_07_end",
+    "previousChapterId": "act14side--activities__act14side__level_act14side_06_end"
+  },
+  "subtitle": "BI-7",
+  "summary": "info/activities/act14side/level_act14side_07_beg",
+  "title": "破冰"
+}

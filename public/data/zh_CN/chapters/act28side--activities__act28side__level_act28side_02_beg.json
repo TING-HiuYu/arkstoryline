@@ -1,0 +1,21 @@
+{
+  "albumId": "act28side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CV-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CV-2_双重保险/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CV-2_%E5%8F%8C%E9%87%8D%E4%BF%9D%E9%99%A9/BEG"
+  },
+  "id": "act28side--activities__act28side__level_act28side_02_beg",
+  "navigation": {
+    "nextChapterId": "act28side--activities__act28side__level_act28side_02_end",
+    "previousChapterId": "act28side--activities__act28side__level_act28side_01_end"
+  },
+  "subtitle": "CV-2",
+  "summary": "info/activities/act28side/level_act28side_02_beg",
+  "title": "双重保险"
+}

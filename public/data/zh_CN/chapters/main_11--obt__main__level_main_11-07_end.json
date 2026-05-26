@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "11-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-8_停滞/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-8_%E5%81%9C%E6%BB%9E/END"
+  },
+  "id": "main_11--obt__main__level_main_11-07_end",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_main_11-08_beg",
+    "previousChapterId": "main_11--obt__main__level_main_11-07_beg"
+  },
+  "subtitle": "11-8",
+  "summary": "info/obt/main/level_main_11-07_end",
+  "title": "停滞"
+}

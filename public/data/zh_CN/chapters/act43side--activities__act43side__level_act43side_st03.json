@@ -1,0 +1,21 @@
+{
+  "albumId": "act43side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "AD-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AD-ST-3_致观众/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AD-ST-3_%E8%87%B4%E8%A7%82%E4%BC%97/NBT"
+  },
+  "id": "act43side--activities__act43side__level_act43side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act43side--activities__act43side__level_act43side_08_end"
+  },
+  "subtitle": "AD-ST-3",
+  "summary": "info/activities/act43side/level_act43side_st03",
+  "title": "致观众"
+}

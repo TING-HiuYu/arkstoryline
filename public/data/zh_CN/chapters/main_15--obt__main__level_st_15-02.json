@@ -1,0 +1,21 @@
+{
+  "albumId": "main_15",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "15-16",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "15-16_永恒与此刻的误差/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-16_%E6%B0%B8%E6%81%92%E4%B8%8E%E6%AD%A4%E5%88%BB%E7%9A%84%E8%AF%AF%E5%B7%AE/NBT"
+  },
+  "id": "main_15--obt__main__level_st_15-02",
+  "navigation": {
+    "nextChapterId": "main_15--obt__main__level_main_15-15_beg",
+    "previousChapterId": "main_15--obt__main__level_main_15-14_end"
+  },
+  "subtitle": "15-16",
+  "summary": "info/obt/main/level_st_15-02",
+  "title": "永恒与此刻的误差"
+}

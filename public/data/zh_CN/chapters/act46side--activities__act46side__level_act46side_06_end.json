@@ -1,0 +1,21 @@
+{
+  "albumId": "act46side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OS-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OS-6_绿翡翠/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OS-6_%E7%BB%BF%E7%BF%A1%E7%BF%A0/END"
+  },
+  "id": "act46side--activities__act46side__level_act46side_06_end",
+  "navigation": {
+    "nextChapterId": "act46side--activities__act46side__level_act46side_07_beg",
+    "previousChapterId": "act46side--activities__act46side__level_act46side_06_beg"
+  },
+  "subtitle": "OS-6",
+  "summary": "info/activities/act46side/level_act46side_06_end",
+  "title": "绿翡翠"
+}

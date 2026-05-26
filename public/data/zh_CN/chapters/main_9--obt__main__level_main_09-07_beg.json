@@ -1,0 +1,21 @@
+{
+  "albumId": "main_9",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "9-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "9-9_无辜者/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/9-9_%E6%97%A0%E8%BE%9C%E8%80%85/BEG"
+  },
+  "id": "main_9--obt__main__level_main_09-07_beg",
+  "navigation": {
+    "nextChapterId": "main_9--obt__main__level_main_09-08_end",
+    "previousChapterId": "main_9--obt__main__level_st_09-02"
+  },
+  "subtitle": "9-9",
+  "summary": "info/obt/main/level_main_09-07_beg",
+  "title": "无辜者"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "14-23",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-23_良夜将死/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-23_%E8%89%AF%E5%A4%9C%E5%B0%86%E6%AD%BB/NBT"
+  },
+  "id": "main_14--obt__main__level_st_14-03",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_spst_14-01",
+    "previousChapterId": "main_14--obt__main__level_main_14-20_end"
+  },
+  "subtitle": "14-23",
+  "summary": "info/obt/main/level_st_14-03",
+  "title": "良夜将死"
+}

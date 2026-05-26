@@ -1,0 +1,21 @@
+{
+  "albumId": "act12d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "RI-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RI-1_高空坠物/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RI-1_%E9%AB%98%E7%A9%BA%E5%9D%A0%E7%89%A9/BEG"
+  },
+  "id": "act12d0--activities__act12d0__level_act12d0_01_beg",
+  "navigation": {
+    "nextChapterId": "act12d0--activities__act12d0__level_act12d0_01_end",
+    "previousChapterId": null
+  },
+  "subtitle": "RI-1",
+  "summary": "info/activities/act12d0/level_act12d0_01_beg",
+  "title": "高空坠物"
+}

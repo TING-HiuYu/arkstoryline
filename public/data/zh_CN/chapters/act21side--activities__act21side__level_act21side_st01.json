@@ -1,0 +1,21 @@
+{
+  "albumId": "act21side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "IS-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IS-ST-1_沉疴/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-ST-1_%E6%B2%89%E7%96%B4/NBT"
+  },
+  "id": "act21side--activities__act21side__level_act21side_st01",
+  "navigation": {
+    "nextChapterId": "act21side--activities__act21side__level_act21side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "IS-ST-1",
+  "summary": "info/activities/act21side/level_act21side_st01",
+  "title": "沉疴"
+}

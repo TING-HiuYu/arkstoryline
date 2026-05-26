@@ -1,0 +1,19 @@
+{
+  "albumId": "act16mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TG-ST1_盖不住的锅盖/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TG-ST1_%E7%9B%96%E4%B8%8D%E4%BD%8F%E7%9A%84%E9%94%85%E7%9B%96/NBT"
+  },
+  "id": "act16mini--activities__act16mini__level_act16mini_st01",
+  "navigation": {
+    "nextChapterId": "act16mini--activities__act16mini__level_act16mini_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act16mini/level_act16mini_st01",
+  "title": "盖不住的锅盖"
+}

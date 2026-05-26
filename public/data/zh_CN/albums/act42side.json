@@ -1,0 +1,424 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act42side",
+      "avgTag": "幕间",
+      "code": "MT-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-ST-1_“堕天”/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-ST-1_%E2%80%9C%E5%A0%95%E5%A4%A9%E2%80%9D/NBT"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_st01",
+      "path": "chapters/act42side--activities__act42side__level_act42side_st01.json",
+      "sort": 1,
+      "title": "“堕天”"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动前",
+      "code": "MT-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-1_圣秩/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-1_%E5%9C%A3%E7%A7%A9/BEG"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_01_beg",
+      "path": "chapters/act42side--activities__act42side__level_act42side_01_beg.json",
+      "sort": 2,
+      "title": "圣秩"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动后",
+      "code": "MT-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-1_圣秩/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-1_%E5%9C%A3%E7%A7%A9/END"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_01_end",
+      "path": "chapters/act42side--activities__act42side__level_act42side_01_end.json",
+      "sort": 3,
+      "title": "圣秩"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动前",
+      "code": "MT-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-2_祈祷/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-2_%E7%A5%88%E7%A5%B7/BEG"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_02_beg",
+      "path": "chapters/act42side--activities__act42side__level_act42side_02_beg.json",
+      "sort": 4,
+      "title": "祈祷"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动后",
+      "code": "MT-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-2_祈祷/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-2_%E7%A5%88%E7%A5%B7/END"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_02_end",
+      "path": "chapters/act42side--activities__act42side__level_act42side_02_end.json",
+      "sort": 5,
+      "title": "祈祷"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动前",
+      "code": "MT-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-3_礼拜/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-3_%E7%A4%BC%E6%8B%9C/BEG"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_03_beg",
+      "path": "chapters/act42side--activities__act42side__level_act42side_03_beg.json",
+      "sort": 6,
+      "title": "礼拜"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动后",
+      "code": "MT-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-3_礼拜/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-3_%E7%A4%BC%E6%8B%9C/END"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_03_end",
+      "path": "chapters/act42side--activities__act42side__level_act42side_03_end.json",
+      "sort": 7,
+      "title": "礼拜"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动前",
+      "code": "MT-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-4_求道/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-4_%E6%B1%82%E9%81%93/BEG"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_04_beg",
+      "path": "chapters/act42side--activities__act42side__level_act42side_04_beg.json",
+      "sort": 8,
+      "title": "求道"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动后",
+      "code": "MT-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-4_求道/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-4_%E6%B1%82%E9%81%93/END"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_04_end",
+      "path": "chapters/act42side--activities__act42side__level_act42side_04_end.json",
+      "sort": 9,
+      "title": "求道"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "幕间",
+      "code": "MT-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-ST-2_启圣/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-ST-2_%E5%90%AF%E5%9C%A3/NBT"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_st02",
+      "path": "chapters/act42side--activities__act42side__level_act42side_st02.json",
+      "sort": 10,
+      "title": "启圣"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动前",
+      "code": "MT-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-5_共融/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-5_%E5%85%B1%E8%9E%8D/BEG"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_05_beg",
+      "path": "chapters/act42side--activities__act42side__level_act42side_05_beg.json",
+      "sort": 11,
+      "title": "共融"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动后",
+      "code": "MT-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-5_共融/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-5_%E5%85%B1%E8%9E%8D/END"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_05_end",
+      "path": "chapters/act42side--activities__act42side__level_act42side_05_end.json",
+      "sort": 12,
+      "title": "共融"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动前",
+      "code": "MT-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-6_告解/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-6_%E5%91%8A%E8%A7%A3/BEG"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_06_beg",
+      "path": "chapters/act42side--activities__act42side__level_act42side_06_beg.json",
+      "sort": 13,
+      "title": "告解"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动后",
+      "code": "MT-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-6_告解/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-6_%E5%91%8A%E8%A7%A3/END"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_06_end",
+      "path": "chapters/act42side--activities__act42side__level_act42side_06_end.json",
+      "sort": 14,
+      "title": "告解"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动前",
+      "code": "MT-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-7_丧礼/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-7_%E4%B8%A7%E7%A4%BC/BEG"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_07_beg",
+      "path": "chapters/act42side--activities__act42side__level_act42side_07_beg.json",
+      "sort": 15,
+      "title": "丧礼"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动后",
+      "code": "MT-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-7_丧礼/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-7_%E4%B8%A7%E7%A4%BC/END"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_07_end",
+      "path": "chapters/act42side--activities__act42side__level_act42side_07_end.json",
+      "sort": 16,
+      "title": "丧礼"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动前",
+      "code": "MT-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-8_朝圣/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-8_%E6%9C%9D%E5%9C%A3/BEG"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_08_beg",
+      "path": "chapters/act42side--activities__act42side__level_act42side_08_beg.json",
+      "sort": 17,
+      "title": "朝圣"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动后",
+      "code": "MT-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-8_朝圣/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-8_%E6%9C%9D%E5%9C%A3/END"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_08_end",
+      "path": "chapters/act42side--activities__act42side__level_act42side_08_end.json",
+      "sort": 18,
+      "title": "朝圣"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动前",
+      "code": "MT-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-9_解经/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-9_%E8%A7%A3%E7%BB%8F/BEG"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_09_beg",
+      "path": "chapters/act42side--activities__act42side__level_act42side_09_beg.json",
+      "sort": 19,
+      "title": "解经"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动后",
+      "code": "MT-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-9_解经/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-9_%E8%A7%A3%E7%BB%8F/END"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_09_end",
+      "path": "chapters/act42side--activities__act42side__level_act42side_09_end.json",
+      "sort": 20,
+      "title": "解经"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动前",
+      "code": "MT-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-10_降生/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-10_%E9%99%8D%E7%94%9F/BEG"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_10_beg",
+      "path": "chapters/act42side--activities__act42side__level_act42side_10_beg.json",
+      "sort": 21,
+      "title": "降生"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "行动后",
+      "code": "MT-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-10_降生/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-10_%E9%99%8D%E7%94%9F/END"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_10_end",
+      "path": "chapters/act42side--activities__act42side__level_act42side_10_end.json",
+      "sort": 22,
+      "title": "降生"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "幕间",
+      "code": "MT-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-ST-3_重逢/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-ST-3_%E9%87%8D%E9%80%A2/NBT"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_st03",
+      "path": "chapters/act42side--activities__act42side__level_act42side_st03.json",
+      "sort": 23,
+      "title": "重逢"
+    },
+    {
+      "albumId": "act42side",
+      "avgTag": "幕间",
+      "code": "MT-ST-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "MT-ST-4_远行/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/MT-ST-4_%E8%BF%9C%E8%A1%8C/NBT"
+      },
+      "downloadable": true,
+      "id": "act42side--activities__act42side__level_act42side_st04",
+      "path": "chapters/act42side--activities__act42side__level_act42side_st04.json",
+      "sort": 24,
+      "title": "远行"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_the_masses_travels",
+    "primaryImageId": "kv_the_masses_travels",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act42side",
+    "titleImageId": "title_the_masses_travels",
+    "url": "https://media.prts.wiki/b/b5/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E4%BC%97%E7%94%9F%E8%A1%8C%E8%AE%B0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 6011,
+  "homeSection": "sideStory",
+  "id": "act42side",
+  "music": {
+    "arcTitle": "那被祝福的",
+    "movementTitle": "那被祝福的",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_12",
+      "tag_15"
+    ]
+  },
+  "slug": "act42side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1746072000,
+  "summary": "第二届万国峰会如期举办，\n不论是大地之上的仇敌，还是远海之下的陌客，\n今日皆是拉特兰的座上宾。\n圣城维系了千年之久的秩序，\n将成为一切生灵与死物的救赎之道。\n而此番救赎的代价，\n唯有拉特兰人知晓。",
+  "timelineRank": 1746072000,
+  "title": "众生行记"
+}

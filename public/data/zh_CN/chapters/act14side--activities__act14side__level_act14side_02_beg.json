@@ -1,0 +1,21 @@
+{
+  "albumId": "act14side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "BI-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BI-2_息事宁人/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BI-2_%E6%81%AF%E4%BA%8B%E5%AE%81%E4%BA%BA/BEG"
+  },
+  "id": "act14side--activities__act14side__level_act14side_02_beg",
+  "navigation": {
+    "nextChapterId": "act14side--activities__act14side__level_act14side_02_end",
+    "previousChapterId": "act14side--activities__act14side__level_act14side_st01"
+  },
+  "subtitle": "BI-2",
+  "summary": "info/activities/act14side/level_act14side_02_beg",
+  "title": "息事宁人"
+}

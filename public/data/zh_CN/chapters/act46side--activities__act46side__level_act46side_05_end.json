@@ -1,0 +1,21 @@
+{
+  "albumId": "act46side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OS-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OS-5_雪夜独行/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OS-5_%E9%9B%AA%E5%A4%9C%E7%8B%AC%E8%A1%8C/END"
+  },
+  "id": "act46side--activities__act46side__level_act46side_05_end",
+  "navigation": {
+    "nextChapterId": "act46side--activities__act46side__level_act46side_06_beg",
+    "previousChapterId": "act46side--activities__act46side__level_act46side_05_beg"
+  },
+  "subtitle": "OS-5",
+  "summary": "info/activities/act46side/level_act46side_05_end",
+  "title": "雪夜独行"
+}

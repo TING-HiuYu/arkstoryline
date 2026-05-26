@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RE-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RE-5_渐入佳境/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RE-5_%E6%B8%90%E5%85%A5%E4%BD%B3%E5%A2%83/END"
+  },
+  "id": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--re-5-渐入佳境-end",
+  "navigation": {
+    "nextChapterId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--re-6-最终考核-end",
+    "previousChapterId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--re-4-兵力压制-end"
+  },
+  "subtitle": "RE-5",
+  "title": "RE-5 渐入佳境 行动后"
+}

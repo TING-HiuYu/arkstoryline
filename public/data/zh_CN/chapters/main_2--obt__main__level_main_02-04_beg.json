@@ -1,0 +1,21 @@
+{
+  "albumId": "main_2",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "2-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "2-4_企鹅物流/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/2-4_%E4%BC%81%E9%B9%85%E7%89%A9%E6%B5%81/BEG"
+  },
+  "id": "main_2--obt__main__level_main_02-04_beg",
+  "navigation": {
+    "nextChapterId": "main_2--obt__main__level_main_02-04_end",
+    "previousChapterId": "main_2--obt__main__level_main_02-03_end"
+  },
+  "subtitle": "2-4",
+  "summary": "info/obt/main/level_main_02-04_beg",
+  "title": "企鹅物流"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "14-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-5_探查岩洞区域/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-5_%E6%8E%A2%E6%9F%A5%E5%B2%A9%E6%B4%9E%E5%8C%BA%E5%9F%9F/BEG"
+  },
+  "id": "main_14--obt__main__level_main_14-04_beg",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-04_end",
+    "previousChapterId": "main_14--obt__main__level_main_14-03_end"
+  },
+  "subtitle": "14-5",
+  "summary": "info/obt/main/level_main_14-04_beg",
+  "title": "探查岩洞区域"
+}

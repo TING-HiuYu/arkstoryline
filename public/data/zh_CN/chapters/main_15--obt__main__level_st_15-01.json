@@ -1,0 +1,21 @@
+{
+  "albumId": "main_15",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "15-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "15-1_过去与现在的终点/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-1_%E8%BF%87%E5%8E%BB%E4%B8%8E%E7%8E%B0%E5%9C%A8%E7%9A%84%E7%BB%88%E7%82%B9/NBT"
+  },
+  "id": "main_15--obt__main__level_st_15-01",
+  "navigation": {
+    "nextChapterId": "main_15--obt__main__level_main_15-01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "15-1",
+  "summary": "info/obt/main/level_st_15-01",
+  "title": "过去与现在的终点"
+}

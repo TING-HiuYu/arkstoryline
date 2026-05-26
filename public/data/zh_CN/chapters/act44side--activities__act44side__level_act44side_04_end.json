@@ -1,0 +1,21 @@
+{
+  "albumId": "act44side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "AT-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AT-4_百物语/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AT-4_%E7%99%BE%E7%89%A9%E8%AF%AD/END"
+  },
+  "id": "act44side--activities__act44side__level_act44side_04_end",
+  "navigation": {
+    "nextChapterId": "act44side--activities__act44side__level_act44side_05_beg",
+    "previousChapterId": "act44side--activities__act44side__level_act44side_04_beg"
+  },
+  "subtitle": "AT-4",
+  "summary": "info/activities/act44side/level_act44side_04_end",
+  "title": "百物语"
+}

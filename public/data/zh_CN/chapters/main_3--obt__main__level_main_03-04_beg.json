@@ -1,0 +1,21 @@
+{
+  "albumId": "main_3",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "3-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "3-4_龟裂/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/3-4_%E9%BE%9F%E8%A3%82/BEG"
+  },
+  "id": "main_3--obt__main__level_main_03-04_beg",
+  "navigation": {
+    "nextChapterId": "main_3--obt__main__level_main_03-04_end",
+    "previousChapterId": "main_3--obt__main__level_main_03-03_end"
+  },
+  "subtitle": "3-4",
+  "summary": "info/obt/main/level_main_03-04_beg",
+  "title": "龟裂"
+}

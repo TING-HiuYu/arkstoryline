@@ -1,0 +1,21 @@
+{
+  "albumId": "act17side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "SN-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SN-10_礼仪广场/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-10_%E7%A4%BC%E4%BB%AA%E5%B9%BF%E5%9C%BA/BEG"
+  },
+  "id": "act17side--activities__act17side__level_act17side_10_beg",
+  "navigation": {
+    "nextChapterId": "act17side--activities__act17side__level_act17side_10_end",
+    "previousChapterId": "act17side--activities__act17side__level_act17side_st11"
+  },
+  "subtitle": "SN-10",
+  "summary": "info/activities/act17side/level_act17side_10_beg",
+  "title": "礼仪广场"
+}

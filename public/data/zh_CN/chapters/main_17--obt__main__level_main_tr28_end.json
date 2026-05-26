@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "TR-28",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TR-28_无权责问/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TR-28_%E6%97%A0%E6%9D%83%E8%B4%A3%E9%97%AE/END"
+  },
+  "id": "main_17--obt__main__level_main_tr28_end",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_main_17-02_beg",
+    "previousChapterId": "main_17--obt__main__level_main_17-01_beg"
+  },
+  "subtitle": "TR-28",
+  "summary": "info/obt/main/level_main_tr28_end",
+  "title": "无权责问"
+}

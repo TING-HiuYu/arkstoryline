@@ -1,0 +1,21 @@
+{
+  "albumId": "act40side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "OR-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OR-8_金玉藏心/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OR-8_%E9%87%91%E7%8E%89%E8%97%8F%E5%BF%83/BEG"
+  },
+  "id": "act40side--activities__act40side__level_act40side_08_beg",
+  "navigation": {
+    "nextChapterId": "act40side--activities__act40side__level_act40side_08_end",
+    "previousChapterId": "act40side--activities__act40side__level_act40side_07_end"
+  },
+  "subtitle": "OR-8",
+  "summary": "info/activities/act40side/level_act40side_08_beg",
+  "title": "金玉藏心"
+}

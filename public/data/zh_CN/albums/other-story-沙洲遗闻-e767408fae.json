@@ -1,0 +1,81 @@
+{
+  "albumKind": "otherStory",
+  "chapters": [
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RA1-END-1/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RA1-END-1/NBT"
+      },
+      "id": "other-story-沙洲遗闻-e767408fae--ra1-end-1-nbt",
+      "sort": 1,
+      "title": "寻宝与援兵"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RA1-END-2/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RA1-END-2/NBT"
+      },
+      "id": "other-story-沙洲遗闻-e767408fae--ra1-end-2-nbt",
+      "sort": 2,
+      "title": "阿尔萨兰的秘密"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RA1-END-3/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RA1-END-3/NBT"
+      },
+      "id": "other-story-沙洲遗闻-e767408fae--ra1-end-3-nbt",
+      "sort": 3,
+      "title": "和平的回归"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RA1-ST1/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RA1-ST1/NBT"
+      },
+      "id": "other-story-沙洲遗闻-e767408fae--ra1-st1-nbt",
+      "sort": 4,
+      "title": "见证往昔"
+    },
+    {
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RA1/ENTRY",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RA1/ENTRY"
+      },
+      "id": "other-story-沙洲遗闻-e767408fae--ra1-entry",
+      "sort": 5,
+      "title": "初来乍到"
+    }
+  ],
+  "gameOrderRank": 900000014,
+  "homeSection": "otherStory",
+  "id": "other-story-沙洲遗闻-e767408fae",
+  "otherStory": {
+    "albumTitle": "沙洲遗闻",
+    "groupTitle": "生息演算",
+    "sourceSection": "other"
+  },
+  "slug": "other-story-沙洲遗闻-e767408fae",
+  "source": {
+    "path": "storyline.index.sections.other",
+    "providerId": "prts",
+    "revision": "2026-05-26T20:55:23.000119+00:00"
+  },
+  "sourceEntryType": "ARCHIVE_EXTRA",
+  "timelineRank": 900000014,
+  "title": "沙洲遗闻"
+}

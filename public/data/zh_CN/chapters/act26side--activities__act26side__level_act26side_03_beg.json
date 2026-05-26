@@ -1,0 +1,21 @@
+{
+  "albumId": "act26side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "HE-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HE-3_岂可空手回天府？/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HE-3_%E5%B2%82%E5%8F%AF%E7%A9%BA%E6%89%8B%E5%9B%9E%E5%A4%A9%E5%BA%9C%EF%BC%9F/BEG"
+  },
+  "id": "act26side--activities__act26side__level_act26side_03_beg",
+  "navigation": {
+    "nextChapterId": "act26side--activities__act26side__level_act26side_03_end",
+    "previousChapterId": "act26side--activities__act26side__level_act26side_02_end"
+  },
+  "subtitle": "HE-3",
+  "summary": "info/activities/act26side/level_act26side_03_beg",
+  "title": "岂可空手回天府？"
+}

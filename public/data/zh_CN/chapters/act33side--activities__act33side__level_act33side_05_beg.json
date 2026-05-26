@@ -1,0 +1,21 @@
+{
+  "albumId": "act33side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "BB-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BB-5_激变烽烟/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BB-5_%E6%BF%80%E5%8F%98%E7%83%BD%E7%83%9F/BEG"
+  },
+  "id": "act33side--activities__act33side__level_act33side_05_beg",
+  "navigation": {
+    "nextChapterId": "act33side--activities__act33side__level_act33side_05_end",
+    "previousChapterId": "act33side--activities__act33side__level_act33side_04_end"
+  },
+  "subtitle": "BB-5",
+  "summary": "info/activities/act33side/level_act33side_05_beg",
+  "title": "激变烽烟"
+}

@@ -1,0 +1,33 @@
+{
+  "albumKind": "otherStory",
+  "chapters": [
+    {
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "多维合作/剧情",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/%E5%A4%9A%E7%BB%B4%E5%90%88%E4%BD%9C/%E5%89%A7%E6%83%85"
+      },
+      "id": "other-story-多维合作-664e94bf8a--多维合作-剧情",
+      "sort": 1,
+      "title": "多维合作"
+    }
+  ],
+  "gameOrderRank": 900000010,
+  "homeSection": "otherStory",
+  "id": "other-story-多维合作-664e94bf8a",
+  "otherStory": {
+    "albumTitle": "多维合作",
+    "groupTitle": "特殊",
+    "sourceSection": "other"
+  },
+  "slug": "other-story-多维合作-664e94bf8a",
+  "source": {
+    "path": "storyline.index.sections.other",
+    "providerId": "prts",
+    "revision": "2026-05-26T20:55:23.000119+00:00"
+  },
+  "sourceEntryType": "ARCHIVE_EXTRA",
+  "timelineRank": 900000010,
+  "title": "多维合作"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_6",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "6-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "6-7_断弦/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/6-7_%E6%96%AD%E5%BC%A6/BEG"
+  },
+  "id": "main_6--obt__main__level_main_06-06_beg",
+  "navigation": {
+    "nextChapterId": "main_6--obt__main__level_main_06-06_end",
+    "previousChapterId": "main_6--obt__main__level_st_06-01"
+  },
+  "subtitle": "6-7",
+  "summary": "info/obt/main/level_main_06-06_beg",
+  "title": "断弦"
+}

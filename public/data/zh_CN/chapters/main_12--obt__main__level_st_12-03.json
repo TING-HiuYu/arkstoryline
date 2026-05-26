@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "12-21",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-21_战场静悄悄/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-21_%E6%88%98%E5%9C%BA%E9%9D%99%E6%82%84%E6%82%84/NBT"
+  },
+  "id": "main_12--obt__main__level_st_12-03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "main_12--obt__main__level_main_12-18_end"
+  },
+  "subtitle": "12-21",
+  "summary": "info/obt/main/level_st_12-03",
+  "title": "战场静悄悄"
+}

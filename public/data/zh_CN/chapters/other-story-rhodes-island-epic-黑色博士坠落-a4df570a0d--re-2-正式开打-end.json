@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RE-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RE-2_正式开打/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RE-2_%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%89%93/END"
+  },
+  "id": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--re-2-正式开打-end",
+  "navigation": {
+    "nextChapterId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--re-3-狂轰乱炸-end",
+    "previousChapterId": "other-story-rhodes-island-epic-黑色博士坠落-a4df570a0d--re-1-活动手指-end"
+  },
+  "subtitle": "RE-2",
+  "title": "RE-2 正式开打 行动后"
+}

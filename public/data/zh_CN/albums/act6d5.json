@@ -1,0 +1,83 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act6d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "AF-ST1_洪炉示岁·迎春/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AF-ST1_%E6%B4%AA%E7%82%89%E7%A4%BA%E5%B2%81%C2%B7%E8%BF%8E%E6%98%A5/NBT"
+      },
+      "downloadable": true,
+      "id": "act6d5--activities__act6d5__level_act6d5_st01",
+      "path": "chapters/act6d5--activities__act6d5__level_act6d5_st01.json",
+      "sort": 1,
+      "title": "洪炉示岁·迎春"
+    },
+    {
+      "albumId": "act6d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "AF-ST2_洪炉示岁·贺岁/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AF-ST2_%E6%B4%AA%E7%82%89%E7%A4%BA%E5%B2%81%C2%B7%E8%B4%BA%E5%B2%81/NBT"
+      },
+      "downloadable": true,
+      "id": "act6d5--activities__act6d5__level_act6d5_st02",
+      "path": "chapters/act6d5--activities__act6d5__level_act6d5_st02.json",
+      "sort": 2,
+      "title": "洪炉示岁·贺岁"
+    },
+    {
+      "albumId": "act6d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "AF-ST3_洪炉示岁·拜年/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AF-ST3_%E6%B4%AA%E7%82%89%E7%A4%BA%E5%B2%81%C2%B7%E6%8B%9C%E5%B9%B4/NBT"
+      },
+      "downloadable": true,
+      "id": "act6d5--activities__act6d5__level_act6d5_st03",
+      "path": "chapters/act6d5--activities__act6d5__level_act6d5_st03.json",
+      "sort": 3,
+      "title": "洪炉示岁·拜年"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_ancient_forge",
+    "primaryImageId": "kv_ancient_forge",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act6d5",
+    "storyPicId": "storyPic_act6d5",
+    "titleImageId": "title_ancient_forge",
+    "url": "https://media.prts.wiki/b/bc/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%B4%AA%E7%82%89%E7%A4%BA%E5%B2%81.png"
+  },
+  "extras": [],
+  "gameOrderRank": 1012,
+  "homeSection": "sideStory",
+  "id": "act6d5",
+  "music": {
+    "arcTitle": "岁岁今朝",
+    "movementTitle": "岁岁今朝",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act6d5",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1578513600,
+  "summary": "根据古老的传说，巨大的怪物随时可能来袭！\n龙门这座孤城，如何用一场惊天爆炸度过年关？\n燃情巨制《龙门末日守城》......不，该叫《洪炉示岁》！\n总之，敬请期待！",
+  "timelineRank": 1578513600,
+  "title": "洪炉示岁"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "11-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-3_蒸汽升腾/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-3_%E8%92%B8%E6%B1%BD%E5%8D%87%E8%85%BE/END"
+  },
+  "id": "main_11--obt__main__level_main_11-03_end",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_st_11-01",
+    "previousChapterId": "main_11--obt__main__level_main_11-03_beg"
+  },
+  "subtitle": "11-3",
+  "summary": "info/obt/main/level_main_11-03_end",
+  "title": "蒸汽升腾"
+}

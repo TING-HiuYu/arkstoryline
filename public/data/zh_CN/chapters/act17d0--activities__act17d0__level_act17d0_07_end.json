@@ -1,0 +1,21 @@
+{
+  "albumId": "act17d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OD-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OD-7_地堡防线/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OD-7_%E5%9C%B0%E5%A0%A1%E9%98%B2%E7%BA%BF/END"
+  },
+  "id": "act17d0--activities__act17d0__level_act17d0_07_end",
+  "navigation": {
+    "nextChapterId": "act17d0--activities__act17d0__level_act17d0_08_beg",
+    "previousChapterId": "act17d0--activities__act17d0__level_act17d0_07_beg"
+  },
+  "subtitle": "OD-7",
+  "summary": "info/activities/act17d0/level_act17d0_07_end",
+  "title": "地堡防线"
+}

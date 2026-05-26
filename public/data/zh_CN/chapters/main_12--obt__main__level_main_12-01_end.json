@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "12-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-2_静候驾临/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-2_%E9%9D%99%E5%80%99%E9%A9%BE%E4%B8%B4/END"
+  },
+  "id": "main_12--obt__main__level_main_12-01_end",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_main_12-02_beg",
+    "previousChapterId": "main_12--obt__main__level_main_12-01_beg"
+  },
+  "subtitle": "12-2",
+  "summary": "info/obt/main/level_main_12-01_end",
+  "title": "静候驾临"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_1",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "1-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "1-7_暴君/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/1-7_%E6%9A%B4%E5%90%9B/BEG"
+  },
+  "id": "main_1--obt__main__level_main_01-07_beg",
+  "navigation": {
+    "nextChapterId": "main_1--obt__main__level_main_01-07_end",
+    "previousChapterId": "main_1--obt__main__level_main_01-06_beg"
+  },
+  "subtitle": "1-7",
+  "summary": "info/obt/main/level_main_01-07_beg",
+  "title": "暴君"
+}

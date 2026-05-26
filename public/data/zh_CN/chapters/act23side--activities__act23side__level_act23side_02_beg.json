@@ -1,0 +1,21 @@
+{
+  "albumId": "act23side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "WB-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WB-2_沙海黄尘/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WB-2_%E6%B2%99%E6%B5%B7%E9%BB%84%E5%B0%98/BEG"
+  },
+  "id": "act23side--activities__act23side__level_act23side_02_beg",
+  "navigation": {
+    "nextChapterId": "act23side--activities__act23side__level_act23side_02_end",
+    "previousChapterId": "act23side--activities__act23side__level_act23side_01_end"
+  },
+  "subtitle": "WB-2",
+  "summary": "info/activities/act23side/level_act23side_02_beg",
+  "title": "沙海黄尘"
+}

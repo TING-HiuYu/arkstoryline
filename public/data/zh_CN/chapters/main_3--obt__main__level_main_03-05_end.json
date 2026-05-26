@@ -1,0 +1,21 @@
+{
+  "albumId": "main_3",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "3-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "3-5_呼叫/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/3-5_%E5%91%BC%E5%8F%AB/END"
+  },
+  "id": "main_3--obt__main__level_main_03-05_end",
+  "navigation": {
+    "nextChapterId": "main_3--obt__main__level_main_03-06_beg",
+    "previousChapterId": "main_3--obt__main__level_main_03-05_beg"
+  },
+  "subtitle": "3-5",
+  "summary": "info/obt/main/level_main_03-05_end",
+  "title": "呼叫"
+}

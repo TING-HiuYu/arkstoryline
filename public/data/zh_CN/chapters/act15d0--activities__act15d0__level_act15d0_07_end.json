@@ -1,0 +1,21 @@
+{
+  "albumId": "act15d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "MB-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MB-7_背叛/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MB-7_%E8%83%8C%E5%8F%9B/END"
+  },
+  "id": "act15d0--activities__act15d0__level_act15d0_07_end",
+  "navigation": {
+    "nextChapterId": "act15d0--activities__act15d0__level_act15d0_08_beg",
+    "previousChapterId": "act15d0--activities__act15d0__level_act15d0_07_beg"
+  },
+  "subtitle": "MB-7",
+  "summary": "info/activities/act15d0/level_act15d0_07_end",
+  "title": "背叛"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act21side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IS-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IS-3_万箭所指/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-3_%E4%B8%87%E7%AE%AD%E6%89%80%E6%8C%87/END"
+  },
+  "id": "act21side--activities__act21side__level_act21side_03_end",
+  "navigation": {
+    "nextChapterId": "act21side--activities__act21side__level_act21side_04_beg",
+    "previousChapterId": "act21side--activities__act21side__level_act21side_03_beg"
+  },
+  "subtitle": "IS-3",
+  "summary": "info/activities/act21side/level_act21side_03_end",
+  "title": "万箭所指"
+}

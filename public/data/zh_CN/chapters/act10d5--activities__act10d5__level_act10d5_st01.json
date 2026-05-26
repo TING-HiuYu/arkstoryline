@@ -1,0 +1,19 @@
+{
+  "albumId": "act10d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SV-ST1_习惯/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-ST1_%E4%B9%A0%E6%83%AF/NBT"
+  },
+  "id": "act10d5--activities__act10d5__level_act10d5_st01",
+  "navigation": {
+    "nextChapterId": "act10d5--activities__act10d5__level_act10d5_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act10d5/level_act10d5_st01",
+  "title": "习惯"
+}

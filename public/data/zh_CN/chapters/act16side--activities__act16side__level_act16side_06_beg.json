@@ -1,0 +1,21 @@
+{
+  "albumId": "act16side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "GA-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GA-6_安魂曲/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GA-6_%E5%AE%89%E9%AD%82%E6%9B%B2/BEG"
+  },
+  "id": "act16side--activities__act16side__level_act16side_06_beg",
+  "navigation": {
+    "nextChapterId": "act16side--activities__act16side__level_act16side_06_end",
+    "previousChapterId": "act16side--activities__act16side__level_act16side_05_end"
+  },
+  "subtitle": "GA-6",
+  "summary": "info/activities/act16side/level_act16side_06_beg",
+  "title": "安魂曲"
+}

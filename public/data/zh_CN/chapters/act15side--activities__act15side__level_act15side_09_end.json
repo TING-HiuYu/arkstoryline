@@ -1,0 +1,21 @@
+{
+  "albumId": "act15side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IW-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IW-9_岁相/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-9_%E5%B2%81%E7%9B%B8/END"
+  },
+  "id": "act15side--activities__act15side__level_act15side_09_end",
+  "navigation": {
+    "nextChapterId": "act15side--activities__act15side__level_act15side_st03",
+    "previousChapterId": "act15side--activities__act15side__level_act15side_09_beg"
+  },
+  "subtitle": "IW-9",
+  "summary": "info/activities/act15side/level_act15side_09_end",
+  "title": "岁相"
+}

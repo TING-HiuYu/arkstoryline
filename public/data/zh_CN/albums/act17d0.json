@@ -1,0 +1,298 @@
+{
+  "albumKind": "sidestory",
+  "chapters": [
+    {
+      "albumId": "act17d0",
+      "avgTag": "幕间",
+      "code": "OD-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-ST-1_拉马克行动/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-ST-1_%E6%8B%89%E9%A9%AC%E5%85%8B%E8%A1%8C%E5%8A%A8/NBT"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_st01",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_st01.json",
+      "sort": 1,
+      "title": "拉马克行动"
+    },
+    {
+      "albumId": "act17d0",
+      "avgTag": "行动前",
+      "code": "OD-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-1_外勤记录/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-1_%E5%A4%96%E5%8B%A4%E8%AE%B0%E5%BD%95/BEG"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_01_beg",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_01_beg.json",
+      "sort": 2,
+      "title": "外勤记录"
+    },
+    {
+      "albumId": "act17d0",
+      "avgTag": "行动后",
+      "code": "OD-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-1_外勤记录/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-1_%E5%A4%96%E5%8B%A4%E8%AE%B0%E5%BD%95/END"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_01_end",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_01_end.json",
+      "sort": 3,
+      "title": "外勤记录"
+    },
+    {
+      "albumId": "act17d0",
+      "avgTag": "行动前",
+      "code": "OD-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-2_扩大防守范围/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-2_%E6%89%A9%E5%A4%A7%E9%98%B2%E5%AE%88%E8%8C%83%E5%9B%B4/BEG"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_02_beg",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_02_beg.json",
+      "sort": 4,
+      "title": "扩大防守范围"
+    },
+    {
+      "albumId": "act17d0",
+      "avgTag": "行动后",
+      "code": "OD-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-2_扩大防守范围/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-2_%E6%89%A9%E5%A4%A7%E9%98%B2%E5%AE%88%E8%8C%83%E5%9B%B4/END"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_02_end",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_02_end.json",
+      "sort": 5,
+      "title": "扩大防守范围"
+    },
+    {
+      "albumId": "act17d0",
+      "avgTag": "行动前",
+      "code": "OD-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-3_安全屋攻防战/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-3_%E5%AE%89%E5%85%A8%E5%B1%8B%E6%94%BB%E9%98%B2%E6%88%98/BEG"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_03_beg",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_03_beg.json",
+      "sort": 6,
+      "title": "安全屋攻防战"
+    },
+    {
+      "albumId": "act17d0",
+      "avgTag": "行动后",
+      "code": "OD-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-3_安全屋攻防战/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-3_%E5%AE%89%E5%85%A8%E5%B1%8B%E6%94%BB%E9%98%B2%E6%88%98/END"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_03_end",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_03_end.json",
+      "sort": 7,
+      "title": "安全屋攻防战"
+    },
+    {
+      "albumId": "act17d0",
+      "avgTag": "行动前",
+      "code": "OD-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-5_物资回收计划/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-5_%E7%89%A9%E8%B5%84%E5%9B%9E%E6%94%B6%E8%AE%A1%E5%88%92/BEG"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_05_beg",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_05_beg.json",
+      "sort": 8,
+      "title": "物资回收计划"
+    },
+    {
+      "albumId": "act17d0",
+      "avgTag": "行动后",
+      "code": "OD-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-5_物资回收计划/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-5_%E7%89%A9%E8%B5%84%E5%9B%9E%E6%94%B6%E8%AE%A1%E5%88%92/END"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_05_end",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_05_end.json",
+      "sort": 9,
+      "title": "物资回收计划"
+    },
+    {
+      "albumId": "act17d0",
+      "avgTag": "行动前",
+      "code": "OD-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-6_领主宅邸攻防战/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-6_%E9%A2%86%E4%B8%BB%E5%AE%85%E9%82%B8%E6%94%BB%E9%98%B2%E6%88%98/BEG"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_06_beg",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_06_beg.json",
+      "sort": 10,
+      "title": "领主宅邸攻防战"
+    },
+    {
+      "albumId": "act17d0",
+      "avgTag": "行动后",
+      "code": "OD-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-6_领主宅邸攻防战/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-6_%E9%A2%86%E4%B8%BB%E5%AE%85%E9%82%B8%E6%94%BB%E9%98%B2%E6%88%98/END"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_06_end",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_06_end.json",
+      "sort": 11,
+      "title": "领主宅邸攻防战"
+    },
+    {
+      "albumId": "act17d0",
+      "avgTag": "幕间",
+      "code": "OD-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-ST-2_一场葬礼/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-ST-2_%E4%B8%80%E5%9C%BA%E8%91%AC%E7%A4%BC/NBT"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_st02",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_st02.json",
+      "sort": 12,
+      "title": "一场葬礼"
+    },
+    {
+      "albumId": "act17d0",
+      "avgTag": "行动前",
+      "code": "OD-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-7_地堡防线/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-7_%E5%9C%B0%E5%A0%A1%E9%98%B2%E7%BA%BF/BEG"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_07_beg",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_07_beg.json",
+      "sort": 13,
+      "title": "地堡防线"
+    },
+    {
+      "albumId": "act17d0",
+      "avgTag": "行动后",
+      "code": "OD-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-7_地堡防线/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-7_%E5%9C%B0%E5%A0%A1%E9%98%B2%E7%BA%BF/END"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_07_end",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_07_end.json",
+      "sort": 14,
+      "title": "地堡防线"
+    },
+    {
+      "albumId": "act17d0",
+      "avgTag": "行动前",
+      "code": "OD-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-8_渗透作战/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-8_%E6%B8%97%E9%80%8F%E4%BD%9C%E6%88%98/BEG"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_08_beg",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_08_beg.json",
+      "sort": 15,
+      "title": "渗透作战"
+    },
+    {
+      "albumId": "act17d0",
+      "avgTag": "行动后",
+      "code": "OD-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-8_渗透作战/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-8_%E6%B8%97%E9%80%8F%E4%BD%9C%E6%88%98/END"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_08_end",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_08_end.json",
+      "sort": 16,
+      "title": "渗透作战"
+    },
+    {
+      "albumId": "act17d0",
+      "avgTag": "幕间",
+      "code": "OD-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OD-ST-3_行走于大地之上/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OD-ST-3_%E8%A1%8C%E8%B5%B0%E4%BA%8E%E5%A4%A7%E5%9C%B0%E4%B9%8B%E4%B8%8A/NBT"
+      },
+      "downloadable": true,
+      "id": "act17d0--activities__act17d0__level_act17d0_st03",
+      "path": "chapters/act17d0--activities__act17d0__level_act17d0_st03.json",
+      "sort": 17,
+      "title": "行走于大地之上"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "primaryImageId": "storyEntryPic_act17d0",
+    "source": "review-entry-pic",
+    "storyEntryPicId": "storyEntryPic_act17d0",
+    "url": "https://media.prts.wiki/5/5c/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%BA%90%E7%9F%B3%E5%B0%98%E8%A1%8C%E5%8A%A8.png"
+  },
+  "extras": [],
+  "homeSection": "sideStory",
+  "id": "act17d0",
+  "slug": "act17d0",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1612324800,
+  "timelineRank": 1612324800,
+  "title": "源石尘行动"
+}

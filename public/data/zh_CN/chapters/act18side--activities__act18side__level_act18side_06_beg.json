@@ -1,0 +1,21 @@
+{
+  "albumId": "act18side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "LE-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "LE-6_骷髅之舞/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/LE-6_%E9%AA%B7%E9%AB%85%E4%B9%8B%E8%88%9E/BEG"
+  },
+  "id": "act18side--activities__act18side__level_act18side_06_beg",
+  "navigation": {
+    "nextChapterId": "act18side--activities__act18side__level_act18side_06_end",
+    "previousChapterId": "act18side--activities__act18side__level_act18side_05_end"
+  },
+  "subtitle": "LE-6",
+  "summary": "info/activities/act18side/level_act18side_06_beg",
+  "title": "骷髅之舞"
+}

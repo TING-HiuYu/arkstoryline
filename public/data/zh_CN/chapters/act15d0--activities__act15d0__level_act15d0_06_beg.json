@@ -1,0 +1,21 @@
+{
+  "albumId": "act15d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "MB-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MB-6_制定计划/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MB-6_%E5%88%B6%E5%AE%9A%E8%AE%A1%E5%88%92/BEG"
+  },
+  "id": "act15d0--activities__act15d0__level_act15d0_06_beg",
+  "navigation": {
+    "nextChapterId": "act15d0--activities__act15d0__level_act15d0_06_end",
+    "previousChapterId": "act15d0--activities__act15d0__level_act15d0_05_end"
+  },
+  "subtitle": "MB-6",
+  "summary": "info/activities/act15d0/level_act15d0_06_beg",
+  "title": "制定计划"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "17-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "17-10_爱的尺度/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/17-10_%E7%88%B1%E7%9A%84%E5%B0%BA%E5%BA%A6/END"
+  },
+  "id": "main_17--obt__main__level_main_17-09_end",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_main_17-10_beg",
+    "previousChapterId": "main_17--obt__main__level_main_17-08_beg"
+  },
+  "subtitle": "17-10",
+  "summary": "info/obt/main/level_main_17-09_end",
+  "title": "爱的尺度"
+}

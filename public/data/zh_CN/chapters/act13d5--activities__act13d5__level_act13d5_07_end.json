@@ -1,0 +1,21 @@
+{
+  "albumId": "act13d5",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "MN-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MN-7_梅什科集团/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MN-7_%E6%A2%85%E4%BB%80%E7%A7%91%E9%9B%86%E5%9B%A2/END"
+  },
+  "id": "act13d5--activities__act13d5__level_act13d5_07_end",
+  "navigation": {
+    "nextChapterId": "act13d5--activities__act13d5__level_act13d5_st02",
+    "previousChapterId": "act13d5--activities__act13d5__level_act13d5_07_beg"
+  },
+  "subtitle": "MN-7",
+  "summary": "info/activities/act13d5/level_act13d5_07_end",
+  "title": "梅什科集团"
+}

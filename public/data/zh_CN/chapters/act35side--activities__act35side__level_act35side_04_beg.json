@@ -1,0 +1,21 @@
+{
+  "albumId": "act35side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "AS-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AS-4_家传金拖鞋/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AS-4_%E5%AE%B6%E4%BC%A0%E9%87%91%E6%8B%96%E9%9E%8B/BEG"
+  },
+  "id": "act35side--activities__act35side__level_act35side_04_beg",
+  "navigation": {
+    "nextChapterId": "act35side--activities__act35side__level_act35side_04_end",
+    "previousChapterId": "act35side--activities__act35side__level_act35side_03_end"
+  },
+  "subtitle": "AS-4",
+  "summary": "info/activities/act35side/level_act35side_04_beg",
+  "title": "家传金拖鞋"
+}

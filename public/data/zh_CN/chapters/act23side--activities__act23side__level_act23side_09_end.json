@@ -1,0 +1,21 @@
+{
+  "albumId": "act23side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "WB-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WB-9_“冬藏”/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WB-9_%E2%80%9C%E5%86%AC%E8%97%8F%E2%80%9D/END"
+  },
+  "id": "act23side--activities__act23side__level_act23side_09_end",
+  "navigation": {
+    "nextChapterId": "act23side--activities__act23side__level_act23side_st03",
+    "previousChapterId": "act23side--activities__act23side__level_act23side_09_beg"
+  },
+  "subtitle": "WB-9",
+  "summary": "info/activities/act23side/level_act23side_09_end",
+  "title": "“冬藏”"
+}

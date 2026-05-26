@@ -1,0 +1,21 @@
+{
+  "albumId": "act5d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CB-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CB-10_1:11A.M./END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-10_1%3A11A.M./END"
+  },
+  "id": "act5d0--activities__act5d0__level_act5d0_10_end",
+  "navigation": {
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_st03",
+    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_10_beg"
+  },
+  "subtitle": "CB-10",
+  "summary": "info/activities/act5d0/level_act5d0_10_end",
+  "title": "1:11A.M."
+}

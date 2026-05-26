@@ -1,0 +1,21 @@
+{
+  "albumId": "act51side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "PA-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PA-8_一千年后/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PA-8_%E4%B8%80%E5%8D%83%E5%B9%B4%E5%90%8E/BEG"
+  },
+  "id": "act51side--activities__act51side__level_act51side_08_beg",
+  "navigation": {
+    "nextChapterId": "act51side--activities__act51side__level_act51side_08_end",
+    "previousChapterId": "act51side--activities__act51side__level_act51side_07_end"
+  },
+  "subtitle": "PA-8",
+  "summary": "info/activities/act51side/level_act51side_08_beg",
+  "title": "一千年后"
+}

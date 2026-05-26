@@ -1,0 +1,21 @@
+{
+  "albumId": "act14side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "BI-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BI-2_息事宁人/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BI-2_%E6%81%AF%E4%BA%8B%E5%AE%81%E4%BA%BA/END"
+  },
+  "id": "act14side--activities__act14side__level_act14side_02_end",
+  "navigation": {
+    "nextChapterId": "act14side--activities__act14side__level_act14side_03_beg",
+    "previousChapterId": "act14side--activities__act14side__level_act14side_02_beg"
+  },
+  "subtitle": "BI-2",
+  "summary": "info/activities/act14side/level_act14side_02_end",
+  "title": "息事宁人"
+}

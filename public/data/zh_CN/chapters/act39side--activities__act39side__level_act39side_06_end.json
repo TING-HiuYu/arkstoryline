@@ -1,0 +1,21 @@
+{
+  "albumId": "act39side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "EP-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EP-6_若退路在燃烧/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EP-6_%E8%8B%A5%E9%80%80%E8%B7%AF%E5%9C%A8%E7%87%83%E7%83%A7/END"
+  },
+  "id": "act39side--activities__act39side__level_act39side_06_end",
+  "navigation": {
+    "nextChapterId": "act39side--activities__act39side__level_act39side_st02",
+    "previousChapterId": "act39side--activities__act39side__level_act39side_06_beg"
+  },
+  "subtitle": "EP-6",
+  "summary": "info/activities/act39side/level_act39side_06_end",
+  "title": "若退路在燃烧"
+}

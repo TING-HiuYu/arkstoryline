@@ -1,0 +1,21 @@
+{
+  "albumId": "act32side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CR-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CR-7_安全出口/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CR-7_%E5%AE%89%E5%85%A8%E5%87%BA%E5%8F%A3/END"
+  },
+  "id": "act32side--activities__act32side__level_act32side_07_end",
+  "navigation": {
+    "nextChapterId": "act32side--activities__act32side__level_act32side_08_beg",
+    "previousChapterId": "act32side--activities__act32side__level_act32side_07_beg"
+  },
+  "subtitle": "CR-7",
+  "summary": "info/activities/act32side/level_act32side_07_end",
+  "title": "安全出口"
+}

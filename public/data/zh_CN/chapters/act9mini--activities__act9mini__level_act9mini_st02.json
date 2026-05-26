@@ -1,0 +1,19 @@
+{
+  "albumId": "act9mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PS-ST2_落灰/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PS-ST2_%E8%90%BD%E7%81%B0/NBT"
+  },
+  "id": "act9mini--activities__act9mini__level_act9mini_st02",
+  "navigation": {
+    "nextChapterId": "act9mini--activities__act9mini__level_act9mini_st03",
+    "previousChapterId": "act9mini--activities__act9mini__level_act9mini_st01"
+  },
+  "summary": "info/activities/act9mini/level_act9mini_st02",
+  "title": "落灰"
+}

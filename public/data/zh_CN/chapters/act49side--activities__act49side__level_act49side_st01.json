@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-ST-1_蒙不失诵/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-ST-1_%E8%92%99%E4%B8%8D%E5%A4%B1%E8%AF%B5/NBT"
+  },
+  "id": "act49side--activities__act49side__level_act49side_st01",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "TA-ST-1",
+  "summary": "info/activities/act49side/level_act49side_st01",
+  "title": "蒙不失诵"
+}

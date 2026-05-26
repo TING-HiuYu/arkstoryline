@@ -1,0 +1,21 @@
+{
+  "albumId": "act47side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "UR-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "UR-7_停机坪/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/UR-7_%E5%81%9C%E6%9C%BA%E5%9D%AA/END"
+  },
+  "id": "act47side--activities__act47side__level_act47side_07_end",
+  "navigation": {
+    "nextChapterId": "act47side--activities__act47side__level_act47side_08_beg",
+    "previousChapterId": "act47side--activities__act47side__level_act47side_07_beg"
+  },
+  "subtitle": "UR-7",
+  "summary": "info/activities/act47side/level_act47side_07_end",
+  "title": "停机坪"
+}

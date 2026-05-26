@@ -1,0 +1,21 @@
+{
+  "albumId": "act16side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "GA-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GA-3_混血儿/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GA-3_%E6%B7%B7%E8%A1%80%E5%84%BF/BEG"
+  },
+  "id": "act16side--activities__act16side__level_act16side_03_beg",
+  "navigation": {
+    "nextChapterId": "act16side--activities__act16side__level_act16side_03_end",
+    "previousChapterId": "act16side--activities__act16side__level_act16side_02_end"
+  },
+  "subtitle": "GA-3",
+  "summary": "info/activities/act16side/level_act16side_03_beg",
+  "title": "混血儿"
+}

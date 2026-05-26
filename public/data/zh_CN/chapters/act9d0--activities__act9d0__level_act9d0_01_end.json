@@ -1,0 +1,21 @@
+{
+  "albumId": "act9d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DM-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DM-1_埋藏/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DM-1_%E5%9F%8B%E8%97%8F/END"
+  },
+  "id": "act9d0--activities__act9d0__level_act9d0_01_end",
+  "navigation": {
+    "nextChapterId": "act9d0--activities__act9d0__level_act9d0_02_beg",
+    "previousChapterId": "act9d0--activities__act9d0__level_act9d0_01_beg"
+  },
+  "subtitle": "DM-1",
+  "summary": "info/activities/act9d0/level_act9d0_01_end",
+  "title": "埋藏"
+}

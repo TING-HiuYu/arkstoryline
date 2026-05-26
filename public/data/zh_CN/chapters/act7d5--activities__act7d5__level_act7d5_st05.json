@@ -1,0 +1,19 @@
+{
+  "albumId": "act7d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SA-ST5_自讨苦吃/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SA-ST5_%E8%87%AA%E8%AE%A8%E8%8B%A6%E5%90%83/NBT"
+  },
+  "id": "act7d5--activities__act7d5__level_act7d5_st05",
+  "navigation": {
+    "nextChapterId": "act7d5--activities__act7d5__level_act7d5_st06",
+    "previousChapterId": "act7d5--activities__act7d5__level_act7d5_st04"
+  },
+  "summary": "info/activities/act7d5/level_act7d5_st05",
+  "title": "自讨苦吃"
+}

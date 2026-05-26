@@ -1,0 +1,21 @@
+{
+  "albumId": "main_9",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "9-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "9-5_临界值/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/9-5_%E4%B8%B4%E7%95%8C%E5%80%BC/END"
+  },
+  "id": "main_9--obt__main__level_main_09-04_end",
+  "navigation": {
+    "nextChapterId": "main_9--obt__main__level_main_09-05_beg",
+    "previousChapterId": "main_9--obt__main__level_main_09-04_beg"
+  },
+  "subtitle": "9-5",
+  "summary": "info/obt/main/level_main_09-04_end",
+  "title": "临界值"
+}

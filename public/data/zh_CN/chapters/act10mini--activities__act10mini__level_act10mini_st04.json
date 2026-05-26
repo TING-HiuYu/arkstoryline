@@ -1,0 +1,19 @@
+{
+  "albumId": "act10mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TB-ST4_孤行骑警/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TB-ST4_%E5%AD%A4%E8%A1%8C%E9%AA%91%E8%AD%A6/NBT"
+  },
+  "id": "act10mini--activities__act10mini__level_act10mini_st04",
+  "navigation": {
+    "nextChapterId": "act10mini--activities__act10mini__level_act10mini_st05",
+    "previousChapterId": "act10mini--activities__act10mini__level_act10mini_st03"
+  },
+  "summary": "info/activities/act10mini/level_act10mini_st04",
+  "title": "孤行骑警"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act25side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CW-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CW-7_空中楼阁/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CW-7_%E7%A9%BA%E4%B8%AD%E6%A5%BC%E9%98%81/END"
+  },
+  "id": "act25side--activities__act25side__level_act25side_07_end",
+  "navigation": {
+    "nextChapterId": "act25side--activities__act25side__level_act25side_08_beg",
+    "previousChapterId": "act25side--activities__act25side__level_act25side_07_beg"
+  },
+  "subtitle": "CW-7",
+  "summary": "info/activities/act25side/level_act25side_07_end",
+  "title": "空中楼阁"
+}

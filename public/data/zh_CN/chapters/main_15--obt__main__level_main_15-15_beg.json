@@ -1,0 +1,21 @@
+{
+  "albumId": "main_15",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "15-17",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "15-17_“她”/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-17_%E2%80%9C%E5%A5%B9%E2%80%9D/BEG"
+  },
+  "id": "main_15--obt__main__level_main_15-15_beg",
+  "navigation": {
+    "nextChapterId": "main_15--obt__main__level_main_15-15_end_variation01",
+    "previousChapterId": "main_15--obt__main__level_st_15-02"
+  },
+  "subtitle": "15-17",
+  "summary": "info/obt/main/level_main_15-15_beg",
+  "title": "“她”"
+}

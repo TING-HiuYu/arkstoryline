@@ -1,0 +1,21 @@
+{
+  "albumId": "act40side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "OR-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OR-4_雪里蕻/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OR-4_%E9%9B%AA%E9%87%8C%E8%95%BB/BEG"
+  },
+  "id": "act40side--activities__act40side__level_act40side_04_beg",
+  "navigation": {
+    "nextChapterId": "act40side--activities__act40side__level_act40side_04_end",
+    "previousChapterId": "act40side--activities__act40side__level_act40side_03_end"
+  },
+  "subtitle": "OR-4",
+  "summary": "info/activities/act40side/level_act40side_04_beg",
+  "title": "雪里蕻"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act12d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RI-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RI-6_邂逅/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RI-6_%E9%82%82%E9%80%85/END"
+  },
+  "id": "act12d0--activities__act12d0__level_act12d0_06_end",
+  "navigation": {
+    "nextChapterId": "act12d0--activities__act12d0__level_act12d0_st02",
+    "previousChapterId": "act12d0--activities__act12d0__level_act12d0_06_beg"
+  },
+  "subtitle": "RI-6",
+  "summary": "info/activities/act12d0/level_act12d0_06_end",
+  "title": "邂逅"
+}

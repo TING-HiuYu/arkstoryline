@@ -1,0 +1,19 @@
+{
+  "albumId": "act17mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "KR-ST2_归来时的街道/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/KR-ST2_%E5%BD%92%E6%9D%A5%E6%97%B6%E7%9A%84%E8%A1%97%E9%81%93/NBT"
+  },
+  "id": "act17mini--activities__act17mini__level_act17mini_st02",
+  "navigation": {
+    "nextChapterId": "act17mini--activities__act17mini__level_act17mini_st03",
+    "previousChapterId": "act17mini--activities__act17mini__level_act17mini_st01"
+  },
+  "summary": "info/activities/act17mini/level_act17mini_st02",
+  "title": "归来时的街道"
+}

@@ -1,0 +1,19 @@
+{
+  "albumId": "act13mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BW-ST4_告别时刻/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BW-ST4_%E5%91%8A%E5%88%AB%E6%97%B6%E5%88%BB/NBT"
+  },
+  "id": "act13mini--activities__act13mini__level_act13mini_st04",
+  "navigation": {
+    "nextChapterId": "act13mini--activities__act13mini__level_act13mini_st05",
+    "previousChapterId": "act13mini--activities__act13mini__level_act13mini_st03"
+  },
+  "summary": "info/activities/act13mini/level_act13mini_st04",
+  "title": "告别时刻"
+}

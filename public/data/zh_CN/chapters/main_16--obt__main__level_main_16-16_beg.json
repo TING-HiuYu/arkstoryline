@@ -1,0 +1,21 @@
+{
+  "albumId": "main_16",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "16-16",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "16-16_示我以真/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/16-16_%E7%A4%BA%E6%88%91%E4%BB%A5%E7%9C%9F/BEG"
+  },
+  "id": "main_16--obt__main__level_main_16-16_beg",
+  "navigation": {
+    "nextChapterId": "main_16--obt__main__level_main_16-17_beg",
+    "previousChapterId": "main_16--obt__main__level_main_16-15_beg"
+  },
+  "subtitle": "16-16",
+  "summary": "info/obt/main/level_main_16-16_beg",
+  "title": "示我以真"
+}

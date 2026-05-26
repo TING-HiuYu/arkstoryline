@@ -1,0 +1,143 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act15d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BH-ST1_无续集/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BH-ST1_%E6%97%A0%E7%BB%AD%E9%9B%86/NBT"
+      },
+      "downloadable": true,
+      "id": "act15d5--activities__act15d5__level_act15d5_st01",
+      "path": "chapters/act15d5--activities__act15d5__level_act15d5_st01.json",
+      "sort": 1,
+      "title": "无续集"
+    },
+    {
+      "albumId": "act15d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BH-ST2_荒野路漫漫/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BH-ST2_%E8%8D%92%E9%87%8E%E8%B7%AF%E6%BC%AB%E6%BC%AB/NBT"
+      },
+      "downloadable": true,
+      "id": "act15d5--activities__act15d5__level_act15d5_st02",
+      "path": "chapters/act15d5--activities__act15d5__level_act15d5_st02.json",
+      "sort": 2,
+      "title": "荒野路漫漫"
+    },
+    {
+      "albumId": "act15d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BH-ST3_童话永存/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BH-ST3_%E7%AB%A5%E8%AF%9D%E6%B0%B8%E5%AD%98/NBT"
+      },
+      "downloadable": true,
+      "id": "act15d5--activities__act15d5__level_act15d5_st03",
+      "path": "chapters/act15d5--activities__act15d5__level_act15d5_st03.json",
+      "sort": 3,
+      "title": "童话永存"
+    },
+    {
+      "albumId": "act15d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BH-ST4_信仰号街车/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BH-ST4_%E4%BF%A1%E4%BB%B0%E5%8F%B7%E8%A1%97%E8%BD%A6/NBT"
+      },
+      "downloadable": true,
+      "id": "act15d5--activities__act15d5__level_act15d5_st04",
+      "path": "chapters/act15d5--activities__act15d5__level_act15d5_st04.json",
+      "sort": 4,
+      "title": "信仰号街车"
+    },
+    {
+      "albumId": "act15d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BH-ST5_盲盒旅途/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BH-ST5_%E7%9B%B2%E7%9B%92%E6%97%85%E9%80%94/NBT"
+      },
+      "downloadable": true,
+      "id": "act15d5--activities__act15d5__level_act15d5_st05",
+      "path": "chapters/act15d5--activities__act15d5__level_act15d5_st05.json",
+      "sort": 5,
+      "title": "盲盒旅途"
+    },
+    {
+      "albumId": "act15d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BH-ST6_剑与天秤/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BH-ST6_%E5%89%91%E4%B8%8E%E5%A4%A9%E7%A7%A4/NBT"
+      },
+      "downloadable": true,
+      "id": "act15d5--activities__act15d5__level_act15d5_st06",
+      "path": "chapters/act15d5--activities__act15d5__level_act15d5_st06.json",
+      "sort": 6,
+      "title": "剑与天秤"
+    },
+    {
+      "albumId": "act15d5",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BH-ST7_为更好的自己/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BH-ST7_%E4%B8%BA%E6%9B%B4%E5%A5%BD%E7%9A%84%E8%87%AA%E5%B7%B1/NBT"
+      },
+      "downloadable": true,
+      "id": "act15d5--activities__act15d5__level_act15d5_st07",
+      "path": "chapters/act15d5--activities__act15d5__level_act15d5_st07.json",
+      "sort": 7,
+      "title": "为更好的自己"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_beyond_here",
+    "primaryImageId": "kv_beyond_here",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act15d5",
+    "storyPicId": "storyPic_act15d5",
+    "titleImageId": "title_beyond_here",
+    "url": "https://media.prts.wiki/4/4d/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%AD%A4%E5%9C%B0%E4%B9%8B%E5%A4%96.png"
+  },
+  "extras": [],
+  "gameOrderRank": 2008,
+  "homeSection": "sideStory",
+  "id": "act15d5",
+  "music": {
+    "arcTitle": "泰拉奇谈",
+    "movementTitle": "泰拉奇谈",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act15d5",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1609833600,
+  "summary": "每一段旅途，都是一次对信念的考验，\n也是对自我的寻觅。在罗德岛的舰船之外，\n罗德岛干员们踏上旅途，见证着不同的风景。",
+  "timelineRank": 1609833600,
+  "title": "此地之外"
+}

@@ -1,0 +1,19 @@
+{
+  "albumId": "act15mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FD-ST1_沉于冰寒/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FD-ST1_%E6%B2%89%E4%BA%8E%E5%86%B0%E5%AF%92/NBT"
+  },
+  "id": "act15mini--activities__act15mini__level_act15mini_st01",
+  "navigation": {
+    "nextChapterId": "act15mini--activities__act15mini__level_act15mini_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act15mini/level_act15mini_st01",
+  "title": "沉于冰寒"
+}

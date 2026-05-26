@@ -1,0 +1,21 @@
+{
+  "albumId": "1stact",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "GT-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GT-1_日正当中/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GT-1_%E6%97%A5%E6%AD%A3%E5%BD%93%E4%B8%AD/BEG"
+  },
+  "id": "1stact--activities__a001__level_a001_01_beg",
+  "navigation": {
+    "nextChapterId": "1stact--activities__a001__level_a001_01_end",
+    "previousChapterId": null
+  },
+  "subtitle": "GT-1",
+  "summary": "info/activities/a001/level_a001_01_beg",
+  "title": "日正当中"
+}

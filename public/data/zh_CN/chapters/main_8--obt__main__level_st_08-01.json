@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "M8-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "M8-1_今日，血色满溢/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/M8-1_%E4%BB%8A%E6%97%A5%EF%BC%8C%E8%A1%80%E8%89%B2%E6%BB%A1%E6%BA%A2/NBT"
+  },
+  "id": "main_8--obt__main__level_st_08-01",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_main_08-03_beg",
+    "previousChapterId": "main_8--obt__main__level_main_08-01_end"
+  },
+  "subtitle": "M8-1",
+  "summary": "info/obt/main/level_st_08-01",
+  "title": "今日，血色满溢"
+}

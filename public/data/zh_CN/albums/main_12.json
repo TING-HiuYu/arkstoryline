@@ -1,0 +1,468 @@
+{
+  "albumKind": "mainline",
+  "chapters": [
+    {
+      "albumId": "main_12",
+      "avgTag": "幕间",
+      "code": "12-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-1_火光热浪/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-1_%E7%81%AB%E5%85%89%E7%83%AD%E6%B5%AA/NBT"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_st_12-01",
+      "path": "chapters/main_12--obt__main__level_st_12-01.json",
+      "sort": 116,
+      "title": "火光热浪"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动前",
+      "code": "12-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-2_静候驾临/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-2_%E9%9D%99%E5%80%99%E9%A9%BE%E4%B8%B4/BEG"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-01_beg",
+      "path": "chapters/main_12--obt__main__level_main_12-01_beg.json",
+      "sort": 117,
+      "title": "静候驾临"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动后",
+      "code": "12-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-2_静候驾临/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-2_%E9%9D%99%E5%80%99%E9%A9%BE%E4%B8%B4/END"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-01_end",
+      "path": "chapters/main_12--obt__main__level_main_12-01_end.json",
+      "sort": 118,
+      "title": "静候驾临"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动前",
+      "code": "12-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-3_善意背叛/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-3_%E5%96%84%E6%84%8F%E8%83%8C%E5%8F%9B/BEG"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-02_beg",
+      "path": "chapters/main_12--obt__main__level_main_12-02_beg.json",
+      "sort": 119,
+      "title": "善意背叛"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动后",
+      "code": "12-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-3_善意背叛/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-3_%E5%96%84%E6%84%8F%E8%83%8C%E5%8F%9B/END"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-02_end",
+      "path": "chapters/main_12--obt__main__level_main_12-02_end.json",
+      "sort": 120,
+      "title": "善意背叛"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动前",
+      "code": "12-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-4_团结就是奢望/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-4_%E5%9B%A2%E7%BB%93%E5%B0%B1%E6%98%AF%E5%A5%A2%E6%9C%9B/BEG"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-03_beg",
+      "path": "chapters/main_12--obt__main__level_main_12-03_beg.json",
+      "sort": 121,
+      "title": "团结就是奢望"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动后",
+      "code": "12-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-4_团结就是奢望/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-4_%E5%9B%A2%E7%BB%93%E5%B0%B1%E6%98%AF%E5%A5%A2%E6%9C%9B/END"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-03_end",
+      "path": "chapters/main_12--obt__main__level_main_12-03_end.json",
+      "sort": 122,
+      "title": "团结就是奢望"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动前",
+      "code": "12-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-5_脆钢/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-5_%E8%84%86%E9%92%A2/BEG"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-04_beg",
+      "path": "chapters/main_12--obt__main__level_main_12-04_beg.json",
+      "sort": 123,
+      "title": "脆钢"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动后",
+      "code": "12-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-6_谁的战争/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-6_%E8%B0%81%E7%9A%84%E6%88%98%E4%BA%89/END"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-05_end",
+      "path": "chapters/main_12--obt__main__level_main_12-05_end.json",
+      "sort": 124,
+      "title": "谁的战争"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动前",
+      "code": "12-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-7_平议生死/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-7_%E5%B9%B3%E8%AE%AE%E7%94%9F%E6%AD%BB/BEG"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-06_beg",
+      "path": "chapters/main_12--obt__main__level_main_12-06_beg.json",
+      "sort": 125,
+      "title": "平议生死"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动后",
+      "code": "12-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-8_火线重逢/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-8_%E7%81%AB%E7%BA%BF%E9%87%8D%E9%80%A2/END"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-07_end",
+      "path": "chapters/main_12--obt__main__level_main_12-07_end.json",
+      "sort": 126,
+      "title": "火线重逢"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动前",
+      "code": "12-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-9_热血年华/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-9_%E7%83%AD%E8%A1%80%E5%B9%B4%E5%8D%8E/BEG"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-08_beg",
+      "path": "chapters/main_12--obt__main__level_main_12-08_beg.json",
+      "sort": 127,
+      "title": "热血年华"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动后",
+      "code": "12-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-10_广播热线正繁忙/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-10_%E5%B9%BF%E6%92%AD%E7%83%AD%E7%BA%BF%E6%AD%A3%E7%B9%81%E5%BF%99/END"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-09_end",
+      "path": "chapters/main_12--obt__main__level_main_12-09_end.json",
+      "sort": 128,
+      "title": "广播热线正繁忙"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "幕间",
+      "code": "12-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-11_时不我待/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-11_%E6%97%B6%E4%B8%8D%E6%88%91%E5%BE%85/NBT"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_st_12-02",
+      "path": "chapters/main_12--obt__main__level_st_12-02.json",
+      "sort": 129,
+      "title": "时不我待"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动前",
+      "code": "12-12",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-12_脱帽致敬/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-12_%E8%84%B1%E5%B8%BD%E8%87%B4%E6%95%AC/BEG"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-10_beg",
+      "path": "chapters/main_12--obt__main__level_main_12-10_beg.json",
+      "sort": 130,
+      "title": "脱帽致敬"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动后",
+      "code": "12-13",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-13_逆光阴影/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-13_%E9%80%86%E5%85%89%E9%98%B4%E5%BD%B1/END"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-11_end",
+      "path": "chapters/main_12--obt__main__level_main_12-11_end.json",
+      "sort": 131,
+      "title": "逆光阴影"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动前",
+      "code": "12-14",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-14_捂住耳朵/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-14_%E6%8D%82%E4%BD%8F%E8%80%B3%E6%9C%B5/BEG"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-12_beg",
+      "path": "chapters/main_12--obt__main__level_main_12-12_beg.json",
+      "sort": 132,
+      "title": "捂住耳朵"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动后",
+      "code": "12-14",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-14_捂住耳朵/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-14_%E6%8D%82%E4%BD%8F%E8%80%B3%E6%9C%B5/END"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-12_end",
+      "path": "chapters/main_12--obt__main__level_main_12-12_end.json",
+      "sort": 133,
+      "title": "捂住耳朵"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动前",
+      "code": "12-15",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-15_千疮百孔/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-15_%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94/BEG"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-13_beg",
+      "path": "chapters/main_12--obt__main__level_main_12-13_beg.json",
+      "sort": 134,
+      "title": "千疮百孔"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动后",
+      "code": "12-15",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-15_千疮百孔/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-15_%E5%8D%83%E7%96%AE%E7%99%BE%E5%AD%94/END"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-13_end",
+      "path": "chapters/main_12--obt__main__level_main_12-13_end.json",
+      "sort": 135,
+      "title": "千疮百孔"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动前",
+      "code": "12-16",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-16_天边的火烧云/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-16_%E5%A4%A9%E8%BE%B9%E7%9A%84%E7%81%AB%E7%83%A7%E4%BA%91/BEG"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-14_beg",
+      "path": "chapters/main_12--obt__main__level_main_12-14_beg.json",
+      "sort": 136,
+      "title": "天边的火烧云"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动后",
+      "code": "12-17",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-17_被弃之人/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-17_%E8%A2%AB%E5%BC%83%E4%B9%8B%E4%BA%BA/END"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-15_end",
+      "path": "chapters/main_12--obt__main__level_main_12-15_end.json",
+      "sort": 137,
+      "title": "被弃之人"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动前",
+      "code": "12-18",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-18_晚安/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-18_%E6%99%9A%E5%AE%89/BEG"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-16_beg",
+      "path": "chapters/main_12--obt__main__level_main_12-16_beg.json",
+      "sort": 138,
+      "title": "晚安"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动后",
+      "code": "12-19",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-19_飞跃，烟火/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-19_%E9%A3%9E%E8%B7%83%EF%BC%8C%E7%83%9F%E7%81%AB/END"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-17_end",
+      "path": "chapters/main_12--obt__main__level_main_12-17_end.json",
+      "sort": 139,
+      "title": "飞跃，烟火"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动前",
+      "code": "12-20",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-20_诚挚邀请/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-20_%E8%AF%9A%E6%8C%9A%E9%82%80%E8%AF%B7/BEG"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-18_beg",
+      "path": "chapters/main_12--obt__main__level_main_12-18_beg.json",
+      "sort": 140,
+      "title": "诚挚邀请"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "行动后",
+      "code": "12-20",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-20_诚挚邀请/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-20_%E8%AF%9A%E6%8C%9A%E9%82%80%E8%AF%B7/END"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_main_12-18_end",
+      "path": "chapters/main_12--obt__main__level_main_12-18_end.json",
+      "sort": 141,
+      "title": "诚挚邀请"
+    },
+    {
+      "albumId": "main_12",
+      "avgTag": "幕间",
+      "code": "12-21",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "12-21_战场静悄悄/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/12-21_%E6%88%98%E5%9C%BA%E9%9D%99%E6%82%84%E6%82%84/NBT"
+      },
+      "downloadable": true,
+      "id": "main_12--obt__main__level_st_12-03",
+      "path": "chapters/main_12--obt__main__level_st_12-03.json",
+      "sort": 142,
+      "title": "战场静悄悄"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_all_quiet_under_the_thunder",
+    "primaryImageId": "kv_all_quiet_under_the_thunder",
+    "source": "stage-kv",
+    "titleImageId": "title_all_quiet_under_the_thunder",
+    "url": "https://media.prts.wiki/d/dd/%E7%AB%A0%E8%8A%82%E5%90%8D%E7%A7%B0_%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 4011,
+  "homeSection": "mainline",
+  "id": "main_12",
+  "music": {
+    "arcTitle": "Ⅱ 残阳",
+    "movementTitle": "Ⅱ 残阳",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "main-12",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": -1,
+  "summary": "一发炮弹从飞空艇射出，战争正式打响。\n开斯特公爵的密使“灰礼帽”找到了罗德岛，\n多方考虑下，罗德岛选择与他达成合作。\n与此同时，正在撤离中的自救军遭遇了工人们的背叛。\n一切似乎都在往最糟糕的方向发展......\n漩涡中的罗德岛，又将何去何从？",
+  "timelineRank": -1,
+  "title": "惊霆无声"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act28side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CV-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CV-7_白热/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CV-7_%E7%99%BD%E7%83%AD/BEG"
+  },
+  "id": "act28side--activities__act28side__level_act28side_07_beg",
+  "navigation": {
+    "nextChapterId": "act28side--activities__act28side__level_act28side_07_end",
+    "previousChapterId": "act28side--activities__act28side__level_act28side_06_end"
+  },
+  "subtitle": "CV-7",
+  "summary": "info/activities/act28side/level_act28side_07_beg",
+  "title": "白热"
+}

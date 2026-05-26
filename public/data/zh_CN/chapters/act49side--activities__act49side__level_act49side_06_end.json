@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-6_裹锋/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-6_%E8%A3%B9%E9%94%8B/END"
+  },
+  "id": "act49side--activities__act49side__level_act49side_06_end",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_07_beg",
+    "previousChapterId": "act49side--activities__act49side__level_act49side_06_beg"
+  },
+  "subtitle": "TA-6",
+  "summary": "info/activities/act49side/level_act49side_06_end",
+  "title": "裹锋"
+}

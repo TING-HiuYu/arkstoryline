@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "17-17",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "17-17_不曾怀疑/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/17-17_%E4%B8%8D%E6%9B%BE%E6%80%80%E7%96%91/END"
+  },
+  "id": "main_17--obt__main__level_main_17-16_end",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_main_17-17_beg",
+    "previousChapterId": "main_17--obt__main__level_main_17-15_beg"
+  },
+  "subtitle": "17-17",
+  "summary": "info/obt/main/level_main_17-16_end",
+  "title": "不曾怀疑"
+}

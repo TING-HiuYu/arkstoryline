@@ -1,0 +1,344 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act30side",
+      "avgTag": "幕间",
+      "code": "RS-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-ST-1_候车大厅/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-ST-1_%E5%80%99%E8%BD%A6%E5%A4%A7%E5%8E%85/NBT"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_st01",
+      "path": "chapters/act30side--activities__act30side__level_act30side_st01.json",
+      "sort": 1,
+      "title": "候车大厅"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "行动前",
+      "code": "RS-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-1_注意事项/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-1_%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/BEG"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_01_beg",
+      "path": "chapters/act30side--activities__act30side__level_act30side_01_beg.json",
+      "sort": 2,
+      "title": "注意事项"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "行动后",
+      "code": "RS-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-1_注意事项/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-1_%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/END"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_01_end",
+      "path": "chapters/act30side--activities__act30side__level_act30side_01_end.json",
+      "sort": 3,
+      "title": "注意事项"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "行动前",
+      "code": "RS-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-2_同车异图/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-2_%E5%90%8C%E8%BD%A6%E5%BC%82%E5%9B%BE/BEG"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_02_beg",
+      "path": "chapters/act30side--activities__act30side__level_act30side_02_beg.json",
+      "sort": 4,
+      "title": "同车异图"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "行动后",
+      "code": "RS-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-2_同车异图/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-2_%E5%90%8C%E8%BD%A6%E5%BC%82%E5%9B%BE/END"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_02_end",
+      "path": "chapters/act30side--activities__act30side__level_act30side_02_end.json",
+      "sort": 5,
+      "title": "同车异图"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "行动前",
+      "code": "RS-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-3_临时停车/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-3_%E4%B8%B4%E6%97%B6%E5%81%9C%E8%BD%A6/BEG"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_03_beg",
+      "path": "chapters/act30side--activities__act30side__level_act30side_03_beg.json",
+      "sort": 6,
+      "title": "临时停车"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "行动后",
+      "code": "RS-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-3_临时停车/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-3_%E4%B8%B4%E6%97%B6%E5%81%9C%E8%BD%A6/END"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_03_end",
+      "path": "chapters/act30side--activities__act30side__level_act30side_03_end.json",
+      "sort": 7,
+      "title": "临时停车"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "行动前",
+      "code": "RS-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-4_重回正轨/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-4_%E9%87%8D%E5%9B%9E%E6%AD%A3%E8%BD%A8/BEG"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_04_beg",
+      "path": "chapters/act30side--activities__act30side__level_act30side_04_beg.json",
+      "sort": 8,
+      "title": "重回正轨"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "行动后",
+      "code": "RS-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-4_重回正轨/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-4_%E9%87%8D%E5%9B%9E%E6%AD%A3%E8%BD%A8/END"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_04_end",
+      "path": "chapters/act30side--activities__act30side__level_act30side_04_end.json",
+      "sort": 9,
+      "title": "重回正轨"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "行动前",
+      "code": "RS-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-5_逃票？/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-5_%E9%80%83%E7%A5%A8%EF%BC%9F/BEG"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_05_beg",
+      "path": "chapters/act30side--activities__act30side__level_act30side_05_beg.json",
+      "sort": 10,
+      "title": "逃票？"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "行动后",
+      "code": "RS-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-5_逃票？/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-5_%E9%80%83%E7%A5%A8%EF%BC%9F/END"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_05_end",
+      "path": "chapters/act30side--activities__act30side__level_act30side_05_end.json",
+      "sort": 11,
+      "title": "逃票？"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "幕间",
+      "code": "RS-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-ST-2_登山铁道/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-ST-2_%E7%99%BB%E5%B1%B1%E9%93%81%E9%81%93/NBT"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_st02",
+      "path": "chapters/act30side--activities__act30side__level_act30side_st02.json",
+      "sort": 12,
+      "title": "登山铁道"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "行动前",
+      "code": "RS-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-6_补票！/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-6_%E8%A1%A5%E7%A5%A8%EF%BC%81/BEG"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_06_beg",
+      "path": "chapters/act30side--activities__act30side__level_act30side_06_beg.json",
+      "sort": 13,
+      "title": "补票！"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "行动后",
+      "code": "RS-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-6_补票！/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-6_%E8%A1%A5%E7%A5%A8%EF%BC%81/END"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_06_end",
+      "path": "chapters/act30side--activities__act30side__level_act30side_06_end.json",
+      "sort": 14,
+      "title": "补票！"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "行动前",
+      "code": "RS-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-7_制动失灵/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-7_%E5%88%B6%E5%8A%A8%E5%A4%B1%E7%81%B5/BEG"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_07_beg",
+      "path": "chapters/act30side--activities__act30side__level_act30side_07_beg.json",
+      "sort": 15,
+      "title": "制动失灵"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "行动后",
+      "code": "RS-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-7_制动失灵/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-7_%E5%88%B6%E5%8A%A8%E5%A4%B1%E7%81%B5/END"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_07_end",
+      "path": "chapters/act30side--activities__act30side__level_act30side_07_end.json",
+      "sort": 16,
+      "title": "制动失灵"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "行动前",
+      "code": "RS-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-8_极限时速/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-8_%E6%9E%81%E9%99%90%E6%97%B6%E9%80%9F/BEG"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_08_beg",
+      "path": "chapters/act30side--activities__act30side__level_act30side_08_beg.json",
+      "sort": 17,
+      "title": "极限时速"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "行动后",
+      "code": "RS-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-8_极限时速/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-8_%E6%9E%81%E9%99%90%E6%97%B6%E9%80%9F/END"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_08_end",
+      "path": "chapters/act30side--activities__act30side__level_act30side_08_end.json",
+      "sort": 18,
+      "title": "极限时速"
+    },
+    {
+      "albumId": "act30side",
+      "avgTag": "幕间",
+      "code": "RS-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RS-ST-3_终点站/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RS-ST-3_%E7%BB%88%E7%82%B9%E7%AB%99/NBT"
+      },
+      "downloadable": true,
+      "id": "act30side--activities__act30side__level_act30side_st03",
+      "path": "chapters/act30side--activities__act30side__level_act30side_st03.json",
+      "sort": 19,
+      "title": "终点站"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_the_rides_to_lake_silberneherze",
+    "primaryImageId": "kv_the_rides_to_lake_silberneherze",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act30side",
+    "titleImageId": "title_the_rides_to_lake_silberneherze",
+    "url": "https://media.prts.wiki/7/78/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E9%93%B6%E5%BF%83%E6%B9%96%E5%88%97%E8%BD%A6.png"
+  },
+  "extras": [],
+  "gameOrderRank": 5007,
+  "homeSection": "sideStory",
+  "id": "act30side",
+  "music": {
+    "arcTitle": "山雪与银铁",
+    "movementTitle": "山雪与银铁",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_14",
+      "tag_13"
+    ]
+  },
+  "slug": "act30side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1701748800,
+  "summary": "出身乌萨斯的女孩带着母亲的遗物走下火车。\n维多利亚的老兵一脸严肃地看着自己的手下。\n被卡西米尔流放的冠军擦拭着手上的血迹。\n谢拉格的新主们各有盘算，守护者却眉头紧锁。\n而在暗处，有人轻拉帽檐，确信有什么正在发生。\n开往银心湖的列车即将出发——\n女士们先生们，好戏开场了。",
+  "timelineRank": 1701748800,
+  "title": "银心湖列车"
+}

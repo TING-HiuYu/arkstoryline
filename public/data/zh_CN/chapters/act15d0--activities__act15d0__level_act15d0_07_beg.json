@@ -1,0 +1,21 @@
+{
+  "albumId": "act15d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "MB-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MB-7_背叛/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MB-7_%E8%83%8C%E5%8F%9B/BEG"
+  },
+  "id": "act15d0--activities__act15d0__level_act15d0_07_beg",
+  "navigation": {
+    "nextChapterId": "act15d0--activities__act15d0__level_act15d0_07_end",
+    "previousChapterId": "act15d0--activities__act15d0__level_act15d0_06_end"
+  },
+  "subtitle": "MB-7",
+  "summary": "info/activities/act15d0/level_act15d0_07_beg",
+  "title": "背叛"
+}

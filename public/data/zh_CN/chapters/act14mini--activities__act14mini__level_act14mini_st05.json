@@ -1,0 +1,19 @@
+{
+  "albumId": "act14mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DC-ST5_无名之辈/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DC-ST5_%E6%97%A0%E5%90%8D%E4%B9%8B%E8%BE%88/NBT"
+  },
+  "id": "act14mini--activities__act14mini__level_act14mini_st05",
+  "navigation": {
+    "nextChapterId": "act14mini--activities__act14mini__level_act14mini_st06",
+    "previousChapterId": "act14mini--activities__act14mini__level_act14mini_st04"
+  },
+  "summary": "info/activities/act14mini/level_act14mini_st05",
+  "title": "无名之辈"
+}

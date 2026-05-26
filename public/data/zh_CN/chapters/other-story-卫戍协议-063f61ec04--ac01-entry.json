@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-卫戍协议-063f61ec04",
+  "avgTag": null,
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AC01/ENTRY",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AC01/ENTRY"
+  },
+  "id": "other-story-卫戍协议-063f61ec04--ac01-entry",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": null
+  },
+  "subtitle": null,
+  "title": "卫戍协议"
+}

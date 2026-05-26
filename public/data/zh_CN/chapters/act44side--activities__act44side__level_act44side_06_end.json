@@ -1,0 +1,21 @@
+{
+  "albumId": "act44side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "AT-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AT-6_漩涡/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AT-6_%E6%BC%A9%E6%B6%A1/END"
+  },
+  "id": "act44side--activities__act44side__level_act44side_06_end",
+  "navigation": {
+    "nextChapterId": "act44side--activities__act44side__level_act44side_07_beg",
+    "previousChapterId": "act44side--activities__act44side__level_act44side_06_beg"
+  },
+  "subtitle": "AT-6",
+  "summary": "info/activities/act44side/level_act44side_06_end",
+  "title": "漩涡"
+}

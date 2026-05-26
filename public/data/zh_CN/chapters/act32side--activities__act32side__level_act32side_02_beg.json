@@ -1,0 +1,21 @@
+{
+  "albumId": "act32side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CR-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CR-2_不对称庭园/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CR-2_%E4%B8%8D%E5%AF%B9%E7%A7%B0%E5%BA%AD%E5%9B%AD/BEG"
+  },
+  "id": "act32side--activities__act32side__level_act32side_02_beg",
+  "navigation": {
+    "nextChapterId": "act32side--activities__act32side__level_act32side_02_end",
+    "previousChapterId": "act32side--activities__act32side__level_act32side_01_end"
+  },
+  "subtitle": "CR-2",
+  "summary": "info/activities/act32side/level_act32side_02_beg",
+  "title": "不对称庭园"
+}

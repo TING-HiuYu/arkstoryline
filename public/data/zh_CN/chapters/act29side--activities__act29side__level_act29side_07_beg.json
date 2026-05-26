@@ -1,0 +1,21 @@
+{
+  "albumId": "act29side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "ZT-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ZT-7_协奏曲“复活”/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ZT-7_%E5%8D%8F%E5%A5%8F%E6%9B%B2%E2%80%9C%E5%A4%8D%E6%B4%BB%E2%80%9D/BEG"
+  },
+  "id": "act29side--activities__act29side__level_act29side_07_beg",
+  "navigation": {
+    "nextChapterId": "act29side--activities__act29side__level_act29side_07_end",
+    "previousChapterId": "act29side--activities__act29side__level_act29side_06_end"
+  },
+  "subtitle": "ZT-7",
+  "summary": "info/activities/act29side/level_act29side_07_beg",
+  "title": "协奏曲“复活”"
+}

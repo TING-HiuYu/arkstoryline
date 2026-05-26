@@ -1,0 +1,21 @@
+{
+  "albumId": "main_6",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "6-14",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "6-14_冰原之霜/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/6-14_%E5%86%B0%E5%8E%9F%E4%B9%8B%E9%9C%9C/END"
+  },
+  "id": "main_6--obt__main__level_main_06-12_end",
+  "navigation": {
+    "nextChapterId": "main_6--obt__main__level_st_06-02",
+    "previousChapterId": "main_6--obt__main__level_main_06-11_beg"
+  },
+  "subtitle": "6-14",
+  "summary": "info/obt/main/level_main_06-12_end",
+  "title": "冰原之霜"
+}

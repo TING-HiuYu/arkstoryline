@@ -1,0 +1,21 @@
+{
+  "albumId": "act20side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IC-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IC-9_穹顶之上/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IC-9_%E7%A9%B9%E9%A1%B6%E4%B9%8B%E4%B8%8A/END"
+  },
+  "id": "act20side--activities__act20side__level_act20side_09_end",
+  "navigation": {
+    "nextChapterId": "act20side--activities__act20side__level_act20side_st02",
+    "previousChapterId": "act20side--activities__act20side__level_act20side_08_beg"
+  },
+  "subtitle": "IC-9",
+  "summary": "info/activities/act20side/level_act20side_09_end",
+  "title": "穹顶之上"
+}

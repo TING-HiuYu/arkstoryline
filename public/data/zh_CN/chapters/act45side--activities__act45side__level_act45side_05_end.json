@@ -1,0 +1,21 @@
+{
+  "albumId": "act45side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SS-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SS-5_通往舞会的邀请函/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SS-5_%E9%80%9A%E5%BE%80%E8%88%9E%E4%BC%9A%E7%9A%84%E9%82%80%E8%AF%B7%E5%87%BD/END"
+  },
+  "id": "act45side--activities__act45side__level_act45side_05_end",
+  "navigation": {
+    "nextChapterId": "act45side--activities__act45side__level_act45side_06_beg",
+    "previousChapterId": "act45side--activities__act45side__level_act45side_05_beg"
+  },
+  "subtitle": "SS-5",
+  "summary": "info/activities/act45side/level_act45side_05_end",
+  "title": "通往舞会的邀请函"
+}

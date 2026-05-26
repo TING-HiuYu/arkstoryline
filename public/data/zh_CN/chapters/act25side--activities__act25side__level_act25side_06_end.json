@@ -1,0 +1,21 @@
+{
+  "albumId": "act25side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CW-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CW-6_群英荟萃/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CW-6_%E7%BE%A4%E8%8B%B1%E8%8D%9F%E8%90%83/END"
+  },
+  "id": "act25side--activities__act25side__level_act25side_06_end",
+  "navigation": {
+    "nextChapterId": "act25side--activities__act25side__level_act25side_07_beg",
+    "previousChapterId": "act25side--activities__act25side__level_act25side_06_beg"
+  },
+  "subtitle": "CW-6",
+  "summary": "info/activities/act25side/level_act25side_06_end",
+  "title": "群英荟萃"
+}

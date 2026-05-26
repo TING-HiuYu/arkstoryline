@@ -1,0 +1,21 @@
+{
+  "albumId": "act16d5",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "WR-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WR-2_墨魉/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WR-2_%E5%A2%A8%E9%AD%89/BEG"
+  },
+  "id": "act16d5--activities__act16d5__level_act16d5_02_beg",
+  "navigation": {
+    "nextChapterId": "act16d5--activities__act16d5__level_act16d5_02_end",
+    "previousChapterId": "act16d5--activities__act16d5__level_act16d5_01_end"
+  },
+  "subtitle": "WR-2",
+  "summary": "info/activities/act16d5/level_act16d5_02_beg",
+  "title": "墨魉"
+}

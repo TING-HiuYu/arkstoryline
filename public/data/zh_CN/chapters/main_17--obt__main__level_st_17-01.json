@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "17-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "17-1_大地的呼吸/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/17-1_%E5%A4%A7%E5%9C%B0%E7%9A%84%E5%91%BC%E5%90%B8/NBT"
+  },
+  "id": "main_17--obt__main__level_st_17-01",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_main_17-01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "17-1",
+  "summary": "info/obt/main/level_st_17-01",
+  "title": "大地的呼吸"
+}

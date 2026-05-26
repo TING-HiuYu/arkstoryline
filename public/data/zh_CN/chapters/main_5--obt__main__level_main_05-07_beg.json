@@ -1,0 +1,21 @@
+{
+  "albumId": "main_5",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "5-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "5-7_生死与共/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/5-7_%E7%94%9F%E6%AD%BB%E4%B8%8E%E5%85%B1/BEG"
+  },
+  "id": "main_5--obt__main__level_main_05-07_beg",
+  "navigation": {
+    "nextChapterId": "main_5--obt__main__level_main_05-07_end",
+    "previousChapterId": "main_5--obt__main__level_main_05-06_end"
+  },
+  "subtitle": "5-7",
+  "summary": "info/obt/main/level_main_05-07_beg",
+  "title": "生死与共"
+}

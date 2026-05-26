@@ -1,0 +1,21 @@
+{
+  "albumId": "main_6",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "6-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "6-2_一些误会/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/6-2_%E4%B8%80%E4%BA%9B%E8%AF%AF%E4%BC%9A/BEG"
+  },
+  "id": "main_6--obt__main__level_main_06-02_beg",
+  "navigation": {
+    "nextChapterId": "main_6--obt__main__level_main_06-02_end",
+    "previousChapterId": "main_6--obt__main__level_main_06-01_end"
+  },
+  "subtitle": "6-2",
+  "summary": "info/obt/main/level_main_06-02_beg",
+  "title": "一些误会"
+}

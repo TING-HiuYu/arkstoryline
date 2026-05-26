@@ -1,0 +1,21 @@
+{
+  "albumId": "act12d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RI-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RI-9_走出密林/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RI-9_%E8%B5%B0%E5%87%BA%E5%AF%86%E6%9E%97/END"
+  },
+  "id": "act12d0--activities__act12d0__level_act12d0_09_end",
+  "navigation": {
+    "nextChapterId": "act12d0--activities__act12d0__level_act12d0_ex01_end",
+    "previousChapterId": "act12d0--activities__act12d0__level_act12d0_09_beg"
+  },
+  "subtitle": "RI-9",
+  "summary": "info/activities/act12d0/level_act12d0_09_end",
+  "title": "走出密林"
+}

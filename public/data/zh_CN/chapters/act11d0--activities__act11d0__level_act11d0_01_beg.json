@@ -1,0 +1,21 @@
+{
+  "albumId": "act11d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "TW-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TW-1_缄默不言/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TW-1_%E7%BC%84%E9%BB%98%E4%B8%8D%E8%A8%80/BEG"
+  },
+  "id": "act11d0--activities__act11d0__level_act11d0_01_beg",
+  "navigation": {
+    "nextChapterId": "act11d0--activities__act11d0__level_act11d0_01_end",
+    "previousChapterId": "act11d0--activities__act11d0__level_act11d0_st01"
+  },
+  "subtitle": "TW-1",
+  "summary": "info/activities/act11d0/level_act11d0_01_beg",
+  "title": "缄默不言"
+}

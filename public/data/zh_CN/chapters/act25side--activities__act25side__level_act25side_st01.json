@@ -1,0 +1,21 @@
+{
+  "albumId": "act25side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "CW-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CW-ST-1_阴云密布/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CW-ST-1_%E9%98%B4%E4%BA%91%E5%AF%86%E5%B8%83/NBT"
+  },
+  "id": "act25side--activities__act25side__level_act25side_st01",
+  "navigation": {
+    "nextChapterId": "act25side--activities__act25side__level_act25side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "CW-ST-1",
+  "summary": "info/activities/act25side/level_act25side_st01",
+  "title": "阴云密布"
+}

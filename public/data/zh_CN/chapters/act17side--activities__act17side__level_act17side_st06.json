@@ -1,0 +1,21 @@
+{
+  "albumId": "act17side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "SN-ST-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SN-ST-6_下层大厅/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-ST-6_%E4%B8%8B%E5%B1%82%E5%A4%A7%E5%8E%85/NBT"
+  },
+  "id": "act17side--activities__act17side__level_act17side_st06",
+  "navigation": {
+    "nextChapterId": "act17side--activities__act17side__level_act17side_st07",
+    "previousChapterId": "act17side--activities__act17side__level_act17side_06_beg"
+  },
+  "subtitle": "SN-ST-6",
+  "summary": "info/activities/act17side/level_act17side_st06",
+  "title": "下层大厅"
+}

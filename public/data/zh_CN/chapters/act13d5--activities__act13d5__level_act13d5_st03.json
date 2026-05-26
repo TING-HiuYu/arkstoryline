@@ -1,0 +1,21 @@
+{
+  "albumId": "act13d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "MN-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MN-ST-3_缄默启程/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MN-ST-3_%E7%BC%84%E9%BB%98%E5%90%AF%E7%A8%8B/NBT"
+  },
+  "id": "act13d5--activities__act13d5__level_act13d5_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act13d5--activities__act13d5__level_act13d5_08_end"
+  },
+  "subtitle": "MN-ST-3",
+  "summary": "info/activities/act13d5/level_act13d5_st03",
+  "title": "缄默启程"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act29side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "ZT-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ZT-5_奏鸣曲“秋日”/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ZT-5_%E5%A5%8F%E9%B8%A3%E6%9B%B2%E2%80%9C%E7%A7%8B%E6%97%A5%E2%80%9D/BEG"
+  },
+  "id": "act29side--activities__act29side__level_act29side_05_beg",
+  "navigation": {
+    "nextChapterId": "act29side--activities__act29side__level_act29side_05_end",
+    "previousChapterId": "act29side--activities__act29side__level_act29side_04_end"
+  },
+  "subtitle": "ZT-5",
+  "summary": "info/activities/act29side/level_act29side_05_beg",
+  "title": "奏鸣曲“秋日”"
+}

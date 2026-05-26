@@ -1,0 +1,21 @@
+{
+  "albumId": "main_6",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "6-15",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "6-15_不错的回忆/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/6-15_%E4%B8%8D%E9%94%99%E7%9A%84%E5%9B%9E%E5%BF%86/END"
+  },
+  "id": "main_6--obt__main__level_main_06-13_end",
+  "navigation": {
+    "nextChapterId": "main_6--obt__main__level_main_06-14_beg",
+    "previousChapterId": "main_6--obt__main__level_main_06-13_beg"
+  },
+  "subtitle": "6-15",
+  "summary": "info/obt/main/level_main_06-13_end",
+  "title": "不错的回忆"
+}

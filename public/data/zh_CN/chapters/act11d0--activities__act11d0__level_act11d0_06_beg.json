@@ -1,0 +1,21 @@
+{
+  "albumId": "act11d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "TW-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TW-6_怒意漫延/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TW-6_%E6%80%92%E6%84%8F%E6%BC%AB%E5%BB%B6/BEG"
+  },
+  "id": "act11d0--activities__act11d0__level_act11d0_06_beg",
+  "navigation": {
+    "nextChapterId": "act11d0--activities__act11d0__level_act11d0_06_end",
+    "previousChapterId": "act11d0--activities__act11d0__level_act11d0_05_end"
+  },
+  "subtitle": "TW-6",
+  "summary": "info/activities/act11d0/level_act11d0_06_beg",
+  "title": "怒意漫延"
+}

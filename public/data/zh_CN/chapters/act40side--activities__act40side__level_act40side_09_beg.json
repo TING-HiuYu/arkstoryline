@@ -1,0 +1,21 @@
+{
+  "albumId": "act40side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "OR-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OR-9_长寿面/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OR-9_%E9%95%BF%E5%AF%BF%E9%9D%A2/BEG"
+  },
+  "id": "act40side--activities__act40side__level_act40side_09_beg",
+  "navigation": {
+    "nextChapterId": "act40side--activities__act40side__level_act40side_09_end",
+    "previousChapterId": "act40side--activities__act40side__level_act40side_08_end"
+  },
+  "subtitle": "OR-9",
+  "summary": "info/activities/act40side/level_act40side_09_beg",
+  "title": "长寿面"
+}

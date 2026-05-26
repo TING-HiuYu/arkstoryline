@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "13-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "13-5_苦厄盘桓/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-5_%E8%8B%A6%E5%8E%84%E7%9B%98%E6%A1%93/BEG"
+  },
+  "id": "main_13--obt__main__level_main_13-04_beg",
+  "navigation": {
+    "nextChapterId": "main_13--obt__main__level_main_13-04_end",
+    "previousChapterId": "main_13--obt__main__level_main_13-03_end"
+  },
+  "subtitle": "13-5",
+  "summary": "info/obt/main/level_main_13-04_beg",
+  "title": "苦厄盘桓"
+}

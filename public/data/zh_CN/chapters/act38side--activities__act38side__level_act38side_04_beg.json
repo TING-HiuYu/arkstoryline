@@ -1,0 +1,21 @@
+{
+  "albumId": "act38side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "PV-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PV-4_体面来宾/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-4_%E4%BD%93%E9%9D%A2%E6%9D%A5%E5%AE%BE/BEG"
+  },
+  "id": "act38side--activities__act38side__level_act38side_04_beg",
+  "navigation": {
+    "nextChapterId": "act38side--activities__act38side__level_act38side_04_end",
+    "previousChapterId": "act38side--activities__act38side__level_act38side_03_end"
+  },
+  "subtitle": "PV-4",
+  "summary": "info/activities/act38side/level_act38side_04_beg",
+  "title": "体面来宾"
+}

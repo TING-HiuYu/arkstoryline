@@ -1,0 +1,21 @@
+{
+  "albumId": "main_4",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "4-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "4-8_应激反应/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/4-8_%E5%BA%94%E6%BF%80%E5%8F%8D%E5%BA%94/END"
+  },
+  "id": "main_4--obt__main__level_main_04-08_end",
+  "navigation": {
+    "nextChapterId": "main_4--obt__main__level_main_04-09_beg",
+    "previousChapterId": "main_4--obt__main__level_main_04-08_beg"
+  },
+  "subtitle": "4-8",
+  "summary": "info/obt/main/level_main_04-08_end",
+  "title": "应激反应"
+}

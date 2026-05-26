@@ -1,0 +1,308 @@
+{
+  "albumKind": "mainline",
+  "chapters": [
+    {
+      "albumId": "main_5",
+      "avgTag": "行动前",
+      "code": "5-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-1_冤家易结/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-1_%E5%86%A4%E5%AE%B6%E6%98%93%E7%BB%93/BEG"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_main_05-01_beg",
+      "path": "chapters/main_5--obt__main__level_main_05-01_beg.json",
+      "sort": 1,
+      "title": "冤家易结"
+    },
+    {
+      "albumId": "main_5",
+      "avgTag": "行动后",
+      "code": "5-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-1_冤家易结/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-1_%E5%86%A4%E5%AE%B6%E6%98%93%E7%BB%93/END"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_main_05-01_end",
+      "path": "chapters/main_5--obt__main__level_main_05-01_end.json",
+      "sort": 2,
+      "title": "冤家易结"
+    },
+    {
+      "albumId": "main_5",
+      "avgTag": "行动前",
+      "code": "5-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-2_有口难言/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-2_%E6%9C%89%E5%8F%A3%E9%9A%BE%E8%A8%80/BEG"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_main_05-02_beg",
+      "path": "chapters/main_5--obt__main__level_main_05-02_beg.json",
+      "sort": 3,
+      "title": "有口难言"
+    },
+    {
+      "albumId": "main_5",
+      "avgTag": "行动后",
+      "code": "5-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-2_有口难言/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-2_%E6%9C%89%E5%8F%A3%E9%9A%BE%E8%A8%80/END"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_main_05-02_end",
+      "path": "chapters/main_5--obt__main__level_main_05-02_end.json",
+      "sort": 4,
+      "title": "有口难言"
+    },
+    {
+      "albumId": "main_5",
+      "avgTag": "行动前",
+      "code": "5-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-3_义胆凡躯/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-3_%E4%B9%89%E8%83%86%E5%87%A1%E8%BA%AF/BEG"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_main_05-03_beg",
+      "path": "chapters/main_5--obt__main__level_main_05-03_beg.json",
+      "sort": 5,
+      "title": "义胆凡躯"
+    },
+    {
+      "albumId": "main_5",
+      "avgTag": "行动后",
+      "code": "5-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-3_义胆凡躯/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-3_%E4%B9%89%E8%83%86%E5%87%A1%E8%BA%AF/END"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_main_05-03_end",
+      "path": "chapters/main_5--obt__main__level_main_05-03_end.json",
+      "sort": 6,
+      "title": "义胆凡躯"
+    },
+    {
+      "albumId": "main_5",
+      "avgTag": "行动前",
+      "code": "5-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-4_没人在家/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-4_%E6%B2%A1%E4%BA%BA%E5%9C%A8%E5%AE%B6/BEG"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_main_05-04_beg",
+      "path": "chapters/main_5--obt__main__level_main_05-04_beg.json",
+      "sort": 7,
+      "title": "没人在家"
+    },
+    {
+      "albumId": "main_5",
+      "avgTag": "行动后",
+      "code": "5-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-4_没人在家/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-4_%E6%B2%A1%E4%BA%BA%E5%9C%A8%E5%AE%B6/END"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_main_05-04_end",
+      "path": "chapters/main_5--obt__main__level_main_05-04_end.json",
+      "sort": 8,
+      "title": "没人在家"
+    },
+    {
+      "albumId": "main_5",
+      "avgTag": "行动前",
+      "code": "5-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-6_疑兵之计/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-6_%E7%96%91%E5%85%B5%E4%B9%8B%E8%AE%A1/BEG"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_main_05-06_beg",
+      "path": "chapters/main_5--obt__main__level_main_05-06_beg.json",
+      "sort": 9,
+      "title": "疑兵之计"
+    },
+    {
+      "albumId": "main_5",
+      "avgTag": "行动后",
+      "code": "5-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-6_疑兵之计/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-6_%E7%96%91%E5%85%B5%E4%B9%8B%E8%AE%A1/END"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_main_05-06_end",
+      "path": "chapters/main_5--obt__main__level_main_05-06_end.json",
+      "sort": 10,
+      "title": "疑兵之计"
+    },
+    {
+      "albumId": "main_5",
+      "avgTag": "行动前",
+      "code": "5-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-7_生死与共/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-7_%E7%94%9F%E6%AD%BB%E4%B8%8E%E5%85%B1/BEG"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_main_05-07_beg",
+      "path": "chapters/main_5--obt__main__level_main_05-07_beg.json",
+      "sort": 11,
+      "title": "生死与共"
+    },
+    {
+      "albumId": "main_5",
+      "avgTag": "行动后",
+      "code": "5-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-7_生死与共/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-7_%E7%94%9F%E6%AD%BB%E4%B8%8E%E5%85%B1/END"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_main_05-07_end",
+      "path": "chapters/main_5--obt__main__level_main_05-07_end.json",
+      "sort": 12,
+      "title": "生死与共"
+    },
+    {
+      "albumId": "main_5",
+      "avgTag": "行动前",
+      "code": "5-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-9_孽生恶物/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-9_%E5%AD%BD%E7%94%9F%E6%81%B6%E7%89%A9/BEG"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_main_05-09_beg",
+      "path": "chapters/main_5--obt__main__level_main_05-09_beg.json",
+      "sort": 13,
+      "title": "孽生恶物"
+    },
+    {
+      "albumId": "main_5",
+      "avgTag": "行动后",
+      "code": "5-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-9_孽生恶物/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-9_%E5%AD%BD%E7%94%9F%E6%81%B6%E7%89%A9/END"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_main_05-09_end",
+      "path": "chapters/main_5--obt__main__level_main_05-09_end.json",
+      "sort": 14,
+      "title": "孽生恶物"
+    },
+    {
+      "albumId": "main_5",
+      "avgTag": "行动前",
+      "code": "5-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-10_长夜终尽/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-10_%E9%95%BF%E5%A4%9C%E7%BB%88%E5%B0%BD/BEG"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_main_05-10_beg",
+      "path": "chapters/main_5--obt__main__level_main_05-10_beg.json",
+      "sort": 15,
+      "title": "长夜终尽"
+    },
+    {
+      "albumId": "main_5",
+      "avgTag": "行动后",
+      "code": "5-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-10_长夜终尽/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-10_%E9%95%BF%E5%A4%9C%E7%BB%88%E5%B0%BD/END"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_main_05-10_end",
+      "path": "chapters/main_5--obt__main__level_main_05-10_end.json",
+      "sort": 16,
+      "title": "长夜终尽"
+    },
+    {
+      "albumId": "main_5",
+      "avgTag": "幕间",
+      "code": "5-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "5-11_棋胜后着/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/5-11_%E6%A3%8B%E8%83%9C%E5%90%8E%E7%9D%80/NBT"
+      },
+      "downloadable": true,
+      "id": "main_5--obt__main__level_st_05-01",
+      "path": "chapters/main_5--obt__main__level_st_05-01.json",
+      "sort": 17,
+      "title": "棋胜后着"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_necessary_solutions",
+    "primaryImageId": "kv_necessary_solutions",
+    "source": "stage-kv",
+    "titleImageId": "title_necessary_solutions",
+    "url": "https://media.prts.wiki/8/86/%E7%AB%A0%E8%8A%82%E5%90%8D%E7%A7%B0_%E7%AC%AC%E4%BA%94%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 1007,
+  "homeSection": "mainline",
+  "id": "main_5",
+  "music": {
+    "arcTitle": "Ⅰ 幻灭",
+    "movementTitle": "Ⅰ 幻灭",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "main-5",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": -1,
+  "summary": "碎骨的风波告一段落，但龙门依旧处在危险之中。\n陈带队前往废城时，近卫局在整合运动的攻势下失守。\n陈重新回到龙门，她要夺回近卫局的一切。",
+  "timelineRank": -1,
+  "title": "靶向药物"
+}

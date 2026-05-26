@@ -1,0 +1,21 @@
+{
+  "albumId": "main_4",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "4-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "4-4_不要恐慌/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/4-4_%E4%B8%8D%E8%A6%81%E6%81%90%E6%85%8C/END"
+  },
+  "id": "main_4--obt__main__level_main_04-04_end",
+  "navigation": {
+    "nextChapterId": "main_4--obt__main__level_main_04-05_beg",
+    "previousChapterId": "main_4--obt__main__level_main_04-04_beg"
+  },
+  "subtitle": "4-4",
+  "summary": "info/obt/main/level_main_04-04_end",
+  "title": "不要恐慌"
+}

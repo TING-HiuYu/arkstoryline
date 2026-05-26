@@ -1,0 +1,21 @@
+{
+  "albumId": "main_17",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "17-16",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "17-16_唯有向前/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/17-16_%E5%94%AF%E6%9C%89%E5%90%91%E5%89%8D/BEG"
+  },
+  "id": "main_17--obt__main__level_main_17-15_beg",
+  "navigation": {
+    "nextChapterId": "main_17--obt__main__level_main_17-16_end",
+    "previousChapterId": "main_17--obt__main__level_main_17-14_beg"
+  },
+  "subtitle": "17-16",
+  "summary": "info/obt/main/level_main_17-15_beg",
+  "title": "唯有向前"
+}

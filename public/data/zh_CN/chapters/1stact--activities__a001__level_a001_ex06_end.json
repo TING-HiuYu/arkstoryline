@@ -1,0 +1,21 @@
+{
+  "albumId": "1stact",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "GT-HX-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GT-HX-3_西部往事/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GT-HX-3_%E8%A5%BF%E9%83%A8%E5%BE%80%E4%BA%8B/END"
+  },
+  "id": "1stact--activities__a001__level_a001_ex06_end",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "1stact--activities__a001__level_a001_ex04_end"
+  },
+  "subtitle": "GT-HX-3",
+  "summary": "info/activities/a001/level_a001_ex06_end",
+  "title": "西部往事"
+}

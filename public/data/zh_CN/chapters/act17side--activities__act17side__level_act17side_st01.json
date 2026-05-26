@@ -1,0 +1,21 @@
+{
+  "albumId": "act17side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "SN-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SN-ST-1_古井/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-ST-1_%E5%8F%A4%E4%BA%95/NBT"
+  },
+  "id": "act17side--activities__act17side__level_act17side_st01",
+  "navigation": {
+    "nextChapterId": "act17side--activities__act17side__level_act17side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "SN-ST-1",
+  "summary": "info/activities/act17side/level_act17side_st01",
+  "title": "古井"
+}

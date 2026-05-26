@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "11-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-8_停滞/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-8_%E5%81%9C%E6%BB%9E/BEG"
+  },
+  "id": "main_11--obt__main__level_main_11-07_beg",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_main_11-07_end",
+    "previousChapterId": "main_11--obt__main__level_main_11-06_end"
+  },
+  "subtitle": "11-8",
+  "summary": "info/obt/main/level_main_11-07_beg",
+  "title": "停滞"
+}

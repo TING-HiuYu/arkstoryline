@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "EG-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EG-3_燃烧的片段3/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EG-3_%E7%87%83%E7%83%A7%E7%9A%84%E7%89%87%E6%AE%B53/NBT"
+  },
+  "id": "main_8--obt__main__level_spst_08-01",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_spst_08-02",
+    "previousChapterId": "main_8--obt__main__level_st_08-06"
+  },
+  "subtitle": "EG-3",
+  "summary": "info/obt/main/level_spst_08-01",
+  "title": "燃烧的片段3"
+}

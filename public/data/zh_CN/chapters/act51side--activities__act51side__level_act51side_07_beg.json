@@ -1,0 +1,21 @@
+{
+  "albumId": "act51side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "PA-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PA-7_死结两端/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PA-7_%E6%AD%BB%E7%BB%93%E4%B8%A4%E7%AB%AF/BEG"
+  },
+  "id": "act51side--activities__act51side__level_act51side_07_beg",
+  "navigation": {
+    "nextChapterId": "act51side--activities__act51side__level_act51side_07_end",
+    "previousChapterId": "act51side--activities__act51side__level_act51side_06_end"
+  },
+  "subtitle": "PA-7",
+  "summary": "info/activities/act51side/level_act51side_07_beg",
+  "title": "死结两端"
+}

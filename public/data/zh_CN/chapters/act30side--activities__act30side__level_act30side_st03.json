@@ -1,0 +1,21 @@
+{
+  "albumId": "act30side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "RS-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RS-ST-3_终点站/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RS-ST-3_%E7%BB%88%E7%82%B9%E7%AB%99/NBT"
+  },
+  "id": "act30side--activities__act30side__level_act30side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act30side--activities__act30side__level_act30side_08_end"
+  },
+  "subtitle": "RS-ST-3",
+  "summary": "info/activities/act30side/level_act30side_st03",
+  "title": "终点站"
+}

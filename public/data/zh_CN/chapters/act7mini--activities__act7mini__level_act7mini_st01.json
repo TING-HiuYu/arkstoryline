@@ -1,0 +1,19 @@
+{
+  "albumId": "act7mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PL-ST1_粉碎大地/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PL-ST1_%E7%B2%89%E7%A2%8E%E5%A4%A7%E5%9C%B0/NBT"
+  },
+  "id": "act7mini--activities__act7mini__level_act7mini_st01",
+  "navigation": {
+    "nextChapterId": "act7mini--activities__act7mini__level_act7mini_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act7mini/level_act7mini_st01",
+  "title": "粉碎大地"
+}

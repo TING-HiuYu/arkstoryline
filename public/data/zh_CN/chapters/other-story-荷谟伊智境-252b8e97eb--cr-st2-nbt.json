@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-荷谟伊智境-252b8e97eb",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CR-ST2/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CR-ST2/NBT"
+  },
+  "id": "other-story-荷谟伊智境-252b8e97eb--cr-st2-nbt",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "other-story-荷谟伊智境-252b8e97eb--cr-st1-nbt"
+  },
+  "subtitle": null,
+  "title": "结尾AVG"
+}

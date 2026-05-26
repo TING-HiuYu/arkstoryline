@@ -1,0 +1,345 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act31side",
+      "avgTag": "幕间",
+      "code": "HS-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-ST-1_禾下梦/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-ST-1_%E7%A6%BE%E4%B8%8B%E6%A2%A6/NBT"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_st01",
+      "path": "chapters/act31side--activities__act31side__level_act31side_st01.json",
+      "sort": 1,
+      "title": "禾下梦"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "行动前",
+      "code": "HS-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-1_赴大荒/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-1_%E8%B5%B4%E5%A4%A7%E8%8D%92/BEG"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_01_beg",
+      "path": "chapters/act31side--activities__act31side__level_act31side_01_beg.json",
+      "sort": 2,
+      "title": "赴大荒"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "行动后",
+      "code": "HS-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-1_赴大荒/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-1_%E8%B5%B4%E5%A4%A7%E8%8D%92/END"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_01_end",
+      "path": "chapters/act31side--activities__act31side__level_act31side_01_end.json",
+      "sort": 3,
+      "title": "赴大荒"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "行动前",
+      "code": "HS-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-2_祭神农/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-2_%E7%A5%AD%E7%A5%9E%E5%86%9C/BEG"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_02_beg",
+      "path": "chapters/act31side--activities__act31side__level_act31side_02_beg.json",
+      "sort": 4,
+      "title": "祭神农"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "行动后",
+      "code": "HS-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-2_祭神农/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-2_%E7%A5%AD%E7%A5%9E%E5%86%9C/END"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_02_end",
+      "path": "chapters/act31side--activities__act31side__level_act31side_02_end.json",
+      "sort": 5,
+      "title": "祭神农"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "行动前",
+      "code": "HS-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-3_早芒种/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-3_%E6%97%A9%E8%8A%92%E7%A7%8D/BEG"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_03_beg",
+      "path": "chapters/act31side--activities__act31side__level_act31side_03_beg.json",
+      "sort": 6,
+      "title": "早芒种"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "行动后",
+      "code": "HS-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-3_早芒种/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-3_%E6%97%A9%E8%8A%92%E7%A7%8D/END"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_03_end",
+      "path": "chapters/act31side--activities__act31side__level_act31side_03_end.json",
+      "sort": 7,
+      "title": "早芒种"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "行动前",
+      "code": "HS-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-4_话桑麻/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-4_%E8%AF%9D%E6%A1%91%E9%BA%BB/BEG"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_04_beg",
+      "path": "chapters/act31side--activities__act31side__level_act31side_04_beg.json",
+      "sort": 8,
+      "title": "话桑麻"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "行动后",
+      "code": "HS-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-4_话桑麻/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-4_%E8%AF%9D%E6%A1%91%E9%BA%BB/END"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_04_end",
+      "path": "chapters/act31side--activities__act31side__level_act31side_04_end.json",
+      "sort": 9,
+      "title": "话桑麻"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "行动前",
+      "code": "HS-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-5_纺绫罗/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-5_%E7%BA%BA%E7%BB%AB%E7%BD%97/BEG"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_05_beg",
+      "path": "chapters/act31side--activities__act31side__level_act31side_05_beg.json",
+      "sort": 10,
+      "title": "纺绫罗"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "行动后",
+      "code": "HS-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-5_纺绫罗/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-5_%E7%BA%BA%E7%BB%AB%E7%BD%97/END"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_05_end",
+      "path": "chapters/act31side--activities__act31side__level_act31side_05_end.json",
+      "sort": 11,
+      "title": "纺绫罗"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "幕间",
+      "code": "HS-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-ST-2_织锦缎/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-ST-2_%E7%BB%87%E9%94%A6%E7%BC%8E/NBT"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_st02",
+      "path": "chapters/act31side--activities__act31side__level_act31side_st02.json",
+      "sort": 12,
+      "title": "织锦缎"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "行动前",
+      "code": "HS-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-6_卷赤霞/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-6_%E5%8D%B7%E8%B5%A4%E9%9C%9E/BEG"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_06_beg",
+      "path": "chapters/act31side--activities__act31side__level_act31side_06_beg.json",
+      "sort": 13,
+      "title": "卷赤霞"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "行动后",
+      "code": "HS-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-7_梦四时/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-7_%E6%A2%A6%E5%9B%9B%E6%97%B6/END"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_07_end",
+      "path": "chapters/act31side--activities__act31side__level_act31side_07_end.json",
+      "sort": 14,
+      "title": "梦四时"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "行动前",
+      "code": "HS-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-8_种因/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-8_%E7%A7%8D%E5%9B%A0/BEG"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_08_beg",
+      "path": "chapters/act31side--activities__act31side__level_act31side_08_beg.json",
+      "sort": 15,
+      "title": "种因"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "行动后",
+      "code": "HS-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-8_种因/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-8_%E7%A7%8D%E5%9B%A0/END"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_08_end",
+      "path": "chapters/act31side--activities__act31side__level_act31side_08_end.json",
+      "sort": 16,
+      "title": "种因"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "行动前",
+      "code": "HS-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-9_得果/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-9_%E5%BE%97%E6%9E%9C/BEG"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_09_beg",
+      "path": "chapters/act31side--activities__act31side__level_act31side_09_beg.json",
+      "sort": 17,
+      "title": "得果"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "行动后",
+      "code": "HS-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-9_得果/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-9_%E5%BE%97%E6%9E%9C/END"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_09_end",
+      "path": "chapters/act31side--activities__act31side__level_act31side_09_end.json",
+      "sort": 18,
+      "title": "得果"
+    },
+    {
+      "albumId": "act31side",
+      "avgTag": "幕间",
+      "code": "HS-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "HS-ST-3_彻风雨/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/HS-ST-3_%E5%BD%BB%E9%A3%8E%E9%9B%A8/NBT"
+      },
+      "downloadable": true,
+      "id": "act31side--activities__act31side__level_act31side_st03",
+      "path": "chapters/act31side--activities__act31side__level_act31side_st03.json",
+      "sort": 19,
+      "title": "彻风雨"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_here_a_people_sows",
+    "primaryImageId": "kv_here_a_people_sows",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act31side",
+    "titleImageId": "title_here_a_people_sows",
+    "url": "https://media.prts.wiki/2/2b/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%80%80%E9%BB%8D%E7%A6%BB.png"
+  },
+  "extras": [],
+  "gameOrderRank": 5009,
+  "homeSection": "sideStory",
+  "id": "act31side",
+  "music": {
+    "arcTitle": "岁岁今朝",
+    "movementTitle": "岁岁今朝",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_14",
+      "tag_13",
+      "tag_11"
+    ]
+  },
+  "slug": "act31side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1706760000,
+  "summary": "指尖拂过稻穗，闭眼深吸，这稻谷之香，千年未变。\n睁眼，田间与她并肩挥洒汗水之人亦恍如当年。\n日来月往，她的神识早已扎根于这片土地。\n大地染疾，邪祟滋蔓，她仍力守这一地金黄。\n直至一缕丝线，飞入十二楼五城，欲还她自由。\n春风化雨，万物重生。归来是陌客，亦成自由身。\n她所求依旧不过是时和岁稔，五谷丰登。",
+  "timelineRank": 1706760000,
+  "title": "怀黍离"
+}

@@ -1,0 +1,246 @@
+{
+  "albumKind": "mainline",
+  "chapters": [
+    {
+      "albumId": "main_0",
+      "avgTag": "幕间",
+      "downloadable": true,
+      "id": "main_0--obt__guide__beg__0_welcome_to_guide",
+      "path": "chapters/main_0--obt__guide__beg__0_welcome_to_guide.json",
+      "sort": 1,
+      "title": "序章·上"
+    },
+    {
+      "albumId": "main_0",
+      "avgTag": "幕间",
+      "downloadable": true,
+      "id": "main_0--obt__guide__beg__2_guide_to_home",
+      "path": "chapters/main_0--obt__guide__beg__2_guide_to_home.json",
+      "sort": 2,
+      "title": "序章·下"
+    },
+    {
+      "albumId": "main_0",
+      "avgTag": "行动前",
+      "code": "0-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "0-1_坍塌/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/0-1_%E5%9D%8D%E5%A1%8C/BEG"
+      },
+      "downloadable": true,
+      "id": "main_0--obt__main__level_main_00-01_beg",
+      "path": "chapters/main_0--obt__main__level_main_00-01_beg.json",
+      "sort": 3,
+      "title": "坍塌"
+    },
+    {
+      "albumId": "main_0",
+      "avgTag": "行动后",
+      "code": "0-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "0-1_坍塌/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/0-1_%E5%9D%8D%E5%A1%8C/END"
+      },
+      "downloadable": true,
+      "id": "main_0--obt__main__level_main_00-01_end",
+      "path": "chapters/main_0--obt__main__level_main_00-01_end.json",
+      "sort": 4,
+      "title": "坍塌"
+    },
+    {
+      "albumId": "main_0",
+      "avgTag": "行动前",
+      "code": "0-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "0-2_守卫/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/0-2_%E5%AE%88%E5%8D%AB/BEG"
+      },
+      "downloadable": true,
+      "id": "main_0--obt__main__level_main_00-02_beg",
+      "path": "chapters/main_0--obt__main__level_main_00-02_beg.json",
+      "sort": 5,
+      "title": "守卫"
+    },
+    {
+      "albumId": "main_0",
+      "avgTag": "行动后",
+      "code": "0-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "0-2_守卫/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/0-2_%E5%AE%88%E5%8D%AB/END"
+      },
+      "downloadable": true,
+      "id": "main_0--obt__main__level_main_00-02_end",
+      "path": "chapters/main_0--obt__main__level_main_00-02_end.json",
+      "sort": 6,
+      "title": "守卫"
+    },
+    {
+      "albumId": "main_0",
+      "avgTag": "行动前",
+      "code": "0-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "0-4_混战/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/0-4_%E6%B7%B7%E6%88%98/BEG"
+      },
+      "downloadable": true,
+      "id": "main_0--obt__main__level_main_00-04_beg",
+      "path": "chapters/main_0--obt__main__level_main_00-04_beg.json",
+      "sort": 7,
+      "title": "混战"
+    },
+    {
+      "albumId": "main_0",
+      "avgTag": "行动后",
+      "code": "0-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "0-6_强击/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/0-6_%E5%BC%BA%E5%87%BB/END"
+      },
+      "downloadable": true,
+      "id": "main_0--obt__main__level_main_00-06_end",
+      "path": "chapters/main_0--obt__main__level_main_00-06_end.json",
+      "sort": 8,
+      "title": "强击"
+    },
+    {
+      "albumId": "main_0",
+      "avgTag": "行动前",
+      "code": "0-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "0-7_感染/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/0-7_%E6%84%9F%E6%9F%93/BEG"
+      },
+      "downloadable": true,
+      "id": "main_0--obt__main__level_main_00-07_beg",
+      "path": "chapters/main_0--obt__main__level_main_00-07_beg.json",
+      "sort": 9,
+      "title": "感染"
+    },
+    {
+      "albumId": "main_0",
+      "avgTag": "行动后",
+      "code": "0-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "0-7_感染/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/0-7_%E6%84%9F%E6%9F%93/END"
+      },
+      "downloadable": true,
+      "id": "main_0--obt__main__level_main_00-07_end",
+      "path": "chapters/main_0--obt__main__level_main_00-07_end.json",
+      "sort": 10,
+      "title": "感染"
+    },
+    {
+      "albumId": "main_0",
+      "avgTag": "行动前",
+      "code": "0-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "0-8_狩猎/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/0-8_%E7%8B%A9%E7%8C%8E/BEG"
+      },
+      "downloadable": true,
+      "id": "main_0--obt__main__level_main_00-08_beg",
+      "path": "chapters/main_0--obt__main__level_main_00-08_beg.json",
+      "sort": 11,
+      "title": "狩猎"
+    },
+    {
+      "albumId": "main_0",
+      "avgTag": "行动后",
+      "code": "0-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "0-9_临光/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/0-9_%E4%B8%B4%E5%85%89/END"
+      },
+      "downloadable": true,
+      "id": "main_0--obt__main__level_main_00-09_end",
+      "path": "chapters/main_0--obt__main__level_main_00-09_end.json",
+      "sort": 12,
+      "title": "临光"
+    },
+    {
+      "albumId": "main_0",
+      "avgTag": "行动前",
+      "code": "0-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "0-10_困境/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/0-10_%E5%9B%B0%E5%A2%83/BEG"
+      },
+      "downloadable": true,
+      "id": "main_0--obt__main__level_main_00-10_beg",
+      "path": "chapters/main_0--obt__main__level_main_00-10_beg.json",
+      "sort": 13,
+      "title": "困境"
+    },
+    {
+      "albumId": "main_0",
+      "avgTag": "行动后",
+      "code": "0-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "0-11_突围/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/0-11_%E7%AA%81%E5%9B%B4/END"
+      },
+      "downloadable": true,
+      "id": "main_0--obt__main__level_main_00-11_end",
+      "path": "chapters/main_0--obt__main__level_main_00-11_end.json",
+      "sort": 14,
+      "title": "突围"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_evil_time_part1",
+    "primaryImageId": "kv_evil_time_part1",
+    "source": "stage-kv",
+    "titleImageId": "title_evil_time_part1",
+    "url": "https://media.prts.wiki/c/c0/%E7%AB%A0%E8%8A%82%E5%90%8D%E7%A7%B0_%E5%BA%8F%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 1001,
+  "homeSection": "mainline",
+  "id": "main_0",
+  "music": {
+    "arcTitle": "init. 觉醒",
+    "movementTitle": "init. 觉醒",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "main-0",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": -1,
+  "summary": "石棺开启，机器嗡鸣，你缓缓睁开双眼——\n她再次握紧了你的手，你却几乎忘记了一切。\n天灾在切城上空盘踞，烈火在街区四处蔓延。\n恐惧与愤怒组成了名为“整合运动”的风暴。\n希望和理解筑起了名为“罗德岛”的信念。\n而失忆的你，将带领这份信念，穿越风暴中心。",
+  "timelineRank": -1,
+  "title": "黑暗时代·上"
+}

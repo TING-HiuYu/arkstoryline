@@ -1,0 +1,450 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act3d0",
+      "avgTag": "幕间",
+      "code": "ENTRY",
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__ui_act3d0_campselect",
+      "path": "chapters/act3d0--activities__act3d0__ui_act3d0_campselect.json",
+      "sort": 1,
+      "title": "演出开始"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "幕间",
+      "code": "OF-ST1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-ST1_摇滚起来/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-ST1_%E6%91%87%E6%BB%9A%E8%B5%B7%E6%9D%A5/NBT"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_st01",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_st01.json",
+      "sort": 2,
+      "title": "摇滚起来"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动前",
+      "code": "OF-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-1_火山制造/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-1_%E7%81%AB%E5%B1%B1%E5%88%B6%E9%80%A0/BEG"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_01_beg",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_01_beg.json",
+      "sort": 3,
+      "title": "火山制造"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动后",
+      "code": "OF-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-1_火山制造/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-1_%E7%81%AB%E5%B1%B1%E5%88%B6%E9%80%A0/END"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_01_end",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_01_end.json",
+      "sort": 4,
+      "title": "火山制造"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "幕间",
+      "code": "OF-ST2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-ST2_冲破藩篱/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-ST2_%E5%86%B2%E7%A0%B4%E8%97%A9%E7%AF%B1/NBT"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_st02",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_st02.json",
+      "sort": 5,
+      "title": "冲破藩篱"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动前",
+      "code": "OF-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-2_演出继续/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-2_%E6%BC%94%E5%87%BA%E7%BB%A7%E7%BB%AD/BEG"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_02_beg",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_02_beg.json",
+      "sort": 6,
+      "title": "演出继续"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动后",
+      "code": "OF-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-2_演出继续/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-2_%E6%BC%94%E5%87%BA%E7%BB%A7%E7%BB%AD/END"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_02_end",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_02_end.json",
+      "sort": 7,
+      "title": "演出继续"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动前",
+      "code": "OF-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-3_竞走赛/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-3_%E7%AB%9E%E8%B5%B0%E8%B5%9B/BEG"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_03_beg",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_03_beg.json",
+      "sort": 8,
+      "title": "竞走赛"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动后",
+      "code": "OF-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-3_竞走赛/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-3_%E7%AB%9E%E8%B5%B0%E8%B5%9B/END"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_03_end",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_03_end.json",
+      "sort": 9,
+      "title": "竞走赛"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动前",
+      "code": "OF-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-4_他是将军/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-4_%E4%BB%96%E6%98%AF%E5%B0%86%E5%86%9B/BEG"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_04_beg",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_04_beg.json",
+      "sort": 10,
+      "title": "他是将军"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动后",
+      "code": "OF-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-4_他是将军/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-4_%E4%BB%96%E6%98%AF%E5%B0%86%E5%86%9B/END"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_04_end",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_04_end.json",
+      "sort": 11,
+      "title": "他是将军"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "幕间",
+      "code": "OF-ST3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-ST3_压力之下/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-ST3_%E5%8E%8B%E5%8A%9B%E4%B9%8B%E4%B8%8B/NBT"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_st03",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_st03.json",
+      "sort": 12,
+      "title": "压力之下"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动前",
+      "code": "OF-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-5_别阻止我/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-5_%E5%88%AB%E9%98%BB%E6%AD%A2%E6%88%91/BEG"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_05_beg",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_05_beg.json",
+      "sort": 13,
+      "title": "别阻止我"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动后",
+      "code": "OF-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-5_别阻止我/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-5_%E5%88%AB%E9%98%BB%E6%AD%A2%E6%88%91/END"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_05_end",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_05_end.json",
+      "sort": 14,
+      "title": "别阻止我"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动前",
+      "code": "OF-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-6_杀手女皇/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-6_%E6%9D%80%E6%89%8B%E5%A5%B3%E7%9A%87/BEG"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_06_beg",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_06_beg.json",
+      "sort": 15,
+      "title": "杀手女皇"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动后",
+      "code": "OF-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-6_杀手女皇/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-6_%E6%9D%80%E6%89%8B%E5%A5%B3%E7%9A%87/END"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_06_end",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_06_end.json",
+      "sort": 16,
+      "title": "杀手女皇"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "幕间",
+      "code": "OF-ST4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-ST4_爱某个人/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-ST4_%E7%88%B1%E6%9F%90%E4%B8%AA%E4%BA%BA/NBT"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_st04",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_st04.json",
+      "sort": 17,
+      "title": "爱某个人"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动前",
+      "code": "OF-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-7_一锤定音/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-7_%E4%B8%80%E9%94%A4%E5%AE%9A%E9%9F%B3/BEG"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_07_beg",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_07_beg.json",
+      "sort": 18,
+      "title": "一锤定音"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动后",
+      "code": "OF-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-7_一锤定音/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-7_%E4%B8%80%E9%94%A4%E5%AE%9A%E9%9F%B3/END"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_07_end",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_07_end.json",
+      "sort": 19,
+      "title": "一锤定音"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动前",
+      "code": "OF-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-8_汐斯塔狂想曲/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-8_%E6%B1%90%E6%96%AF%E5%A1%94%E7%8B%82%E6%83%B3%E6%9B%B2/BEG"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_08_beg",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_08_beg.json",
+      "sort": 20,
+      "title": "汐斯塔狂想曲"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动后",
+      "code": "OF-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-8_汐斯塔狂想曲/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-8_%E6%B1%90%E6%96%AF%E5%A1%94%E7%8B%82%E6%83%B3%E6%9B%B2/END"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_08_end",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_08_end.json",
+      "sort": 21,
+      "title": "汐斯塔狂想曲"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "幕间",
+      "code": "OF-ST5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-ST5_此生挚爱/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-ST5_%E6%AD%A4%E7%94%9F%E6%8C%9A%E7%88%B1/NBT"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_st05",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_st05.json",
+      "sort": 22,
+      "title": "此生挚爱"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "幕间",
+      "code": "OF-ST6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-ST6_邂逅潮声/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-ST6_%E9%82%82%E9%80%85%E6%BD%AE%E5%A3%B0/NBT"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act11d7__level_act11d7_st01",
+      "path": "chapters/act3d0--activities__act11d7__level_act11d7_st01.json",
+      "sort": 23,
+      "title": "邂逅潮声"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动后",
+      "code": "OF-EX1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-EX1_预热活动/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-EX1_%E9%A2%84%E7%83%AD%E6%B4%BB%E5%8A%A8/END"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_ex01_end",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_ex01_end.json",
+      "sort": 24,
+      "title": "预热活动"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动后",
+      "code": "OF-EX3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-EX3_采访环节/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-EX3_%E9%87%87%E8%AE%BF%E7%8E%AF%E8%8A%82/END"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_ex03_end",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_ex03_end.json",
+      "sort": 25,
+      "title": "采访环节"
+    },
+    {
+      "albumId": "act3d0",
+      "avgTag": "行动后",
+      "code": "OF-EX6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "OF-EX6_完美落幕/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OF-EX6_%E5%AE%8C%E7%BE%8E%E8%90%BD%E5%B9%95/END"
+      },
+      "downloadable": true,
+      "id": "act3d0--activities__act3d0__level_act3d0_ex06_end",
+      "path": "chapters/act3d0--activities__act3d0__level_act3d0_ex06_end.json",
+      "sort": 26,
+      "title": "完美落幕"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_heart_of_surging_flame",
+    "primaryImageId": "kv_heart_of_surging_flame",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act3d0",
+    "titleImageId": "title_heart_of_surging_flame",
+    "url": "https://media.prts.wiki/6/6f/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%81%AB%E8%93%9D%E4%B9%8B%E5%BF%83.png"
+  },
+  "extras": [],
+  "gameOrderRank": 1008,
+  "homeSection": "sideStory",
+  "id": "act3d0",
+  "music": {
+    "arcTitle": "夏日律动",
+    "movementTitle": "夏日律动",
+    "recommended": true,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_01",
+      "tag_12"
+    ]
+  },
+  "slug": "act3d0",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1566892800,
+  "summary": "黑曜石音乐节正在汐斯塔市隆重举办！\n罗德岛的干员们也来到此地休假放松。\n偶然间，罗德岛干员们了解到临近的火山将要喷发！\n而城市的管理者似乎想要掩盖这一隐患？\n在炎热、音乐以及战斗中，\n罗德岛将与当地市长的女儿锡兰一起，\n共同解决这一难题。",
+  "timelineRank": 1566892800,
+  "title": "火蓝之心"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act28side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CV-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CV-6_猎人之夜/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CV-6_%E7%8C%8E%E4%BA%BA%E4%B9%8B%E5%A4%9C/BEG"
+  },
+  "id": "act28side--activities__act28side__level_act28side_06_beg",
+  "navigation": {
+    "nextChapterId": "act28side--activities__act28side__level_act28side_06_end",
+    "previousChapterId": "act28side--activities__act28side__level_act28side_05_end"
+  },
+  "subtitle": "CV-6",
+  "summary": "info/activities/act28side/level_act28side_06_beg",
+  "title": "猎人之夜"
+}

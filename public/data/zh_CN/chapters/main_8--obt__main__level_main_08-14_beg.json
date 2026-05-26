@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "M8-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "M8-8_苏醒，浮出梦乡/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/M8-8_%E8%8B%8F%E9%86%92%EF%BC%8C%E6%B5%AE%E5%87%BA%E6%A2%A6%E4%B9%A1/BEG"
+  },
+  "id": "main_8--obt__main__level_main_08-14_beg",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_main_08-14_end",
+    "previousChapterId": "main_8--obt__main__level_main_08-13_end"
+  },
+  "subtitle": "M8-8",
+  "summary": "info/obt/main/level_main_08-14_beg",
+  "title": "苏醒，浮出梦乡"
+}

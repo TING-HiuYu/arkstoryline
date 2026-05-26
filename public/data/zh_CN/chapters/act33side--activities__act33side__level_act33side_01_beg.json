@@ -1,0 +1,21 @@
+{
+  "albumId": "act33side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "BB-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BB-1_宏伟愿景/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BB-1_%E5%AE%8F%E4%BC%9F%E6%84%BF%E6%99%AF/BEG"
+  },
+  "id": "act33side--activities__act33side__level_act33side_01_beg",
+  "navigation": {
+    "nextChapterId": "act33side--activities__act33side__level_act33side_01_end",
+    "previousChapterId": "act33side--activities__act33side__level_act33side_st01"
+  },
+  "subtitle": "BB-1",
+  "summary": "info/activities/act33side/level_act33side_01_beg",
+  "title": "宏伟愿景"
+}

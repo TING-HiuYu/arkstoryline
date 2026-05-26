@@ -1,0 +1,21 @@
+{
+  "albumId": "main_4",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "4-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "4-6_少见多怪/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/4-6_%E5%B0%91%E8%A7%81%E5%A4%9A%E6%80%AA/END"
+  },
+  "id": "main_4--obt__main__level_main_04-06_end",
+  "navigation": {
+    "nextChapterId": "main_4--obt__main__level_main_04-07_beg",
+    "previousChapterId": "main_4--obt__main__level_main_04-06_beg"
+  },
+  "subtitle": "4-6",
+  "summary": "info/obt/main/level_main_04-06_end",
+  "title": "少见多怪"
+}

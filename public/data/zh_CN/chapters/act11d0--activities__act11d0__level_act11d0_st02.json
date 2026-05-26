@@ -1,0 +1,21 @@
+{
+  "albumId": "act11d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "TW-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TW-ST-2_余烬之上/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TW-ST-2_%E4%BD%99%E7%83%AC%E4%B9%8B%E4%B8%8A/NBT"
+  },
+  "id": "act11d0--activities__act11d0__level_act11d0_st02",
+  "navigation": {
+    "nextChapterId": "act11d0--activities__act11d0__level_act11d0_sub-1-1_end",
+    "previousChapterId": "act11d0--activities__act11d0__level_act11d0_08_end"
+  },
+  "subtitle": "TW-ST-2",
+  "summary": "info/activities/act11d0/level_act11d0_st02",
+  "title": "余烬之上"
+}

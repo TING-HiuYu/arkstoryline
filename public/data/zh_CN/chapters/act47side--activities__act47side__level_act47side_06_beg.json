@@ -1,0 +1,21 @@
+{
+  "albumId": "act47side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "UR-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "UR-6_交叉航线/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/UR-6_%E4%BA%A4%E5%8F%89%E8%88%AA%E7%BA%BF/BEG"
+  },
+  "id": "act47side--activities__act47side__level_act47side_06_beg",
+  "navigation": {
+    "nextChapterId": "act47side--activities__act47side__level_act47side_06_end",
+    "previousChapterId": "act47side--activities__act47side__level_act47side_05_end"
+  },
+  "subtitle": "UR-6",
+  "summary": "info/activities/act47side/level_act47side_06_beg",
+  "title": "交叉航线"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_15",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "15-21",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "15-21_大地与一隅的归宿/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-21_%E5%A4%A7%E5%9C%B0%E4%B8%8E%E4%B8%80%E9%9A%85%E7%9A%84%E5%BD%92%E5%AE%BF/NBT"
+  },
+  "id": "main_15--obt__main__level_st_15-03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "main_15--obt__main__level_main_15-18_end"
+  },
+  "subtitle": "15-21",
+  "summary": "info/obt/main/level_st_15-03",
+  "title": "大地与一隅的归宿"
+}

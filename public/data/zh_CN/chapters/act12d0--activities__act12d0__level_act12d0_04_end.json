@@ -1,0 +1,21 @@
+{
+  "albumId": "act12d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RI-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RI-4_机兽咆哮/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RI-4_%E6%9C%BA%E5%85%BD%E5%92%86%E5%93%AE/END"
+  },
+  "id": "act12d0--activities__act12d0__level_act12d0_04_end",
+  "navigation": {
+    "nextChapterId": "act12d0--activities__act12d0__level_act12d0_st01",
+    "previousChapterId": "act12d0--activities__act12d0__level_act12d0_04_beg"
+  },
+  "subtitle": "RI-4",
+  "summary": "info/activities/act12d0/level_act12d0_04_end",
+  "title": "机兽咆哮"
+}

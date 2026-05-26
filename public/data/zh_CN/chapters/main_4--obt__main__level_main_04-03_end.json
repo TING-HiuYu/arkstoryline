@@ -1,0 +1,21 @@
+{
+  "albumId": "main_4",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "4-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "4-3_人工制冷/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/4-3_%E4%BA%BA%E5%B7%A5%E5%88%B6%E5%86%B7/END"
+  },
+  "id": "main_4--obt__main__level_main_04-03_end",
+  "navigation": {
+    "nextChapterId": "main_4--obt__main__level_main_04-04_beg",
+    "previousChapterId": "main_4--obt__main__level_main_04-03_beg"
+  },
+  "subtitle": "4-3",
+  "summary": "info/obt/main/level_main_04-03_end",
+  "title": "人工制冷"
+}

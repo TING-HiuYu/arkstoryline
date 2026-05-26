@@ -1,0 +1,21 @@
+{
+  "albumId": "act23side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "WB-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WB-ST-1_忽梦少年事/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WB-ST-1_%E5%BF%BD%E6%A2%A6%E5%B0%91%E5%B9%B4%E4%BA%8B/NBT"
+  },
+  "id": "act23side--activities__act23side__level_act23side_st01",
+  "navigation": {
+    "nextChapterId": "act23side--activities__act23side__level_act23side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "WB-ST-1",
+  "summary": "info/activities/act23side/level_act23side_st01",
+  "title": "忽梦少年事"
+}

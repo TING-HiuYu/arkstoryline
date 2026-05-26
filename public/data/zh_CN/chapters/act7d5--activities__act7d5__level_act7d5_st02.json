@@ -1,0 +1,19 @@
+{
+  "albumId": "act7d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SA-ST2_日记本/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SA-ST2_%E6%97%A5%E8%AE%B0%E6%9C%AC/NBT"
+  },
+  "id": "act7d5--activities__act7d5__level_act7d5_st02",
+  "navigation": {
+    "nextChapterId": "act7d5--activities__act7d5__level_act7d5_st03",
+    "previousChapterId": "act7d5--activities__act7d5__level_act7d5_st01"
+  },
+  "summary": "info/activities/act7d5/level_act7d5_st02",
+  "title": "日记本"
+}

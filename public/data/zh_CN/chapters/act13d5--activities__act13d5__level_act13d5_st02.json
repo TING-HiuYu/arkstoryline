@@ -1,0 +1,21 @@
+{
+  "albumId": "act13d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "MN-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MN-ST-2_酒杯/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MN-ST-2_%E9%85%92%E6%9D%AF/NBT"
+  },
+  "id": "act13d5--activities__act13d5__level_act13d5_st02",
+  "navigation": {
+    "nextChapterId": "act13d5--activities__act13d5__level_act13d5_08_beg",
+    "previousChapterId": "act13d5--activities__act13d5__level_act13d5_07_end"
+  },
+  "subtitle": "MN-ST-2",
+  "summary": "info/activities/act13d5/level_act13d5_st02",
+  "title": "酒杯"
+}

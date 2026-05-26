@@ -1,0 +1,21 @@
+{
+  "albumId": "act20side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IC-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IC-3_奇谈怪论/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IC-3_%E5%A5%87%E8%B0%88%E6%80%AA%E8%AE%BA/END"
+  },
+  "id": "act20side--activities__act20side__level_act20side_03_end",
+  "navigation": {
+    "nextChapterId": "act20side--activities__act20side__level_act20side_04_beg",
+    "previousChapterId": "act20side--activities__act20side__level_act20side_03_beg"
+  },
+  "subtitle": "IC-3",
+  "summary": "info/activities/act20side/level_act20side_03_end",
+  "title": "奇谈怪论"
+}

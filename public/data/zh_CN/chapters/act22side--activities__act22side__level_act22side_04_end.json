@@ -1,0 +1,21 @@
+{
+  "albumId": "act22side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "FC-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FC-4_热灼梦/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FC-4_%E7%83%AD%E7%81%BC%E6%A2%A6/END"
+  },
+  "id": "act22side--activities__act22side__level_act22side_04_end",
+  "navigation": {
+    "nextChapterId": "act22side--activities__act22side__level_act22side_05_beg",
+    "previousChapterId": "act22side--activities__act22side__level_act22side_04_beg"
+  },
+  "subtitle": "FC-4",
+  "summary": "info/activities/act22side/level_act22side_04_end",
+  "title": "热灼梦"
+}

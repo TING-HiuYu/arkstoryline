@@ -1,0 +1,21 @@
+{
+  "albumId": "act29side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "ZT-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ZT-1_清唱“晴空之歌”/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ZT-1_%E6%B8%85%E5%94%B1%E2%80%9C%E6%99%B4%E7%A9%BA%E4%B9%8B%E6%AD%8C%E2%80%9D/END"
+  },
+  "id": "act29side--activities__act29side__level_act29side_01_end",
+  "navigation": {
+    "nextChapterId": "act29side--activities__act29side__level_act29side_02_beg",
+    "previousChapterId": "act29side--activities__act29side__level_act29side_01_beg"
+  },
+  "subtitle": "ZT-1",
+  "summary": "info/activities/act29side/level_act29side_01_end",
+  "title": "清唱“晴空之歌”"
+}

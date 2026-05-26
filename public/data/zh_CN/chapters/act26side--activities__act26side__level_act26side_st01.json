@@ -1,0 +1,21 @@
+{
+  "albumId": "act26side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "HE-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HE-ST-1_奉上冠冕/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HE-ST-1_%E5%A5%89%E4%B8%8A%E5%86%A0%E5%86%95/NBT"
+  },
+  "id": "act26side--activities__act26side__level_act26side_st01",
+  "navigation": {
+    "nextChapterId": "act26side--activities__act26side__level_act26side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "HE-ST-1",
+  "summary": "info/activities/act26side/level_act26side_st01",
+  "title": "奉上冠冕"
+}

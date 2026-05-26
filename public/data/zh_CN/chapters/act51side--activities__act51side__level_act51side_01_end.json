@@ -1,0 +1,21 @@
+{
+  "albumId": "act51side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "PA-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PA-1_“卡托加区欢迎你”/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PA-1_%E2%80%9C%E5%8D%A1%E6%89%98%E5%8A%A0%E5%8C%BA%E6%AC%A2%E8%BF%8E%E4%BD%A0%E2%80%9D/END"
+  },
+  "id": "act51side--activities__act51side__level_act51side_01_end",
+  "navigation": {
+    "nextChapterId": "act51side--activities__act51side__level_act51side_02_beg",
+    "previousChapterId": "act51side--activities__act51side__level_act51side_01_beg"
+  },
+  "subtitle": "PA-1",
+  "summary": "info/activities/act51side/level_act51side_01_end",
+  "title": "“卡托加区欢迎你”"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act12side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "DH-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DH-ST-2_中场休息/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DH-ST-2_%E4%B8%AD%E5%9C%BA%E4%BC%91%E6%81%AF/NBT"
+  },
+  "id": "act12side--activities__act12side__level_act12side_st02",
+  "navigation": {
+    "nextChapterId": "act12side--activities__act12side__level_act12side_04_beg",
+    "previousChapterId": "act12side--activities__act12side__level_act12side_03_end"
+  },
+  "subtitle": "DH-ST-2",
+  "summary": "info/activities/act12side/level_act12side_st02",
+  "title": "中场休息"
+}

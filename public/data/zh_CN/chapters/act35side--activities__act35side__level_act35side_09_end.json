@@ -1,0 +1,21 @@
+{
+  "albumId": "act35side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "AS-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AS-9_向过去告别/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AS-9_%E5%90%91%E8%BF%87%E5%8E%BB%E5%91%8A%E5%88%AB/END"
+  },
+  "id": "act35side--activities__act35side__level_act35side_09_end",
+  "navigation": {
+    "nextChapterId": "act35side--activities__act35side__level_act35side_st03",
+    "previousChapterId": "act35side--activities__act35side__level_act35side_09_beg"
+  },
+  "subtitle": "AS-9",
+  "summary": "info/activities/act35side/level_act35side_09_end",
+  "title": "向过去告别"
+}

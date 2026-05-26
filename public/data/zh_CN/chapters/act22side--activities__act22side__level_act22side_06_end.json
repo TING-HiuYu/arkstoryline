@@ -1,0 +1,21 @@
+{
+  "albumId": "act22side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "FC-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FC-6_无人知晓/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FC-6_%E6%97%A0%E4%BA%BA%E7%9F%A5%E6%99%93/END"
+  },
+  "id": "act22side--activities__act22side__level_act22side_06_end",
+  "navigation": {
+    "nextChapterId": "act22side--activities__act22side__level_act22side_07_beg",
+    "previousChapterId": "act22side--activities__act22side__level_act22side_05_end"
+  },
+  "subtitle": "FC-6",
+  "summary": "info/activities/act22side/level_act22side_06_end",
+  "title": "无人知晓"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "story_ghost_set_2",
+  "slug": "story-ghost-set-2",
+  "title": "我，即是“我”",
+  "sourceEntryType": "UNKNOWN",
+  "albumKind": "operatorRecord",
+  "homeSection": "operatorRecord",
+  "timelineRank": 0,
+  "cover": {
+    "url": "https://media.prts.wiki/d/d8/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%88%91%EF%BC%8C%E5%8D%B3%E6%98%AF%E2%80%9C%E6%88%91%E2%80%9D.png",
+    "source": "none",
+    "assetStatus": "missing",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 0,
+  "chapters": [
+    {
+      "id": "story_ghost_set_2--obt__memory__story_ghost_2_1",
+      "albumId": "story_ghost_set_2",
+      "title": "我，即是“我”",
+      "avgTag": "幕间",
+      "sort": 0,
+      "path": "chapters/story_ghost_set_2--obt__memory__story_ghost_2_1.json",
+      "downloadable": true
+    }
+  ],
+  "source": {
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
+  },
+  "extras": []
+}

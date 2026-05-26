@@ -1,0 +1,21 @@
+{
+  "albumId": "act33side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "BB-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BB-3_无声破裂/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BB-3_%E6%97%A0%E5%A3%B0%E7%A0%B4%E8%A3%82/END"
+  },
+  "id": "act33side--activities__act33side__level_act33side_03_end",
+  "navigation": {
+    "nextChapterId": "act33side--activities__act33side__level_act33side_st02",
+    "previousChapterId": "act33side--activities__act33side__level_act33side_03_beg"
+  },
+  "subtitle": "BB-3",
+  "summary": "info/activities/act33side/level_act33side_03_end",
+  "title": "无声破裂"
+}

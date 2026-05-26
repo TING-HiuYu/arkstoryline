@@ -1,0 +1,21 @@
+{
+  "albumId": "act48side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "ME-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ME-6_旧日诗篇/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ME-6_%E6%97%A7%E6%97%A5%E8%AF%97%E7%AF%87/END"
+  },
+  "id": "act48side--activities__act48side__level_act48side_06_end",
+  "navigation": {
+    "nextChapterId": "act48side--activities__act48side__level_act48side_07_beg",
+    "previousChapterId": "act48side--activities__act48side__level_act48side_06_beg"
+  },
+  "subtitle": "ME-6",
+  "summary": "info/activities/act48side/level_act48side_06_end",
+  "title": "旧日诗篇"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "WD-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WD-7_家园/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WD-7_%E5%AE%B6%E5%9B%AD/BEG"
+  },
+  "id": "act18d0--activities__act18d0__level_act18d0_07_beg",
+  "navigation": {
+    "nextChapterId": "act18d0--activities__act18d0__level_act18d0_07_end",
+    "previousChapterId": "act18d0--activities__act18d0__level_act18d0_05_end"
+  },
+  "subtitle": "WD-7",
+  "summary": "info/activities/act18d0/level_act18d0_07_beg",
+  "title": "家园"
+}

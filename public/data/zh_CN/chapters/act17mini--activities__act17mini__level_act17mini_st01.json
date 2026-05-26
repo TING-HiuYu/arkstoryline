@@ -1,0 +1,19 @@
+{
+  "albumId": "act17mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "KR-ST1_如烟花般坠地/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/KR-ST1_%E5%A6%82%E7%83%9F%E8%8A%B1%E8%88%AC%E5%9D%A0%E5%9C%B0/NBT"
+  },
+  "id": "act17mini--activities__act17mini__level_act17mini_st01",
+  "navigation": {
+    "nextChapterId": "act17mini--activities__act17mini__level_act17mini_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act17mini/level_act17mini_st01",
+  "title": "如烟花般坠地"
+}

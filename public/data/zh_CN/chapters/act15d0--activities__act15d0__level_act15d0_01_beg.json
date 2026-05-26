@@ -1,0 +1,21 @@
+{
+  "albumId": "act15d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "MB-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MB-1_密会/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MB-1_%E5%AF%86%E4%BC%9A/BEG"
+  },
+  "id": "act15d0--activities__act15d0__level_act15d0_01_beg",
+  "navigation": {
+    "nextChapterId": "act15d0--activities__act15d0__level_act15d0_01_end",
+    "previousChapterId": null
+  },
+  "subtitle": "MB-1",
+  "summary": "info/activities/act15d0/level_act15d0_01_beg",
+  "title": "密会"
+}

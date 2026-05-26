@@ -1,0 +1,21 @@
+{
+  "albumId": "1stact",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "GT-EX-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GT-EX-3_与狼共舞/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GT-EX-3_%E4%B8%8E%E7%8B%BC%E5%85%B1%E8%88%9E/END"
+  },
+  "id": "1stact--activities__a001__level_a001_ex03_end",
+  "navigation": {
+    "nextChapterId": "1stact--activities__a001__level_a001_ex04_end",
+    "previousChapterId": "1stact--activities__a001__level_a001_ex01_end"
+  },
+  "subtitle": "GT-EX-3",
+  "summary": "info/activities/a001/level_a001_ex03_end",
+  "title": "与狼共舞"
+}

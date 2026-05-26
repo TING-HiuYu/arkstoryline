@@ -1,0 +1,360 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act19side",
+      "avgTag": "幕间",
+      "code": "DV-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-ST-1_逆行/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-ST-1_%E9%80%86%E8%A1%8C/NBT"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_st01",
+      "path": "chapters/act19side--activities__act19side__level_act19side_st01.json",
+      "sort": 1,
+      "title": "逆行"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "行动前",
+      "code": "DV-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-1_特里蒙街道/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-1_%E7%89%B9%E9%87%8C%E8%92%99%E8%A1%97%E9%81%93/BEG"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_01_beg",
+      "path": "chapters/act19side--activities__act19side__level_act19side_01_beg.json",
+      "sort": 2,
+      "title": "特里蒙街道"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "行动后",
+      "code": "DV-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-1_特里蒙街道/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-1_%E7%89%B9%E9%87%8C%E8%92%99%E8%A1%97%E9%81%93/END"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_01_end",
+      "path": "chapters/act19side--activities__act19side__level_act19side_01_end.json",
+      "sort": 3,
+      "title": "特里蒙街道"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "行动前",
+      "code": "DV-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-2_拓荒者小屋/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-2_%E6%8B%93%E8%8D%92%E8%80%85%E5%B0%8F%E5%B1%8B/BEG"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_02_beg",
+      "path": "chapters/act19side--activities__act19side__level_act19side_02_beg.json",
+      "sort": 4,
+      "title": "拓荒者小屋"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "行动后",
+      "code": "DV-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-2_拓荒者小屋/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-2_%E6%8B%93%E8%8D%92%E8%80%85%E5%B0%8F%E5%B1%8B/END"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_02_end",
+      "path": "chapters/act19side--activities__act19side__level_act19side_02_end.json",
+      "sort": 5,
+      "title": "拓荒者小屋"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "行动前",
+      "code": "DV-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-3_动力装甲/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-3_%E5%8A%A8%E5%8A%9B%E8%A3%85%E7%94%B2/BEG"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_03_beg",
+      "path": "chapters/act19side--activities__act19side__level_act19side_03_beg.json",
+      "sort": 6,
+      "title": "动力装甲"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "行动后",
+      "code": "DV-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-3_动力装甲/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-3_%E5%8A%A8%E5%8A%9B%E8%A3%85%E7%94%B2/END"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_03_end",
+      "path": "chapters/act19side--activities__act19side__level_act19side_03_end.json",
+      "sort": 7,
+      "title": "动力装甲"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "行动前",
+      "code": "DV-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-4_无人的小巷/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-4_%E6%97%A0%E4%BA%BA%E7%9A%84%E5%B0%8F%E5%B7%B7/BEG"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_04_beg",
+      "path": "chapters/act19side--activities__act19side__level_act19side_04_beg.json",
+      "sort": 8,
+      "title": "无人的小巷"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "行动后",
+      "code": "DV-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-4_无人的小巷/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-4_%E6%97%A0%E4%BA%BA%E7%9A%84%E5%B0%8F%E5%B7%B7/END"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_04_end",
+      "path": "chapters/act19side--activities__act19side__level_act19side_04_end.json",
+      "sort": 9,
+      "title": "无人的小巷"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "行动前",
+      "code": "DV-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-5_多萝西的承诺/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-5_%E5%A4%9A%E8%90%9D%E8%A5%BF%E7%9A%84%E6%89%BF%E8%AF%BA/BEG"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_05_beg",
+      "path": "chapters/act19side--activities__act19side__level_act19side_05_beg.json",
+      "sort": 10,
+      "title": "多萝西的承诺"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "幕间",
+      "code": "DV-S-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-S-1_困心/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-S-1_%E5%9B%B0%E5%BF%83/NBT"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level__act19side_sub-1-1",
+      "path": "chapters/act19side--activities__act19side__level__act19side_sub-1-1.json",
+      "sort": 11,
+      "title": "困心"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "行动后",
+      "code": "DV-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-5_多萝西的承诺/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-5_%E5%A4%9A%E8%90%9D%E8%A5%BF%E7%9A%84%E6%89%BF%E8%AF%BA/END"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_05_end",
+      "path": "chapters/act19side--activities__act19side__level_act19side_05_end.json",
+      "sort": 12,
+      "title": "多萝西的承诺"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "行动前",
+      "code": "DV-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-6_挣脱美梦/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-6_%E6%8C%A3%E8%84%B1%E7%BE%8E%E6%A2%A6/BEG"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_06_beg",
+      "path": "chapters/act19side--activities__act19side__level_act19side_06_beg.json",
+      "sort": 13,
+      "title": "挣脱美梦"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "行动后",
+      "code": "DV-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-6_挣脱美梦/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-6_%E6%8C%A3%E8%84%B1%E7%BE%8E%E6%A2%A6/END"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_06_end",
+      "path": "chapters/act19side--activities__act19side__level_act19side_06_end.json",
+      "sort": 14,
+      "title": "挣脱美梦"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "行动前",
+      "code": "DV-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-7_疯狂的信号/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-7_%E7%96%AF%E7%8B%82%E7%9A%84%E4%BF%A1%E5%8F%B7/BEG"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_07_beg",
+      "path": "chapters/act19side--activities__act19side__level_act19side_07_beg.json",
+      "sort": 15,
+      "title": "疯狂的信号"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "幕间",
+      "code": "DV-S-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-S-2_衡虑/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-S-2_%E8%A1%A1%E8%99%91/NBT"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level__act19side_sub-1-2",
+      "path": "chapters/act19side--activities__act19side__level__act19side_sub-1-2.json",
+      "sort": 16,
+      "title": "衡虑"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "行动后",
+      "code": "DV-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-7_疯狂的信号/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-7_%E7%96%AF%E7%8B%82%E7%9A%84%E4%BF%A1%E5%8F%B7/END"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_07_end",
+      "path": "chapters/act19side--activities__act19side__level_act19side_07_end.json",
+      "sort": 17,
+      "title": "疯狂的信号"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "行动前",
+      "code": "DV-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-8_连接内心/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-8_%E8%BF%9E%E6%8E%A5%E5%86%85%E5%BF%83/BEG"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_08_beg",
+      "path": "chapters/act19side--activities__act19side__level_act19side_08_beg.json",
+      "sort": 18,
+      "title": "连接内心"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "行动后",
+      "code": "DV-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-8_连接内心/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-8_%E8%BF%9E%E6%8E%A5%E5%86%85%E5%BF%83/END"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_08_end",
+      "path": "chapters/act19side--activities__act19side__level_act19side_08_end.json",
+      "sort": 19,
+      "title": "连接内心"
+    },
+    {
+      "albumId": "act19side",
+      "avgTag": "幕间",
+      "code": "DV-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "DV-ST-2_启程/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/DV-ST-2_%E5%90%AF%E7%A8%8B/NBT"
+      },
+      "downloadable": true,
+      "id": "act19side--activities__act19side__level_act19side_st02",
+      "path": "chapters/act19side--activities__act19side__level_act19side_st02.json",
+      "sort": 20,
+      "title": "启程"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_dorothys_vision",
+    "primaryImageId": "kv_dorothys_vision",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act19side",
+    "titleImageId": "title_dorothys_vision",
+    "url": "https://media.prts.wiki/1/1f/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%BB%BF%E9%87%8E%E5%B9%BB%E6%A2%A6.png"
+  },
+  "extras": [],
+  "gameOrderRank": 4002,
+  "homeSection": "sideStory",
+  "id": "act19side",
+  "music": {
+    "arcTitle": "摘取未来之人",
+    "movementTitle": "摘取未来之人",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_13",
+      "tag_15"
+    ]
+  },
+  "slug": "act19side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1656993600,
+  "summary": "以科技编织，用美梦计算，\n数据和实验孕育出一个庞然巨物，\n它正悬浮在特里蒙的上空，静静地注视着下方的一切。\n向前或是向后都是科技的方向，\n它不分正反，永远进步。",
+  "timelineRank": 1656993600,
+  "title": "绿野幻梦"
+}

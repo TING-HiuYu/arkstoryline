@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-长夜临光-c08ad95380",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "NL-HD-1/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/NL-HD-1/NBT"
+  },
+  "id": "other-story-长夜临光-c08ad95380--nl-hd-1-nbt",
+  "navigation": {
+    "nextChapterId": "other-story-长夜临光-c08ad95380--nl-hd-2-nbt",
+    "previousChapterId": null
+  },
+  "subtitle": null,
+  "title": "逃离"
+}

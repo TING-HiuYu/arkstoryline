@@ -1,0 +1,21 @@
+{
+  "albumId": "act17side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SN-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SN-4_灯塔入口/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-4_%E7%81%AF%E5%A1%94%E5%85%A5%E5%8F%A3/END"
+  },
+  "id": "act17side--activities__act17side__level_act17side_04_end",
+  "navigation": {
+    "nextChapterId": "act17side--activities__act17side__level_act17side_05_beg",
+    "previousChapterId": "act17side--activities__act17side__level_act17side_st05"
+  },
+  "subtitle": "SN-4",
+  "summary": "info/activities/act17side/level_act17side_04_end",
+  "title": "灯塔入口"
+}

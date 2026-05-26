@@ -1,0 +1,21 @@
+{
+  "albumId": "act25side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CW-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CW-2_无迹可寻/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CW-2_%E6%97%A0%E8%BF%B9%E5%8F%AF%E5%AF%BB/BEG"
+  },
+  "id": "act25side--activities__act25side__level_act25side_02_beg",
+  "navigation": {
+    "nextChapterId": "act25side--activities__act25side__level_act25side_02_end",
+    "previousChapterId": "act25side--activities__act25side__level_act25side_01_end"
+  },
+  "subtitle": "CW-2",
+  "summary": "info/activities/act25side/level_act25side_02_beg",
+  "title": "无迹可寻"
+}

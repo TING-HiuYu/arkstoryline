@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "11-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-5_等价交换/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-5_%E7%AD%89%E4%BB%B7%E4%BA%A4%E6%8D%A2/BEG"
+  },
+  "id": "main_11--obt__main__level_main_11-04_beg",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_main_11-04_end",
+    "previousChapterId": "main_11--obt__main__level_st_11-01"
+  },
+  "subtitle": "11-5",
+  "summary": "info/obt/main/level_main_11-04_beg",
+  "title": "等价交换"
+}

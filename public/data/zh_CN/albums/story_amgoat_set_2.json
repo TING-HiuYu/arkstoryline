@@ -1,0 +1,33 @@
+{
+  "id": "story_amgoat_set_2",
+  "slug": "story-amgoat-set-2",
+  "title": "火山",
+  "sourceEntryType": "UNKNOWN",
+  "albumKind": "operatorRecord",
+  "homeSection": "operatorRecord",
+  "timelineRank": 0,
+  "cover": {
+    "url": "https://media.prts.wiki/c/cf/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%81%AB%E5%B1%B1.png",
+    "source": "none",
+    "assetStatus": "missing",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 0,
+  "chapters": [
+    {
+      "id": "story_amgoat_set_2--obt__memory__story_amgoat_2_1",
+      "albumId": "story_amgoat_set_2",
+      "title": "火山",
+      "avgTag": "幕间",
+      "sort": 0,
+      "path": "chapters/story_amgoat_set_2--obt__memory__story_amgoat_2_1.json",
+      "downloadable": true
+    }
+  ],
+  "source": {
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
+  },
+  "extras": []
+}

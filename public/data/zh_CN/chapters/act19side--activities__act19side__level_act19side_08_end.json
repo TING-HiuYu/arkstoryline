@@ -1,0 +1,21 @@
+{
+  "albumId": "act19side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DV-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DV-8_连接内心/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DV-8_%E8%BF%9E%E6%8E%A5%E5%86%85%E5%BF%83/END"
+  },
+  "id": "act19side--activities__act19side__level_act19side_08_end",
+  "navigation": {
+    "nextChapterId": "act19side--activities__act19side__level_act19side_st02",
+    "previousChapterId": "act19side--activities__act19side__level_act19side_08_beg"
+  },
+  "subtitle": "DV-8",
+  "summary": "info/activities/act19side/level_act19side_08_end",
+  "title": "连接内心"
+}

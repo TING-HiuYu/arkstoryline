@@ -1,0 +1,128 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act8mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "VI-ST1_我不曾怀揣希望/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/VI-ST1_%E6%88%91%E4%B8%8D%E6%9B%BE%E6%80%80%E6%8F%A3%E5%B8%8C%E6%9C%9B/NBT"
+      },
+      "downloadable": true,
+      "id": "act8mini--activities__act8mini__level_act8mini_st01",
+      "path": "chapters/act8mini--activities__act8mini__level_act8mini_st01.json",
+      "sort": 1,
+      "title": "我不曾怀揣希望"
+    },
+    {
+      "albumId": "act8mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "VI-ST2_我不会全部遗忘/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/VI-ST2_%E6%88%91%E4%B8%8D%E4%BC%9A%E5%85%A8%E9%83%A8%E9%81%97%E5%BF%98/NBT"
+      },
+      "downloadable": true,
+      "id": "act8mini--activities__act8mini__level_act8mini_st02",
+      "path": "chapters/act8mini--activities__act8mini__level_act8mini_st02.json",
+      "sort": 2,
+      "title": "我不会全部遗忘"
+    },
+    {
+      "albumId": "act8mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "VI-ST3_我不知是否值得/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/VI-ST3_%E6%88%91%E4%B8%8D%E7%9F%A5%E6%98%AF%E5%90%A6%E5%80%BC%E5%BE%97/NBT"
+      },
+      "downloadable": true,
+      "id": "act8mini--activities__act8mini__level_act8mini_st03",
+      "path": "chapters/act8mini--activities__act8mini__level_act8mini_st03.json",
+      "sort": 3,
+      "title": "我不知是否值得"
+    },
+    {
+      "albumId": "act8mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "VI-ST4_我所思不止于此/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/VI-ST4_%E6%88%91%E6%89%80%E6%80%9D%E4%B8%8D%E6%AD%A2%E4%BA%8E%E6%AD%A4/NBT"
+      },
+      "downloadable": true,
+      "id": "act8mini--activities__act8mini__level_act8mini_st04",
+      "path": "chapters/act8mini--activities__act8mini__level_act8mini_st04.json",
+      "sort": 4,
+      "title": "我所思不止于此"
+    },
+    {
+      "albumId": "act8mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "VI-ST5_我无惧前路何往/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/VI-ST5_%E6%88%91%E6%97%A0%E6%83%A7%E5%89%8D%E8%B7%AF%E4%BD%95%E5%BE%80/NBT"
+      },
+      "downloadable": true,
+      "id": "act8mini--activities__act8mini__level_act8mini_st05",
+      "path": "chapters/act8mini--activities__act8mini__level_act8mini_st05.json",
+      "sort": 5,
+      "title": "我无惧前路何往"
+    },
+    {
+      "albumId": "act8mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "VI-ST6_我与最后的赌注/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/VI-ST6_%E6%88%91%E4%B8%8E%E6%9C%80%E5%90%8E%E7%9A%84%E8%B5%8C%E6%B3%A8/NBT"
+      },
+      "downloadable": true,
+      "id": "act8mini--activities__act8mini__level_act8mini_st06",
+      "path": "chapters/act8mini--activities__act8mini__level_act8mini_st06.json",
+      "sort": 6,
+      "title": "我与最后的赌注"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_vigilo",
+    "primaryImageId": "kv_vigilo",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act8mini",
+    "storyPicId": "storyPic_act8mini",
+    "titleImageId": "title_vigilo",
+    "url": "https://media.prts.wiki/2/21/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E5%A6%82%E6%88%91%E6%89%80%E8%A7%81.png"
+  },
+  "extras": [],
+  "gameOrderRank": 3002,
+  "homeSection": "sideStory",
+  "id": "act8mini",
+  "music": {
+    "arcTitle": "方舟",
+    "movementTitle": "方舟",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act8mini",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1626163200,
+  "summary": "来自过去的人，\n行驶于当下的航船，\n自未来中升起的目光。",
+  "timelineRank": 1626163200,
+  "title": "如我所见"
+}

@@ -1,0 +1,424 @@
+{
+  "albumKind": "mainline",
+  "chapters": [
+    {
+      "albumId": "main_15",
+      "avgTag": "幕间",
+      "code": "15-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-1_过去与现在的终点/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-1_%E8%BF%87%E5%8E%BB%E4%B8%8E%E7%8E%B0%E5%9C%A8%E7%9A%84%E7%BB%88%E7%82%B9/NBT"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_st_15-01",
+      "path": "chapters/main_15--obt__main__level_st_15-01.json",
+      "sort": 211,
+      "title": "过去与现在的终点"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动前",
+      "code": "15-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-2_执此剑者/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-2_%E6%89%A7%E6%AD%A4%E5%89%91%E8%80%85/BEG"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-01_beg",
+      "path": "chapters/main_15--obt__main__level_main_15-01_beg.json",
+      "sort": 212,
+      "title": "执此剑者"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动后",
+      "code": "15-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-2_执此剑者/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-2_%E6%89%A7%E6%AD%A4%E5%89%91%E8%80%85/END"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-01_end",
+      "path": "chapters/main_15--obt__main__level_main_15-01_end.json",
+      "sort": 213,
+      "title": "执此剑者"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动前",
+      "code": "15-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-3_所谓奇迹/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-3_%E6%89%80%E8%B0%93%E5%A5%87%E8%BF%B9/BEG"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-02_beg",
+      "path": "chapters/main_15--obt__main__level_main_15-02_beg.json",
+      "sort": 214,
+      "title": "所谓奇迹"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动后",
+      "code": "15-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-4_深渊之侧/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-4_%E6%B7%B1%E6%B8%8A%E4%B9%8B%E4%BE%A7/END"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-03_end",
+      "path": "chapters/main_15--obt__main__level_main_15-03_end.json",
+      "sort": 215,
+      "title": "深渊之侧"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动前",
+      "code": "15-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-5_喧哗争端/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-5_%E5%96%A7%E5%93%97%E4%BA%89%E7%AB%AF/BEG"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-04_beg",
+      "path": "chapters/main_15--obt__main__level_main_15-04_beg.json",
+      "sort": 216,
+      "title": "喧哗争端"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动后",
+      "code": "15-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-6_刻骨入髓/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-6_%E5%88%BB%E9%AA%A8%E5%85%A5%E9%AB%93/END"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-05_end",
+      "path": "chapters/main_15--obt__main__level_main_15-05_end.json",
+      "sort": 217,
+      "title": "刻骨入髓"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动前",
+      "code": "15-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-7_临界时刻/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-7_%E4%B8%B4%E7%95%8C%E6%97%B6%E5%88%BB/BEG"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-06_beg",
+      "path": "chapters/main_15--obt__main__level_main_15-06_beg.json",
+      "sort": 218,
+      "title": "临界时刻"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动后",
+      "code": "15-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-7_临界时刻/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-7_%E4%B8%B4%E7%95%8C%E6%97%B6%E5%88%BB/END"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-06_end",
+      "path": "chapters/main_15--obt__main__level_main_15-06_end.json",
+      "sort": 219,
+      "title": "临界时刻"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动前",
+      "code": "15-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-8_破碎回响/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-8_%E7%A0%B4%E7%A2%8E%E5%9B%9E%E5%93%8D/BEG"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-07_beg",
+      "path": "chapters/main_15--obt__main__level_main_15-07_beg.json",
+      "sort": 220,
+      "title": "破碎回响"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动后",
+      "code": "15-9",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-9_减压症候/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-9_%E5%87%8F%E5%8E%8B%E7%97%87%E5%80%99/END"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-08_end",
+      "path": "chapters/main_15--obt__main__level_main_15-08_end.json",
+      "sort": 221,
+      "title": "减压症候"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动前",
+      "code": "15-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-11_一段长梦将醒/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-11_%E4%B8%80%E6%AE%B5%E9%95%BF%E6%A2%A6%E5%B0%86%E9%86%92/BEG"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-10_beg",
+      "path": "chapters/main_15--obt__main__level_main_15-10_beg.json",
+      "sort": 222,
+      "title": "一段长梦将醒"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动后",
+      "code": "15-11",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-11_一段长梦将醒/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-11_%E4%B8%80%E6%AE%B5%E9%95%BF%E6%A2%A6%E5%B0%86%E9%86%92/END"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-10_end",
+      "path": "chapters/main_15--obt__main__level_main_15-10_end.json",
+      "sort": 223,
+      "title": "一段长梦将醒"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动前",
+      "code": "15-12",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-12_目击众神死亡的荒原/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-12_%E7%9B%AE%E5%87%BB%E4%BC%97%E7%A5%9E%E6%AD%BB%E4%BA%A1%E7%9A%84%E8%8D%92%E5%8E%9F/BEG"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-11_beg",
+      "path": "chapters/main_15--obt__main__level_main_15-11_beg.json",
+      "sort": 224,
+      "title": "目击众神死亡的荒原"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动后",
+      "code": "15-13",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-13_成为你的眼睛/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-13_%E6%88%90%E4%B8%BA%E4%BD%A0%E7%9A%84%E7%9C%BC%E7%9D%9B/END"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-12_end",
+      "path": "chapters/main_15--obt__main__level_main_15-12_end.json",
+      "sort": 225,
+      "title": "成为你的眼睛"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动前",
+      "code": "15-14",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-14_在尘或血中/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-14_%E5%9C%A8%E5%B0%98%E6%88%96%E8%A1%80%E4%B8%AD/BEG"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-13_beg",
+      "path": "chapters/main_15--obt__main__level_main_15-13_beg.json",
+      "sort": 226,
+      "title": "在尘或血中"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动后",
+      "code": "15-15",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-15_拒绝哀悼/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-15_%E6%8B%92%E7%BB%9D%E5%93%80%E6%82%BC/END"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-14_end",
+      "path": "chapters/main_15--obt__main__level_main_15-14_end.json",
+      "sort": 227,
+      "title": "拒绝哀悼"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "幕间",
+      "code": "15-16",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-16_永恒与此刻的误差/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-16_%E6%B0%B8%E6%81%92%E4%B8%8E%E6%AD%A4%E5%88%BB%E7%9A%84%E8%AF%AF%E5%B7%AE/NBT"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_st_15-02",
+      "path": "chapters/main_15--obt__main__level_st_15-02.json",
+      "sort": 228,
+      "title": "永恒与此刻的误差"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动前",
+      "code": "15-17",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-17_“她”/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-17_%E2%80%9C%E5%A5%B9%E2%80%9D/BEG"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-15_beg",
+      "path": "chapters/main_15--obt__main__level_main_15-15_beg.json",
+      "sort": 229,
+      "title": "“她”"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "幕间",
+      "code": "15-17",
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-15_end_variation01",
+      "path": "chapters/main_15--obt__main__level_main_15-15_end_variation01.json",
+      "sort": 230,
+      "title": "“她”"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "幕间",
+      "code": "15-17",
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-15_end_variation02",
+      "path": "chapters/main_15--obt__main__level_main_15-15_end_variation02.json",
+      "sort": 231,
+      "title": "“她”"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动后",
+      "code": "15-17",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-17_“她”/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-17_%E2%80%9C%E5%A5%B9%E2%80%9D/END"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-15_end",
+      "path": "chapters/main_15--obt__main__level_main_15-15_end.json",
+      "sort": 232,
+      "title": "“她”"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动前",
+      "code": "15-18",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-18_从未怀疑，从未远离/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-18_%E4%BB%8E%E6%9C%AA%E6%80%80%E7%96%91%EF%BC%8C%E4%BB%8E%E6%9C%AA%E8%BF%9C%E7%A6%BB/BEG"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-16_beg",
+      "path": "chapters/main_15--obt__main__level_main_15-16_beg.json",
+      "sort": 233,
+      "title": "从未怀疑，从未远离"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "行动后",
+      "code": "15-20",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-20_得以重回/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-20_%E5%BE%97%E4%BB%A5%E9%87%8D%E5%9B%9E/END"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_main_15-18_end",
+      "path": "chapters/main_15--obt__main__level_main_15-18_end.json",
+      "sort": 234,
+      "title": "得以重回"
+    },
+    {
+      "albumId": "main_15",
+      "avgTag": "幕间",
+      "code": "15-21",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "15-21_大地与一隅的归宿/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/15-21_%E5%A4%A7%E5%9C%B0%E4%B8%8E%E4%B8%80%E9%9A%85%E7%9A%84%E5%BD%92%E5%AE%BF/NBT"
+      },
+      "downloadable": true,
+      "id": "main_15--obt__main__level_st_15-03",
+      "path": "chapters/main_15--obt__main__level_st_15-03.json",
+      "sort": 235,
+      "title": "大地与一隅的归宿"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_dissociative_recombination",
+    "primaryImageId": "kv_dissociative_recombination",
+    "source": "stage-kv",
+    "titleImageId": "title_dissociative_recombination",
+    "url": "https://media.prts.wiki/0/02/%E7%AB%A0%E8%8A%82%E5%90%8D%E7%A7%B0_%E7%AC%AC%E5%8D%81%E4%BA%94%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 6010,
+  "homeSection": "mainline",
+  "id": "main_15",
+  "music": {
+    "arcTitle": "Ⅲ 裂变",
+    "movementTitle": "Ⅲ 裂变",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "main-15",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": -1,
+  "summary": "你曾与她在夜空下对话千万句。\n至此，重逢。\n她曾因你于遗尘中漫步千万年。\n至此，离别。",
+  "timelineRank": -1,
+  "title": "离解复合"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act43side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "AD-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AD-5_终将重逢/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AD-5_%E7%BB%88%E5%B0%86%E9%87%8D%E9%80%A2/BEG"
+  },
+  "id": "act43side--activities__act43side__level_act43side_05_beg",
+  "navigation": {
+    "nextChapterId": "act43side--activities__act43side__level_act43side_05_end",
+    "previousChapterId": "act43side--activities__act43side__level_act43side_st02"
+  },
+  "subtitle": "AD-5",
+  "summary": "info/activities/act43side/level_act43side_05_beg",
+  "title": "终将重逢"
+}

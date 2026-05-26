@@ -1,0 +1,19 @@
+{
+  "albumId": "act8mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "VI-ST5_我无惧前路何往/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/VI-ST5_%E6%88%91%E6%97%A0%E6%83%A7%E5%89%8D%E8%B7%AF%E4%BD%95%E5%BE%80/NBT"
+  },
+  "id": "act8mini--activities__act8mini__level_act8mini_st05",
+  "navigation": {
+    "nextChapterId": "act8mini--activities__act8mini__level_act8mini_st06",
+    "previousChapterId": "act8mini--activities__act8mini__level_act8mini_st04"
+  },
+  "summary": "info/activities/act8mini/level_act8mini_st05",
+  "title": "我无惧前路何往"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act9d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DM-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DM-8_离散/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DM-8_%E7%A6%BB%E6%95%A3/END"
+  },
+  "id": "act9d0--activities__act9d0__level_act9d0_06_end",
+  "navigation": {
+    "nextChapterId": "act9d0--activities__act9d0__level_act9d0_st01",
+    "previousChapterId": "act9d0--activities__act9d0__level_act9d0_06_beg"
+  },
+  "subtitle": "DM-8",
+  "summary": "info/activities/act9d0/level_act9d0_06_end",
+  "title": "离散"
+}

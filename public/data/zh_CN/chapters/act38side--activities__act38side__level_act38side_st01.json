@@ -1,0 +1,21 @@
+{
+  "albumId": "act38side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "PV-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PV-ST-1_《新都市管理法案》/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-ST-1_%E3%80%8A%E6%96%B0%E9%83%BD%E5%B8%82%E7%AE%A1%E7%90%86%E6%B3%95%E6%A1%88%E3%80%8B/NBT"
+  },
+  "id": "act38side--activities__act38side__level_act38side_st01",
+  "navigation": {
+    "nextChapterId": "act38side--activities__act38side__level_act38side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "PV-ST-1",
+  "summary": "info/activities/act38side/level_act38side_st01",
+  "title": "《新都市管理法案》"
+}

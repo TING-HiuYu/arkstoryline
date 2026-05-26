@@ -1,0 +1,21 @@
+{
+  "albumId": "act47side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "UR-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "UR-ST-2_试飞日/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/UR-ST-2_%E8%AF%95%E9%A3%9E%E6%97%A5/NBT"
+  },
+  "id": "act47side--activities__act47side__level_act47side_st02",
+  "navigation": {
+    "nextChapterId": "act47side--activities__act47side__level_act47side_05_beg",
+    "previousChapterId": "act47side--activities__act47side__level_act47side_04_end"
+  },
+  "subtitle": "UR-ST-2",
+  "summary": "info/activities/act47side/level_act47side_st02",
+  "title": "试飞日"
+}

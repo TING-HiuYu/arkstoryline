@@ -1,0 +1,21 @@
+{
+  "albumId": "main_9",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "9-13",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "9-13_战地救援/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/9-13_%E6%88%98%E5%9C%B0%E6%95%91%E6%8F%B4/END"
+  },
+  "id": "main_9--obt__main__level_main_09-11_end",
+  "navigation": {
+    "nextChapterId": "main_9--obt__main__level_main_09-12_beg",
+    "previousChapterId": "main_9--obt__main__level_main_09-10_beg"
+  },
+  "subtitle": "9-13",
+  "summary": "info/obt/main/level_main_09-11_end",
+  "title": "战地救援"
+}

@@ -1,0 +1,128 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act17mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "KR-ST1_如烟花般坠地/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/KR-ST1_%E5%A6%82%E7%83%9F%E8%8A%B1%E8%88%AC%E5%9D%A0%E5%9C%B0/NBT"
+      },
+      "downloadable": true,
+      "id": "act17mini--activities__act17mini__level_act17mini_st01",
+      "path": "chapters/act17mini--activities__act17mini__level_act17mini_st01.json",
+      "sort": 1,
+      "title": "如烟花般坠地"
+    },
+    {
+      "albumId": "act17mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "KR-ST2_归来时的街道/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/KR-ST2_%E5%BD%92%E6%9D%A5%E6%97%B6%E7%9A%84%E8%A1%97%E9%81%93/NBT"
+      },
+      "downloadable": true,
+      "id": "act17mini--activities__act17mini__level_act17mini_st02",
+      "path": "chapters/act17mini--activities__act17mini__level_act17mini_st02.json",
+      "sort": 2,
+      "title": "归来时的街道"
+    },
+    {
+      "albumId": "act17mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "KR-ST3_披床单的怪物/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/KR-ST3_%E6%8A%AB%E5%BA%8A%E5%8D%95%E7%9A%84%E6%80%AA%E7%89%A9/NBT"
+      },
+      "downloadable": true,
+      "id": "act17mini--activities__act17mini__level_act17mini_st03",
+      "path": "chapters/act17mini--activities__act17mini__level_act17mini_st03.json",
+      "sort": 3,
+      "title": "披床单的怪物"
+    },
+    {
+      "albumId": "act17mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "KR-ST4_未完成的态度/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/KR-ST4_%E6%9C%AA%E5%AE%8C%E6%88%90%E7%9A%84%E6%80%81%E5%BA%A6/NBT"
+      },
+      "downloadable": true,
+      "id": "act17mini--activities__act17mini__level_act17mini_st04",
+      "path": "chapters/act17mini--activities__act17mini__level_act17mini_st04.json",
+      "sort": 4,
+      "title": "未完成的态度"
+    },
+    {
+      "albumId": "act17mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "KR-ST5_女巫与下午茶/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/KR-ST5_%E5%A5%B3%E5%B7%AB%E4%B8%8E%E4%B8%8B%E5%8D%88%E8%8C%B6/NBT"
+      },
+      "downloadable": true,
+      "id": "act17mini--activities__act17mini__level_act17mini_st05",
+      "path": "chapters/act17mini--activities__act17mini__level_act17mini_st05.json",
+      "sort": 5,
+      "title": "女巫与下午茶"
+    },
+    {
+      "albumId": "act17mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "KR-ST6_罐头里有什么/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/KR-ST6_%E7%BD%90%E5%A4%B4%E9%87%8C%E6%9C%89%E4%BB%80%E4%B9%88/NBT"
+      },
+      "downloadable": true,
+      "id": "act17mini--activities__act17mini__level_act17mini_st06",
+      "path": "chapters/act17mini--activities__act17mini__level_act17mini_st06.json",
+      "sort": 6,
+      "title": "罐头里有什么"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_a_kazdelian_rescue",
+    "primaryImageId": "kv_a_kazdelian_rescue",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act17mini",
+    "storyPicId": "storyPic_act17mini",
+    "titleImageId": "title_a_kazdelian_rescue",
+    "url": "https://media.prts.wiki/3/36/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%86%94%E7%82%89%E2%80%9C%E8%BF%98%E9%AD%82%E2%80%9D%E8%AE%B0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 6002,
+  "homeSection": "sideStory",
+  "id": "act17mini",
+  "music": {
+    "arcTitle": "泰拉奇谈",
+    "movementTitle": "泰拉奇谈",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act17mini",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1720497600,
+  "summary": "从魂灵熔炉中喷涌而出的火光，\n为卡兹戴尔带来了一朵短暂却炫目的烟花，\n以及一场......关于未来的好梦。",
+  "timelineRank": 1720497600,
+  "title": "熔炉“还魂”记"
+}

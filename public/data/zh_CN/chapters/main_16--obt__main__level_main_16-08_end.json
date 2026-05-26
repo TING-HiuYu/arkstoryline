@@ -1,0 +1,21 @@
+{
+  "albumId": "main_16",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "16-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "16-8_无处可寻/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/16-8_%E6%97%A0%E5%A4%84%E5%8F%AF%E5%AF%BB/END"
+  },
+  "id": "main_16--obt__main__level_main_16-08_end",
+  "navigation": {
+    "nextChapterId": "main_16--obt__main__level_main_16-09_beg",
+    "previousChapterId": "main_16--obt__main__level_main_16-07_beg"
+  },
+  "subtitle": "16-8",
+  "summary": "info/obt/main/level_main_16-08_end",
+  "title": "无处可寻"
+}

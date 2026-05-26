@@ -1,0 +1,19 @@
+{
+  "albumId": "act6d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AF-ST3_洪炉示岁·拜年/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AF-ST3_%E6%B4%AA%E7%82%89%E7%A4%BA%E5%B2%81%C2%B7%E6%8B%9C%E5%B9%B4/NBT"
+  },
+  "id": "act6d5--activities__act6d5__level_act6d5_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act6d5--activities__act6d5__level_act6d5_st02"
+  },
+  "summary": "info/activities/act6d5/level_act6d5_st03",
+  "title": "洪炉示岁·拜年"
+}

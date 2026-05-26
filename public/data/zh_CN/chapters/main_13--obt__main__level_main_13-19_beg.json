@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "13-21",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "13-21_殷红君主/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-21_%E6%AE%B7%E7%BA%A2%E5%90%9B%E4%B8%BB/BEG"
+  },
+  "id": "main_13--obt__main__level_main_13-19_beg",
+  "navigation": {
+    "nextChapterId": "main_13--obt__main__level_main_13-19_end",
+    "previousChapterId": "main_13--obt__main__level_main_13-18_end"
+  },
+  "subtitle": "13-21",
+  "summary": "info/obt/main/level_main_13-19_beg",
+  "title": "殷红君主"
+}

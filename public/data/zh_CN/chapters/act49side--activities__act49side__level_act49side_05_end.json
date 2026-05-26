@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-5_双飞燕/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-5_%E5%8F%8C%E9%A3%9E%E7%87%95/END"
+  },
+  "id": "act49side--activities__act49side__level_act49side_05_end",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_06_beg",
+    "previousChapterId": "act49side--activities__act49side__level_act49side_05_beg"
+  },
+  "subtitle": "TA-5",
+  "summary": "info/activities/act49side/level_act49side_05_end",
+  "title": "双飞燕"
+}

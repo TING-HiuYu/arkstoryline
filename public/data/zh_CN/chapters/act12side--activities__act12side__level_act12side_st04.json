@@ -1,0 +1,21 @@
+{
+  "albumId": "act12side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "DH-ST-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DH-ST-4_海浪照常拍岸/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DH-ST-4_%E6%B5%B7%E6%B5%AA%E7%85%A7%E5%B8%B8%E6%8B%8D%E5%B2%B8/NBT"
+  },
+  "id": "act12side--activities__act12side__level_act12side_st04",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act12side--activities__act12side__level_act12side_09_end"
+  },
+  "subtitle": "DH-ST-4",
+  "summary": "info/activities/act12side/level_act12side_st04",
+  "title": "海浪照常拍岸"
+}

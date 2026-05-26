@@ -1,0 +1,21 @@
+{
+  "albumId": "act23side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "WB-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "WB-ST-2_信我所信/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/WB-ST-2_%E4%BF%A1%E6%88%91%E6%89%80%E4%BF%A1/NBT"
+  },
+  "id": "act23side--activities__act23side__level_act23side_st02",
+  "navigation": {
+    "nextChapterId": "act23side--activities__act23side__level_act23side_05_beg",
+    "previousChapterId": "act23side--activities__act23side__level_act23side_04_end"
+  },
+  "subtitle": "WB-ST-2",
+  "summary": "info/activities/act23side/level_act23side_st02",
+  "title": "信我所信"
+}

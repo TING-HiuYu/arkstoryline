@@ -1,0 +1,21 @@
+{
+  "albumId": "main_10",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "10-19",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "10-19_远方星火/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-19_%E8%BF%9C%E6%96%B9%E6%98%9F%E7%81%AB/NBT"
+  },
+  "id": "main_10--obt__main__level_st_10-04",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "main_10--obt__main__level_st_10-03"
+  },
+  "subtitle": "10-19",
+  "summary": "info/obt/main/level_st_10-04",
+  "title": "远方星火"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_12",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "12-16",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "12-16_天边的火烧云/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-16_%E5%A4%A9%E8%BE%B9%E7%9A%84%E7%81%AB%E7%83%A7%E4%BA%91/BEG"
+  },
+  "id": "main_12--obt__main__level_main_12-14_beg",
+  "navigation": {
+    "nextChapterId": "main_12--obt__main__level_main_12-15_end",
+    "previousChapterId": "main_12--obt__main__level_main_12-13_end"
+  },
+  "subtitle": "12-16",
+  "summary": "info/obt/main/level_main_12-14_beg",
+  "title": "天边的火烧云"
+}

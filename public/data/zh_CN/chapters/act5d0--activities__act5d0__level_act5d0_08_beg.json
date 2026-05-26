@@ -1,0 +1,21 @@
+{
+  "albumId": "act5d0",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "CB-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CB-8_11:41P.M./BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-8_11%3A41P.M./BEG"
+  },
+  "id": "act5d0--activities__act5d0__level_act5d0_08_beg",
+  "navigation": {
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_08_end",
+    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_07_end"
+  },
+  "subtitle": "CB-8",
+  "summary": "info/activities/act5d0/level_act5d0_08_beg",
+  "title": "11:41P.M."
+}

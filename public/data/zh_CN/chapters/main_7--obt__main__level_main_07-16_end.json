@@ -1,0 +1,21 @@
+{
+  "albumId": "main_7",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "7-18",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "7-18_爱国者之死/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/7-18_%E7%88%B1%E5%9B%BD%E8%80%85%E4%B9%8B%E6%AD%BB/END"
+  },
+  "id": "main_7--obt__main__level_main_07-16_end",
+  "navigation": {
+    "nextChapterId": "main_7--obt__main__level_st_07-03",
+    "previousChapterId": "main_7--obt__main__level_main_07-16_beg"
+  },
+  "subtitle": "7-18",
+  "summary": "info/obt/main/level_main_07-16_end",
+  "title": "爱国者之死"
+}

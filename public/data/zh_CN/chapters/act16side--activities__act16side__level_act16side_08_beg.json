@@ -1,0 +1,21 @@
+{
+  "albumId": "act16side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "GA-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GA-8_影与灰/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GA-8_%E5%BD%B1%E4%B8%8E%E7%81%B0/BEG"
+  },
+  "id": "act16side--activities__act16side__level_act16side_08_beg",
+  "navigation": {
+    "nextChapterId": "act16side--activities__act16side__level_act16side_08_end",
+    "previousChapterId": "act16side--activities__act16side__level_act16side_07_end"
+  },
+  "subtitle": "GA-8",
+  "summary": "info/activities/act16side/level_act16side_08_beg",
+  "title": "影与灰"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act30side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RS-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RS-2_同车异图/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RS-2_%E5%90%8C%E8%BD%A6%E5%BC%82%E5%9B%BE/END"
+  },
+  "id": "act30side--activities__act30side__level_act30side_02_end",
+  "navigation": {
+    "nextChapterId": "act30side--activities__act30side__level_act30side_03_beg",
+    "previousChapterId": "act30side--activities__act30side__level_act30side_02_beg"
+  },
+  "subtitle": "RS-2",
+  "summary": "info/activities/act30side/level_act30side_02_end",
+  "title": "同车异图"
+}

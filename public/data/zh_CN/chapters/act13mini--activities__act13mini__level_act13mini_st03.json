@@ -1,0 +1,19 @@
+{
+  "albumId": "act13mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BW-ST3_扬尼与我/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BW-ST3_%E6%89%AC%E5%B0%BC%E4%B8%8E%E6%88%91/NBT"
+  },
+  "id": "act13mini--activities__act13mini__level_act13mini_st03",
+  "navigation": {
+    "nextChapterId": "act13mini--activities__act13mini__level_act13mini_st04",
+    "previousChapterId": "act13mini--activities__act13mini__level_act13mini_st02"
+  },
+  "summary": "info/activities/act13mini/level_act13mini_st03",
+  "title": "扬尼与我"
+}

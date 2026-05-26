@@ -1,0 +1,21 @@
+{
+  "albumId": "act46side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "OS-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OS-6_绿翡翠/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OS-6_%E7%BB%BF%E7%BF%A1%E7%BF%A0/BEG"
+  },
+  "id": "act46side--activities__act46side__level_act46side_06_beg",
+  "navigation": {
+    "nextChapterId": "act46side--activities__act46side__level_act46side_06_end",
+    "previousChapterId": "act46side--activities__act46side__level_act46side_05_end"
+  },
+  "subtitle": "OS-6",
+  "summary": "info/activities/act46side/level_act46side_06_beg",
+  "title": "绿翡翠"
+}

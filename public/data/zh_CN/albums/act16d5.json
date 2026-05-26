@@ -1,0 +1,312 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act16d5",
+      "avgTag": "幕间",
+      "code": "WR-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-ST-1_一钳之恩/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-ST-1_%E4%B8%80%E9%92%B3%E4%B9%8B%E6%81%A9/NBT"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_st01",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_st01.json",
+      "sort": 1,
+      "title": "一钳之恩"
+    },
+    {
+      "albumId": "act16d5",
+      "avgTag": "行动前",
+      "code": "WR-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-1_初醒/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-1_%E5%88%9D%E9%86%92/BEG"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_01_beg",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_01_beg.json",
+      "sort": 2,
+      "title": "初醒"
+    },
+    {
+      "albumId": "act16d5",
+      "avgTag": "行动后",
+      "code": "WR-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-1_初醒/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-1_%E5%88%9D%E9%86%92/END"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_01_end",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_01_end.json",
+      "sort": 3,
+      "title": "初醒"
+    },
+    {
+      "albumId": "act16d5",
+      "avgTag": "行动前",
+      "code": "WR-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-2_墨魉/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-2_%E5%A2%A8%E9%AD%89/BEG"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_02_beg",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_02_beg.json",
+      "sort": 4,
+      "title": "墨魉"
+    },
+    {
+      "albumId": "act16d5",
+      "avgTag": "行动后",
+      "code": "WR-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-2_墨魉/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-2_%E5%A2%A8%E9%AD%89/END"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_02_end",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_02_end.json",
+      "sort": 5,
+      "title": "墨魉"
+    },
+    {
+      "albumId": "act16d5",
+      "avgTag": "行动前",
+      "code": "WR-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-4_掌柜/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-4_%E6%8E%8C%E6%9F%9C/BEG"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_04_beg",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_04_beg.json",
+      "sort": 6,
+      "title": "掌柜"
+    },
+    {
+      "albumId": "act16d5",
+      "avgTag": "行动后",
+      "code": "WR-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-4_掌柜/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-4_%E6%8E%8C%E6%9F%9C/END"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_04_end",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_04_end.json",
+      "sort": 7,
+      "title": "掌柜"
+    },
+    {
+      "albumId": "act16d5",
+      "avgTag": "行动前",
+      "code": "WR-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-5_拙山/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-5_%E6%8B%99%E5%B1%B1/BEG"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_05_beg",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_05_beg.json",
+      "sort": 8,
+      "title": "拙山"
+    },
+    {
+      "albumId": "act16d5",
+      "avgTag": "行动后",
+      "code": "WR-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-5_拙山/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-5_%E6%8B%99%E5%B1%B1/END"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_05_end",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_05_end.json",
+      "sort": 9,
+      "title": "拙山"
+    },
+    {
+      "albumId": "act16d5",
+      "avgTag": "幕间",
+      "code": "WR-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-ST-2_一日之祸/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-ST-2_%E4%B8%80%E6%97%A5%E4%B9%8B%E7%A5%B8/NBT"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_st02",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_st02.json",
+      "sort": 10,
+      "title": "一日之祸"
+    },
+    {
+      "albumId": "act16d5",
+      "avgTag": "行动前",
+      "code": "WR-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-6_画中/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-6_%E7%94%BB%E4%B8%AD/BEG"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_06_beg",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_06_beg.json",
+      "sort": 11,
+      "title": "画中"
+    },
+    {
+      "albumId": "act16d5",
+      "avgTag": "行动后",
+      "code": "WR-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-6_画中/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-6_%E7%94%BB%E4%B8%AD/END"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_06_end",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_06_end.json",
+      "sort": 12,
+      "title": "画中"
+    },
+    {
+      "albumId": "act16d5",
+      "avgTag": "行动前",
+      "code": "WR-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-8_大梦/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-8_%E5%A4%A7%E6%A2%A6/BEG"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_08_beg",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_08_beg.json",
+      "sort": 13,
+      "title": "大梦"
+    },
+    {
+      "albumId": "act16d5",
+      "avgTag": "行动后",
+      "code": "WR-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-8_大梦/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-8_%E5%A4%A7%E6%A2%A6/END"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_08_end",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_08_end.json",
+      "sort": 14,
+      "title": "大梦"
+    },
+    {
+      "albumId": "act16d5",
+      "avgTag": "行动前",
+      "code": "WR-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-10_夕/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-10_%E5%A4%95/BEG"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_10_beg",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_10_beg.json",
+      "sort": 15,
+      "title": "夕"
+    },
+    {
+      "albumId": "act16d5",
+      "avgTag": "行动后",
+      "code": "WR-10",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-10_夕/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-10_%E5%A4%95/END"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_10_end",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_10_end.json",
+      "sort": 16,
+      "title": "夕"
+    },
+    {
+      "albumId": "act16d5",
+      "avgTag": "幕间",
+      "code": "WR-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "WR-ST-3_一问之答/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WR-ST-3_%E4%B8%80%E9%97%AE%E4%B9%8B%E7%AD%94/NBT"
+      },
+      "downloadable": true,
+      "id": "act16d5--activities__act16d5__level_act16d5_st03",
+      "path": "chapters/act16d5--activities__act16d5__level_act16d5_st03.json",
+      "sort": 17,
+      "title": "一问之答"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_who_is_real",
+    "primaryImageId": "kv_who_is_real",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act16d5",
+    "titleImageId": "title_who_is_real",
+    "url": "https://media.prts.wiki/a/a0/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%94%BB%E4%B8%AD%E4%BA%BA.png"
+  },
+  "extras": [],
+  "gameOrderRank": 2009,
+  "homeSection": "sideStory",
+  "id": "act16d5",
+  "music": {
+    "arcTitle": "岁岁今朝",
+    "movementTitle": "岁岁今朝",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_12",
+      "tag_14"
+    ]
+  },
+  "slug": "act16d5",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1612512000,
+  "summary": "受到年的委托而来到大炎的炎熔与克洛丝，\n在荒野上偶遇了遇难的炎国人乌有。\n三人一齐按照线索寻访灰齐山，想要找到年的妹妹。\n小小的茅屋，在推门而入的刹那才发现竟别有天地。\n回过神来，已经身处一处风貌古朴的炎国小镇。\n日月同悬，墨魉侵袭。一位神秘僧人，道破天机：\n真真假假，假假真真，你我皆是画中人罢了。",
+  "timelineRank": 1612512000,
+  "title": "画中人"
+}

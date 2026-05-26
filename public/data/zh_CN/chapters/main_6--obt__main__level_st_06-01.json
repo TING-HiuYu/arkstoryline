@@ -1,0 +1,21 @@
+{
+  "albumId": "main_6",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "6-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "6-6_别说过去的事/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/6-6_%E5%88%AB%E8%AF%B4%E8%BF%87%E5%8E%BB%E7%9A%84%E4%BA%8B/NBT"
+  },
+  "id": "main_6--obt__main__level_st_06-01",
+  "navigation": {
+    "nextChapterId": "main_6--obt__main__level_main_06-06_beg",
+    "previousChapterId": "main_6--obt__main__level_main_06-05_end"
+  },
+  "subtitle": "6-6",
+  "summary": "info/obt/main/level_st_06-01",
+  "title": "别说过去的事"
+}

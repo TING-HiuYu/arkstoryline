@@ -1,0 +1,21 @@
+{
+  "albumId": "act17side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "SN-ST-12",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SN-ST-12_格兰法洛/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-ST-12_%E6%A0%BC%E5%85%B0%E6%B3%95%E6%B4%9B/NBT"
+  },
+  "id": "act17side--activities__act17side__level_act17side_st12",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act17side--activities__act17side__level_act17side_10_end"
+  },
+  "subtitle": "SN-ST-12",
+  "summary": "info/activities/act17side/level_act17side_st12",
+  "title": "格兰法洛"
+}

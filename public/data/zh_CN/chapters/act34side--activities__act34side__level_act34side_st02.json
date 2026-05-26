@@ -1,0 +1,21 @@
+{
+  "albumId": "act34side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "BP-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BP-ST-2_如海流倒灌/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BP-ST-2_%E5%A6%82%E6%B5%B7%E6%B5%81%E5%80%92%E7%81%8C/NBT"
+  },
+  "id": "act34side--activities__act34side__level_act34side_st02",
+  "navigation": {
+    "nextChapterId": "act34side--activities__act34side__level_act34side_07_beg",
+    "previousChapterId": "act34side--activities__act34side__level_act34side_06_end"
+  },
+  "subtitle": "BP-ST-2",
+  "summary": "info/activities/act34side/level_act34side_st02",
+  "title": "如海流倒灌"
+}

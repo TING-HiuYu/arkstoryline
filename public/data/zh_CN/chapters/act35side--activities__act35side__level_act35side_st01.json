@@ -1,0 +1,21 @@
+{
+  "albumId": "act35side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "AS-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AS-ST-1_辉煌之城/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AS-ST-1_%E8%BE%89%E7%85%8C%E4%B9%8B%E5%9F%8E/NBT"
+  },
+  "id": "act35side--activities__act35side__level_act35side_st01",
+  "navigation": {
+    "nextChapterId": "act35side--activities__act35side__level_act35side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "AS-ST-1",
+  "summary": "info/activities/act35side/level_act35side_st01",
+  "title": "辉煌之城"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "R8-11",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "R8-11_落雪，浸黑国土/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/R8-11_%E8%90%BD%E9%9B%AA%EF%BC%8C%E6%B5%B8%E9%BB%91%E5%9B%BD%E5%9C%9F/BEG"
+  },
+  "id": "main_8--obt__main__level_main_08-13_beg",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_main_08-13_end",
+    "previousChapterId": "main_8--obt__main__level_main_08-12_end"
+  },
+  "subtitle": "R8-11",
+  "summary": "info/obt/main/level_main_08-13_beg",
+  "title": "落雪，浸黑国土"
+}

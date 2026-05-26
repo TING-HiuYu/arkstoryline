@@ -1,0 +1,21 @@
+{
+  "albumId": "main_9",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "9-18",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "9-18_“破晓”/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/9-18_%E2%80%9C%E7%A0%B4%E6%99%93%E2%80%9D/END"
+  },
+  "id": "main_9--obt__main__level_main_09-16_end",
+  "navigation": {
+    "nextChapterId": "main_9--obt__main__level_main_09-17_beg",
+    "previousChapterId": "main_9--obt__main__level_main_09-12_beg"
+  },
+  "subtitle": "9-18",
+  "summary": "info/obt/main/level_main_09-16_end",
+  "title": "“破晓”"
+}

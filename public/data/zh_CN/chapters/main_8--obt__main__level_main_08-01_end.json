@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "R8-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "R8-1_昨日，谷壳将裂/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/R8-1_%E6%98%A8%E6%97%A5%EF%BC%8C%E8%B0%B7%E5%A3%B3%E5%B0%86%E8%A3%82/END"
+  },
+  "id": "main_8--obt__main__level_main_08-01_end",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_st_08-01",
+    "previousChapterId": "main_8--obt__main__level_main_08-01_beg"
+  },
+  "subtitle": "R8-1",
+  "summary": "info/obt/main/level_main_08-01_end",
+  "title": "昨日，谷壳将裂"
+}

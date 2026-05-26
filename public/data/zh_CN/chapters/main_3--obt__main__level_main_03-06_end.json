@@ -1,0 +1,21 @@
+{
+  "albumId": "main_3",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "3-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "3-6_决定/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/3-6_%E5%86%B3%E5%AE%9A/END"
+  },
+  "id": "main_3--obt__main__level_main_03-06_end",
+  "navigation": {
+    "nextChapterId": "main_3--obt__main__level_main_03-07_beg",
+    "previousChapterId": "main_3--obt__main__level_main_03-06_beg"
+  },
+  "subtitle": "3-6",
+  "summary": "info/obt/main/level_main_03-06_end",
+  "title": "决定"
+}

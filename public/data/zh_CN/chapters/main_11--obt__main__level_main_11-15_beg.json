@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "11-17",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-17_回答我/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-17_%E5%9B%9E%E7%AD%94%E6%88%91/BEG"
+  },
+  "id": "main_11--obt__main__level_main_11-15_beg",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_main_11-15_end",
+    "previousChapterId": "main_11--obt__main__level_main_11-14_end"
+  },
+  "subtitle": "11-17",
+  "summary": "info/obt/main/level_main_11-15_beg",
+  "title": "回答我"
+}

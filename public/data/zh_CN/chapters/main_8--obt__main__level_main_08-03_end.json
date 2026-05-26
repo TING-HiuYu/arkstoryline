@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "R8-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "R8-3_麦秆，极易燃烧/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/R8-3_%E9%BA%A6%E7%A7%86%EF%BC%8C%E6%9E%81%E6%98%93%E7%87%83%E7%83%A7/END"
+  },
+  "id": "main_8--obt__main__level_main_08-03_end",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_st_08-02",
+    "previousChapterId": "main_8--obt__main__level_main_08-03_beg"
+  },
+  "subtitle": "R8-3",
+  "summary": "info/obt/main/level_main_08-03_end",
+  "title": "麦秆，极易燃烧"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act38side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "PV-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PV-7_揭幕时刻/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-7_%E6%8F%AD%E5%B9%95%E6%97%B6%E5%88%BB/END"
+  },
+  "id": "act38side--activities__act38side__level_act38side_07_end",
+  "navigation": {
+    "nextChapterId": "act38side--activities__act38side__level_act38side_08_beg",
+    "previousChapterId": "act38side--activities__act38side__level_act38side_07_beg"
+  },
+  "subtitle": "PV-7",
+  "summary": "info/activities/act38side/level_act38side_07_end",
+  "title": "揭幕时刻"
+}

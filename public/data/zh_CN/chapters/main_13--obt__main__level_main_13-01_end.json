@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "13-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "13-2_眼前的伤/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-2_%E7%9C%BC%E5%89%8D%E7%9A%84%E4%BC%A4/END"
+  },
+  "id": "main_13--obt__main__level_main_13-01_end",
+  "navigation": {
+    "nextChapterId": "main_13--obt__main__level_main_13-02_beg",
+    "previousChapterId": "main_13--obt__main__level_main_13-01_beg"
+  },
+  "subtitle": "13-2",
+  "summary": "info/obt/main/level_main_13-01_end",
+  "title": "眼前的伤"
+}

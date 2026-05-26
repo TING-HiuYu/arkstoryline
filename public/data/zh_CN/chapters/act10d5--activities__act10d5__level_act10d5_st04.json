@@ -1,0 +1,19 @@
+{
+  "albumId": "act10d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SV-ST4_表里不一/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-ST4_%E8%A1%A8%E9%87%8C%E4%B8%8D%E4%B8%80/NBT"
+  },
+  "id": "act10d5--activities__act10d5__level_act10d5_st04",
+  "navigation": {
+    "nextChapterId": "act10d5--activities__act10d5__level_act10d5_st05",
+    "previousChapterId": "act10d5--activities__act10d5__level_act10d5_st03"
+  },
+  "summary": "info/activities/act10d5/level_act10d5_st04",
+  "title": "表里不一"
+}

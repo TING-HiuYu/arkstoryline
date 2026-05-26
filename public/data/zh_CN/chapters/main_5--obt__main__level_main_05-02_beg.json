@@ -1,0 +1,21 @@
+{
+  "albumId": "main_5",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "5-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "5-2_有口难言/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/5-2_%E6%9C%89%E5%8F%A3%E9%9A%BE%E8%A8%80/BEG"
+  },
+  "id": "main_5--obt__main__level_main_05-02_beg",
+  "navigation": {
+    "nextChapterId": "main_5--obt__main__level_main_05-02_end",
+    "previousChapterId": "main_5--obt__main__level_main_05-01_end"
+  },
+  "subtitle": "5-2",
+  "summary": "info/obt/main/level_main_05-02_beg",
+  "title": "有口难言"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act43side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "AD-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AD-3_戏剧性/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AD-3_%E6%88%8F%E5%89%A7%E6%80%A7/BEG"
+  },
+  "id": "act43side--activities__act43side__level_act43side_03_beg",
+  "navigation": {
+    "nextChapterId": "act43side--activities__act43side__level_act43side_03_end",
+    "previousChapterId": "act43side--activities__act43side__level_act43side_02_end"
+  },
+  "subtitle": "AD-3",
+  "summary": "info/activities/act43side/level_act43side_03_beg",
+  "title": "戏剧性"
+}

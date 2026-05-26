@@ -1,0 +1,21 @@
+{
+  "albumId": "act41side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "EA-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EA-7_烧灯者/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-7_%E7%83%A7%E7%81%AF%E8%80%85/BEG"
+  },
+  "id": "act41side--activities__act41side__level_act41side_07_beg",
+  "navigation": {
+    "nextChapterId": "act41side--activities__act41side__level_act41side_07_end",
+    "previousChapterId": "act41side--activities__act41side__level_act41side_st02"
+  },
+  "subtitle": "EA-7",
+  "summary": "info/activities/act41side/level_act41side_07_beg",
+  "title": "烧灯者"
+}

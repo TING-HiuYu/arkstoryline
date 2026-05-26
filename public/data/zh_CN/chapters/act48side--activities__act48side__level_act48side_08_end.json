@@ -1,0 +1,21 @@
+{
+  "albumId": "act48side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "ME-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ME-8_神谕示显/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ME-8_%E7%A5%9E%E8%B0%95%E7%A4%BA%E6%98%BE/END"
+  },
+  "id": "act48side--activities__act48side__level_act48side_08_end",
+  "navigation": {
+    "nextChapterId": "act48side--activities__act48side__level_act48side_st03",
+    "previousChapterId": "act48side--activities__act48side__level_act48side_08_beg"
+  },
+  "subtitle": "ME-8",
+  "summary": "info/activities/act48side/level_act48side_08_end",
+  "title": "神谕示显"
+}

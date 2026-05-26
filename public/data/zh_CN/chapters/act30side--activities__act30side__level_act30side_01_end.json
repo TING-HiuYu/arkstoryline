@@ -1,0 +1,21 @@
+{
+  "albumId": "act30side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RS-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RS-1_注意事项/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RS-1_%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/END"
+  },
+  "id": "act30side--activities__act30side__level_act30side_01_end",
+  "navigation": {
+    "nextChapterId": "act30side--activities__act30side__level_act30side_02_beg",
+    "previousChapterId": "act30side--activities__act30side__level_act30side_01_beg"
+  },
+  "subtitle": "RS-1",
+  "summary": "info/activities/act30side/level_act30side_01_end",
+  "title": "注意事项"
+}

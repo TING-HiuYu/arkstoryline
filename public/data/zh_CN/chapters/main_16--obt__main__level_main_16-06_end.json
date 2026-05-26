@@ -1,0 +1,21 @@
+{
+  "albumId": "main_16",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "16-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "16-6_痛觉明灭/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/16-6_%E7%97%9B%E8%A7%89%E6%98%8E%E7%81%AD/END"
+  },
+  "id": "main_16--obt__main__level_main_16-06_end",
+  "navigation": {
+    "nextChapterId": "main_16--obt__main__level_main_16-07_beg",
+    "previousChapterId": "main_16--obt__main__level_main_16-05_beg"
+  },
+  "subtitle": "16-6",
+  "summary": "info/obt/main/level_main_16-06_end",
+  "title": "痛觉明灭"
+}

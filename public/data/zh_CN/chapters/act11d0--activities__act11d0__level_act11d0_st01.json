@@ -1,0 +1,21 @@
+{
+  "albumId": "act11d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "TW-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TW-ST-1_老栎树下/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TW-ST-1_%E8%80%81%E6%A0%8E%E6%A0%91%E4%B8%8B/NBT"
+  },
+  "id": "act11d0--activities__act11d0__level_act11d0_st01",
+  "navigation": {
+    "nextChapterId": "act11d0--activities__act11d0__level_act11d0_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "TW-ST-1",
+  "summary": "info/activities/act11d0/level_act11d0_st01",
+  "title": "老栎树下"
+}

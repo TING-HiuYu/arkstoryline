@@ -1,0 +1,21 @@
+{
+  "albumId": "act3d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "OF-ST6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OF-ST6_邂逅潮声/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-ST6_%E9%82%82%E9%80%85%E6%BD%AE%E5%A3%B0/NBT"
+  },
+  "id": "act3d0--activities__act11d7__level_act11d7_st01",
+  "navigation": {
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_ex01_end",
+    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_st05"
+  },
+  "subtitle": "OF-ST6",
+  "summary": "info/activities/act11d7/level_act11d7_st01",
+  "title": "邂逅潮声"
+}

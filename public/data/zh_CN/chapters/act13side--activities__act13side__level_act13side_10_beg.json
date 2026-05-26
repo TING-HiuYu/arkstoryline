@@ -1,0 +1,21 @@
+{
+  "albumId": "act13side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "NL-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "NL-10_耀骑士/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/NL-10_%E8%80%80%E9%AA%91%E5%A3%AB/BEG"
+  },
+  "id": "act13side--activities__act13side__level_act13side_10_beg",
+  "navigation": {
+    "nextChapterId": "act13side--activities__act13side__level_act13side_10_end",
+    "previousChapterId": "act13side--activities__act13side__level_act13side_09_end"
+  },
+  "subtitle": "NL-10",
+  "summary": "info/activities/act13side/level_act13side_10_beg",
+  "title": "耀骑士"
+}

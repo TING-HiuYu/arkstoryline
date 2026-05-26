@@ -1,0 +1,21 @@
+{
+  "albumId": "main_2",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "2-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "2-8_不做约定/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/2-8_%E4%B8%8D%E5%81%9A%E7%BA%A6%E5%AE%9A/BEG"
+  },
+  "id": "main_2--obt__main__level_main_02-08_beg",
+  "navigation": {
+    "nextChapterId": "main_2--obt__main__level_main_02-08_end",
+    "previousChapterId": "main_2--obt__main__level_main_02-07_end"
+  },
+  "subtitle": "2-8",
+  "summary": "info/obt/main/level_main_02-08_beg",
+  "title": "不做约定"
+}

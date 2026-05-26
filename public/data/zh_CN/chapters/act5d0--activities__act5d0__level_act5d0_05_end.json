@@ -1,0 +1,21 @@
+{
+  "albumId": "act5d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CB-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CB-5_8:31P.M./END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-5_8%3A31P.M./END"
+  },
+  "id": "act5d0--activities__act5d0__level_act5d0_05_end",
+  "navigation": {
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_st01",
+    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_05_beg"
+  },
+  "subtitle": "CB-5",
+  "summary": "info/activities/act5d0/level_act5d0_05_end",
+  "title": "8:31P.M."
+}

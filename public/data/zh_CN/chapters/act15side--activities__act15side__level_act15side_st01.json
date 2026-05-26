@@ -1,0 +1,21 @@
+{
+  "albumId": "act15side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "IW-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IW-ST-1_客将至/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-ST-1_%E5%AE%A2%E5%B0%86%E8%87%B3/NBT"
+  },
+  "id": "act15side--activities__act15side__level_act15side_st01",
+  "navigation": {
+    "nextChapterId": "act15side--activities__act15side__level_act15side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "IW-ST-1",
+  "summary": "info/activities/act15side/level_act15side_st01",
+  "title": "客将至"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-9_气合/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-9_%E6%B0%94%E5%90%88/BEG"
+  },
+  "id": "act49side--activities__act49side__level_act49side_09_beg",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_09_end",
+    "previousChapterId": "act49side--activities__act49side__level_act49side_08_end"
+  },
+  "subtitle": "TA-9",
+  "summary": "info/activities/act49side/level_act49side_09_beg",
+  "title": "气合"
+}

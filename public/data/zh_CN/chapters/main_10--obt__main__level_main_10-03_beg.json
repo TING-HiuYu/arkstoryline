@@ -1,0 +1,21 @@
+{
+  "albumId": "main_10",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "10-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "10-4_鸣铳示警/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-4_%E9%B8%A3%E9%93%B3%E7%A4%BA%E8%AD%A6/BEG"
+  },
+  "id": "main_10--obt__main__level_main_10-03_beg",
+  "navigation": {
+    "nextChapterId": "main_10--obt__main__level_main_10-03_end",
+    "previousChapterId": "main_10--obt__main__level_main_10-02_end"
+  },
+  "subtitle": "10-4",
+  "summary": "info/obt/main/level_main_10-03_beg",
+  "title": "鸣铳示警"
+}

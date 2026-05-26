@@ -1,0 +1,21 @@
+{
+  "albumId": "act24side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CF-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CF-2_坚硬磐石/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CF-2_%E5%9D%9A%E7%A1%AC%E7%A3%90%E7%9F%B3/END"
+  },
+  "id": "act24side--activities__act24side__level_act24side_02_end",
+  "navigation": {
+    "nextChapterId": "act24side--activities__act24side__level_act24side_03_beg",
+    "previousChapterId": "act24side--activities__act24side__level_act24side_02_beg"
+  },
+  "subtitle": "CF-2",
+  "summary": "info/activities/act24side/level_act24side_02_end",
+  "title": "坚硬磐石"
+}

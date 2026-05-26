@@ -1,0 +1,21 @@
+{
+  "albumId": "act18d3",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SV-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SV-5_遭弃者/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-5_%E9%81%AD%E5%BC%83%E8%80%85/END"
+  },
+  "id": "act18d3--activities__act18d3__level_act18d3_05_end",
+  "navigation": {
+    "nextChapterId": "act18d3--activities__act18d3__level_act18d3_06_beg",
+    "previousChapterId": "act18d3--activities__act18d3__level_act18d3_04_beg"
+  },
+  "subtitle": "SV-5",
+  "summary": "info/activities/act18d3/level_act18d3_05_end",
+  "title": "遭弃者"
+}

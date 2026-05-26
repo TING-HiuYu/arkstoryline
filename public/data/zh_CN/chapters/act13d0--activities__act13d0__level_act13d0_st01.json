@@ -1,0 +1,19 @@
+{
+  "albumId": "act13d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FA-ST1_归处/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FA-ST1_%E5%BD%92%E5%A4%84/NBT"
+  },
+  "id": "act13d0--activities__act13d0__level_act13d0_st01",
+  "navigation": {
+    "nextChapterId": "act13d0--activities__act13d0__level_act13d0_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act13d0/level_act13d0_st01",
+  "title": "归处"
+}

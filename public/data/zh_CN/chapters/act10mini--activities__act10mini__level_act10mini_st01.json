@@ -1,0 +1,19 @@
+{
+  "albumId": "act10mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TB-ST1_或许有时/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TB-ST1_%E6%88%96%E8%AE%B8%E6%9C%89%E6%97%B6/NBT"
+  },
+  "id": "act10mini--activities__act10mini__level_act10mini_st01",
+  "navigation": {
+    "nextChapterId": "act10mini--activities__act10mini__level_act10mini_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act10mini/level_act10mini_st01",
+  "title": "或许有时"
+}

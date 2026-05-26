@@ -1,0 +1,21 @@
+{
+  "albumId": "act5d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "CB-EX1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CB-EX1_群架诀窍/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-EX1_%E7%BE%A4%E6%9E%B6%E8%AF%80%E7%AA%8D/END"
+  },
+  "id": "act5d0--activities__act5d0__level_act5d0_ex01_end",
+  "navigation": {
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_ex02_end",
+    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_st03"
+  },
+  "subtitle": "CB-EX1",
+  "summary": "info/activities/act5d0/level_act5d0_ex01_end",
+  "title": "群架诀窍"
+}

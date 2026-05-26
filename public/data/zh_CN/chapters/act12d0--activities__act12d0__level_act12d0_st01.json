@@ -1,0 +1,21 @@
+{
+  "albumId": "act12d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "RI-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RI-ST-1_悍将之心/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RI-ST-1_%E6%82%8D%E5%B0%86%E4%B9%8B%E5%BF%83/NBT"
+  },
+  "id": "act12d0--activities__act12d0__level_act12d0_st01",
+  "navigation": {
+    "nextChapterId": "act12d0--activities__act12d0__level_act12d0_05_beg",
+    "previousChapterId": "act12d0--activities__act12d0__level_act12d0_04_end"
+  },
+  "subtitle": "RI-ST-1",
+  "summary": "info/activities/act12d0/level_act12d0_st01",
+  "title": "悍将之心"
+}

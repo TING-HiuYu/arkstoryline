@@ -1,0 +1,21 @@
+{
+  "albumId": "act21side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IS-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IS-4_苦夜惊雷/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-4_%E8%8B%A6%E5%A4%9C%E6%83%8A%E9%9B%B7/END"
+  },
+  "id": "act21side--activities__act21side__level_act21side_04_end",
+  "navigation": {
+    "nextChapterId": "act21side--activities__act21side__level_act21side_st02",
+    "previousChapterId": "act21side--activities__act21side__level_act21side_04_beg"
+  },
+  "subtitle": "IS-4",
+  "summary": "info/activities/act21side/level_act21side_04_end",
+  "title": "苦夜惊雷"
+}

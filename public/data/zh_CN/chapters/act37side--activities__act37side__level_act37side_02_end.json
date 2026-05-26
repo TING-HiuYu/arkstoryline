@@ -1,0 +1,21 @@
+{
+  "albumId": "act37side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "GO-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GO-2_痼疾缠身/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GO-2_%E7%97%BC%E7%96%BE%E7%BC%A0%E8%BA%AB/END"
+  },
+  "id": "act37side--activities__act37side__level_act37side_02_end",
+  "navigation": {
+    "nextChapterId": "act37side--activities__act37side__level_act37side_03_beg",
+    "previousChapterId": "act37side--activities__act37side__level_act37side_02_beg"
+  },
+  "subtitle": "GO-2",
+  "summary": "info/activities/act37side/level_act37side_02_end",
+  "title": "痼疾缠身"
+}

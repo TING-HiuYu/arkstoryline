@@ -1,0 +1,21 @@
+{
+  "albumId": "act19side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "DV-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DV-3_动力装甲/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DV-3_%E5%8A%A8%E5%8A%9B%E8%A3%85%E7%94%B2/BEG"
+  },
+  "id": "act19side--activities__act19side__level_act19side_03_beg",
+  "navigation": {
+    "nextChapterId": "act19side--activities__act19side__level_act19side_03_end",
+    "previousChapterId": "act19side--activities__act19side__level_act19side_02_end"
+  },
+  "subtitle": "DV-3",
+  "summary": "info/activities/act19side/level_act19side_03_beg",
+  "title": "动力装甲"
+}

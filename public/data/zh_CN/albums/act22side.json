@@ -1,0 +1,328 @@
+{
+  "albumKind": "intermezzi",
+  "chapters": [
+    {
+      "albumId": "act22side",
+      "avgTag": "幕间",
+      "code": "FC-ST-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-ST-1_荒地钟声/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-ST-1_%E8%8D%92%E5%9C%B0%E9%92%9F%E5%A3%B0/NBT"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_st01",
+      "path": "chapters/act22side--activities__act22side__level_act22side_st01.json",
+      "sort": 1,
+      "title": "荒地钟声"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "行动前",
+      "code": "FC-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-1_逃离与追逐/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-1_%E9%80%83%E7%A6%BB%E4%B8%8E%E8%BF%BD%E9%80%90/BEG"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_01_beg",
+      "path": "chapters/act22side--activities__act22side__level_act22side_01_beg.json",
+      "sort": 2,
+      "title": "逃离与追逐"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "行动后",
+      "code": "FC-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-1_逃离与追逐/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-1_%E9%80%83%E7%A6%BB%E4%B8%8E%E8%BF%BD%E9%80%90/END"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_01_end",
+      "path": "chapters/act22side--activities__act22side__level_act22side_01_end.json",
+      "sort": 3,
+      "title": "逃离与追逐"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "行动前",
+      "code": "FC-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-2_不幸重逢/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-2_%E4%B8%8D%E5%B9%B8%E9%87%8D%E9%80%A2/BEG"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_02_beg",
+      "path": "chapters/act22side--activities__act22side__level_act22side_02_beg.json",
+      "sort": 4,
+      "title": "不幸重逢"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "行动后",
+      "code": "FC-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-2_不幸重逢/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-2_%E4%B8%8D%E5%B9%B8%E9%87%8D%E9%80%A2/END"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_02_end",
+      "path": "chapters/act22side--activities__act22side__level_act22side_02_end.json",
+      "sort": 5,
+      "title": "不幸重逢"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "行动前",
+      "code": "FC-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-3_引燃草垛/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-3_%E5%BC%95%E7%87%83%E8%8D%89%E5%9E%9B/BEG"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_03_beg",
+      "path": "chapters/act22side--activities__act22side__level_act22side_03_beg.json",
+      "sort": 6,
+      "title": "引燃草垛"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "行动后",
+      "code": "FC-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-3_引燃草垛/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-3_%E5%BC%95%E7%87%83%E8%8D%89%E5%9E%9B/END"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_03_end",
+      "path": "chapters/act22side--activities__act22side__level_act22side_03_end.json",
+      "sort": 7,
+      "title": "引燃草垛"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "行动前",
+      "code": "FC-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-4_热灼梦/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-4_%E7%83%AD%E7%81%BC%E6%A2%A6/BEG"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_04_beg",
+      "path": "chapters/act22side--activities__act22side__level_act22side_04_beg.json",
+      "sort": 8,
+      "title": "热灼梦"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "行动后",
+      "code": "FC-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-4_热灼梦/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-4_%E7%83%AD%E7%81%BC%E6%A2%A6/END"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_04_end",
+      "path": "chapters/act22side--activities__act22side__level_act22side_04_end.json",
+      "sort": 9,
+      "title": "热灼梦"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "行动前",
+      "code": "FC-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-5_祝福的歌谣/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-5_%E7%A5%9D%E7%A6%8F%E7%9A%84%E6%AD%8C%E8%B0%A3/BEG"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_05_beg",
+      "path": "chapters/act22side--activities__act22side__level_act22side_05_beg.json",
+      "sort": 10,
+      "title": "祝福的歌谣"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "行动后",
+      "code": "FC-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-5_祝福的歌谣/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-5_%E7%A5%9D%E7%A6%8F%E7%9A%84%E6%AD%8C%E8%B0%A3/END"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_05_end",
+      "path": "chapters/act22side--activities__act22side__level_act22side_05_end.json",
+      "sort": 11,
+      "title": "祝福的歌谣"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "行动后",
+      "code": "FC-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-6_无人知晓/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-6_%E6%97%A0%E4%BA%BA%E7%9F%A5%E6%99%93/END"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_06_end",
+      "path": "chapters/act22side--activities__act22side__level_act22side_06_end.json",
+      "sort": 12,
+      "title": "无人知晓"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "行动前",
+      "code": "FC-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-7_生灵火花/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-7_%E7%94%9F%E7%81%B5%E7%81%AB%E8%8A%B1/BEG"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_07_beg",
+      "path": "chapters/act22side--activities__act22side__level_act22side_07_beg.json",
+      "sort": 13,
+      "title": "生灵火花"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "行动后",
+      "code": "FC-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-7_生灵火花/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-7_%E7%94%9F%E7%81%B5%E7%81%AB%E8%8A%B1/END"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_07_end",
+      "path": "chapters/act22side--activities__act22side__level_act22side_07_end.json",
+      "sort": 14,
+      "title": "生灵火花"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "幕间",
+      "code": "FC-ST-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-ST-2_自灰烬之中/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-ST-2_%E8%87%AA%E7%81%B0%E7%83%AC%E4%B9%8B%E4%B8%AD/NBT"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_st02",
+      "path": "chapters/act22side--activities__act22side__level_act22side_st02.json",
+      "sort": 15,
+      "title": "自灰烬之中"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "行动前",
+      "code": "FC-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-8_她的影子/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-8_%E5%A5%B9%E7%9A%84%E5%BD%B1%E5%AD%90/BEG"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_08_beg",
+      "path": "chapters/act22side--activities__act22side__level_act22side_08_beg.json",
+      "sort": 16,
+      "title": "她的影子"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "行动后",
+      "code": "FC-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-8_她的影子/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-8_%E5%A5%B9%E7%9A%84%E5%BD%B1%E5%AD%90/END"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_08_end",
+      "path": "chapters/act22side--activities__act22side__level_act22side_08_end.json",
+      "sort": 17,
+      "title": "她的影子"
+    },
+    {
+      "albumId": "act22side",
+      "avgTag": "幕间",
+      "code": "FC-ST-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "FC-ST-3_一声呜咽/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/FC-ST-3_%E4%B8%80%E5%A3%B0%E5%91%9C%E5%92%BD/NBT"
+      },
+      "downloadable": true,
+      "id": "act22side--activities__act22side__level_act22side_st03",
+      "path": "chapters/act22side--activities__act22side__level_act22side_st03.json",
+      "sort": 18,
+      "title": "一声呜咽"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_what_the_firelight_casts",
+    "primaryImageId": "kv_what_the_firelight_casts",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act22side",
+    "titleImageId": "title_what_the_firelight_casts",
+    "url": "https://media.prts.wiki/0/05/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%85%A7%E6%88%91%E4%BB%A5%E7%81%AB.png"
+  },
+  "extras": [],
+  "gameOrderRank": 4008,
+  "homeSection": "sideStory",
+  "id": "act22side",
+  "music": {
+    "arcTitle": "薪火重燃",
+    "movementTitle": "薪火重燃",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": [
+      "tag_12",
+      "tag_16"
+    ]
+  },
+  "slug": "act22side",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1671076800,
+  "summary": "塔拉，一个定义模糊的地区，一片泥泞的沼泽......\n一处只能在旧歌谣中寻得的家园。\n她曾经从这里逃离，如今埋藏了所有身份又回到这里。\n“鬼魂”正从阴影中浮现，深池的行军正在土地上留下焦痕。\n被血脉赋予生命之火的红龙，必须负担起生命之重。\n是怎样的火照亮了我？如今的我，是谁的影子？",
+  "timelineRank": 1671076800,
+  "title": "照我以火"
+}

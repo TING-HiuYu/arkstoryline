@@ -1,0 +1,19 @@
+{
+  "albumId": "act15d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BH-ST2_荒野路漫漫/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BH-ST2_%E8%8D%92%E9%87%8E%E8%B7%AF%E6%BC%AB%E6%BC%AB/NBT"
+  },
+  "id": "act15d5--activities__act15d5__level_act15d5_st02",
+  "navigation": {
+    "nextChapterId": "act15d5--activities__act15d5__level_act15d5_st03",
+    "previousChapterId": "act15d5--activities__act15d5__level_act15d5_st01"
+  },
+  "summary": "info/activities/act15d5/level_act15d5_st02",
+  "title": "荒野路漫漫"
+}

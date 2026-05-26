@@ -1,0 +1,21 @@
+{
+  "albumId": "main_14",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "14-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "14-9_应对饱和打击/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-9_%E5%BA%94%E5%AF%B9%E9%A5%B1%E5%92%8C%E6%89%93%E5%87%BB/BEG"
+  },
+  "id": "main_14--obt__main__level_main_14-08_beg",
+  "navigation": {
+    "nextChapterId": "main_14--obt__main__level_main_14-08_end",
+    "previousChapterId": "main_14--obt__main__level_main_14-07_end"
+  },
+  "subtitle": "14-9",
+  "summary": "info/obt/main/level_main_14-08_beg",
+  "title": "应对饱和打击"
+}

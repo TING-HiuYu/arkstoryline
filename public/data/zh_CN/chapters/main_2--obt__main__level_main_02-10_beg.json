@@ -1,0 +1,21 @@
+{
+  "albumId": "main_2",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "2-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "2-10_病入膏肓/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/2-10_%E7%97%85%E5%85%A5%E8%86%8F%E8%82%93/BEG"
+  },
+  "id": "main_2--obt__main__level_main_02-10_beg",
+  "navigation": {
+    "nextChapterId": "main_2--obt__main__level_main_02-10_end",
+    "previousChapterId": "main_2--obt__main__level_main_02-09_end"
+  },
+  "subtitle": "2-10",
+  "summary": "info/obt/main/level_main_02-10_beg",
+  "title": "病入膏肓"
+}

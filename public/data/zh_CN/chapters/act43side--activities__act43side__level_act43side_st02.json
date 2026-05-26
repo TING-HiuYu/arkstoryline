@@ -1,0 +1,21 @@
+{
+  "albumId": "act43side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "AD-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AD-ST-2_焦点/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AD-ST-2_%E7%84%A6%E7%82%B9/NBT"
+  },
+  "id": "act43side--activities__act43side__level_act43side_st02",
+  "navigation": {
+    "nextChapterId": "act43side--activities__act43side__level_act43side_05_beg",
+    "previousChapterId": "act43side--activities__act43side__level_act43side_04_end"
+  },
+  "subtitle": "AD-ST-2",
+  "summary": "info/activities/act43side/level_act43side_st02",
+  "title": "焦点"
+}

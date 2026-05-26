@@ -1,0 +1,292 @@
+{
+  "albumKind": "mainline",
+  "chapters": [
+    {
+      "albumId": "main_3",
+      "avgTag": "行动前",
+      "code": "3-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "3-1_会合/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/3-1_%E4%BC%9A%E5%90%88/BEG"
+      },
+      "downloadable": true,
+      "id": "main_3--obt__main__level_main_03-01_beg",
+      "path": "chapters/main_3--obt__main__level_main_03-01_beg.json",
+      "sort": 1,
+      "title": "会合"
+    },
+    {
+      "albumId": "main_3",
+      "avgTag": "行动后",
+      "code": "3-1",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "3-1_会合/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/3-1_%E4%BC%9A%E5%90%88/END"
+      },
+      "downloadable": true,
+      "id": "main_3--obt__main__level_main_03-01_end",
+      "path": "chapters/main_3--obt__main__level_main_03-01_end.json",
+      "sort": 2,
+      "title": "会合"
+    },
+    {
+      "albumId": "main_3",
+      "avgTag": "行动前",
+      "code": "3-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "3-2_记忆/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/3-2_%E8%AE%B0%E5%BF%86/BEG"
+      },
+      "downloadable": true,
+      "id": "main_3--obt__main__level_main_03-02_beg",
+      "path": "chapters/main_3--obt__main__level_main_03-02_beg.json",
+      "sort": 3,
+      "title": "记忆"
+    },
+    {
+      "albumId": "main_3",
+      "avgTag": "行动后",
+      "code": "3-2",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "3-2_记忆/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/3-2_%E8%AE%B0%E5%BF%86/END"
+      },
+      "downloadable": true,
+      "id": "main_3--obt__main__level_main_03-02_end",
+      "path": "chapters/main_3--obt__main__level_main_03-02_end.json",
+      "sort": 4,
+      "title": "记忆"
+    },
+    {
+      "albumId": "main_3",
+      "avgTag": "行动前",
+      "code": "3-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "3-3_回旋/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/3-3_%E5%9B%9E%E6%97%8B/BEG"
+      },
+      "downloadable": true,
+      "id": "main_3--obt__main__level_main_03-03_beg",
+      "path": "chapters/main_3--obt__main__level_main_03-03_beg.json",
+      "sort": 5,
+      "title": "回旋"
+    },
+    {
+      "albumId": "main_3",
+      "avgTag": "行动后",
+      "code": "3-3",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "3-3_回旋/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/3-3_%E5%9B%9E%E6%97%8B/END"
+      },
+      "downloadable": true,
+      "id": "main_3--obt__main__level_main_03-03_end",
+      "path": "chapters/main_3--obt__main__level_main_03-03_end.json",
+      "sort": 6,
+      "title": "回旋"
+    },
+    {
+      "albumId": "main_3",
+      "avgTag": "行动前",
+      "code": "3-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "3-4_龟裂/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/3-4_%E9%BE%9F%E8%A3%82/BEG"
+      },
+      "downloadable": true,
+      "id": "main_3--obt__main__level_main_03-04_beg",
+      "path": "chapters/main_3--obt__main__level_main_03-04_beg.json",
+      "sort": 7,
+      "title": "龟裂"
+    },
+    {
+      "albumId": "main_3",
+      "avgTag": "行动后",
+      "code": "3-4",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "3-4_龟裂/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/3-4_%E9%BE%9F%E8%A3%82/END"
+      },
+      "downloadable": true,
+      "id": "main_3--obt__main__level_main_03-04_end",
+      "path": "chapters/main_3--obt__main__level_main_03-04_end.json",
+      "sort": 8,
+      "title": "龟裂"
+    },
+    {
+      "albumId": "main_3",
+      "avgTag": "行动前",
+      "code": "3-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "3-5_呼叫/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/3-5_%E5%91%BC%E5%8F%AB/BEG"
+      },
+      "downloadable": true,
+      "id": "main_3--obt__main__level_main_03-05_beg",
+      "path": "chapters/main_3--obt__main__level_main_03-05_beg.json",
+      "sort": 9,
+      "title": "呼叫"
+    },
+    {
+      "albumId": "main_3",
+      "avgTag": "行动后",
+      "code": "3-5",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "3-5_呼叫/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/3-5_%E5%91%BC%E5%8F%AB/END"
+      },
+      "downloadable": true,
+      "id": "main_3--obt__main__level_main_03-05_end",
+      "path": "chapters/main_3--obt__main__level_main_03-05_end.json",
+      "sort": 10,
+      "title": "呼叫"
+    },
+    {
+      "albumId": "main_3",
+      "avgTag": "行动前",
+      "code": "3-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "3-6_决定/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/3-6_%E5%86%B3%E5%AE%9A/BEG"
+      },
+      "downloadable": true,
+      "id": "main_3--obt__main__level_main_03-06_beg",
+      "path": "chapters/main_3--obt__main__level_main_03-06_beg.json",
+      "sort": 11,
+      "title": "决定"
+    },
+    {
+      "albumId": "main_3",
+      "avgTag": "行动后",
+      "code": "3-6",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "3-6_决定/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/3-6_%E5%86%B3%E5%AE%9A/END"
+      },
+      "downloadable": true,
+      "id": "main_3--obt__main__level_main_03-06_end",
+      "path": "chapters/main_3--obt__main__level_main_03-06_end.json",
+      "sort": 12,
+      "title": "决定"
+    },
+    {
+      "albumId": "main_3",
+      "avgTag": "行动前",
+      "code": "3-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "3-7_轰鸣/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/3-7_%E8%BD%B0%E9%B8%A3/BEG"
+      },
+      "downloadable": true,
+      "id": "main_3--obt__main__level_main_03-07_beg",
+      "path": "chapters/main_3--obt__main__level_main_03-07_beg.json",
+      "sort": 13,
+      "title": "轰鸣"
+    },
+    {
+      "albumId": "main_3",
+      "avgTag": "行动后",
+      "code": "3-7",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "3-7_轰鸣/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/3-7_%E8%BD%B0%E9%B8%A3/END"
+      },
+      "downloadable": true,
+      "id": "main_3--obt__main__level_main_03-07_end",
+      "path": "chapters/main_3--obt__main__level_main_03-07_end.json",
+      "sort": 14,
+      "title": "轰鸣"
+    },
+    {
+      "albumId": "main_3",
+      "avgTag": "行动前",
+      "code": "3-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "3-8_黄昏/BEG",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/3-8_%E9%BB%84%E6%98%8F/BEG"
+      },
+      "downloadable": true,
+      "id": "main_3--obt__main__level_main_03-08_beg",
+      "path": "chapters/main_3--obt__main__level_main_03-08_beg.json",
+      "sort": 15,
+      "title": "黄昏"
+    },
+    {
+      "albumId": "main_3",
+      "avgTag": "行动后",
+      "code": "3-8",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "3-8_黄昏/END",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/3-8_%E9%BB%84%E6%98%8F/END"
+      },
+      "downloadable": true,
+      "id": "main_3--obt__main__level_main_03-08_end",
+      "path": "chapters/main_3--obt__main__level_main_03-08_end.json",
+      "sort": 16,
+      "title": "黄昏"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_stinging_shock",
+    "primaryImageId": "kv_stinging_shock",
+    "source": "stage-kv",
+    "titleImageId": "title_stinging_shock",
+    "url": "https://media.prts.wiki/5/5a/%E7%AB%A0%E8%8A%82%E5%90%8D%E7%A7%B0_%E7%AC%AC%E4%B8%89%E7%AB%A0.png"
+  },
+  "extras": [],
+  "gameOrderRank": 1004,
+  "homeSection": "mainline",
+  "id": "main_3",
+  "music": {
+    "arcTitle": "init. 觉醒",
+    "movementTitle": "init. 觉醒",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "main-3",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": -1,
+  "summary": "米莎的真实身份浮出水面，罗德岛对她展开营救。\n被整合运动劫走的米莎，却开始怀疑起来。\n究竟应该选择眼前之人，还是正确之人......\n她就这样站在了悬崖边，做出了自己的决定。",
+  "timelineRank": -1,
+  "title": "二次呼吸"
+}

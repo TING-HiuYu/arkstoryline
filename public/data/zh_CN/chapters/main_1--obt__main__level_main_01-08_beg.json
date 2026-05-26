@@ -1,0 +1,21 @@
+{
+  "albumId": "main_1",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "1-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "1-8_意志/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/1-8_%E6%84%8F%E5%BF%97/BEG"
+  },
+  "id": "main_1--obt__main__level_main_01-08_beg",
+  "navigation": {
+    "nextChapterId": "main_1--obt__main__level_main_01-10_end",
+    "previousChapterId": "main_1--obt__main__level_main_01-07_end"
+  },
+  "subtitle": "1-8",
+  "summary": "info/obt/main/level_main_01-08_beg",
+  "title": "意志"
+}

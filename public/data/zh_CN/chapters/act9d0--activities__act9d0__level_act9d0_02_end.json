@@ -1,0 +1,21 @@
+{
+  "albumId": "act9d0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "DM-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DM-2_偶然/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DM-2_%E5%81%B6%E7%84%B6/END"
+  },
+  "id": "act9d0--activities__act9d0__level_act9d0_02_end",
+  "navigation": {
+    "nextChapterId": "act9d0--activities__act9d0__level_act9d0_03_beg",
+    "previousChapterId": "act9d0--activities__act9d0__level_act9d0_02_beg"
+  },
+  "subtitle": "DM-2",
+  "summary": "info/activities/act9d0/level_act9d0_02_end",
+  "title": "偶然"
+}

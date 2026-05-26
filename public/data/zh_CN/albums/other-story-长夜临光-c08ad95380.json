@@ -1,0 +1,58 @@
+{
+  "albumKind": "otherStory",
+  "chapters": [
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "NL-HD-1/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/NL-HD-1/NBT"
+      },
+      "id": "other-story-长夜临光-c08ad95380--nl-hd-1-nbt",
+      "sort": 1,
+      "title": "逃离"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "NL-HD-2/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/NL-HD-2/NBT"
+      },
+      "id": "other-story-长夜临光-c08ad95380--nl-hd-2-nbt",
+      "sort": 2,
+      "title": "选择"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "NL-HD-3/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/NL-HD-3/NBT"
+      },
+      "id": "other-story-长夜临光-c08ad95380--nl-hd-3-nbt",
+      "sort": 3,
+      "title": "路漫漫"
+    }
+  ],
+  "gameOrderRank": 900000012,
+  "homeSection": "otherStory",
+  "id": "other-story-长夜临光-c08ad95380",
+  "otherStory": {
+    "albumTitle": "长夜临光",
+    "groupTitle": "特殊",
+    "sourceSection": "other"
+  },
+  "slug": "other-story-长夜临光-c08ad95380",
+  "source": {
+    "path": "storyline.index.sections.other",
+    "providerId": "prts",
+    "revision": "2026-05-26T20:55:23.000119+00:00"
+  },
+  "sourceEntryType": "ARCHIVE_EXTRA",
+  "timelineRank": 900000012,
+  "title": "长夜临光"
+}

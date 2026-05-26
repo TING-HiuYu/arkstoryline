@@ -1,0 +1,21 @@
+{
+  "albumId": "main_2",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "2-6",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "2-6_握紧扶手/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/2-6_%E6%8F%A1%E7%B4%A7%E6%89%B6%E6%89%8B/END"
+  },
+  "id": "main_2--obt__main__level_main_02-06_end",
+  "navigation": {
+    "nextChapterId": "main_2--obt__main__level_main_02-07_beg",
+    "previousChapterId": "main_2--obt__main__level_main_02-06_beg"
+  },
+  "subtitle": "2-6",
+  "summary": "info/obt/main/level_main_02-06_end",
+  "title": "握紧扶手"
+}

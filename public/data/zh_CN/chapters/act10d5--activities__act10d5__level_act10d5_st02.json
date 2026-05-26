@@ -1,0 +1,19 @@
+{
+  "albumId": "act10d5",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SV-ST2_被选择的/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-ST2_%E8%A2%AB%E9%80%89%E6%8B%A9%E7%9A%84/NBT"
+  },
+  "id": "act10d5--activities__act10d5__level_act10d5_st02",
+  "navigation": {
+    "nextChapterId": "act10d5--activities__act10d5__level_act10d5_st03",
+    "previousChapterId": "act10d5--activities__act10d5__level_act10d5_st01"
+  },
+  "summary": "info/activities/act10d5/level_act10d5_st02",
+  "title": "被选择的"
+}

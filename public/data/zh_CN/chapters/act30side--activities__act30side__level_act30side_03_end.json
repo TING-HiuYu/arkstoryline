@@ -1,0 +1,21 @@
+{
+  "albumId": "act30side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RS-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RS-3_临时停车/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RS-3_%E4%B8%B4%E6%97%B6%E5%81%9C%E8%BD%A6/END"
+  },
+  "id": "act30side--activities__act30side__level_act30side_03_end",
+  "navigation": {
+    "nextChapterId": "act30side--activities__act30side__level_act30side_04_beg",
+    "previousChapterId": "act30side--activities__act30side__level_act30side_03_beg"
+  },
+  "subtitle": "RS-3",
+  "summary": "info/activities/act30side/level_act30side_03_end",
+  "title": "临时停车"
+}

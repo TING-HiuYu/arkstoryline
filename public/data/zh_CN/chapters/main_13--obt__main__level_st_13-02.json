@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "13-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "13-9_窥冠冕者/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-9_%E7%AA%A5%E5%86%A0%E5%86%95%E8%80%85/NBT"
+  },
+  "id": "main_13--obt__main__level_st_13-02",
+  "navigation": {
+    "nextChapterId": "main_13--obt__main__level_main_13-08_end",
+    "previousChapterId": "main_13--obt__main__level_main_13-07_end"
+  },
+  "subtitle": "13-9",
+  "summary": "info/obt/main/level_st_13-02",
+  "title": "窥冠冕者"
+}

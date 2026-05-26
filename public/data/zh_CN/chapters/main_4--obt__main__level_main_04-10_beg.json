@@ -1,0 +1,21 @@
+{
+  "albumId": "main_4",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "4-10",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "4-10_灯火将熄/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/4-10_%E7%81%AF%E7%81%AB%E5%B0%86%E7%86%84/BEG"
+  },
+  "id": "main_4--obt__main__level_main_04-10_beg",
+  "navigation": {
+    "nextChapterId": "main_4--obt__main__level_main_04-10_end",
+    "previousChapterId": "main_4--obt__main__level_main_04-09_end"
+  },
+  "subtitle": "4-10",
+  "summary": "info/obt/main/level_main_04-10_beg",
+  "title": "灯火将熄"
+}

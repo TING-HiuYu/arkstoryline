@@ -1,0 +1,21 @@
+{
+  "albumId": "main_5",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "5-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "5-3_义胆凡躯/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/5-3_%E4%B9%89%E8%83%86%E5%87%A1%E8%BA%AF/BEG"
+  },
+  "id": "main_5--obt__main__level_main_05-03_beg",
+  "navigation": {
+    "nextChapterId": "main_5--obt__main__level_main_05-03_end",
+    "previousChapterId": "main_5--obt__main__level_main_05-02_end"
+  },
+  "subtitle": "5-3",
+  "summary": "info/obt/main/level_main_05-03_beg",
+  "title": "义胆凡躯"
+}

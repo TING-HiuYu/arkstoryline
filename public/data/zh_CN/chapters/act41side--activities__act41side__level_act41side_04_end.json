@@ -1,0 +1,21 @@
+{
+  "albumId": "act41side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "EA-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EA-4_旧舞步/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-4_%E6%97%A7%E8%88%9E%E6%AD%A5/END"
+  },
+  "id": "act41side--activities__act41side__level_act41side_04_end",
+  "navigation": {
+    "nextChapterId": "act41side--activities__act41side__level_act41side_05_beg",
+    "previousChapterId": "act41side--activities__act41side__level_act41side_04_beg"
+  },
+  "subtitle": "EA-4",
+  "summary": "info/activities/act41side/level_act41side_04_end",
+  "title": "旧舞步"
+}

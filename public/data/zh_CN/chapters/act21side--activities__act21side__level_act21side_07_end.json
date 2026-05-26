@@ -1,0 +1,21 @@
+{
+  "albumId": "act21side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IS-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IS-7_何以忘却/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-7_%E4%BD%95%E4%BB%A5%E5%BF%98%E5%8D%B4/END"
+  },
+  "id": "act21side--activities__act21side__level_act21side_07_end",
+  "navigation": {
+    "nextChapterId": "act21side--activities__act21side__level_act21side_08_beg",
+    "previousChapterId": "act21side--activities__act21side__level_act21side_07_beg"
+  },
+  "subtitle": "IS-7",
+  "summary": "info/activities/act21side/level_act21side_07_end",
+  "title": "何以忘却"
+}

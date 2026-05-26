@@ -1,0 +1,21 @@
+{
+  "albumId": "act40side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "OR-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OR-7_五省盘/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OR-7_%E4%BA%94%E7%9C%81%E7%9B%98/END"
+  },
+  "id": "act40side--activities__act40side__level_act40side_07_end",
+  "navigation": {
+    "nextChapterId": "act40side--activities__act40side__level_act40side_08_beg",
+    "previousChapterId": "act40side--activities__act40side__level_act40side_07_beg"
+  },
+  "subtitle": "OR-7",
+  "summary": "info/activities/act40side/level_act40side_07_end",
+  "title": "五省盘"
+}

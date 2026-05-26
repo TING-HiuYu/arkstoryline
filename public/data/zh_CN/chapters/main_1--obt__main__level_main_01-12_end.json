@@ -1,0 +1,21 @@
+{
+  "albumId": "main_1",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "1-12",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "1-12_代价/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/1-12_%E4%BB%A3%E4%BB%B7/END"
+  },
+  "id": "main_1--obt__main__level_main_01-12_end",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "main_1--obt__main__level_main_01-12_beg"
+  },
+  "subtitle": "1-12",
+  "summary": "info/obt/main/level_main_01-12_end",
+  "title": "代价"
+}

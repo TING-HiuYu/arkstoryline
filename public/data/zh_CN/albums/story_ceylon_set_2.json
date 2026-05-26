@@ -1,0 +1,39 @@
+{
+  "albumKind": "operatorRecord",
+  "chapters": [
+    {
+      "albumId": "story_ceylon_set_2",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "CW-ST-3_留下的人/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/CW-ST-3_%E7%95%99%E4%B8%8B%E7%9A%84%E4%BA%BA/NBT"
+      },
+      "downloadable": true,
+      "id": "story_ceylon_set_2--obt__memory__story_ceylon_2_1",
+      "path": "chapters/story_ceylon_set_2--obt__memory__story_ceylon_2_1.json",
+      "sort": 0,
+      "title": "留下的人"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "missing",
+    "source": "none",
+    "url": "https://media.prts.wiki/8/89/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%95%99%E4%B8%8B%E7%9A%84%E4%BA%BA.png"
+  },
+  "extras": [],
+  "homeSection": "operatorRecord",
+  "id": "story_ceylon_set_2",
+  "slug": "story-ceylon-set-2",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 0,
+  "timelineRank": 0,
+  "title": "留下的人"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act16side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "GA-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "GA-1_灯下黑/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GA-1_%E7%81%AF%E4%B8%8B%E9%BB%91/BEG"
+  },
+  "id": "act16side--activities__act16side__level_act16side_01_beg",
+  "navigation": {
+    "nextChapterId": "act16side--activities__act16side__level_act16side_01_end",
+    "previousChapterId": "act16side--activities__act16side__level_act16side_st01"
+  },
+  "subtitle": "GA-1",
+  "summary": "info/activities/act16side/level_act16side_01_beg",
+  "title": "灯下黑"
+}

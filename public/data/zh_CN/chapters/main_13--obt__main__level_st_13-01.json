@@ -1,0 +1,21 @@
+{
+  "albumId": "main_13",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "13-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "13-1_战场内外/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-1_%E6%88%98%E5%9C%BA%E5%86%85%E5%A4%96/NBT"
+  },
+  "id": "main_13--obt__main__level_st_13-01",
+  "navigation": {
+    "nextChapterId": "main_13--obt__main__level_main_13-01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "13-1",
+  "summary": "info/obt/main/level_st_13-01",
+  "title": "战场内外"
+}

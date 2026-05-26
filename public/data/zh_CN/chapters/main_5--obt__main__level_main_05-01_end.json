@@ -1,0 +1,21 @@
+{
+  "albumId": "main_5",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "5-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "5-1_冤家易结/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/5-1_%E5%86%A4%E5%AE%B6%E6%98%93%E7%BB%93/END"
+  },
+  "id": "main_5--obt__main__level_main_05-01_end",
+  "navigation": {
+    "nextChapterId": "main_5--obt__main__level_main_05-02_beg",
+    "previousChapterId": "main_5--obt__main__level_main_05-01_beg"
+  },
+  "subtitle": "5-1",
+  "summary": "info/obt/main/level_main_05-01_end",
+  "title": "冤家易结"
+}

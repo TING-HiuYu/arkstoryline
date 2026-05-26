@@ -1,0 +1,21 @@
+{
+  "albumId": "act21side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "IS-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IS-8_危如累卵/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-8_%E5%8D%B1%E5%A6%82%E7%B4%AF%E5%8D%B5/END"
+  },
+  "id": "act21side--activities__act21side__level_act21side_08_end",
+  "navigation": {
+    "nextChapterId": "act21side--activities__act21side__level_act21side_st03",
+    "previousChapterId": "act21side--activities__act21side__level_act21side_08_beg"
+  },
+  "subtitle": "IS-8",
+  "summary": "info/activities/act21side/level_act21side_08_end",
+  "title": "危如累卵"
+}

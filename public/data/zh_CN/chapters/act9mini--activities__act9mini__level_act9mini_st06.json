@@ -1,0 +1,19 @@
+{
+  "albumId": "act9mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "PS-ST6_大人物/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PS-ST6_%E5%A4%A7%E4%BA%BA%E7%89%A9/NBT"
+  },
+  "id": "act9mini--activities__act9mini__level_act9mini_st06",
+  "navigation": {
+    "nextChapterId": "act9mini--activities__act9mini__level_act9mini_st07",
+    "previousChapterId": "act9mini--activities__act9mini__level_act9mini_st05"
+  },
+  "summary": "info/activities/act9mini/level_act9mini_st06",
+  "title": "大人物"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act47side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "UR-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "UR-4_晴空湍流/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/UR-4_%E6%99%B4%E7%A9%BA%E6%B9%8D%E6%B5%81/BEG"
+  },
+  "id": "act47side--activities__act47side__level_act47side_04_beg",
+  "navigation": {
+    "nextChapterId": "act47side--activities__act47side__level_act47side_04_end",
+    "previousChapterId": "act47side--activities__act47side__level_act47side_03_end"
+  },
+  "subtitle": "UR-4",
+  "summary": "info/activities/act47side/level_act47side_04_beg",
+  "title": "晴空湍流"
+}

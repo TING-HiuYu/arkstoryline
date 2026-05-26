@@ -1,0 +1,21 @@
+{
+  "albumId": "act26side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "HE-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HE-ST-2_在花园里/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HE-ST-2_%E5%9C%A8%E8%8A%B1%E5%9B%AD%E9%87%8C/NBT"
+  },
+  "id": "act26side--activities__act26side__level_act26side_st02",
+  "navigation": {
+    "nextChapterId": "act26side--activities__act26side__level_act26side_07_beg",
+    "previousChapterId": "act26side--activities__act26side__level_act26side_06_end"
+  },
+  "subtitle": "HE-ST-2",
+  "summary": "info/activities/act26side/level_act26side_st02",
+  "title": "在花园里"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act17side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "SN-ST-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SN-ST-5_登陆点/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-ST-5_%E7%99%BB%E9%99%86%E7%82%B9/NBT"
+  },
+  "id": "act17side--activities__act17side__level_act17side_st05",
+  "navigation": {
+    "nextChapterId": "act17side--activities__act17side__level_act17side_04_end",
+    "previousChapterId": "act17side--activities__act17side__level_act17side_st04"
+  },
+  "subtitle": "SN-ST-5",
+  "summary": "info/activities/act17side/level_act17side_st05",
+  "title": "登陆点"
+}

@@ -1,0 +1,21 @@
+{
+  "albumId": "act30side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "RS-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RS-7_制动失灵/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RS-7_%E5%88%B6%E5%8A%A8%E5%A4%B1%E7%81%B5/END"
+  },
+  "id": "act30side--activities__act30side__level_act30side_07_end",
+  "navigation": {
+    "nextChapterId": "act30side--activities__act30side__level_act30side_08_beg",
+    "previousChapterId": "act30side--activities__act30side__level_act30side_07_beg"
+  },
+  "subtitle": "RS-7",
+  "summary": "info/activities/act30side/level_act30side_07_end",
+  "title": "制动失灵"
+}

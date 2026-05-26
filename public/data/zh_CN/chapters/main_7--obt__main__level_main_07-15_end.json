@@ -1,0 +1,21 @@
+{
+  "albumId": "main_7",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "7-17",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "7-17_感染者之盾-2/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/7-17_%E6%84%9F%E6%9F%93%E8%80%85%E4%B9%8B%E7%9B%BE-2/END"
+  },
+  "id": "main_7--obt__main__level_main_07-15_end",
+  "navigation": {
+    "nextChapterId": "main_7--obt__main__level_main_07-16_beg",
+    "previousChapterId": "main_7--obt__main__level_main_07-11_beg"
+  },
+  "subtitle": "7-17",
+  "summary": "info/obt/main/level_main_07-15_end",
+  "title": "感染者之盾-2"
+}

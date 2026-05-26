@@ -1,0 +1,19 @@
+{
+  "albumId": "act18mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SE-ST5_腐败终息/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SE-ST5_%E8%85%90%E8%B4%A5%E7%BB%88%E6%81%AF/NBT"
+  },
+  "id": "act18mini--activities__act18mini__level_act18mini_st05",
+  "navigation": {
+    "nextChapterId": "act18mini--activities__act18mini__level_act18mini_st06",
+    "previousChapterId": "act18mini--activities__act18mini__level_act18mini_st04"
+  },
+  "summary": "info/activities/act18mini/level_act18mini_st05",
+  "title": "腐败终息"
+}

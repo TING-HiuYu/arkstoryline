@@ -1,0 +1,21 @@
+{
+  "albumId": "act49side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "TA-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TA-3_聚墨痕/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-3_%E8%81%9A%E5%A2%A8%E7%97%95/BEG"
+  },
+  "id": "act49side--activities__act49side__level_act49side_03_beg",
+  "navigation": {
+    "nextChapterId": "act49side--activities__act49side__level_act49side_03_end",
+    "previousChapterId": "act49side--activities__act49side__level_act49side_02_end"
+  },
+  "subtitle": "TA-3",
+  "summary": "info/activities/act49side/level_act49side_03_beg",
+  "title": "聚墨痕"
+}

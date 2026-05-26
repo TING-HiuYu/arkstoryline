@@ -1,0 +1,21 @@
+{
+  "albumId": "main_0",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "0-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "0-1_坍塌/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/0-1_%E5%9D%8D%E5%A1%8C/END"
+  },
+  "id": "main_0--obt__main__level_main_00-01_end",
+  "navigation": {
+    "nextChapterId": "main_0--obt__main__level_main_00-02_beg",
+    "previousChapterId": "main_0--obt__main__level_main_00-01_beg"
+  },
+  "subtitle": "0-1",
+  "summary": "info/obt/main/level_main_00-01_end",
+  "title": "坍塌"
+}

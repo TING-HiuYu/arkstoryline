@@ -1,0 +1,21 @@
+{
+  "albumId": "main_5",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "5-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "5-4_没人在家/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/5-4_%E6%B2%A1%E4%BA%BA%E5%9C%A8%E5%AE%B6/END"
+  },
+  "id": "main_5--obt__main__level_main_05-04_end",
+  "navigation": {
+    "nextChapterId": "main_5--obt__main__level_main_05-06_beg",
+    "previousChapterId": "main_5--obt__main__level_main_05-04_beg"
+  },
+  "subtitle": "5-4",
+  "summary": "info/obt/main/level_main_05-04_end",
+  "title": "没人在家"
+}

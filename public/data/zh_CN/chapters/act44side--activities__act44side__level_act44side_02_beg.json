@@ -1,0 +1,21 @@
+{
+  "albumId": "act44side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "AT-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AT-2_灵异特辑/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AT-2_%E7%81%B5%E5%BC%82%E7%89%B9%E8%BE%91/BEG"
+  },
+  "id": "act44side--activities__act44side__level_act44side_02_beg",
+  "navigation": {
+    "nextChapterId": "act44side--activities__act44side__level_act44side_02_end",
+    "previousChapterId": "act44side--activities__act44side__level_act44side_01_end"
+  },
+  "subtitle": "AT-2",
+  "summary": "info/activities/act44side/level_act44side_02_beg",
+  "title": "灵异特辑"
+}

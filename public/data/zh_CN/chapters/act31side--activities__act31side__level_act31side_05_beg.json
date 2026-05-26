@@ -1,0 +1,21 @@
+{
+  "albumId": "act31side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "HS-5",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "HS-5_纺绫罗/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HS-5_%E7%BA%BA%E7%BB%AB%E7%BD%97/BEG"
+  },
+  "id": "act31side--activities__act31side__level_act31side_05_beg",
+  "navigation": {
+    "nextChapterId": "act31side--activities__act31side__level_act31side_05_end",
+    "previousChapterId": "act31side--activities__act31side__level_act31side_04_end"
+  },
+  "subtitle": "HS-5",
+  "summary": "info/activities/act31side/level_act31side_05_beg",
+  "title": "纺绫罗"
+}

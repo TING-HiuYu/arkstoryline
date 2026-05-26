@@ -1,0 +1,33 @@
+{
+  "id": "story_12fce_set_1",
+  "slug": "story-12fce-set-1",
+  "title": "一些选择",
+  "sourceEntryType": "UNKNOWN",
+  "albumKind": "operatorRecord",
+  "homeSection": "operatorRecord",
+  "timelineRank": 0,
+  "cover": {
+    "url": "https://media.prts.wiki/8/85/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E4%B8%80%E4%BA%9B%E9%80%89%E6%8B%A9.png",
+    "source": "none",
+    "assetStatus": "missing",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 0,
+  "chapters": [
+    {
+      "id": "story_12fce_set_1--obt__memory__story_12fce_1_1",
+      "albumId": "story_12fce_set_1",
+      "title": "一些选择",
+      "avgTag": "幕间",
+      "sort": 0,
+      "path": "chapters/story_12fce_set_1--obt__memory__story_12fce_1_1.json",
+      "downloadable": true
+    }
+  ],
+  "source": {
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
+  },
+  "extras": []
+}

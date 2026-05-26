@@ -1,0 +1,82 @@
+{
+  "albumKind": "otherStory",
+  "chapters": [
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RO3-BEG/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RO3-BEG/NBT"
+      },
+      "id": "other-story-探索者的银凇止境-8fd9e07f95--ro3-beg-nbt",
+      "sort": 1,
+      "title": "序章"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RO3-END-1/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RO3-END-1/NBT"
+      },
+      "id": "other-story-探索者的银凇止境-8fd9e07f95--ro3-end-1-nbt",
+      "sort": 2,
+      "title": "越过群山"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RO3-END-2/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RO3-END-2/NBT"
+      },
+      "id": "other-story-探索者的银凇止境-8fd9e07f95--ro3-end-2-nbt",
+      "sort": 3,
+      "title": "直至冬夜降临"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RO3-END-3/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RO3-END-3/NBT"
+      },
+      "id": "other-story-探索者的银凇止境-8fd9e07f95--ro3-end-3-nbt",
+      "sort": 4,
+      "title": "自深处的一瞥"
+    },
+    {
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "RO3-END-4/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/RO3-END-4/NBT"
+      },
+      "id": "other-story-探索者的银凇止境-8fd9e07f95--ro3-end-4-nbt",
+      "sort": 5,
+      "title": "终始"
+    }
+  ],
+  "gameOrderRank": 900000019,
+  "homeSection": "otherStory",
+  "id": "other-story-探索者的银凇止境-8fd9e07f95",
+  "otherStory": {
+    "albumTitle": "探索者的银凇止境",
+    "groupTitle": "集成战略",
+    "sourceSection": "other"
+  },
+  "slug": "other-story-探索者的银凇止境-8fd9e07f95",
+  "source": {
+    "path": "storyline.index.sections.other",
+    "providerId": "prts",
+    "revision": "2026-05-26T20:55:23.000119+00:00"
+  },
+  "sourceEntryType": "ARCHIVE_EXTRA",
+  "timelineRank": 900000019,
+  "title": "探索者的银凇止境"
+}

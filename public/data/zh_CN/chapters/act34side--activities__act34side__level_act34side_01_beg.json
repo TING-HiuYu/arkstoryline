@@ -1,0 +1,21 @@
+{
+  "albumId": "act34side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "BP-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BP-1_第一次接触/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BP-1_%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%8E%A5%E8%A7%A6/BEG"
+  },
+  "id": "act34side--activities__act34side__level_act34side_01_beg",
+  "navigation": {
+    "nextChapterId": "act34side--activities__act34side__level_act34side_01_end",
+    "previousChapterId": "act34side--activities__act34side__level_act34side_st01"
+  },
+  "subtitle": "BP-1",
+  "summary": "info/activities/act34side/level_act34side_01_beg",
+  "title": "第一次接触"
+}

@@ -1,0 +1,19 @@
+{
+  "albumId": "act13d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "FA-ST7_天空的故事/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/FA-ST7_%E5%A4%A9%E7%A9%BA%E7%9A%84%E6%95%85%E4%BA%8B/NBT"
+  },
+  "id": "act13d0--activities__act13d0__level_act13d0_st07",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act13d0--activities__act13d0__level_act13d0_st06"
+  },
+  "summary": "info/activities/act13d0/level_act13d0_st07",
+  "title": "天空的故事"
+}

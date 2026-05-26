@@ -1,0 +1,21 @@
+{
+  "albumId": "act41side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "EA-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EA-4_旧舞步/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-4_%E6%97%A7%E8%88%9E%E6%AD%A5/BEG"
+  },
+  "id": "act41side--activities__act41side__level_act41side_04_beg",
+  "navigation": {
+    "nextChapterId": "act41side--activities__act41side__level_act41side_04_end",
+    "previousChapterId": "act41side--activities__act41side__level_act41side_03_end"
+  },
+  "subtitle": "EA-4",
+  "summary": "info/activities/act41side/level_act41side_04_beg",
+  "title": "旧舞步"
+}

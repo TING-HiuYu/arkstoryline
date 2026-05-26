@@ -1,0 +1,21 @@
+{
+  "albumId": "act5d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "CB-ST3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CB-ST3_破晓时分/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-ST3_%E7%A0%B4%E6%99%93%E6%97%B6%E5%88%86/NBT"
+  },
+  "id": "act5d0--activities__act5d0__level_act5d0_st03",
+  "navigation": {
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_ex01_end",
+    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_10_end"
+  },
+  "subtitle": "CB-ST3",
+  "summary": "info/activities/act5d0/level_act5d0_st03",
+  "title": "破晓时分"
+}

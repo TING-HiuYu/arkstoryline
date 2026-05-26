@@ -1,0 +1,21 @@
+{
+  "albumId": "act15side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "IW-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "IW-ST-3_再弈/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-ST-3_%E5%86%8D%E5%BC%88/NBT"
+  },
+  "id": "act15side--activities__act15side__level_act15side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act15side--activities__act15side__level_act15side_09_end"
+  },
+  "subtitle": "IW-ST-3",
+  "summary": "info/activities/act15side/level_act15side_st03",
+  "title": "再弈"
+}

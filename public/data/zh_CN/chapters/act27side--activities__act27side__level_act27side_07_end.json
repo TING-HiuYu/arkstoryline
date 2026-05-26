@@ -1,0 +1,21 @@
+{
+  "albumId": "act27side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "SL-7",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "SL-7_靠着我的肩膀哭泣/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SL-7_%E9%9D%A0%E7%9D%80%E6%88%91%E7%9A%84%E8%82%A9%E8%86%80%E5%93%AD%E6%B3%A3/END"
+  },
+  "id": "act27side--activities__act27side__level_act27side_07_end",
+  "navigation": {
+    "nextChapterId": "act27side--activities__act27side__level_act27side_08_beg",
+    "previousChapterId": "act27side--activities__act27side__level_act27side_07_beg"
+  },
+  "subtitle": "SL-7",
+  "summary": "info/activities/act27side/level_act27side_07_end",
+  "title": "靠着我的肩膀哭泣"
+}

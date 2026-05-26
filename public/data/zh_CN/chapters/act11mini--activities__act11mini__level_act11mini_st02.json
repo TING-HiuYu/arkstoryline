@@ -1,0 +1,19 @@
+{
+  "albumId": "act11mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "TC-ST2_后会有期/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TC-ST2_%E5%90%8E%E4%BC%9A%E6%9C%89%E6%9C%9F/NBT"
+  },
+  "id": "act11mini--activities__act11mini__level_act11mini_st02",
+  "navigation": {
+    "nextChapterId": "act11mini--activities__act11mini__level_act11mini_st03",
+    "previousChapterId": "act11mini--activities__act11mini__level_act11mini_st01"
+  },
+  "summary": "info/activities/act11mini/level_act11mini_st02",
+  "title": "后会有期"
+}

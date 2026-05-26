@@ -1,0 +1,21 @@
+{
+  "albumId": "act48side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "ME-4",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "ME-4_失手/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ME-4_%E5%A4%B1%E6%89%8B/BEG"
+  },
+  "id": "act48side--activities__act48side__level_act48side_04_beg",
+  "navigation": {
+    "nextChapterId": "act48side--activities__act48side__level_act48side_04_end",
+    "previousChapterId": "act48side--activities__act48side__level_act48side_03_end"
+  },
+  "subtitle": "ME-4",
+  "summary": "info/activities/act48side/level_act48side_04_beg",
+  "title": "失手"
+}

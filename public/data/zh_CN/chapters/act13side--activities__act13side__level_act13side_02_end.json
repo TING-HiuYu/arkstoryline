@@ -1,0 +1,21 @@
+{
+  "albumId": "act13side",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "NL-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "NL-2_垂死的刺/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/NL-2_%E5%9E%82%E6%AD%BB%E7%9A%84%E5%88%BA/END"
+  },
+  "id": "act13side--activities__act13side__level_act13side_02_end",
+  "navigation": {
+    "nextChapterId": "act13side--activities__act13side__level_act13side_03_beg",
+    "previousChapterId": "act13side--activities__act13side__level_act13side_02_beg"
+  },
+  "subtitle": "NL-2",
+  "summary": "info/activities/act13side/level_act13side_02_end",
+  "title": "垂死的刺"
+}

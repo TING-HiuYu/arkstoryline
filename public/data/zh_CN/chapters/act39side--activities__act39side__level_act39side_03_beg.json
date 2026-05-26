@@ -1,0 +1,21 @@
+{
+  "albumId": "act39side",
+  "avgTag": "行动前",
+  "blocks": [],
+  "citations": [],
+  "code": "EP-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "EP-3_大出血的舞步/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EP-3_%E5%A4%A7%E5%87%BA%E8%A1%80%E7%9A%84%E8%88%9E%E6%AD%A5/BEG"
+  },
+  "id": "act39side--activities__act39side__level_act39side_03_beg",
+  "navigation": {
+    "nextChapterId": "act39side--activities__act39side__level_act39side_03_end",
+    "previousChapterId": "act39side--activities__act39side__level_act39side_02_end"
+  },
+  "subtitle": "EP-3",
+  "summary": "info/activities/act39side/level_act39side_03_beg",
+  "title": "大出血的舞步"
+}

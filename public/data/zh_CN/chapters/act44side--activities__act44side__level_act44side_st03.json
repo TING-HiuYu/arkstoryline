@@ -1,0 +1,21 @@
+{
+  "albumId": "act44side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "AT-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "AT-ST-3_过客/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AT-ST-3_%E8%BF%87%E5%AE%A2/NBT"
+  },
+  "id": "act44side--activities__act44side__level_act44side_st03",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act44side--activities__act44side__level_act44side_08_end"
+  },
+  "subtitle": "AT-ST-3",
+  "summary": "info/activities/act44side/level_act44side_st03",
+  "title": "过客"
+}

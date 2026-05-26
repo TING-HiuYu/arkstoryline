@@ -1,0 +1,21 @@
+{
+  "albumId": "act42side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "MT-ST-1",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MT-ST-1_“堕天”/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MT-ST-1_%E2%80%9C%E5%A0%95%E5%A4%A9%E2%80%9D/NBT"
+  },
+  "id": "act42side--activities__act42side__level_act42side_st01",
+  "navigation": {
+    "nextChapterId": "act42side--activities__act42side__level_act42side_01_beg",
+    "previousChapterId": null
+  },
+  "subtitle": "MT-ST-1",
+  "summary": "info/activities/act42side/level_act42side_st01",
+  "title": "“堕天”"
+}

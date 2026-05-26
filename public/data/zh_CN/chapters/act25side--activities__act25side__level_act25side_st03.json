@@ -1,0 +1,21 @@
+{
+  "albumId": "act25side",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "CW-ST-3",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "CW-ST-3_留下的人/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CW-ST-3_%E7%95%99%E4%B8%8B%E7%9A%84%E4%BA%BA/NBT"
+  },
+  "id": "act25side--activities__act25side__level_act25side_st03",
+  "navigation": {
+    "nextChapterId": "act25side--activities__act25side__level_act25side_st04",
+    "previousChapterId": "act25side--activities__act25side__level_act25side_10_end"
+  },
+  "subtitle": "CW-ST-3",
+  "summary": "info/activities/act25side/level_act25side_st03",
+  "title": "留下的人"
+}

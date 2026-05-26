@@ -1,0 +1,21 @@
+{
+  "albumId": "act17d0",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "OD-ST-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "OD-ST-2_一场葬礼/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OD-ST-2_%E4%B8%80%E5%9C%BA%E8%91%AC%E7%A4%BC/NBT"
+  },
+  "id": "act17d0--activities__act17d0__level_act17d0_st02",
+  "navigation": {
+    "nextChapterId": "act17d0--activities__act17d0__level_act17d0_07_beg",
+    "previousChapterId": "act17d0--activities__act17d0__level_act17d0_06_end"
+  },
+  "subtitle": "OD-ST-2",
+  "summary": "info/activities/act17d0/level_act17d0_st02",
+  "title": "一场葬礼"
+}

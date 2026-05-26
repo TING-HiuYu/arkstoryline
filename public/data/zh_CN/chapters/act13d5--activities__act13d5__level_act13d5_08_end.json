@@ -1,0 +1,21 @@
+{
+  "albumId": "act13d5",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "MN-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "MN-8_商业联合/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MN-8_%E5%95%86%E4%B8%9A%E8%81%94%E5%90%88/END"
+  },
+  "id": "act13d5--activities__act13d5__level_act13d5_08_end",
+  "navigation": {
+    "nextChapterId": "act13d5--activities__act13d5__level_act13d5_st03",
+    "previousChapterId": "act13d5--activities__act13d5__level_act13d5_08_beg"
+  },
+  "subtitle": "MN-8",
+  "summary": "info/activities/act13d5/level_act13d5_08_end",
+  "title": "商业联合"
+}

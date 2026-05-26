@@ -1,0 +1,21 @@
+{
+  "albumId": "main_9",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": "9-8",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "9-8_灰烬中的诗/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/9-8_%E7%81%B0%E7%83%AC%E4%B8%AD%E7%9A%84%E8%AF%97/NBT"
+  },
+  "id": "main_9--obt__main__level_st_09-02",
+  "navigation": {
+    "nextChapterId": "main_9--obt__main__level_main_09-07_beg",
+    "previousChapterId": "main_9--obt__main__level_main_09-06_end"
+  },
+  "subtitle": "9-8",
+  "summary": "info/obt/main/level_st_09-02",
+  "title": "灰烬中的诗"
+}

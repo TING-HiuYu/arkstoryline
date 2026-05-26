@@ -1,0 +1,21 @@
+{
+  "albumId": "main_11",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "11-19",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "11-19_直指命运/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-19_%E7%9B%B4%E6%8C%87%E5%91%BD%E8%BF%90/END"
+  },
+  "id": "main_11--obt__main__level_main_11-17_end",
+  "navigation": {
+    "nextChapterId": "main_11--obt__main__level_st_11-03",
+    "previousChapterId": "main_11--obt__main__level_main_11-17_beg"
+  },
+  "subtitle": "11-19",
+  "summary": "info/obt/main/level_main_11-17_end",
+  "title": "直指命运"
+}

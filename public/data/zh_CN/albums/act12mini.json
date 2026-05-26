@@ -1,0 +1,143 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act12mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "AW-ST1_荒舍/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AW-ST1_%E8%8D%92%E8%88%8D/NBT"
+      },
+      "downloadable": true,
+      "id": "act12mini--activities__act12mini__level_act12mini_st01",
+      "path": "chapters/act12mini--activities__act12mini__level_act12mini_st01.json",
+      "sort": 1,
+      "title": "荒舍"
+    },
+    {
+      "albumId": "act12mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "AW-ST2_只见星辰/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AW-ST2_%E5%8F%AA%E8%A7%81%E6%98%9F%E8%BE%B0/NBT"
+      },
+      "downloadable": true,
+      "id": "act12mini--activities__act12mini__level_act12mini_st02",
+      "path": "chapters/act12mini--activities__act12mini__level_act12mini_st02.json",
+      "sort": 2,
+      "title": "只见星辰"
+    },
+    {
+      "albumId": "act12mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "AW-ST3_我曾凝望/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AW-ST3_%E6%88%91%E6%9B%BE%E5%87%9D%E6%9C%9B/NBT"
+      },
+      "downloadable": true,
+      "id": "act12mini--activities__act12mini__level_act12mini_st03",
+      "path": "chapters/act12mini--activities__act12mini__level_act12mini_st03.json",
+      "sort": 3,
+      "title": "我曾凝望"
+    },
+    {
+      "albumId": "act12mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "AW-ST4_不得安宁/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AW-ST4_%E4%B8%8D%E5%BE%97%E5%AE%89%E5%AE%81/NBT"
+      },
+      "downloadable": true,
+      "id": "act12mini--activities__act12mini__level_act12mini_st04",
+      "path": "chapters/act12mini--activities__act12mini__level_act12mini_st04.json",
+      "sort": 4,
+      "title": "不得安宁"
+    },
+    {
+      "albumId": "act12mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "AW-ST5_日落已久/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AW-ST5_%E6%97%A5%E8%90%BD%E5%B7%B2%E4%B9%85/NBT"
+      },
+      "downloadable": true,
+      "id": "act12mini--activities__act12mini__level_act12mini_st05",
+      "path": "chapters/act12mini--activities__act12mini__level_act12mini_st05.json",
+      "sort": 5,
+      "title": "日落已久"
+    },
+    {
+      "albumId": "act12mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "AW-ST6_空盔甲/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AW-ST6_%E7%A9%BA%E7%9B%94%E7%94%B2/NBT"
+      },
+      "downloadable": true,
+      "id": "act12mini--activities__act12mini__level_act12mini_st06",
+      "path": "chapters/act12mini--activities__act12mini__level_act12mini_st06.json",
+      "sort": 6,
+      "title": "空盔甲"
+    },
+    {
+      "albumId": "act12mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "AW-ST7_告别词/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AW-ST7_%E5%91%8A%E5%88%AB%E8%AF%8D/NBT"
+      },
+      "downloadable": true,
+      "id": "act12mini--activities__act12mini__level_act12mini_st07",
+      "path": "chapters/act12mini--activities__act12mini__level_act12mini_st07.json",
+      "sort": 7,
+      "title": "告别词"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_an_obscure_wanderer",
+    "primaryImageId": "kv_an_obscure_wanderer",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act12mini",
+    "storyPicId": "storyPic_act12mini",
+    "titleImageId": "title_an_obscure_wanderer",
+    "url": "https://media.prts.wiki/5/56/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%97%A5%E6%9A%AE%E5%AF%BB%E8%B7%AF.png"
+  },
+  "extras": [],
+  "gameOrderRank": 4005,
+  "homeSection": "sideStory",
+  "id": "act12mini",
+  "music": {
+    "arcTitle": "霓虹之下",
+    "movementTitle": "霓虹之下",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act12mini",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1662609600,
+  "summary": "那些看起来过分美好的旧日事物，\n也许已是不适合继续存在的东西，\n如同日落黄昏，天边最后的霞光。\n暮色横亘于身后，玛恩纳寻找着出路。",
+  "timelineRank": 1662609600,
+  "title": "日暮寻路"
+}

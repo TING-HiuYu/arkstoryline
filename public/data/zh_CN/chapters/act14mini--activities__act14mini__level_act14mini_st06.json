@@ -1,0 +1,19 @@
+{
+  "albumId": "act14mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "DC-ST6_独见寒山/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DC-ST6_%E7%8B%AC%E8%A7%81%E5%AF%92%E5%B1%B1/NBT"
+  },
+  "id": "act14mini--activities__act14mini__level_act14mini_st06",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act14mini--activities__act14mini__level_act14mini_st05"
+  },
+  "summary": "info/activities/act14mini/level_act14mini_st06",
+  "title": "独见寒山"
+}

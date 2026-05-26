@@ -1,0 +1,21 @@
+{
+  "albumId": "main_4",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "4-9",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "4-9_彻入骨髓/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/4-9_%E5%BD%BB%E5%85%A5%E9%AA%A8%E9%AB%93/END"
+  },
+  "id": "main_4--obt__main__level_main_04-09_end",
+  "navigation": {
+    "nextChapterId": "main_4--obt__main__level_main_04-10_beg",
+    "previousChapterId": "main_4--obt__main__level_main_04-09_beg"
+  },
+  "subtitle": "4-9",
+  "summary": "info/obt/main/level_main_04-09_end",
+  "title": "彻入骨髓"
+}

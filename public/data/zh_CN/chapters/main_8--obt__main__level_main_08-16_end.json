@@ -1,0 +1,21 @@
+{
+  "albumId": "main_8",
+  "avgTag": "行动后",
+  "blocks": [],
+  "citations": [],
+  "code": "JT8-2",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "JT8-2_睁眼，便是日暮/END",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/JT8-2_%E7%9D%81%E7%9C%BC%EF%BC%8C%E4%BE%BF%E6%98%AF%E6%97%A5%E6%9A%AE/END"
+  },
+  "id": "main_8--obt__main__level_main_08-16_end",
+  "navigation": {
+    "nextChapterId": "main_8--obt__main__level_main_08-17_beg",
+    "previousChapterId": "main_8--obt__main__level_main_08-16_beg"
+  },
+  "subtitle": "JT8-2",
+  "summary": "info/obt/main/level_main_08-16_end",
+  "title": "睁眼，便是日暮"
+}

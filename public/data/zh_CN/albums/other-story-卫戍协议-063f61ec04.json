@@ -1,0 +1,33 @@
+{
+  "albumKind": "otherStory",
+  "chapters": [
+    {
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "AC01/ENTRY",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AC01/ENTRY"
+      },
+      "id": "other-story-卫戍协议-063f61ec04--ac01-entry",
+      "sort": 1,
+      "title": "卫戍协议"
+    }
+  ],
+  "gameOrderRank": 900000008,
+  "homeSection": "otherStory",
+  "id": "other-story-卫戍协议-063f61ec04",
+  "otherStory": {
+    "albumTitle": "卫戍协议",
+    "groupTitle": "特殊",
+    "sourceSection": "other"
+  },
+  "slug": "other-story-卫戍协议-063f61ec04",
+  "source": {
+    "path": "storyline.index.sections.other",
+    "providerId": "prts",
+    "revision": "2026-05-26T20:55:23.000119+00:00"
+  },
+  "sourceEntryType": "ARCHIVE_EXTRA",
+  "timelineRank": 900000008,
+  "title": "卫戍协议"
+}
