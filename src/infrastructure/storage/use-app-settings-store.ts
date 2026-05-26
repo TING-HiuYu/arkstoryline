@@ -12,8 +12,6 @@ export type ContentSourceId =
   | 'arknights-text'
   | 'arknights-images'
   | 'arknights-audio'
-  | 'kengxxiao-gamedata'
-  | 'story-text-reader'
   | 'arknights-wiki'
 
 interface AppSettingsState {

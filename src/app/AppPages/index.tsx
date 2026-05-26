@@ -108,22 +108,22 @@ interface ArchiveSectionViewModel {
 
 type OperatorDetailMenuItem =
   | {
-      key: string
-      kind: 'archive'
-      label: string
-    }
+    key: string
+    kind: 'archive'
+    label: string
+  }
   | {
-      key: string
-      kind: 'module'
-      label: string
-      module: StaticOperatorModuleData
-    }
+    key: string
+    kind: 'module'
+    label: string
+    module: StaticOperatorModuleData
+  }
   | {
-      key: string
-      kind: 'confidential'
-      label: string
-      record: StaticOperatorConfidentialData['records'][number]
-    }
+    key: string
+    kind: 'confidential'
+    label: string
+    record: StaticOperatorConfidentialData['records'][number]
+  }
 
 type ReaderBlock = StaticChapterData['blocks'][number]
 type ReaderChoiceBlockData = Extract<ReaderBlock, { type: 'choice' }>
@@ -1003,7 +1003,7 @@ function ReaderVisualCueImageContent({
               attemptIndex,
               value:
                 current?.attemptIndex === attemptIndex &&
-                current.value >= READER_VISUAL_IMAGE_HIDE_PROGRESS
+                  current.value >= READER_VISUAL_IMAGE_HIDE_PROGRESS
                   ? current.value
                   : READER_VISUAL_IMAGE_HIDE_PROGRESS,
             }))
@@ -1228,9 +1228,9 @@ function ReaderChoiceBlock({
 
         return item
           ? {
-              ...item,
-              key: `${selectedBranch.id}:${item.key}:${index}`,
-            }
+            ...item,
+            key: `${selectedBranch.id}:${item.key}:${index}`,
+          }
           : null
       })
       .filter((item): item is ReaderFlowItem => item !== null) ?? []
@@ -1313,14 +1313,14 @@ function renderReaderBlockSequence({
       const branchRenderResult =
         selectedBranch && selectedBranch.blocks.length > 0
           ? renderReaderBlockSequence({
-              blocks: selectedBranch.blocks,
-              chapterCitations,
-              depth: depth + 1,
-              doctorName,
-              choiceSelections,
-              onChoiceSelect,
-              knowledgeMarkersByBlock,
-            })
+            blocks: selectedBranch.blocks,
+            chapterCitations,
+            depth: depth + 1,
+            doctorName,
+            choiceSelections,
+            onChoiceSelect,
+            knowledgeMarkersByBlock,
+          })
           : null
 
       items.push({
@@ -1801,17 +1801,17 @@ export function DownloadSelectorPanel({
 
     const focusedChapter = focusedChapterId
       ? defaultSelectedAlbumDetailQuery.data.chapters.find(
-          (chapter) => chapter.id === focusedChapterId
-        )
+        (chapter) => chapter.id === focusedChapterId
+      )
       : undefined
     const selected = focusedChapter
       ? [toChapterKey(focusedChapter.id)]
       : [
-          toAlbumKey(defaultAlbumId),
-          ...defaultSelectedAlbumDetailQuery.data.chapters.map((chapter) =>
-            toChapterKey(chapter.id)
-          ),
-        ]
+        toAlbumKey(defaultAlbumId),
+        ...defaultSelectedAlbumDetailQuery.data.chapters.map((chapter) =>
+          toChapterKey(chapter.id)
+        ),
+      ]
 
     return Array.from(new Set(selected))
   }, [defaultEmpty, defaultAlbumId, defaultSelectedAlbumDetailQuery.data, focusedChapterId])
@@ -2016,9 +2016,9 @@ export function DownloadSelectorPanel({
   const downloadPercent =
     downloadProgress.totalChapters > 0
       ? Math.min(
-          100,
-          Math.round((downloadProgress.completedChapters / downloadProgress.totalChapters) * 100)
-        )
+        100,
+        Math.round((downloadProgress.completedChapters / downloadProgress.totalChapters) * 100)
+      )
       : 0
   const downloadButtonLabel = isDownloading
     ? `已下载 ${downloadPercent}%`
@@ -2423,34 +2423,45 @@ export function AboutDataPage() {
   const sourceCards: Array<{
     id: string
     label: string
-    note: string
+    note: React.ReactNode
   }> = [
-    {
-      id: 'arknights-text',
-      label: '游戏文本内容',
-      note: '版权归《明日方舟》及其权利人所有。',
-    },
-    {
-      id: 'arknights-images',
-      label: '游戏图片资源',
-      note: '用于曲谱封面（/assets/covers）。版权归《明日方舟》及其权利人所有。',
-    },
-    {
-      id: 'arknights-audio',
-      label: '游戏音频资源',
-      note: '版权归《明日方舟》及其权利人所有。默认不播放与分发。',
-    },
-    {
-      id: 'kengxxiao-gamedata',
-      label: '数据源 Kengxxiao/ArknightsGameData',
-      note: '用于结构化数据读取。',
-    },
-    {
-      id: 'arknights-wiki',
-      label: '参考页面 明日方舟中文资料站',
-      note: '用于公开资料结构与名词对照参考。',
-    },
-  ]
+      {
+        id: 'arknights-text',
+        label: '剧情文本内容',
+        note: (
+          <>
+            版权归<a href="https://ak.hypergryph.com/" target="_blank" rel="noopener noreferrer">《明日方舟》</a>及其权利人所有。
+          </>
+        ),
+      },
+      {
+        id: 'arknights-images',
+        label: '剧情图片内容',
+        note: (
+          <>
+            版权归<a href="https://ak.hypergryph.com/" target="_blank" rel="noopener noreferrer">《明日方舟》</a>及其权利人所有。
+          </>
+        ),
+      },
+      {
+        id: 'arknights-audio',
+        label: '游戏音频资源',
+        note: (
+          <>
+            版权归<a href="https://ak.hypergryph.com/" target="_blank" rel="noopener noreferrer">《明日方舟》</a>及其权利人所有。
+          </>
+        ),
+      },
+      {
+        id: 'arknights-wiki',
+        label: '其余数据声明',
+        note: (
+          <>
+            曲谱封面和章节内容源自<a href="https://prts.wiki/" target="_blank" rel="noopener noreferrer">网站PRTS</a>。本站只作数据的分类和阅读辅助，版权归PRTS网站原作者与<a href="https://ak.hypergryph.com/" target="_blank" rel="noopener noreferrer">《明日方舟》</a>及其权利人所有。
+          </>
+        ),
+      },
+    ]
 
   return (
     <main className="page-panel">
@@ -2982,8 +2993,8 @@ export function ReaderPage({
   const previousMainlineTargetChapterId =
     previousMainlineAlbumQuery.data && previousMainlineAlbumQuery.data.chapters.length > 0
       ? previousMainlineAlbumQuery.data.chapters[
-          previousMainlineAlbumQuery.data.chapters.length - 1
-        ]?.id
+        previousMainlineAlbumQuery.data.chapters.length - 1
+      ]?.id
       : undefined
   const nextMainlineTargetChapterId =
     nextMainlineAlbumQuery.data && nextMainlineAlbumQuery.data.chapters.length > 0
@@ -4083,7 +4094,7 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
                       style={{ borderRadius: 8 }}
                     >
                       {typeof section.condition === 'string' &&
-                      section.condition.trim().length > 0 ? (
+                        section.condition.trim().length > 0 ? (
                         <Typography.Text type="secondary">{section.condition}</Typography.Text>
                       ) : null}
                       <Space direction="vertical" size={6} style={{ marginTop: 8, width: '100%' }}>
