@@ -330,7 +330,7 @@ export function AppLayout({ locale, breadcrumbs, children }: AppLayoutProps) {
                 aria-label="曲谱分区"
                 className="section-select-native"
                 value={selectedSection}
-                onChange={(value) => {
+                onSelect={(value) => {
                   navigate(buildSectionPath(locale, value))
                 }}
                 options={sectionItems.map((item) => ({ value: item.key, label: item.label }))}

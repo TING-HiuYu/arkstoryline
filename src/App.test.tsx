@@ -216,6 +216,39 @@ describe('App', () => {
     })
   })
 
+  it('navigates home when selecting the already-selected section from utility pages', async () => {
+    window.history.pushState({}, '', '/zh_CN/about-data')
+    vi.stubGlobal('fetch', createDataFetchMock())
+
+    render(
+      <AppProviders>
+        <BrowserRouter>
+          <App />
+        </BrowserRouter>
+      </AppProviders>
+    )
+
+    const header = await screen.findByRole('banner')
+    const sectionCombobox = within(header).getByRole('combobox', { name: '曲谱分区' })
+
+    fireEvent.mouseDown(sectionCombobox)
+
+    await waitFor(() => {
+      expect(document.querySelector('.ant-select-item-option')).toBeInTheDocument()
+    })
+
+    const mainlineOption = Array.from(
+      document.querySelectorAll<HTMLElement>('.ant-select-item-option')
+    ).find((option) => option.textContent?.trim() === '主题曲')
+    expect(mainlineOption).toBeDefined()
+    fireEvent.click(mainlineOption as HTMLElement)
+
+    await waitFor(() => {
+      expect(window.location.pathname).toBe('/zh_CN')
+      expect(window.location.search).toBe('')
+    })
+  })
+
   it('navigates to search route with query after entering header search keyword', async () => {
     window.history.pushState({}, '', '/zh_CN')
     vi.stubGlobal('fetch', createDataFetchMock())
