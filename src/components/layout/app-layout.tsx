@@ -11,12 +11,10 @@ import {
   useCallback,
   useDeferredValue,
   useMemo,
-  useRef,
   useState,
   type FocusEvent,
   type FormEvent,
   type PropsWithChildren,
-  type RefObject,
 } from 'react'
 import { SettingsControls } from '../../features/settings/settings-controls'
 import type { SearchResultItem } from '../../features/search/search-service'
@@ -119,7 +117,6 @@ function compactSearchPreviewResults(
 export function AppLayout({ locale, breadcrumbs, children }: AppLayoutProps) {
   const location = useLocation()
   const navigate = useNavigate()
-  const searchShellRef = useRef<HTMLDivElement>(null)
   const doctorName = useAppSettingsStore((state) => state.doctorName)
   const setDoctorName = useAppSettingsStore((state) => state.setDoctorName)
   const [doctorNameDraft, setDoctorNameDraft] = useState('')
@@ -128,7 +125,6 @@ export function AppLayout({ locale, breadcrumbs, children }: AppLayoutProps) {
   const [isMobileSearchOpen, setIsMobileSearchOpen] = useState(false)
   const [isMobileSettingsOpen, setIsMobileSettingsOpen] = useState(false)
   const [headerDownloadAction, setHeaderDownloadAction] = useState<HeaderDownloadAction>(null)
-  const mobileSearchShellRef = useRef<HTMLDivElement>(null)
   const searchService = useMemo(() => getSharedSearchService(), [])
   const currentSearchDraftLocationKey = `${locale}:${location.key}`
   const searchDraft =
@@ -173,16 +169,15 @@ export function AppLayout({ locale, breadcrumbs, children }: AppLayoutProps) {
     navigate(buildSearchPath(locale, searchDraft))
   }
 
-  const handleSearchShellBlur =
-    (shellRef: RefObject<HTMLDivElement | null>) => (event: FocusEvent<HTMLDivElement>) => {
-      const nextFocusedNode = event.relatedTarget
+  const handleSearchShellBlur = (event: FocusEvent<HTMLDivElement>) => {
+    const nextFocusedNode = event.relatedTarget
 
-      if (nextFocusedNode && shellRef.current?.contains(nextFocusedNode)) {
-        return
-      }
-
-      setIsSearchPreviewOpen(false)
+    if (nextFocusedNode && event.currentTarget.contains(nextFocusedNode as Node)) {
+      return
     }
+
+    setIsSearchPreviewOpen(false)
+  }
 
   const searchParams = new URLSearchParams(location.search)
   const activeSection = searchParams.get('section')
@@ -257,8 +252,8 @@ export function AppLayout({ locale, breadcrumbs, children }: AppLayoutProps) {
     </div>
   )
 
-  const renderSearchShell = (className: string, shellRef: RefObject<HTMLDivElement | null>) => (
-    <div className={className} ref={shellRef} onBlur={handleSearchShellBlur(shellRef)}>
+  const renderSearchShell = (className: string) => (
+    <div className={className} onBlur={handleSearchShellBlur}>
       <form className="app-search" role="search" onSubmit={submitSearch}>
         <svg className="app-search__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
           <path d="m21 21-4.3-4.3m1.3-5.2a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0Z" />
@@ -297,7 +292,7 @@ export function AppLayout({ locale, breadcrumbs, children }: AppLayoutProps) {
       <Layout.Header className="app-header" style={{ background: 'var(--as-header-bg)' }}>
         <div className="app-header__inner">
           <div className="app-header__topline">
-            {renderSearchShell('app-header__group app-header__group--search', searchShellRef)}
+            {renderSearchShell('app-header__group app-header__group--search')}
 
             <div className="app-header__controls">
               <SettingsControls />
@@ -359,7 +354,7 @@ export function AppLayout({ locale, breadcrumbs, children }: AppLayoutProps) {
               <Popover
                 content={
                   <div className="app-mobile-popover app-mobile-search-popover">
-                    {renderSearchShell('app-mobile-search-popover__shell', mobileSearchShellRef)}
+                    {renderSearchShell('app-mobile-search-popover__shell')}
                   </div>
                 }
                 open={isMobileSearchOpen}
