@@ -170,6 +170,20 @@ h5 {
   margin-top: 12px;
 }
 
+.app-header__controls {
+  display: flex;
+  flex: 0 1 auto;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+  min-width: 0;
+}
+
+.app-mobile-actions {
+  display: none;
+}
+
 .app-brand {
   display: inline-flex;
   flex: 0 0 auto;
@@ -2365,21 +2379,34 @@ h5 {
 @media (max-width: 860px) {
   .app-header {
     position: static;
+    padding: 8px 10px 9px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.16);
+    backdrop-filter: blur(10px);
   }
 
   .app-header__inner {
-    width: min(100% - 20px, 1180px);
+    width: 100%;
   }
 
   .app-header__topline,
-  .app-header__bottomline,
-  .section-control,
   .section-intro,
-  .detail-hero,
-  .home-status-panel {
+  .detail-hero {
     display: flex;
     flex-direction: column;
     align-items: stretch;
+  }
+
+  .app-header__topline {
+    display: none;
+  }
+
+  .app-header__bottomline {
+    display: grid;
+    grid-template-columns: minmax(136px, 43vw) auto;
+    gap: 8px;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 8px;
   }
 
   .app-header__group,
@@ -2389,26 +2416,250 @@ h5 {
     justify-content: flex-start;
   }
 
+  .app-header__group--theme,
+  .app-header__group--reading,
+  .app-header__group--links {
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding-bottom: 2px;
+    scrollbar-width: none;
+    flex: 0 0 auto;
+  }
+
+  .app-header__group--theme::-webkit-scrollbar,
+  .app-header__group--reading::-webkit-scrollbar,
+  .app-header__group--links::-webkit-scrollbar {
+    display: none;
+  }
+
   .app-header__group--search {
+    flex: 0 1 auto;
+    width: 100%;
     max-width: none;
     min-width: 0;
   }
 
   .app-header__group--reading {
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    gap: 8px;
+  }
+
+  .app-header__group--links {
+    gap: 8px;
   }
 
   .app-search {
     max-width: none;
+    min-width: 0;
+    min-height: 38px;
+    padding-left: 10px;
+    box-shadow: none;
+  }
+
+  .app-search-preview {
+    position: fixed;
+    inset: 54px 10px auto;
+    width: auto;
+    max-height: min(420px, calc(100dvh - 72px));
+    overflow-y: auto;
+  }
+
+  .settings-field {
+    gap: 6px;
+  }
+
+  .settings-field .ant-select,
+  .settings-field .ant-input {
+    width: 92px !important;
+    flex: 0 0 auto;
+  }
+
+  .settings-field > .ant-typography,
+  .app-header__group--theme > .ant-typography {
+    font-size: 10px;
+  }
+
+  .app-nav-link {
+    min-height: 32px;
+    white-space: nowrap;
+    box-shadow: none;
+  }
+
+  .section-control {
+    display: block;
+    width: min(43vw, 210px);
+    min-width: 0;
+  }
+
+  .section-select-native {
+    position: static;
+    width: 100% !important;
+    height: auto;
+    overflow: visible;
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .section-select-native .ant-select-selector {
+    min-height: 36px;
+    background: rgba(0, 0, 0, 0.04) !important;
+    border: 1px solid var(--as-border) !important;
+    border-left: 4px solid var(--as-accent) !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+  }
+
+  :root[data-theme='dark'] .section-select-native .ant-select-selector {
+    background: rgba(0, 0, 0, 0.22) !important;
+  }
+
+  .section-nav {
+    display: none;
+  }
+
+  .app-mobile-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 6px;
+    min-width: 0;
+  }
+
+  .app-mobile-action {
+    display: inline-flex;
+    flex: 0 0 auto;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    color: var(--as-text);
+    font-size: 17px;
+    line-height: 1;
+    text-decoration: none;
+    background: rgba(0, 0, 0, 0.04);
+    border: 1px solid var(--as-border);
+    border-radius: 0;
+    box-shadow: none;
+    cursor: pointer;
+  }
+
+  :root[data-theme='dark'] .app-mobile-action {
+    background: rgba(255, 255, 255, 0.06);
+  }
+
+  .app-mobile-action:hover,
+  .app-mobile-action:focus-visible {
+    color: var(--as-accent-strong);
+    border-color: var(--as-accent);
   }
 
   .app-breadcrumb {
-    min-width: 0;
+    display: none;
+  }
+
+  .app-mobile-popover {
+    width: min(330px, calc(100vw - 48px));
+  }
+
+  .app-mobile-search-popover__shell {
+    position: relative;
+  }
+
+  .app-mobile-search-popover .app-search-preview {
+    position: static;
+    inset: auto;
+    width: 100%;
+    max-height: min(340px, calc(100dvh - 180px));
+    margin-top: 10px;
+    overflow-y: auto;
+  }
+
+  .app-mobile-settings-popover {
+    display: grid;
+    gap: 12px;
+  }
+
+  .app-mobile-settings-popover .app-header__group--theme,
+  .app-mobile-settings-popover .app-header__group--reading {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    overflow: visible;
+    padding-bottom: 0;
+  }
+
+  .app-mobile-settings-popover .app-header__group--reading {
+    display: grid;
+  }
+
+  .app-mobile-settings-popover .settings-field {
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .app-mobile-settings-popover .settings-field .ant-select,
+  .app-mobile-settings-popover .settings-field .ant-input {
+    width: 132px !important;
   }
 
   .app-content {
     width: min(100% - 20px, 1180px);
     padding-top: 18px;
+  }
+
+  .home-status-panel {
+    display: grid;
+    grid-template-columns: minmax(72px, 0.72fr) minmax(72px, 0.72fr) minmax(116px, 1.2fr);
+    gap: 8px;
+    align-items: stretch;
+    padding: 12px;
+  }
+
+  .home-status-panel__heading {
+    grid-column: 1 / -1;
+    min-height: 34px;
+    padding-left: 8px;
+  }
+
+  .home-status-panel__heading .page-kicker {
+    font-size: 11px;
+  }
+
+  .home-stats {
+    display: contents;
+  }
+
+  .home-status-panel .stat-card,
+  .home-status-panel .continue-card {
+    min-width: 0;
+    padding: 9px 8px;
+  }
+
+  .home-status-panel .stat-card__value {
+    font-size: 22px;
+  }
+
+  .home-status-panel .stat-card__label {
+    margin-top: 5px;
+    font-size: 11px;
+    line-height: 1.2;
+  }
+
+  .continue-card {
+    width: auto;
+    gap: 6px;
+  }
+
+  .continue-card .stat-card__value {
+    font-size: 15px !important;
+    line-height: 1.1 !important;
+  }
+
+  .continue-card__copy {
+    gap: 3px;
+  }
+
+  .continue-card__arrow {
+    font-size: 12px;
   }
 
   .page-panel {

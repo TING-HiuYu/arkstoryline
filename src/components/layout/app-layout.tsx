@@ -1,5 +1,11 @@
 import { useQuery } from '@tanstack/react-query'
-import { Breadcrumb, Button, Input, Layout, Modal, Select, Space, Typography } from 'antd'
+import {
+  CopyrightOutlined,
+  DownloadOutlined,
+  SearchOutlined,
+  SettingOutlined,
+} from '@ant-design/icons'
+import { Breadcrumb, Button, Input, Layout, Modal, Popover, Select, Space, Typography } from 'antd'
 import { Link, useLocation, useNavigate } from 'react-router-dom'
 import {
   useCallback,
@@ -10,6 +16,7 @@ import {
   type FocusEvent,
   type FormEvent,
   type PropsWithChildren,
+  type RefObject,
 } from 'react'
 import { SettingsControls } from '../../features/settings/settings-controls'
 import type { SearchResultItem } from '../../features/search/search-service'
@@ -118,7 +125,10 @@ export function AppLayout({ locale, breadcrumbs, children }: AppLayoutProps) {
   const [doctorNameDraft, setDoctorNameDraft] = useState('')
   const [searchDraftState, setSearchDraftState] = useState({ locationKey: '', value: '' })
   const [isSearchPreviewOpen, setIsSearchPreviewOpen] = useState(false)
+  const [isMobileSearchOpen, setIsMobileSearchOpen] = useState(false)
+  const [isMobileSettingsOpen, setIsMobileSettingsOpen] = useState(false)
   const [headerDownloadAction, setHeaderDownloadAction] = useState<HeaderDownloadAction>(null)
+  const mobileSearchShellRef = useRef<HTMLDivElement>(null)
   const searchService = useMemo(() => getSharedSearchService(), [])
   const currentSearchDraftLocationKey = `${locale}:${location.key}`
   const searchDraft =
@@ -150,6 +160,7 @@ export function AppLayout({ locale, breadcrumbs, children }: AppLayoutProps) {
       return
     }
 
+    setIsMobileSearchOpen(false)
     navigate(buildSearchPath(locale, searchDraft))
   }
 
@@ -158,18 +169,20 @@ export function AppLayout({ locale, breadcrumbs, children }: AppLayoutProps) {
       return
     }
 
+    setIsMobileSearchOpen(false)
     navigate(buildSearchPath(locale, searchDraft))
   }
 
-  const handleSearchShellBlur = (event: FocusEvent<HTMLDivElement>) => {
-    const nextFocusedNode = event.relatedTarget
+  const handleSearchShellBlur =
+    (shellRef: RefObject<HTMLDivElement | null>) => (event: FocusEvent<HTMLDivElement>) => {
+      const nextFocusedNode = event.relatedTarget
 
-    if (nextFocusedNode && searchShellRef.current?.contains(nextFocusedNode)) {
-      return
+      if (nextFocusedNode && shellRef.current?.contains(nextFocusedNode)) {
+        return
+      }
+
+      setIsSearchPreviewOpen(false)
     }
-
-    setIsSearchPreviewOpen(false)
-  }
 
   const searchParams = new URLSearchParams(location.search)
   const activeSection = searchParams.get('section')
@@ -199,111 +212,115 @@ export function AppLayout({ locale, breadcrumbs, children }: AppLayoutProps) {
       : 'mainline'
   const shouldHighlightSection = location.pathname === `/${locale}`
 
+  const searchPreview = canSubmitSearch && isSearchPreviewOpen && (
+    <div className="app-search-preview" role="listbox" aria-label="搜索预览">
+      {previewResults.length > 0 ? (
+        previewResults.map((previewResult, index) => (
+          <Link
+            className="app-search-preview__item app-search-preview__item--best"
+            key={previewResult.id}
+            to={previewResult.targetPath}
+            onClick={() => {
+              setIsMobileSearchOpen(false)
+              setIsSearchPreviewOpen(false)
+            }}
+          >
+            <span className="app-search-preview__meta">
+              {index === 0 ? '最佳匹配' : `匹配 ${index + 1}`} ·{' '}
+              {toSearchPreviewKindLabel(previewResult.kind)}
+            </span>
+            <span className="app-search-preview__title">{previewResult.title}</span>
+            <span className="app-search-preview__secondary">
+              {previewResult.secondary ?? previewResult.albumTitle}
+            </span>
+          </Link>
+        ))
+      ) : (
+        <span className="app-search-preview__item app-search-preview__item--empty">
+          <span className="app-search-preview__meta">
+            {searchPreviewQuery.isLoading ? '正在匹配' : '暂无直接匹配'}
+          </span>
+          <span className="app-search-preview__title">{trimmedSearchDraft}</span>
+        </span>
+      )}
+
+      <Link
+        className="app-search-preview__more"
+        to={buildSearchPath(locale, searchDraft)}
+        onClick={() => {
+          setIsMobileSearchOpen(false)
+          setIsSearchPreviewOpen(false)
+        }}
+      >
+        点击查看更多结果
+      </Link>
+    </div>
+  )
+
+  const renderSearchShell = (className: string, shellRef: RefObject<HTMLDivElement | null>) => (
+    <div className={className} ref={shellRef} onBlur={handleSearchShellBlur(shellRef)}>
+      <form className="app-search" role="search" onSubmit={submitSearch}>
+        <svg className="app-search__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path d="m21 21-4.3-4.3m1.3-5.2a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0Z" />
+        </svg>
+        <Input
+          aria-label="header-content-search"
+          className="app-search__input"
+          placeholder="搜索曲谱、章节、干员或模组"
+          type="search"
+          variant="borderless"
+          allowClear
+          value={searchDraft}
+          onFocus={() => setIsSearchPreviewOpen(true)}
+          onChange={(event) => {
+            setSearchDraftState({
+              locationKey: currentSearchDraftLocationKey,
+              value: event.target.value,
+            })
+            setIsSearchPreviewOpen(true)
+          }}
+          onPressEnter={navigateToSearch}
+        />
+        {canSubmitSearch ? (
+          <button className="app-search__submit" type="submit" aria-label="进入搜索页">
+            Enter
+          </button>
+        ) : null}
+      </form>
+
+      {searchPreview}
+    </div>
+  )
+
   return (
     <Layout className="app-shell">
-      <Layout.Header
-        className="app-header"
-        style={{ position: 'sticky', background: 'var(--as-header-bg)' }}
-      >
+      <Layout.Header className="app-header" style={{ background: 'var(--as-header-bg)' }}>
         <div className="app-header__inner">
           <div className="app-header__topline">
-            <div
-              className="app-header__group app-header__group--search"
-              ref={searchShellRef}
-              onBlur={handleSearchShellBlur}
-            >
-              <form className="app-search" role="search" onSubmit={submitSearch}>
-                <svg
-                  className="app-search__icon"
-                  viewBox="0 0 24 24"
-                  aria-hidden="true"
-                  focusable="false"
-                >
-                  <path d="m21 21-4.3-4.3m1.3-5.2a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0Z" />
-                </svg>
-                <Input
-                  aria-label="header-content-search"
-                  className="app-search__input"
-                  placeholder="搜索曲谱、章节、干员或模组"
-                  type="search"
-                  variant="borderless"
-                  allowClear
-                  value={searchDraft}
-                  onFocus={() => setIsSearchPreviewOpen(true)}
-                  onChange={(event) => {
-                    setSearchDraftState({
-                      locationKey: currentSearchDraftLocationKey,
-                      value: event.target.value,
-                    })
-                    setIsSearchPreviewOpen(true)
-                  }}
-                  onPressEnter={navigateToSearch}
-                />
-                {canSubmitSearch ? (
-                  <button className="app-search__submit" type="submit" aria-label="进入搜索页">
-                    Enter
-                  </button>
-                ) : null}
-              </form>
+            {renderSearchShell('app-header__group app-header__group--search', searchShellRef)}
 
-              {canSubmitSearch && isSearchPreviewOpen ? (
-                <div className="app-search-preview" role="listbox" aria-label="搜索预览">
-                  {previewResults.length > 0 ? (
-                    previewResults.map((previewResult, index) => (
-                      <Link
-                        className="app-search-preview__item app-search-preview__item--best"
-                        key={previewResult.id}
-                        to={previewResult.targetPath}
-                      >
-                        <span className="app-search-preview__meta">
-                          {index === 0 ? '最佳匹配' : `匹配 ${index + 1}`} ·{' '}
-                          {toSearchPreviewKindLabel(previewResult.kind)}
-                        </span>
-                        <span className="app-search-preview__title">{previewResult.title}</span>
-                        <span className="app-search-preview__secondary">
-                          {previewResult.secondary ?? previewResult.albumTitle}
-                        </span>
-                      </Link>
-                    ))
-                  ) : (
-                    <span className="app-search-preview__item app-search-preview__item--empty">
-                      <span className="app-search-preview__meta">
-                        {searchPreviewQuery.isLoading ? '正在匹配' : '暂无直接匹配'}
-                      </span>
-                      <span className="app-search-preview__title">{trimmedSearchDraft}</span>
-                    </span>
-                  )}
+            <div className="app-header__controls">
+              <SettingsControls />
 
-                  <Link
-                    className="app-search-preview__more"
-                    to={buildSearchPath(locale, searchDraft)}
+              <nav className="app-header__group app-header__group--links" aria-label="页面动作">
+                {headerDownloadAction ? (
+                  <button
+                    className="app-nav-link app-nav-link--button"
+                    type="button"
+                    onClick={headerDownloadAction}
                   >
-                    点击查看更多结果
+                    下载
+                  </button>
+                ) : (
+                  <Link to={`/${locale}/download`} className="app-nav-link">
+                    下载
                   </Link>
-                </div>
-              ) : null}
-            </div>
-
-            <SettingsControls />
-
-            <nav className="app-header__group app-header__group--links" aria-label="页面动作">
-              {headerDownloadAction ? (
-                <button
-                  className="app-nav-link app-nav-link--button"
-                  type="button"
-                  onClick={headerDownloadAction}
-                >
-                  下载
-                </button>
-              ) : (
-                <Link to={`/${locale}/download`} className="app-nav-link">
-                  下载
+                )}
+                <Link to={`/${locale}/about-data`} className="app-nav-link">
+                  关于数据
                 </Link>
-              )}
-              <Link to={`/${locale}/about-data`} className="app-nav-link">
-                关于数据
-              </Link>
-            </nav>
+              </nav>
+            </div>
           </div>
 
           <div className="app-header__bottomline">
@@ -336,6 +353,66 @@ export function AppLayout({ locale, breadcrumbs, children }: AppLayoutProps) {
                   </Link>
                 ))}
               </nav>
+            </div>
+
+            <div className="app-mobile-actions" aria-label="移动端页面动作">
+              <Popover
+                content={
+                  <div className="app-mobile-popover app-mobile-search-popover">
+                    {renderSearchShell('app-mobile-search-popover__shell', mobileSearchShellRef)}
+                  </div>
+                }
+                open={isMobileSearchOpen}
+                onOpenChange={(open) => {
+                  setIsMobileSearchOpen(open)
+                  if (!open) {
+                    setIsSearchPreviewOpen(false)
+                  }
+                }}
+                trigger="click"
+              >
+                <button className="app-mobile-action" type="button" aria-label="搜索">
+                  <SearchOutlined />
+                </button>
+              </Popover>
+
+              <Popover
+                content={
+                  <div className="app-mobile-popover app-mobile-settings-popover">
+                    <SettingsControls />
+                  </div>
+                }
+                open={isMobileSettingsOpen}
+                onOpenChange={setIsMobileSettingsOpen}
+                trigger="click"
+              >
+                <button className="app-mobile-action" type="button" aria-label="阅读设置">
+                  <SettingOutlined />
+                </button>
+              </Popover>
+
+              {headerDownloadAction ? (
+                <button
+                  className="app-mobile-action"
+                  type="button"
+                  aria-label="下载"
+                  onClick={headerDownloadAction}
+                >
+                  <DownloadOutlined />
+                </button>
+              ) : (
+                <Link to={`/${locale}/download`} className="app-mobile-action" aria-label="下载">
+                  <DownloadOutlined />
+                </Link>
+              )}
+
+              <Link
+                to={`/${locale}/about-data`}
+                className="app-mobile-action"
+                aria-label="关于数据"
+              >
+                <CopyrightOutlined />
+              </Link>
             </div>
 
             <Breadcrumb

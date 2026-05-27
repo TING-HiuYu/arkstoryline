@@ -124,6 +124,10 @@ describe('App', () => {
     expect(css).not.toMatch(/#root[\s\S]*?\bwidth:\s*1126px\b/i)
     expect(css).not.toMatch(/#root[\s\S]*?\btext-align:\s*center\b/i)
     expect(css).not.toMatch(/#root[\s\S]*?\bborder-inline\s*:/i)
+    expect(css).toMatch(/\.app-header\s*\{[\s\S]*?\bposition:\s*sticky\b/)
+    expect(css).toMatch(
+      /@media \(max-width: 860px\)[\s\S]*?\.app-header\s*\{[\s\S]*?\bposition:\s*static\b/
+    )
   })
 
   it('renders header controls without visible reading-settings text and keeps theme/font/line controls', async () => {
@@ -143,7 +147,6 @@ describe('App', () => {
     const header = screen.getByRole('banner')
     const headerQueries = within(header)
 
-    expect(header).toHaveStyle({ position: 'sticky' })
     expect(headerQueries.getByRole('searchbox')).toBeInTheDocument()
     expect(headerQueries.queryByText('⌘ K')).not.toBeInTheDocument()
     expect(headerQueries.getByText('曲谱')).toBeInTheDocument()
@@ -154,7 +157,24 @@ describe('App', () => {
     expect(headerQueries.getByText('行距')).toBeInTheDocument()
     expect(headerQueries.getByText('下载')).toBeInTheDocument()
     expect(headerQueries.getByText('关于数据')).toBeInTheDocument()
+    expect(headerQueries.getByRole('button', { name: '搜索' })).toBeInTheDocument()
+    expect(headerQueries.getByRole('button', { name: '阅读设置' })).toBeInTheDocument()
+    expect(headerQueries.getAllByRole('link', { name: '下载' }).length).toBeGreaterThan(0)
+    expect(headerQueries.getAllByRole('link', { name: '关于数据' }).length).toBeGreaterThan(0)
     expect(header.style.background).not.toMatch(/#fff|#ffffff/i)
+
+    fireEvent.click(headerQueries.getByRole('button', { name: '搜索' }))
+
+    await waitFor(() => {
+      expect(document.querySelector('.app-mobile-search-popover')).toBeInTheDocument()
+    })
+
+    fireEvent.click(headerQueries.getByRole('button', { name: '搜索' }))
+    fireEvent.click(headerQueries.getByRole('button', { name: '阅读设置' }))
+
+    await waitFor(() => {
+      expect(document.querySelector('.app-mobile-settings-popover')).toBeInTheDocument()
+    })
   })
 
   it('uses a section Select/combobox and navigates to otherStory on selection', async () => {
