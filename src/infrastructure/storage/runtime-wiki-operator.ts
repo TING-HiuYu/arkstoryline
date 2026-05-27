@@ -27,7 +27,7 @@ export interface RuntimeWikiOperatorExtras {
   confidential: StaticOperatorConfidentialData
 }
 
-const WIKI_API_URL = 'https://prts.wiki/api.php'
+const WIKI_API_URL = 'https://m.prts.wiki/api.php'
 const DEFAULT_SOURCE_URL_PREFIX = 'https://prts.wiki/w/'
 
 export async function loadRuntimeWikiOperatorPage(
@@ -277,7 +277,9 @@ function getSubsections(
   const sections: Array<{ title: string; nodes: Element[] }> = []
   let activeSection: { title: string; nodes: Element[] } | null = null
 
-  for (const node of getHeadingSection(doc, parentHeadingId)) {
+  for (const node of getHeadingSection(doc, parentHeadingId).flatMap((sectionNode) =>
+    flattenMobileSectionChildren(sectionNode, childHeadingTag)
+  )) {
     if (node.tagName.toLowerCase() === childHeadingTag) {
       if (activeSection) {
         sections.push(activeSection)
@@ -297,6 +299,18 @@ function getSubsections(
   }
 
   return sections
+}
+
+function flattenMobileSectionChildren(node: Element, childHeadingTag: 'h3'): Element[] {
+  if (node.tagName.toLowerCase() === childHeadingTag) {
+    return [node]
+  }
+
+  if (!node.querySelector(childHeadingTag)) {
+    return [node]
+  }
+
+  return Array.from(node.children)
 }
 
 function extractModuleBasicInfoText(nodes: Element[]): string {

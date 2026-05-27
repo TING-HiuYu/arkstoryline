@@ -45,7 +45,7 @@ interface WikiParseApiResponse {
   }
 }
 
-const WIKI_API_URL = 'https://prts.wiki/api.php'
+const WIKI_API_URL = 'https://m.prts.wiki/api.php'
 const DEFAULT_SOURCE_URL_PREFIX = 'https://prts.wiki/w/'
 const INLINE_DIALOGUE_RE = /^\[(?:name|speaker)\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\]]+))\](.*)$/i
 const COMMAND_RE = /\[([A-Za-z_][A-Za-z0-9_]*)(?:\(([^[]*?)\))?\]/gi

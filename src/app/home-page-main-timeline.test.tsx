@@ -16,7 +16,10 @@ function mockHomeFetch() {
 
     if (URL.canParse(url)) {
       const parsedUrl = new URL(url)
-      if (parsedUrl.hostname === 'prts.wiki' && parsedUrl.pathname === '/api.php') {
+      if (
+        (parsedUrl.hostname === 'prts.wiki' || parsedUrl.hostname === 'm.prts.wiki') &&
+        parsedUrl.pathname === '/api.php'
+      ) {
         const page = parsedUrl.searchParams.get('page') ?? ''
         if (page === '购物清单') {
           return buildRuntimeWikiParseResponse({

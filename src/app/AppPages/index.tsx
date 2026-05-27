@@ -869,17 +869,6 @@ function mergeOperatorConfidential(
   }
 }
 
-function createEmptyOperatorModules(
-  operatorId: string,
-  operatorName: string
-): StaticOperatorModulesData {
-  return {
-    operatorId,
-    operatorName,
-    modules: [],
-  }
-}
-
 function createEmptyOperatorConfidential(
   operatorId: string,
   operatorName: string
@@ -4378,7 +4367,7 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
     const hydratedModules = hasRuntimePage
       ? runtimeExtras?.modules.modules.length
         ? mergeOperatorModules(operatorBaseQuery.data.modules, runtimeExtras.modules)
-        : createEmptyOperatorModules(operatorSlug, operatorBaseQuery.data.operatorName)
+        : operatorBaseQuery.data.modules
       : operatorBaseQuery.data.modules
     const hydratedConfidential = hasRuntimePage
       ? runtimeExtras?.confidential.records.length

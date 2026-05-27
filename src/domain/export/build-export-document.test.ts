@@ -220,6 +220,90 @@ describe('buildExportDocument', () => {
     )
   })
 
+  it('loads runtime wiki content when static chapter blocks are empty', async () => {
+    const repository = new MemoryStoryRepository()
+
+    repository.seed('zh_CN', {
+      manifest: {
+        schemaVersion: 1,
+        locale: 'zh_CN',
+        generatedAt: '2026-05-10T00:00:00.000Z',
+        source: {
+          providerId: 'fixture',
+          commitSha: 'rev-runtime',
+        },
+        files: {},
+      },
+      catalog: {
+        albums: [{ id: 'album_a', title: '曲谱A', slug: 'album-a' }],
+      },
+      timeline: {
+        items: [],
+      },
+      searchIndex: {
+        generatedAt: '2026-05-10T00:00:00.000Z',
+        locale: 'zh_CN',
+        entries: [],
+      },
+      albumsById: {
+        album_a: {
+          id: 'album_a',
+          title: '曲谱A',
+          albumKind: 'mainline',
+          chapters: [{ id: 'chapter_1', title: '第一章', code: '1-1' }],
+        },
+      },
+      chaptersById: {
+        chapter_1: {
+          id: 'chapter_1',
+          albumId: 'album_a',
+          title: '第一章',
+          code: '1-1',
+          navigation: { previousChapterId: null, nextChapterId: null },
+          blocks: [],
+          contentSource: {
+            provider: 'prts-wiki',
+            url: 'https://prts.wiki/w/1-1_%E5%AD%A4%E5%B2%9B/BEG',
+          },
+          citations: [],
+        },
+      },
+    })
+
+    const document = await buildExportDocument(
+      repository,
+      {
+        locale: 'zh_CN',
+        fileMode: 'single',
+        items: [{ albumId: 'album_a', chapterIds: ['chapter_1'] }],
+      },
+      {
+        runtimeStoryLoader: async (contentUrl) => ({
+          page: contentUrl,
+          sourceUrl: contentUrl,
+          title: '第一章',
+          textlog: '',
+          resources: {},
+          blocks: [
+            { type: 'dialogue', id: 'runtime-1', speaker: '阿米娅', text: '博士，醒一醒。' },
+            {
+              type: 'image',
+              id: 'runtime-bg-1',
+              sourceId: 'bg_test',
+              role: 'background',
+              url: 'https://media.prts.wiki/example.png',
+            },
+          ],
+        }),
+      }
+    )
+
+    expect(document.chapters[0]?.txtContent).toContain('阿米娅：博士，醒一醒。')
+    expect(document.chapters[0]?.images?.[0]?.sourcePath).toBe(
+      'https://media.prts.wiki/example.png'
+    )
+  })
+
   it('throws when selection asks a album to export an unknown chapter id', async () => {
     const repository = new MemoryStoryRepository()
 

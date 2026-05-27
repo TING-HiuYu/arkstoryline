@@ -5,9 +5,14 @@ import type {
   StaticChapterData,
   StoryRepository,
 } from '../../infrastructure/storage/static-story-repository'
+import {
+  loadRuntimeWikiStoryPage,
+  type RuntimeWikiStoryPage,
+} from '../../infrastructure/storage/runtime-wiki-story'
 
 export interface BuildExportDocumentOptions {
   onChapterExported?: (progress: { completedChapters: number; totalChapters: number }) => void
+  runtimeStoryLoader?: (contentUrl: string) => Promise<RuntimeWikiStoryPage>
 }
 
 function chapterToExportPayload(
@@ -128,12 +133,72 @@ function resolveExportImageSourcePath(
   return `/data/${locale}/chapters/${trimmed.replace(/^\.?\//, '')}`
 }
 
+async function loadChapterExportContent(
+  chapter: StaticChapterData,
+  runtimeStoryLoader: (contentUrl: string) => Promise<RuntimeWikiStoryPage>
+): Promise<StaticChapterData> {
+  if (chapter.blocks.length > 0 || !chapter.contentSource?.url) {
+    return chapter
+  }
+
+  const runtimeContent = await runtimeStoryLoader(chapter.contentSource.url)
+
+  return {
+    ...chapter,
+    blocks: runtimeContent.blocks.map((block): StaticChapterData['blocks'][number] => {
+      if (block.type === 'dialogue') {
+        return {
+          type: 'dialogue',
+          id: block.id,
+          speaker: block.speaker,
+          text: block.text,
+        }
+      }
+
+      if (block.type === 'narration') {
+        return {
+          type: 'narration',
+          id: block.id,
+          text: block.text,
+        }
+      }
+
+      if (block.type === 'divider') {
+        return {
+          type: 'sectionBreak',
+          id: block.id,
+          variant: 'scene',
+        }
+      }
+
+      if (block.role === 'background') {
+        return {
+          type: 'backgroundCue',
+          id: block.id,
+          sourceImageId: block.sourceId,
+          assetStatus: block.url ? 'referenced' : 'missing',
+          sourceUrl: block.url,
+        }
+      }
+
+      return {
+        type: 'imageCue',
+        id: block.id,
+        imageId: block.sourceId,
+        assetStatus: block.url ? 'referenced' : 'missing',
+        sourceUrl: block.url,
+      }
+    }),
+  }
+}
+
 export async function buildExportDocument(
   repository: StoryRepository,
   selection: ExportSelection,
   options: BuildExportDocumentOptions = {}
 ): Promise<ExportDocument> {
   const manifest = await repository.getManifest(selection.locale)
+  const runtimeStoryLoader = options.runtimeStoryLoader ?? loadRuntimeWikiStoryPage
   const albums: ExportDocumentAlbum[] = []
   const flatChapters: ExportDocumentChapter[] = []
   const totalChapters = selection.items.reduce((total, item) => total + item.chapterIds.length, 0)
@@ -154,7 +219,10 @@ export async function buildExportDocument(
     const exportedChapters: ExportDocumentChapter[] = []
 
     for (const chapterRef of selectedAlbumChapters) {
-      const chapter = await repository.getChapter(selection.locale, chapterRef.id)
+      const chapter = await loadChapterExportContent(
+        await repository.getChapter(selection.locale, chapterRef.id),
+        runtimeStoryLoader
+      )
 
       if (chapter.albumId !== album.id) {
         throw new Error(
