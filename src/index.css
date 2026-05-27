@@ -34,7 +34,6 @@
 
   font: 16px/1.65 var(--as-serif);
   color: var(--as-text);
-  font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -1085,6 +1084,126 @@ h5 {
   text-transform: uppercase;
 }
 
+.operator-archive-sections {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.operator-archive-section {
+  overflow: hidden;
+  background: var(--as-bg-card);
+  border: 1px solid var(--as-border-soft);
+  border-radius: var(--as-radius);
+  box-shadow: 8px 8px 0 rgba(0, 0, 0, 0.05);
+}
+
+:root[data-theme='dark'] .operator-archive-section {
+  box-shadow: 8px 8px 0 rgba(0, 0, 0, 0.18);
+}
+
+.operator-archive-section__header {
+  padding: 22px 28px;
+  border-bottom: 1px solid var(--as-border-soft);
+}
+
+.operator-archive-section__title.ant-typography {
+  margin: 0;
+  color: var(--as-text);
+  font-size: 24px;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+}
+
+.operator-archive-section__body {
+  min-height: 260px;
+  padding: 28px;
+}
+
+.operator-archive-section__condition.ant-typography {
+  display: block;
+  margin-bottom: 10px;
+  color: var(--as-faint);
+  font-size: 18px;
+  line-height: 1.45;
+}
+
+.operator-archive-section__paragraph.ant-typography {
+  margin-bottom: 0;
+  color: var(--as-text);
+  font-size: 18px;
+  line-height: 2.05;
+  white-space: pre-wrap;
+}
+
+.operator-archive-section__paragraph + .operator-archive-section__paragraph {
+  margin-top: 22px;
+}
+
+.operator-archive-field-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.operator-archive-field {
+  min-height: 108px;
+  padding: 16px 18px 18px;
+  background: color-mix(in srgb, var(--as-bg-panel), transparent 24%);
+  border: 1px solid var(--as-border-soft);
+  border-radius: var(--as-radius);
+}
+
+.operator-archive-field__key {
+  margin: 0 0 8px;
+  color: var(--as-faint);
+  font: 600 15px/1.35 var(--as-serif);
+}
+
+.operator-archive-field__value {
+  color: var(--as-text);
+  font-size: 20px;
+  line-height: 2.05;
+  white-space: pre-wrap;
+}
+
+.operator-archive-field__comment {
+  display: block;
+  font-style: italic;
+  font-size: 14px;
+}
+
+@media (max-width: 720px) {
+  .operator-archive-field-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.operator-archive-clinical-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.operator-archive-clinical-summary {
+  grid-column: 1 / -1;
+}
+
+.operator-archive-clinical-summary__paragraph {
+  margin-bottom: 0;
+  margin-top: 0;
+  color: var(--as-text);
+  font-size: 18px;
+  line-height: 2.05;
+  white-space: pre-wrap;
+}
+
+@media (max-width: 720px) {
+  .operator-archive-clinical-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 .archive-dossier__rules {
   display: grid;
   gap: 7px;
@@ -1379,7 +1498,8 @@ h5 {
 .reader-speaker {
   color: var(--as-muted);
   font-family: var(--as-sans);
-  font-size: 0.9em;
+  font-size: 16px;
+  line-height: 1.65;
 }
 
 .reader-narration {

@@ -247,7 +247,7 @@ function mockHomeFetch() {
             性别: '女',
             档案1: '基础档案',
             档案1条件: '初始开放',
-            档案1文本: '可露希尔，罗德岛总工程师。',
+            档案1文本: '【身份】可露希尔，罗德岛总工程师。',
           },
           metadata: {},
         })
@@ -798,6 +798,7 @@ describe('HomePage 22.6 四分区与干员入口行为', () => {
     ])
 
     expect(screen.getByText('基础档案')).toBeInTheDocument()
+    expect(screen.getByText('身份')).toBeInTheDocument()
     expect(screen.getByText('可露希尔，罗德岛总工程师。')).toBeInTheDocument()
 
     fireEvent.click(screen.getByRole('menuitem', { name: '模组 · 给自己的小奖杯' }))

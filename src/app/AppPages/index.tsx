@@ -47,6 +47,10 @@ import { StoryRelatedRefRenderer } from '../../features/reader/runtime/reader-re
 import { getReadableStoryBlocks } from '../../features/reader/readable-story-blocks'
 import type { SearchResultItem } from '../../features/search/search-service'
 import { getSharedSearchService } from '../../features/search/shared-search-service'
+import {
+  loadRuntimeWikiOperatorArchive,
+  loadRuntimeWikiOperatorExtras,
+} from '../../infrastructure/storage/runtime-wiki-operator'
 import { StaticStoryRepository } from '../../infrastructure/storage/static-story-repository'
 import type {
   StaticChapterData,
@@ -99,6 +103,24 @@ interface ArchiveSectionViewModel {
   title: string
   condition?: string
   paragraphs: string[]
+}
+
+interface ArchiveFieldViewModel {
+  key: string
+  value: string
+}
+
+interface ClinicalArchiveViewModel {
+  summary: string[]
+  metrics: ArchiveFieldViewModel[]
+}
+
+interface OperatorBaseBundle {
+  operatorName: string
+  operator?: StaticOperatorIndexData['operators'][number]
+  archive: StaticOperatorArchiveData
+  modules: StaticOperatorModulesData
+  confidential: StaticOperatorConfidentialData
 }
 
 type OperatorDetailMenuItem =
@@ -525,16 +547,146 @@ function buildArchiveSections(
     .map((index) => {
       const title = profile[`档案${index}`] ?? `档案${index}`
       const condition = profile[`档案${index}条件`]
-      const content = profile[`档案${index}文本`] ?? ''
+      const content = normalizeArchiveSectionContent(profile[`档案${index}文本`] ?? '', condition)
 
       return {
         id: `archive-section-${index}`,
         title,
         condition,
-        paragraphs: toParagraphs(content),
+        paragraphs: toArchiveSectionParagraphs(content),
       }
     })
     .filter((section) => section.paragraphs.length > 0)
+}
+
+function normalizeArchiveSectionContent(content: string, condition?: string): string {
+  const conditionText = condition?.trim() ?? ''
+  let text = toDisplayMultilineText(content).trim()
+
+  if (conditionText && text.startsWith(conditionText)) {
+    text = text.slice(conditionText.length).trim()
+  }
+
+  return text.replace(/(?!^)【/g, '\n【').trim()
+}
+
+function toArchiveSectionParagraphs(content: string): string[] {
+  if (content.includes('【')) {
+    return [content.replace(/\n{2,}/g, '\n')]
+  }
+
+  return toParagraphs(content)
+}
+
+function isArchiveFieldSection(section: ArchiveSectionViewModel): boolean {
+  return (
+    section.title === '基础档案' ||
+    section.title === '综合体检测试' ||
+    section.title === '综合性能检测结果'
+  )
+}
+
+function isClinicalArchiveSection(section: ArchiveSectionViewModel): boolean {
+  return section.title === '临床诊断分析'
+}
+
+function parseArchiveFields(section: ArchiveSectionViewModel): ArchiveFieldViewModel[] {
+  const content = section.paragraphs.join('\n').trim()
+  const fields: ArchiveFieldViewModel[] = []
+  const fieldPattern = /【([^】]+)】([\s\S]*?)(?=\n?【[^】]+】|$)/g
+
+  for (const match of content.matchAll(fieldPattern)) {
+    const key = match[1]?.trim() ?? ''
+    const value = (match[2] ?? '').trim()
+
+    if (key || value) {
+      fields.push({ key, value })
+    }
+  }
+
+  return fields
+}
+
+function parseClinicalArchiveSection(section: ArchiveSectionViewModel): ClinicalArchiveViewModel {
+  const content = section.paragraphs.join('\n').trim()
+  const metricPattern = /【(体细胞与源石融合率|血液源石结晶密度)】([\s\S]*?)(?=\n?【(?:体细胞与源石融合率|血液源石结晶密度)】|$)/g
+  const summaryLines: string[] = []
+  const metrics: ArchiveFieldViewModel[] = []
+  let firstMetricIndex: number | null = null
+
+  for (const match of content.matchAll(metricPattern)) {
+    if (firstMetricIndex === null) {
+      firstMetricIndex = match.index ?? 0
+      summaryLines.push(content.slice(0, firstMetricIndex).trim())
+    }
+
+    const key = match[1]?.trim() ?? ''
+    const lines = (match[2] ?? '')
+      .split('\n')
+      .map((line) => line.trim())
+      .filter((line) => line.length > 0)
+
+    metrics.push({
+      key,
+      value: lines.slice(0, 2).join('\n'),
+    })
+    summaryLines.push(lines.slice(2).join('\n'))
+  }
+
+  if (firstMetricIndex === null) {
+    return {
+      summary: toParagraphs(content),
+      metrics: [],
+    }
+  }
+
+  return {
+    summary: summaryLines.flatMap((line) => toParagraphs(line)),
+    metrics: metrics.filter((metric) => metric.key || metric.value),
+  }
+}
+
+function renderClinicalMetricValue(field: ArchiveFieldViewModel): ReactNode {
+  const [measurement, ...descriptionLines] = field.value
+    .split('\n')
+    .map((line) => line.trim())
+    .filter((line) => line.length > 0)
+  const description = descriptionLines.join('\n')
+
+  if (!description) {
+    return field.value
+  }
+
+  return (
+    <>
+      {measurement ? <span>{measurement}</span> : null}
+      <em className="operator-archive-field__comment">“{description}”</em>
+    </>
+  )
+}
+
+function buildArchiveDisplaySections(
+  profile: StaticOperatorArchiveData['profile']
+): ArchiveSectionViewModel[] {
+  const sections = buildArchiveSections(profile)
+
+  if (sections.length > 0) {
+    return sections
+  }
+
+  const coreEntries = buildArchiveCoreEntries(profile)
+
+  if (coreEntries.length === 0) {
+    return []
+  }
+
+  return [
+    {
+      id: 'archive-section-basic',
+      title: '基础档案',
+      paragraphs: coreEntries.map(([key, value]) => `${key}\n${toDisplayMultilineText(value)}`),
+    },
+  ]
 }
 
 function buildArchiveCoreEntries(
@@ -564,6 +716,206 @@ function getModuleBasicInfoContent(module: StaticOperatorModuleData): string | n
   }
 
   return toDisplayMultilineText(fallbackEntry[1]).trim()
+}
+
+function renderArchiveSectionContent(section: ArchiveSectionViewModel): ReactNode {
+  if (isArchiveFieldSection(section)) {
+    const fields = parseArchiveFields(section)
+
+    if (fields.length > 0) {
+      return (
+        <div className="operator-archive-field-grid">
+          {fields.map((field, index) => (
+            <article
+              className="operator-archive-field"
+              key={`${section.id}:${field.key}:${index}`}
+            >
+              <h4 className="operator-archive-field__key">{field.key}</h4>
+              <div className="operator-archive-field__value">{field.value}</div>
+            </article>
+          ))}
+        </div>
+      )
+    }
+  }
+
+  if (isClinicalArchiveSection(section)) {
+    const clinical = parseClinicalArchiveSection(section)
+
+    return (
+      <div className="operator-archive-clinical-grid">
+        {clinical.summary.length > 0 ? (
+          <div className="operator-archive-clinical-summary">
+            {clinical.summary.map((paragraph, index) => (
+              <p
+                className="operator-archive-clinical-summary__paragraph"
+                key={`${section.id}:summary:${index}`}
+              >
+                {paragraph}
+              </p>
+            ))}
+          </div>
+        ) : null}
+        {clinical.metrics.map((field, index) => (
+          <article
+            className="operator-archive-field"
+            key={`${section.id}:metric:${field.key}:${index}`}
+          >
+            <h4 className="operator-archive-field__key">{field.key}</h4>
+            <div className="operator-archive-field__value">{renderClinicalMetricValue(field)}</div>
+          </article>
+        ))}
+      </div>
+    )
+  }
+
+  return (
+    <Space orientation="vertical" size={10} style={{ width: '100%' }}>
+      {section.paragraphs.map((paragraph, index) => (
+        <Typography.Paragraph
+          className="operator-archive-section__paragraph"
+          key={`${section.id}:${index}`}
+        >
+          {paragraph}
+        </Typography.Paragraph>
+      ))}
+    </Space>
+  )
+}
+
+function mergeOperatorModules(
+  staticModules: StaticOperatorModulesData,
+  runtimeModules: StaticOperatorModulesData
+): StaticOperatorModulesData {
+  if (staticModules.modules.length === 0) {
+    return runtimeModules
+  }
+
+  const runtimeByName = new Map(runtimeModules.modules.map((module) => [module.name, module]))
+  const mergedModules = staticModules.modules.map((staticModule) => {
+    const runtimeModule = runtimeByName.get(staticModule.name)
+
+    if (!runtimeModule) {
+      return staticModule
+    }
+
+    return {
+      ...staticModule,
+      fields: {
+        ...staticModule.fields,
+        ...runtimeModule.fields,
+      },
+    }
+  })
+  const staticNames = new Set(staticModules.modules.map((module) => module.name))
+
+  for (const runtimeModule of runtimeModules.modules) {
+    if (!staticNames.has(runtimeModule.name)) {
+      mergedModules.push(runtimeModule)
+    }
+  }
+
+  return {
+    ...staticModules,
+    operatorName: staticModules.operatorName ?? runtimeModules.operatorName,
+    modules: mergedModules,
+  }
+}
+
+type OperatorConfidentialRecord = StaticOperatorConfidentialData['records'][number]
+
+function mergeOperatorConfidential(
+  staticConfidential: StaticOperatorConfidentialData,
+  runtimeConfidential: StaticOperatorConfidentialData
+): StaticOperatorConfidentialData {
+  if (staticConfidential.records.length === 0) {
+    return runtimeConfidential
+  }
+
+  const runtimeByTitle = new Map(
+    runtimeConfidential.records.map((record) => [record.title || record.slug, record])
+  )
+  const mergedRecords = staticConfidential.records.map((staticRecord) => {
+    const runtimeRecord = runtimeByTitle.get(staticRecord.title || staticRecord.slug)
+
+    if (!runtimeRecord) {
+      return staticRecord
+    }
+
+    return {
+      ...staticRecord,
+      page: staticRecord.page ?? runtimeRecord.page,
+      contentSource: staticRecord.contentSource ?? runtimeRecord.contentSource,
+      fields: {
+        ...(staticRecord.fields ?? {}),
+        ...(runtimeRecord.fields ?? {}),
+      },
+    }
+  })
+  const staticTitles = new Set(
+    staticConfidential.records.map((record) => record.title || record.slug)
+  )
+
+  for (const runtimeRecord of runtimeConfidential.records) {
+    if (!staticTitles.has(runtimeRecord.title || runtimeRecord.slug)) {
+      mergedRecords.push(runtimeRecord)
+    }
+  }
+
+  return {
+    ...staticConfidential,
+    operatorName: staticConfidential.operatorName || runtimeConfidential.operatorName,
+    records: mergedRecords,
+  }
+}
+
+function createEmptyOperatorModules(
+  operatorId: string,
+  operatorName: string
+): StaticOperatorModulesData {
+  return {
+    operatorId,
+    operatorName,
+    modules: [],
+  }
+}
+
+function createEmptyOperatorConfidential(
+  operatorId: string,
+  operatorName: string
+): StaticOperatorConfidentialData {
+  return {
+    operatorId,
+    operatorName,
+    records: [],
+  }
+}
+
+async function loadOperatorConfidentialChapter(input: {
+  operatorSlug: string
+  operatorName: string
+  record: OperatorConfidentialRecord
+}): Promise<StaticChapterData> {
+  if (!input.record.contentSource?.url) {
+    throw new Error('Missing confidential content URL')
+  }
+
+  const chapterShell: StaticChapterData = {
+    id: `${input.operatorSlug}--${input.record.id}`,
+    albumId: input.operatorSlug,
+    title: input.record.title || input.record.slug,
+    subtitle: input.operatorName,
+    navigation: {
+      previousChapterId: null,
+      nextChapterId: null,
+    },
+    blocks: [],
+    citations: [],
+    contentSource: input.record.contentSource,
+  }
+  const runtimeContent = await new PrtsStoryResourceLoader().load(input.record.contentSource.url)
+
+  return adaptRuntimeContentToStaticChapter(chapterShell, runtimeContent)
 }
 
 function buildOperatorDetailMenuItems(
@@ -669,7 +1021,7 @@ function ReaderBlockItem({
           </Typography.Text>
           <Typography.Paragraph
             className={lineClassName}
-            style={{ marginBottom: 0, textAlign: 'left' }}
+            style={{ marginBottom: 0, textAlign: 'left'}}
           >
             {renderReaderTextWithKnowledgeMarkers(text, hasCitation, knowledgeMarkers)}
           </Typography.Paragraph>
@@ -3923,10 +4275,11 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
     key: string
     selections: Record<string, number>
   }>(() => ({ key: '', selections: {} }))
+  const queryClient = useQueryClient()
   const doctorName = useAppSettingsStore((state) => state.doctorName)
 
-  const operatorBundleQuery = useQuery({
-    queryKey: ['operator-detail', operatorSlug],
+  const operatorBaseQuery = useQuery<OperatorBaseBundle>({
+    queryKey: ['operator-detail-base', operatorSlug],
     enabled: Boolean(operatorSlug),
     queryFn: async () => {
       if (!operatorSlug) {
@@ -3942,20 +4295,13 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
         staticStoryRepository.getOperatorModules(operatorSlug),
         staticStoryRepository.getOperatorConfidential(operatorSlug, operatorName),
       ])
-      const hydratedArchive = hasOperatorArchiveContent(archive)
-        ? archive
-        : buildOperatorArchiveFromIndexEntry(operatorSlug, operatorName, operator)
-      const operatorAlbum = createOperatorAlbum(
-        operatorSlug,
-        operatorName,
-        hydratedArchive,
-        modules,
-        confidential
-      )
+      const hydratedArchive =
+        (hasOperatorArchiveContent(archive) ? archive : null) ??
+        buildOperatorArchiveFromIndexEntry(operatorSlug, operatorName, operator)
 
       return {
         operatorName,
-        operatorAlbum,
+        operator,
         archive: hydratedArchive,
         modules,
         confidential,
@@ -3963,25 +4309,132 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
     },
   })
 
+  const runtimeOperatorArchiveQuery = useQuery({
+    queryKey: ['operator-runtime-archive', operatorSlug, operatorBaseQuery.data?.operator?.page],
+    enabled: Boolean(operatorSlug && operatorBaseQuery.data?.operator?.page),
+    queryFn: async () => {
+      if (!operatorSlug || !operatorBaseQuery.data?.operator?.page) {
+        throw new Error('Missing operator page')
+      }
+
+      return loadRuntimeWikiOperatorArchive({
+        operatorSlug,
+        operatorName: operatorBaseQuery.data.operatorName,
+        page: operatorBaseQuery.data.operator.page,
+      })
+    },
+  })
+
+  const shouldLoadRuntimeOperatorPage = Boolean(operatorSlug && operatorBaseQuery.data?.operator?.page)
+  const runtimeArchiveReady =
+    !shouldLoadRuntimeOperatorPage ||
+    Boolean(
+      runtimeOperatorArchiveQuery.data &&
+        hasOperatorArchiveContent(runtimeOperatorArchiveQuery.data)
+    )
+
+  const runtimeOperatorExtrasQuery = useQuery({
+    queryKey: ['operator-runtime-extras', operatorSlug, operatorBaseQuery.data?.operator?.page],
+    enabled: Boolean(
+      operatorSlug && operatorBaseQuery.data?.operator?.page && runtimeArchiveReady
+    ),
+    queryFn: async () => {
+      if (!operatorSlug || !operatorBaseQuery.data?.operator?.page) {
+        throw new Error('Missing operator page')
+      }
+
+      return loadRuntimeWikiOperatorExtras({
+        operatorSlug,
+        operatorName: operatorBaseQuery.data.operatorName,
+        page: operatorBaseQuery.data.operator.page,
+      })
+    },
+  })
+
+  const operatorBundle = useMemo(() => {
+    if (!operatorSlug || !operatorBaseQuery.data) {
+      return null
+    }
+
+    const hasRuntimePage = Boolean(operatorBaseQuery.data.operator?.page)
+    const hydratedArchive =
+      hasRuntimePage && runtimeOperatorArchiveQuery.data
+        ? runtimeOperatorArchiveQuery.data
+        : operatorBaseQuery.data.archive
+    const runtimeExtras = runtimeOperatorExtrasQuery.data
+    const hydratedModules = hasRuntimePage
+      ? runtimeExtras?.modules.modules.length
+        ? mergeOperatorModules(operatorBaseQuery.data.modules, runtimeExtras.modules)
+        : createEmptyOperatorModules(operatorSlug, operatorBaseQuery.data.operatorName)
+      : operatorBaseQuery.data.modules
+    const hydratedConfidential = hasRuntimePage
+      ? runtimeExtras?.confidential.records.length
+        ? mergeOperatorConfidential(operatorBaseQuery.data.confidential, runtimeExtras.confidential)
+        : createEmptyOperatorConfidential(operatorSlug, operatorBaseQuery.data.operatorName)
+      : operatorBaseQuery.data.confidential
+    const operatorAlbum = createOperatorAlbum(
+      operatorSlug,
+      operatorBaseQuery.data.operatorName,
+      hydratedArchive,
+      hydratedModules,
+      hydratedConfidential
+    )
+
+    return {
+      operatorName: operatorBaseQuery.data.operatorName,
+      operatorAlbum,
+      archive: hydratedArchive,
+      modules: hydratedModules,
+      confidential: hydratedConfidential,
+    }
+  }, [
+    operatorSlug,
+    operatorBaseQuery.data,
+    runtimeOperatorArchiveQuery.data,
+    runtimeOperatorExtrasQuery.data,
+  ])
+
   useEffect(() => {
-    if (!operatorBundleQuery.data) {
+    if (!operatorBaseQuery.data) {
       return
     }
 
-    onAlbumResolved(operatorBundleQuery.data.operatorName)
-  }, [onAlbumResolved, operatorBundleQuery.data])
+    onAlbumResolved(operatorBaseQuery.data.operatorName)
+  }, [onAlbumResolved, operatorBaseQuery.data])
+
+  useEffect(() => {
+    if (!operatorSlug || !operatorBundle) {
+      return
+    }
+
+    for (const record of operatorBundle.confidential.records) {
+      if (!record.contentSource?.url) {
+        continue
+      }
+
+      void queryClient.prefetchQuery({
+        queryKey: ['operator-confidential-content', operatorSlug, record.id],
+        queryFn: () =>
+          loadOperatorConfidentialChapter({
+            operatorSlug,
+            operatorName: operatorBundle.operatorName,
+            record,
+          }),
+      })
+    }
+  }, [operatorSlug, operatorBundle, queryClient])
 
   const menuItems = useMemo<OperatorDetailMenuItem[]>(() => {
-    if (!operatorBundleQuery.data) {
+    if (!operatorBundle) {
       return []
     }
 
     return buildOperatorDetailMenuItems(
-      operatorBundleQuery.data.archive,
-      operatorBundleQuery.data.modules,
-      operatorBundleQuery.data.confidential
+      operatorBundle.archive,
+      operatorBundle.modules,
+      operatorBundle.confidential
     )
-  }, [operatorBundleQuery.data])
+  }, [operatorBundle])
 
   const effectiveActiveMenuKey = menuItems.some((item) => item.key === activeMenuKey)
     ? activeMenuKey
@@ -4004,28 +4457,15 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
     queryKey: ['operator-confidential-content', operatorSlug, activeConfidentialRecord?.id],
     enabled: Boolean(operatorSlug && activeConfidentialRecord?.contentSource?.url),
     queryFn: async () => {
-      if (!operatorSlug || !activeConfidentialRecord?.contentSource?.url) {
+      if (!operatorSlug || !activeConfidentialRecord) {
         throw new Error('Missing confidential content URL')
       }
 
-      const chapterShell: StaticChapterData = {
-        id: `${operatorSlug}--${activeConfidentialRecord.id}`,
-        albumId: operatorSlug,
-        title: activeConfidentialRecord.title || activeConfidentialRecord.slug,
-        subtitle: operatorBundleQuery.data?.operatorName,
-        navigation: {
-          previousChapterId: null,
-          nextChapterId: null,
-        },
-        blocks: [],
-        citations: [],
-        contentSource: activeConfidentialRecord.contentSource,
-      }
-      const runtimeContent = await new PrtsStoryResourceLoader().load(
-        activeConfidentialRecord.contentSource.url
-      )
-
-      return adaptRuntimeContentToStaticChapter(chapterShell, runtimeContent)
+      return loadOperatorConfidentialChapter({
+        operatorSlug,
+        operatorName: operatorBundle?.operatorName ?? operatorSlug,
+        record: activeConfidentialRecord,
+      })
     },
   })
 
@@ -4033,11 +4473,24 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
     return <ErrorState message="缺少 operatorSlug 参数。" />
   }
 
-  if (operatorBundleQuery.isLoading) {
+  if (operatorBaseQuery.isLoading) {
     return <LoadingState message="正在加载干员详情..." />
   }
 
-  if (operatorBundleQuery.isError || !operatorBundleQuery.data) {
+  if (shouldLoadRuntimeOperatorPage && runtimeOperatorArchiveQuery.isLoading) {
+    return <LoadingState message="正在加载干员档案..." />
+  }
+
+  if (
+    shouldLoadRuntimeOperatorPage &&
+    (runtimeOperatorArchiveQuery.isError ||
+      !runtimeOperatorArchiveQuery.data ||
+      !hasOperatorArchiveContent(runtimeOperatorArchiveQuery.data))
+  ) {
+    return <ErrorState message="干员档案加载失败。" />
+  }
+
+  if (operatorBaseQuery.isError || !operatorBundle) {
     return <ErrorState message="干员详情加载失败。" />
   }
 
@@ -4045,13 +4498,12 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
     return <EmptyState message="该干员暂无可展示内容。" />
   }
 
-  const { archive, operatorName, operatorAlbum } = operatorBundleQuery.data
+  const { archive, operatorName, operatorAlbum } = operatorBundle
   const profile = archive.profile ?? {}
   const operatorDocumentCount = operatorAlbum.documents.length
   const operatorModuleCount = operatorAlbum.modules.length
   const operatorConfidentialCount = operatorAlbum.confidentials.length
-  const primaryInfoEntries = buildArchiveCoreEntries(profile)
-  const archiveSections = buildArchiveSections(profile)
+  const archiveSections = buildArchiveDisplaySections(profile)
   const selectedModule = selectedMenuItem?.kind === 'module' ? selectedMenuItem.module : null
   const selectedModuleBasicInfo = selectedModule ? getModuleBasicInfoContent(selectedModule) : null
 
@@ -4078,63 +4530,40 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
 
           <Col xs={24} md={16}>
             {effectiveActiveMenuKey === 'archive' ? (
-              <Card title="档案" style={{ borderRadius: 8 }}>
-                <Space orientation="vertical" size={12} style={{ width: '100%' }}>
-                  {primaryInfoEntries.length > 0 ? (
-                    <Row gutter={[8, 8]}>
-                      {primaryInfoEntries.map(([key, value]) => (
-                        <Col key={key} span={12}>
-                          <Card size="small" style={{ borderRadius: 8 }}>
-                            <Typography.Text type="secondary">{key}</Typography.Text>
-                            <Typography.Paragraph style={{ marginBottom: 0 }}>
-                              {toDisplayMultilineText(value)}
-                            </Typography.Paragraph>
-                          </Card>
-                        </Col>
-                      ))}
-                    </Row>
-                  ) : null}
-
-                  {archiveSections.map((section) => (
-                    <Card
-                      key={section.id}
-                      size="small"
-                      title={section.title}
-                      style={{ borderRadius: 8 }}
-                    >
+              <div className="operator-archive-sections">
+                {archiveSections.map((section) => (
+                  <article className="operator-archive-section" key={section.id}>
+                    <header className="operator-archive-section__header">
+                      <Typography.Title
+                        className="operator-archive-section__title"
+                        level={3}
+                      >
+                        {section.title}
+                      </Typography.Title>
+                    </header>
+                    <div className="operator-archive-section__body">
                       {typeof section.condition === 'string' &&
                       section.condition.trim().length > 0 ? (
-                        <Typography.Text type="secondary">{section.condition}</Typography.Text>
+                        <Typography.Text className="operator-archive-section__condition">
+                          {section.condition}
+                        </Typography.Text>
                       ) : null}
-                      <Space
-                        orientation="vertical"
-                        size={6}
-                        style={{ marginTop: 8, width: '100%' }}
-                      >
-                        {section.paragraphs.map((paragraph, index) => (
-                          <Typography.Paragraph
-                            key={`${section.id}:${index}`}
-                            style={{ marginBottom: 0 }}
-                          >
-                            {paragraph}
-                          </Typography.Paragraph>
-                        ))}
-                      </Space>
-                    </Card>
-                  ))}
-                </Space>
-              </Card>
+                      {renderArchiveSectionContent(section)}
+                    </div>
+                  </article>
+                ))}
+              </div>
             ) : null}
 
             {selectedModule ? (
               <Card style={{ borderRadius: 8 }}>
                 {selectedModuleBasicInfo ? (
                   <Space orientation="vertical" size={10} style={{ width: '100%' }}>
-                    <Typography.Title level={5} style={{ margin: 0 }}>
+                    <Typography.Title level={5} style={{ margin: 0, fontSize: '16pt' }}>
                       {`模组 · ${selectedModule.name}`}
                     </Typography.Title>
                     <Divider style={{ margin: 0 }} />
-                    <Typography.Paragraph style={{ marginBottom: 0, whiteSpace: 'pre-wrap' }}>
+                    <Typography.Paragraph style={{ marginBottom: 0, whiteSpace: 'pre-wrap', fontSize: '14pt', lineHeight: '28pt' }}>
                       {selectedModuleBasicInfo}
                     </Typography.Paragraph>
                   </Space>
@@ -4147,7 +4576,7 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
             {activeConfidentialRecord ? (
               <Card
                 title={`秘录 · ${activeConfidentialRecord.title || activeConfidentialRecord.slug}`}
-                style={{ borderRadius: 8 }}
+                style={{ borderRadius: 8, fontSize: '16pt' }}
               >
                 {!activeConfidentialRecord.contentSource?.url ? (
                   <EmptyState message="该秘录缺少正文 URL。" />
