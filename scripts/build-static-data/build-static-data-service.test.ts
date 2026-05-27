@@ -785,9 +785,14 @@ describe('buildStaticDataService', () => {
 
     const chapter = await readJson<{
       blocks: Array<{ type: string; speaker?: string; text?: string; options?: string[] }>
+      contentSource?: { page: string; url: string }
     }>(join(outputDir, 'zh_CN/chapters/main_0--obt__main__level_main_00-01_beg.json'))
 
     expect(chapter.blocks).toEqual([])
+    expect(chapter.contentSource).toMatchObject({
+      page: '0-1_坍塌/BEG',
+      url: 'https://prts.wiki/w/0-1_%E5%9D%8D%E5%A1%8C/BEG',
+    })
   })
 
   it('does not block metadata builds when local story text is missing', async () => {

@@ -25,6 +25,28 @@ describe('mapReviewStoryToChapter', () => {
       path: 'chapters/act9d0--activities__act9d0__level_act9d0_01_beg.json',
       infoPath: undefined,
       downloadable: true,
+      contentSource: {
+        provider: 'prts',
+        url: 'https://prts.wiki/w/ST-1_Dark%20Ages/BEG',
+        page: 'ST-1_Dark Ages/BEG',
+        kind: 'scenario-html',
+      },
+    })
+  })
+
+  it('maps guide-only prologue entries to their PRTS scenario pages', () => {
+    const chapter = mapReviewStoryToChapter('main_0', {
+      storyName: '序章·上',
+      avgTag: '幕间',
+      storySort: 1,
+      storyTxt: 'obt/guide/beg/0_welcome_to_guide',
+    })
+
+    expect(chapter.contentSource).toEqual({
+      provider: 'prts',
+      url: 'https://prts.wiki/w/%E5%94%A4%E9%86%92%E6%B5%8B%E8%AF%95/%E5%BA%8F%E7%AB%A0/BEG',
+      page: '唤醒测试/序章/BEG',
+      kind: 'scenario-html',
     })
   })
 

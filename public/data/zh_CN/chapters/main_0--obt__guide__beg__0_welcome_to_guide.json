@@ -3,6 +3,12 @@
   "albumId": "main_0",
   "title": "序章·上",
   "avgTag": "幕间",
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "唤醒测试/序章/BEG",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/%E5%94%A4%E9%86%92%E6%B5%8B%E8%AF%95/%E5%BA%8F%E7%AB%A0/BEG"
+  },
   "summary": "info/obt/guide/beg/0_welcome_to_guide",
   "navigation": {
     "previousChapterId": null,

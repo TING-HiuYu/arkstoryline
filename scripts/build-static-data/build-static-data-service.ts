@@ -155,6 +155,7 @@ interface GeneratedChapterShell {
   code?: string
   avgTag?: string
   summary?: string
+  contentSource?: ReturnType<typeof mapReviewStoryToChapter>['contentSource']
   navigation: {
     previousChapterId: string | null
     nextChapterId: string | null
@@ -263,6 +264,7 @@ export const buildStaticDataService: BuildStaticDataService = {
           chapterCode: chapterRef.code,
           chapterAvgTag: chapterRef.avgTag,
           chapterSummary: toNonEmptyString(story.storyInfo),
+          chapterContentSource: chapterRef.contentSource,
         })
 
         chapterShells.set(chapterRef.id, chapterShell)
@@ -894,6 +896,7 @@ function buildChapterShell(input: {
   chapterCode?: string
   chapterAvgTag?: string
   chapterSummary?: string
+  chapterContentSource?: ReturnType<typeof mapReviewStoryToChapter>['contentSource']
 }): GeneratedChapterShell {
   return {
     id: input.chapterId,
@@ -903,6 +906,7 @@ function buildChapterShell(input: {
     code: input.chapterCode,
     avgTag: input.chapterAvgTag,
     summary: input.chapterSummary,
+    contentSource: input.chapterContentSource,
     navigation: {
       previousChapterId: null,
       nextChapterId: null,
