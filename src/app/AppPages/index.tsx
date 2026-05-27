@@ -2767,6 +2767,19 @@ export function AboutDataPage() {
     note: React.ReactNode
   }> = [
     {
+      id: 'website-sourceCode',
+      label: '网站源码',
+      note: (
+        <>
+          来自Github项目 
+          <a href="https://github.com/Ting-HiuYu/arkstoryline" target="_blank" rel="noopener noreferrer">
+            Ting-HiuYu/arkstoryline
+          </a>
+          ，如果感觉这个网站有帮到你，还请给我点个star支持一下，谢谢！
+        </>
+      ),
+    },
+    {
       id: 'arknights-text',
       label: '剧情文本内容',
       note: (
