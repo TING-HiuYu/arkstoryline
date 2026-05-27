@@ -92,12 +92,7 @@ export interface ReaderBreadcrumbSync extends AlbumBreadcrumbSync {
   onChapterResolved: (chapterTitle: string) => void
 }
 
-type HomeSectionKey =
-  | 'mainline'
-  | 'sideStory'
-  | 'otherStory'
-  | 'operatorRecord'
-  | 'terraHistoricus'
+type HomeSectionKey = 'mainline' | 'sideStory' | 'otherStory' | 'operatorRecord' | 'terraHistoricus'
 
 interface ArchiveSectionViewModel {
   id: string
@@ -108,22 +103,22 @@ interface ArchiveSectionViewModel {
 
 type OperatorDetailMenuItem =
   | {
-    key: string
-    kind: 'archive'
-    label: string
-  }
+      key: string
+      kind: 'archive'
+      label: string
+    }
   | {
-    key: string
-    kind: 'module'
-    label: string
-    module: StaticOperatorModuleData
-  }
+      key: string
+      kind: 'module'
+      label: string
+      module: StaticOperatorModuleData
+    }
   | {
-    key: string
-    kind: 'confidential'
-    label: string
-    record: StaticOperatorConfidentialData['records'][number]
-  }
+      key: string
+      kind: 'confidential'
+      label: string
+      record: StaticOperatorConfidentialData['records'][number]
+    }
 
 type ReaderBlock = StaticChapterData['blocks'][number]
 type ReaderChoiceBlockData = Extract<ReaderBlock, { type: 'choice' }>
@@ -1003,7 +998,7 @@ function ReaderVisualCueImageContent({
               attemptIndex,
               value:
                 current?.attemptIndex === attemptIndex &&
-                  current.value >= READER_VISUAL_IMAGE_HIDE_PROGRESS
+                current.value >= READER_VISUAL_IMAGE_HIDE_PROGRESS
                   ? current.value
                   : READER_VISUAL_IMAGE_HIDE_PROGRESS,
             }))
@@ -1228,9 +1223,9 @@ function ReaderChoiceBlock({
 
         return item
           ? {
-            ...item,
-            key: `${selectedBranch.id}:${item.key}:${index}`,
-          }
+              ...item,
+              key: `${selectedBranch.id}:${item.key}:${index}`,
+            }
           : null
       })
       .filter((item): item is ReaderFlowItem => item !== null) ?? []
@@ -1313,14 +1308,14 @@ function renderReaderBlockSequence({
       const branchRenderResult =
         selectedBranch && selectedBranch.blocks.length > 0
           ? renderReaderBlockSequence({
-            blocks: selectedBranch.blocks,
-            chapterCitations,
-            depth: depth + 1,
-            doctorName,
-            choiceSelections,
-            onChoiceSelect,
-            knowledgeMarkersByBlock,
-          })
+              blocks: selectedBranch.blocks,
+              chapterCitations,
+              depth: depth + 1,
+              doctorName,
+              choiceSelections,
+              onChoiceSelect,
+              knowledgeMarkersByBlock,
+            })
           : null
 
       items.push({
@@ -1482,10 +1477,7 @@ function buildClassifiedAlbums(
         parseMainlineOrder(left.id) - parseMainlineOrder(right.id) ||
         left.id.localeCompare(right.id)
     )
-  const mainlineRankByAlbumId = new Map<
-    string,
-    { timelineRank: number; gameOrderRank: number }
-  >()
+  const mainlineRankByAlbumId = new Map<string, { timelineRank: number; gameOrderRank: number }>()
   metadataOnlyMainlineAlbums.forEach((album, index) => {
     mainlineRankByAlbumId.set(album.id, {
       timelineRank: maxMainlineTimelineRank + index + 1,
@@ -1546,10 +1538,7 @@ function buildClassifiedAlbums(
       continue
     }
 
-    const normalizedCatalogEntryType = normalizeAlbumKind(
-      album.id,
-      album.albumKind ?? 'otherStory'
-    )
+    const normalizedCatalogEntryType = normalizeAlbumKind(album.id, album.albumKind ?? 'otherStory')
     const sectionKey =
       normalizedCatalogEntryType === 'mainline'
         ? 'mainline'
@@ -1787,7 +1776,7 @@ export function DownloadSelectorPanel({
       toAlbumKey(defaultAlbumId),
     ]
     if (album.sectionKey === 'mainline' || album.sectionKey === 'sideStory') {
-      nextExpanded.splice(1, 0, 'group:mainline')
+      nextExpanded.splice(1, 0, 'group:storyline')
     }
 
     return Array.from(new Set(nextExpanded))
@@ -1801,17 +1790,17 @@ export function DownloadSelectorPanel({
 
     const focusedChapter = focusedChapterId
       ? defaultSelectedAlbumDetailQuery.data.chapters.find(
-        (chapter) => chapter.id === focusedChapterId
-      )
+          (chapter) => chapter.id === focusedChapterId
+        )
       : undefined
     const selected = focusedChapter
       ? [toChapterKey(focusedChapter.id)]
       : [
-        toAlbumKey(defaultAlbumId),
-        ...defaultSelectedAlbumDetailQuery.data.chapters.map((chapter) =>
-          toChapterKey(chapter.id)
-        ),
-      ]
+          toAlbumKey(defaultAlbumId),
+          ...defaultSelectedAlbumDetailQuery.data.chapters.map((chapter) =>
+            toChapterKey(chapter.id)
+          ),
+        ]
 
     return Array.from(new Set(selected))
   }, [defaultEmpty, defaultAlbumId, defaultSelectedAlbumDetailQuery.data, focusedChapterId])
@@ -1873,7 +1862,7 @@ export function DownloadSelectorPanel({
       title: '全部剧情',
       children: [
         {
-          key: 'group:mainline',
+          key: 'group:storyline',
           title: '主时间线',
           children: [
             {
@@ -1899,7 +1888,7 @@ export function DownloadSelectorPanel({
 
   const checkedChapterCount = checkedKeys.filter((key) => key.startsWith('chapter:')).length
   const hasExportableSelection = checkedKeys.some((key) => {
-    if (key === 'root:all' || key === 'group:mainline') {
+    if (key === 'root:all' || key === 'group:storyline') {
       return true
     }
 
@@ -1932,7 +1921,7 @@ export function DownloadSelectorPanel({
         .map((item) => item.albumId)
     }
 
-    if (key === 'group:mainline') {
+    if (key === 'group:storyline') {
       return classifiedAlbums
         .filter((item) => item.sectionKey === 'mainline' || item.sectionKey === 'sideStory')
         .map((item) => item.albumId)
@@ -2016,9 +2005,9 @@ export function DownloadSelectorPanel({
   const downloadPercent =
     downloadProgress.totalChapters > 0
       ? Math.min(
-        100,
-        Math.round((downloadProgress.completedChapters / downloadProgress.totalChapters) * 100)
-      )
+          100,
+          Math.round((downloadProgress.completedChapters / downloadProgress.totalChapters) * 100)
+        )
       : 0
   const downloadButtonLabel = isDownloading
     ? `已下载 ${downloadPercent}%`
@@ -2073,7 +2062,7 @@ export function DownloadSelectorPanel({
   }
 
   return (
-    <Space className="download-panel" direction="vertical" size={10} style={{ width: '100%' }}>
+    <Space className="download-panel" orientation="vertical" size={10} style={{ width: '100%' }}>
       <Button
         data-testid="download-action-top"
         type="primary"
@@ -2156,7 +2145,7 @@ export function DownloadPage({ locale }: PageProps) {
 
   return (
     <main className="page-panel">
-      <Space direction="vertical" size={12} style={{ width: '100%' }}>
+      <Space orientation="vertical" size={12} style={{ width: '100%' }}>
         <span className="page-kicker">Export</span>
         <Typography.Title level={2}>下载页</Typography.Title>
         <DownloadSelectorPanel
@@ -2287,7 +2276,7 @@ function SearchPageContent({
 
   return (
     <main className="page-panel">
-      <Space direction="vertical" size={12} style={{ width: '100%' }}>
+      <Space orientation="vertical" size={12} style={{ width: '100%' }}>
         <span className="page-kicker">Search</span>
         <Typography.Title level={2}>剧情搜索</Typography.Title>
         <Input.Search
@@ -2327,7 +2316,7 @@ function SearchPageContent({
               return (
                 <Card className="search-result-group" key={group.albumId}>
                   <div className="search-result-group__header">
-                    <Space direction="vertical" size={4}>
+                    <Space orientation="vertical" size={4}>
                       <Space wrap size={8}>
                         <Typography.Title level={4} style={{ margin: 0 }}>
                           {group.albumTitle}
@@ -2362,7 +2351,7 @@ function SearchPageContent({
                       dataSource={visibleNestedItems}
                       renderItem={(item) => (
                         <List.Item>
-                          <Space direction="vertical" size={2} style={{ width: '100%' }}>
+                          <Space orientation="vertical" size={2} style={{ width: '100%' }}>
                             <Link to={item.targetPath}>
                               <Typography.Text strong>{item.title}</Typography.Text>
                             </Link>
@@ -2396,7 +2385,7 @@ function SearchPageContent({
                 dataSource={remoteSearchQuery.data}
                 renderItem={(item) => (
                   <List.Item>
-                    <Space direction="vertical" size={4} style={{ width: '100%' }}>
+                    <Space orientation="vertical" size={4} style={{ width: '100%' }}>
                       {item.targetPath ? (
                         <Link to={item.targetPath}>
                           <Typography.Text strong>{item.title}</Typography.Text>
@@ -2425,53 +2414,73 @@ export function AboutDataPage() {
     label: string
     note: React.ReactNode
   }> = [
-      {
-        id: 'arknights-text',
-        label: '剧情文本内容',
-        note: (
-          <>
-            版权归<a href="https://ak.hypergryph.com/" target="_blank" rel="noopener noreferrer">《明日方舟》</a>及其权利人所有。
-          </>
-        ),
-      },
-      {
-        id: 'arknights-images',
-        label: '剧情图片内容',
-        note: (
-          <>
-            版权归<a href="https://ak.hypergryph.com/" target="_blank" rel="noopener noreferrer">《明日方舟》</a>及其权利人所有。
-          </>
-        ),
-      },
-      {
-        id: 'arknights-audio',
-        label: '游戏音频资源',
-        note: (
-          <>
-            版权归<a href="https://ak.hypergryph.com/" target="_blank" rel="noopener noreferrer">《明日方舟》</a>及其权利人所有。
-          </>
-        ),
-      },
-      {
-        id: 'arknights-wiki',
-        label: '其余数据声明',
-        note: (
-          <>
-            曲谱封面和章节内容源自<a href="https://prts.wiki/" target="_blank" rel="noopener noreferrer">网站PRTS</a>。本站只作数据的分类和阅读辅助，版权归PRTS网站原作者与<a href="https://ak.hypergryph.com/" target="_blank" rel="noopener noreferrer">《明日方舟》</a>及其权利人所有。
-          </>
-        ),
-      },
-    ]
+    {
+      id: 'arknights-text',
+      label: '剧情文本内容',
+      note: (
+        <>
+          版权归
+          <a href="https://ak.hypergryph.com/" target="_blank" rel="noopener noreferrer">
+            《明日方舟》
+          </a>
+          及其权利人所有。
+        </>
+      ),
+    },
+    {
+      id: 'arknights-images',
+      label: '剧情图片内容',
+      note: (
+        <>
+          版权归
+          <a href="https://ak.hypergryph.com/" target="_blank" rel="noopener noreferrer">
+            《明日方舟》
+          </a>
+          及其权利人所有。
+        </>
+      ),
+    },
+    {
+      id: 'arknights-audio',
+      label: '游戏音频资源',
+      note: (
+        <>
+          版权归
+          <a href="https://ak.hypergryph.com/" target="_blank" rel="noopener noreferrer">
+            《明日方舟》
+          </a>
+          及其权利人所有。
+        </>
+      ),
+    },
+    {
+      id: 'arknights-wiki',
+      label: '其余数据声明',
+      note: (
+        <>
+          曲谱封面和章节内容源自
+          <a href="https://prts.wiki/" target="_blank" rel="noopener noreferrer">
+            网站PRTS
+          </a>
+          。本站只作数据的分类和阅读辅助，版权归PRTS网站原作者与
+          <a href="https://ak.hypergryph.com/" target="_blank" rel="noopener noreferrer">
+            《明日方舟》
+          </a>
+          及其权利人所有。
+        </>
+      ),
+    },
+  ]
 
   return (
     <main className="page-panel">
-      <Space direction="vertical" size={12} style={{ width: '100%' }}>
+      <Space orientation="vertical" size={12} style={{ width: '100%' }}>
         <span className="page-kicker">Data Sources</span>
         <Typography.Title level={2}>关于数据与版权</Typography.Title>
         <Card className="archive-card" title="内容源声明" style={{ borderRadius: 8 }}>
-          <Space direction="vertical" size={10} style={{ width: '100%' }}>
+          <Space orientation="vertical" size={10} style={{ width: '100%' }}>
             {sourceCards.map((source) => (
-              <Space className="source-row" key={source.id} direction="vertical" size={2}>
+              <Space className="source-row" key={source.id} orientation="vertical" size={2}>
                 <Typography.Text strong>{source.label}</Typography.Text>
                 <Typography.Text type="secondary">{source.note}</Typography.Text>
               </Space>
@@ -2505,7 +2514,7 @@ export function AlbumsIndexPage({ locale }: PageProps) {
 
   return (
     <main className="page-panel">
-      <Space direction="vertical" size={12} style={{ width: '100%' }}>
+      <Space orientation="vertical" size={12} style={{ width: '100%' }}>
         <span className="page-kicker">Albums</span>
         <Typography.Title level={2}>曲谱</Typography.Title>
         <List
@@ -2514,7 +2523,7 @@ export function AlbumsIndexPage({ locale }: PageProps) {
           dataSource={catalogQuery.data.albums}
           renderItem={(album) => (
             <List.Item>
-              <Space direction="vertical" size={2} style={{ width: '100%' }}>
+              <Space orientation="vertical" size={2} style={{ width: '100%' }}>
                 <Typography.Text strong>{album.title}</Typography.Text>
                 <Link to={buildAlbumPath(locale, album.id)}>查看曲谱</Link>
               </Space>
@@ -2531,7 +2540,7 @@ export function ReaderIndexPage({ locale }: PageProps) {
 
   return (
     <main className="page-panel">
-      <Space direction="vertical" size={12} style={{ width: '100%' }}>
+      <Space orientation="vertical" size={12} style={{ width: '100%' }}>
         <span className="page-kicker">Reader</span>
         <Typography.Title level={2}>阅读</Typography.Title>
         <Typography.Text type="secondary">请选择具体章节进入阅读页。</Typography.Text>
@@ -2610,7 +2619,7 @@ function AlbumDetailBody({ locale, album }: { locale: AppLocale; album: StaticAl
         </div>
       </section>
 
-      <Space direction="vertical" size={18} style={{ width: '100%' }}>
+      <Space orientation="vertical" size={18} style={{ width: '100%' }}>
         <div className="section-intro" style={{ marginTop: 0 }}>
           <div>
             <span className="page-kicker">Chapters</span>
@@ -2654,7 +2663,7 @@ function AlbumDetailBody({ locale, album }: { locale: AppLocale; album: StaticAl
               dataSource={album.extras}
               renderItem={(extra) => (
                 <List.Item>
-                  <Space direction="vertical" size={2} style={{ width: '100%' }}>
+                  <Space orientation="vertical" size={2} style={{ width: '100%' }}>
                     <Typography.Text strong>{extra.title}</Typography.Text>
                     <Typography.Text type="secondary">类型：{extra.type}</Typography.Text>
                     {extra.path ? (
@@ -2993,8 +3002,8 @@ export function ReaderPage({
   const previousMainlineTargetChapterId =
     previousMainlineAlbumQuery.data && previousMainlineAlbumQuery.data.chapters.length > 0
       ? previousMainlineAlbumQuery.data.chapters[
-        previousMainlineAlbumQuery.data.chapters.length - 1
-      ]?.id
+          previousMainlineAlbumQuery.data.chapters.length - 1
+        ]?.id
       : undefined
   const nextMainlineTargetChapterId =
     nextMainlineAlbumQuery.data && nextMainlineAlbumQuery.data.chapters.length > 0
@@ -4048,7 +4057,7 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
 
   return (
     <main>
-      <Space direction="vertical" size={12} style={{ width: '100%' }}>
+      <Space orientation="vertical" size={12} style={{ width: '100%' }}>
         <Typography.Title level={2}>{operatorName}</Typography.Title>
         <Typography.Text type="secondary">
           档案 {operatorDocumentCount} · 模组 {operatorModuleCount} · 秘录{' '}
@@ -4070,7 +4079,7 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
           <Col xs={24} md={16}>
             {effectiveActiveMenuKey === 'archive' ? (
               <Card title="档案" style={{ borderRadius: 8 }}>
-                <Space direction="vertical" size={12} style={{ width: '100%' }}>
+                <Space orientation="vertical" size={12} style={{ width: '100%' }}>
                   {primaryInfoEntries.length > 0 ? (
                     <Row gutter={[8, 8]}>
                       {primaryInfoEntries.map(([key, value]) => (
@@ -4094,10 +4103,14 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
                       style={{ borderRadius: 8 }}
                     >
                       {typeof section.condition === 'string' &&
-                        section.condition.trim().length > 0 ? (
+                      section.condition.trim().length > 0 ? (
                         <Typography.Text type="secondary">{section.condition}</Typography.Text>
                       ) : null}
-                      <Space direction="vertical" size={6} style={{ marginTop: 8, width: '100%' }}>
+                      <Space
+                        orientation="vertical"
+                        size={6}
+                        style={{ marginTop: 8, width: '100%' }}
+                      >
                         {section.paragraphs.map((paragraph, index) => (
                           <Typography.Paragraph
                             key={`${section.id}:${index}`}
@@ -4116,7 +4129,7 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
             {selectedModule ? (
               <Card style={{ borderRadius: 8 }}>
                 {selectedModuleBasicInfo ? (
-                  <Space direction="vertical" size={10} style={{ width: '100%' }}>
+                  <Space orientation="vertical" size={10} style={{ width: '100%' }}>
                     <Typography.Title level={5} style={{ margin: 0 }}>
                       {`模组 · ${selectedModule.name}`}
                     </Typography.Title>
@@ -4214,7 +4227,9 @@ function buildOperatorArchiveFromIndexEntry(
     profile,
     metadata: {
       source: 'operator/index.json',
-      sourceUrl: operator?.page ? `https://prts.wiki/w/${encodeWikiPath(operator.page)}` : undefined,
+      sourceUrl: operator?.page
+        ? `https://prts.wiki/w/${encodeWikiPath(operator.page)}`
+        : undefined,
     },
   }
 }

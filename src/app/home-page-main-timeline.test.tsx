@@ -440,10 +440,7 @@ function buildRuntimeWikiParseResponse({
 }
 
 function escapeHtml(value: string): string {
-  return value
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
+  return value.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
 }
 
 describe('HomePage 22.6 四分区与干员入口行为', () => {
@@ -526,7 +523,9 @@ describe('HomePage 22.6 四分区与干员入口行为', () => {
   afterEach(() => {
     window.history.pushState({}, '', '/zh_CN')
     vi.useRealTimers()
-    useReadingProgressStore.setState({ byAlbumId: {}, lastRead: undefined })
+    act(() => {
+      useReadingProgressStore.setState({ byAlbumId: {}, lastRead: undefined })
+    })
     vi.restoreAllMocks()
     vi.unstubAllGlobals()
   })

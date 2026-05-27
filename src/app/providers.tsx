@@ -3,6 +3,8 @@ import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { useEffect, useState, type PropsWithChildren } from 'react'
 import { useAppSettingsStore } from '../infrastructure/storage/use-app-settings-store'
 
+const IS_TEST_ENV = import.meta.env.MODE === 'test' || process.env.NODE_ENV === 'test'
+
 const FONT_SIZE_BY_SCALE = {
   small: 14,
   medium: 16,
@@ -56,6 +58,7 @@ export function AppProviders({ children }: PropsWithChildren) {
           fontFamily: '"Noto Serif SC", "Songti SC", "STSong", "Iowan Old Style", Georgia, serif',
           fontFamilyCode:
             '"SFMono-Regular", "Cascadia Code", "Liberation Mono", Consolas, monospace',
+          motion: !IS_TEST_ENV,
         },
         components: {
           Button: {

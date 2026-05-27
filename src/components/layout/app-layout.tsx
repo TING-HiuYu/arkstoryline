@@ -365,7 +365,7 @@ export function AppLayout({ locale, breadcrumbs, children }: AppLayoutProps) {
           </Button>,
         ]}
       >
-        <Space direction="vertical" size={12} style={{ width: '100%' }}>
+        <Space orientation="vertical" size={12} style={{ width: '100%' }}>
           <Typography.Paragraph type="secondary" style={{ marginBottom: 0 }}>
             这个名字会用于阅读页和下载文件中的 <code>{'{@nickname}'}</code>{' '}
             替换。留空时会保留原始占位符。

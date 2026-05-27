@@ -54,3 +54,17 @@ if (!window.matchMedia) {
     }
   }
 }
+
+const browserGetComputedStyle = window.getComputedStyle.bind(window)
+window.getComputedStyle = (
+  element: Element,
+  pseudoElement?: string | null
+): CSSStyleDeclaration => {
+  if (pseudoElement) {
+    return browserGetComputedStyle(element)
+  }
+
+  return browserGetComputedStyle(element)
+}
+
+HTMLCanvasElement.prototype.getContext = () => null
