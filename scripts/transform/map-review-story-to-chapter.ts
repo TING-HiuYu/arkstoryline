@@ -85,11 +85,11 @@ function buildGuideContentSourcePage(storyTxt: string | undefined): string | und
   const normalizedStoryTxt = storyTxt?.replace(/\\/g, '/').replace(/^\/+/, '').toLowerCase()
 
   if (normalizedStoryTxt === 'obt/guide/beg/0_welcome_to_guide') {
-    return '唤醒测试/序章/BEG'
+    return 'W2G/BEG'
   }
 
   if (normalizedStoryTxt === 'obt/guide/beg/2_guide_to_home') {
-    return '唤醒测试/序章/END'
+    return 'G2H/END'
   }
 
   return undefined
@@ -106,11 +106,7 @@ function toScenarioSuffix(avgTag: string | undefined): 'BEG' | 'END' | 'NBT' | u
     return 'BEG'
   }
 
-  if (
-    normalizedAvgTag === 'after' ||
-    normalizedAvgTag === '行动后' ||
-    normalizedAvgTag === 'end'
-  ) {
+  if (normalizedAvgTag === 'after' || normalizedAvgTag === '行动后' || normalizedAvgTag === 'end') {
     return 'END'
   }
 

@@ -145,51 +145,80 @@ async function loadChapterExportContent(
 
   return {
     ...chapter,
-    blocks: runtimeContent.blocks.map((block): StaticChapterData['blocks'][number] => {
-      if (block.type === 'dialogue') {
-        return {
-          type: 'dialogue',
-          id: block.id,
-          speaker: block.speaker,
-          text: block.text,
-        }
-      }
+    blocks: adaptRuntimeExportBlocks(runtimeContent.blocks),
+  }
+}
 
-      if (block.type === 'narration') {
-        return {
-          type: 'narration',
-          id: block.id,
-          text: block.text,
-        }
-      }
-
-      if (block.type === 'divider') {
-        return {
-          type: 'sectionBreak',
-          id: block.id,
-          variant: 'scene',
-        }
-      }
-
-      if (block.role === 'background') {
-        return {
-          type: 'backgroundCue',
-          id: block.id,
-          sourceImageId: block.sourceId,
-          assetStatus: block.url ? 'referenced' : 'missing',
-          sourceUrl: block.url,
-        }
-      }
-
+function adaptRuntimeExportBlocks(
+  blocks: RuntimeWikiStoryPage['blocks']
+): StaticChapterData['blocks'] {
+  return blocks.map((block): StaticChapterData['blocks'][number] => {
+    if (block.type === 'dialogue') {
       return {
-        type: 'imageCue',
+        type: 'dialogue',
         id: block.id,
-        imageId: block.sourceId,
+        speaker: block.speaker,
+        text: block.text,
+      }
+    }
+
+    if (block.type === 'narration') {
+      return {
+        type: 'narration',
+        id: block.id,
+        text: block.text,
+      }
+    }
+
+    if (block.type === 'divider') {
+      return {
+        type: 'sectionBreak',
+        id: block.id,
+        variant: 'scene',
+      }
+    }
+
+    if (block.type === 'choice') {
+      return {
+        type: 'choice',
+        id: block.id,
+        options: block.options,
+        values: block.values,
+        branches: block.branches?.map((branch) => ({
+          id: branch.id,
+          predicate: branch.predicate,
+          references: branch.references,
+          blocks: adaptRuntimeExportBlocks(branch.blocks),
+        })),
+      }
+    }
+
+    if (block.type === 'interaction') {
+      return {
+        type: 'narration',
+        id: block.id,
+        text: block.label,
+      }
+    }
+
+    if (block.role === 'background') {
+      return {
+        type: 'backgroundCue',
+        id: block.id,
+        sourceImageId: block.sourceId,
         assetStatus: block.url ? 'referenced' : 'missing',
         sourceUrl: block.url,
       }
-    }),
-  }
+    }
+
+    return {
+      type: 'imageCue',
+      id: block.id,
+      imageId: block.sourceId,
+      assetStatus: block.url ? 'referenced' : 'missing',
+      sourceUrl: block.url,
+    }
+  })
 }
 
 export async function buildExportDocument(

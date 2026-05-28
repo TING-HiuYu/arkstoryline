@@ -43,9 +43,10 @@ export class ReaderService {
 
     const reader = createStoryReaderPageInstance(album, chapter)
 
-    const loadedChapter = chapter.contentSource?.url && chapter.blocks.length === 0
-      ? adaptRuntimeContentToStaticChapter(chapter, await reader.load())
-      : chapter
+    const loadedChapter =
+      chapter.contentSource?.url && chapter.blocks.length === 0
+        ? adaptRuntimeContentToStaticChapter(chapter, await reader.load())
+        : chapter
 
     return {
       album,
@@ -85,49 +86,78 @@ export function adaptRuntimeContentToStaticChapter(
 ): StaticChapterData {
   return {
     ...chapter,
-    blocks: runtimeContent.blocks.map((block): StaticChapterData['blocks'][number] => {
-      if (block.type === 'dialogue') {
-        return {
-          type: 'dialogue',
-          id: block.id,
-          speaker: block.speaker,
-          text: block.text,
-        }
-      }
+    blocks: adaptRuntimeBlocksToStaticBlocks(runtimeContent.blocks),
+  }
+}
 
-      if (block.type === 'narration') {
-        return {
-          type: 'narration',
-          id: block.id,
-          text: block.text,
-        }
-      }
-
-      if (block.type === 'divider') {
-        return {
-          type: 'sectionBreak',
-          id: block.id,
-          variant: 'scene',
-        }
-      }
-
-      if (block.role === 'background') {
-        return {
-          type: 'backgroundCue',
-          id: block.id,
-          sourceImageId: block.sourceId,
-          assetStatus: block.url ? 'referenced' : 'missing',
-          sourceUrl: block.url,
-        }
-      }
-
+function adaptRuntimeBlocksToStaticBlocks(
+  blocks: RuntimeStoryContent['blocks']
+): StaticChapterData['blocks'] {
+  return blocks.map((block): StaticChapterData['blocks'][number] => {
+    if (block.type === 'dialogue') {
       return {
-        type: 'imageCue',
+        type: 'dialogue',
         id: block.id,
-        imageId: block.sourceId,
+        speaker: block.speaker,
+        text: block.text,
+      }
+    }
+
+    if (block.type === 'narration') {
+      return {
+        type: 'narration',
+        id: block.id,
+        text: block.text,
+      }
+    }
+
+    if (block.type === 'divider') {
+      return {
+        type: 'sectionBreak',
+        id: block.id,
+        variant: 'scene',
+      }
+    }
+
+    if (block.type === 'choice') {
+      return {
+        type: 'choice',
+        id: block.id,
+        options: block.options,
+        values: block.values,
+        branches: block.branches?.map((branch) => ({
+          id: branch.id,
+          predicate: branch.predicate,
+          references: branch.references,
+          blocks: adaptRuntimeBlocksToStaticBlocks(branch.blocks),
+        })),
+      }
+    }
+
+    if (block.type === 'interaction') {
+      return {
+        type: 'narration',
+        id: block.id,
+        text: block.label,
+      }
+    }
+
+    if (block.role === 'background') {
+      return {
+        type: 'backgroundCue',
+        id: block.id,
+        sourceImageId: block.sourceId,
         assetStatus: block.url ? 'referenced' : 'missing',
         sourceUrl: block.url,
       }
-    }),
-  }
+    }
+
+    return {
+      type: 'imageCue',
+      id: block.id,
+      imageId: block.sourceId,
+      assetStatus: block.url ? 'referenced' : 'missing',
+      sourceUrl: block.url,
+    }
+  })
 }

@@ -29,8 +29,37 @@ export type RuntimeWikiStoryBlock =
       role: 'background' | 'image'
     }
   | {
+      type: 'choice'
+      id: string
+      options: string[]
+      values?: string[]
+      branches?: RuntimeWikiStoryChoiceBranch[]
+    }
+  | {
+      type: 'interaction'
+      id: string
+      command: string
+      label: string
+      attributes: Record<string, string>
+    }
+  | {
       type: 'divider'
       id: string
+    }
+
+export interface RuntimeWikiStoryChoiceBranch {
+  id: string
+  predicate?: string
+  references?: string[]
+  blocks: RuntimeWikiStoryBlock[]
+}
+
+type RuntimeWikiStoryParseBlock =
+  | RuntimeWikiStoryBlock
+  | {
+      type: 'predicate'
+      id: string
+      references: string[]
     }
 
 interface WikiParseApiResponse {
@@ -51,6 +80,7 @@ const INLINE_DIALOGUE_RE = /^\[(?:name|speaker)\s*=\s*(?:"([^"]*)"|'([^']*)'|([^
 const COMMAND_RE = /\[([A-Za-z_][A-Za-z0-9_]*)(?:\(([^[]*?)\))?\]/gi
 const COMMAND_LINE_RE = /^\[([A-Za-z_][A-Za-z0-9_]*)(?:\((.*)\))?\]\s*$/i
 const COMMAND_ARG_RE = /([A-Za-z_][A-Za-z0-9_]*)\s*=\s*(?:"([^"]*)"|'([^']*)'|([^,\s)]+))/g
+const CHOICE_SEPARATOR_RE = /\s*(?:\/|\||;|；)\s*/
 
 export async function loadRuntimeWikiStoryPage(
   pageOrUrl: string,
@@ -100,7 +130,7 @@ export function parseRuntimeWikiTextlog(
   textlog: string,
   resources: Record<string, string>
 ): RuntimeWikiStoryBlock[] {
-  const blocks: RuntimeWikiStoryBlock[] = []
+  const blocks: RuntimeWikiStoryParseBlock[] = []
   let activeSpeaker: string | null = null
   let nextId = 1
 
@@ -134,6 +164,47 @@ export function parseRuntimeWikiTextlog(
 
     if (name === 'dialog') {
       blocks.push({ type: 'divider', id: `divider-${nextId++}` })
+      return
+    }
+
+    if (name === 'decision') {
+      const options = splitChoiceOptions(args.options ?? rawArgs ?? '')
+
+      if (options.length > 0) {
+        const values = splitChoiceOptions(args.values ?? args.value ?? '')
+        blocks.push({
+          type: 'choice',
+          id: `choice-${nextId++}`,
+          options,
+          values: values.length === options.length ? values : undefined,
+        })
+      }
+      return
+    }
+
+    if (name === 'predicate') {
+      const references = splitChoiceOptions(args.references ?? args.reference ?? '')
+
+      if (references.length > 0) {
+        blocks.push({
+          type: 'predicate',
+          id: `predicate-${nextId++}`,
+          references,
+        })
+      }
+      return
+    }
+
+    const interactionLabel = formatRuntimeInteraction(name, args)
+
+    if (interactionLabel) {
+      blocks.push({
+        type: 'interaction',
+        id: `interaction-${nextId++}`,
+        command: commandName,
+        label: interactionLabel,
+        attributes: args,
+      })
       return
     }
 
@@ -192,7 +263,102 @@ export function parseRuntimeWikiTextlog(
     pushText(stripCommands(line))
   }
 
-  return blocks
+  return foldRuntimeChoiceBranches(blocks)
+}
+
+function foldRuntimeChoiceBranches(blocks: RuntimeWikiStoryParseBlock[]): RuntimeWikiStoryBlock[] {
+  return parseRuntimeBlockSequence(blocks, 0, false).blocks
+}
+
+function parseRuntimeBlockSequence(
+  blocks: RuntimeWikiStoryParseBlock[],
+  startIndex: number,
+  stopAtPredicate: boolean
+): { blocks: RuntimeWikiStoryBlock[]; nextIndex: number } {
+  const output: RuntimeWikiStoryBlock[] = []
+  let index = startIndex
+
+  while (index < blocks.length) {
+    const block = blocks[index]
+
+    if (!block) {
+      break
+    }
+
+    if (block.type === 'predicate') {
+      if (stopAtPredicate) {
+        break
+      }
+
+      index += 1
+      continue
+    }
+
+    if (block.type === 'choice' && blocks[index + 1]?.type === 'predicate') {
+      const foldedChoice = parseRuntimeChoiceBlock(blocks, index)
+      output.push(foldedChoice.block)
+      index = foldedChoice.nextIndex
+      continue
+    }
+
+    output.push(block)
+    index += 1
+  }
+
+  return { blocks: output, nextIndex: index }
+}
+
+function parseRuntimeChoiceBlock(
+  blocks: RuntimeWikiStoryParseBlock[],
+  choiceIndex: number
+): { block: Extract<RuntimeWikiStoryBlock, { type: 'choice' }>; nextIndex: number } {
+  const choice = blocks[choiceIndex]
+
+  if (!choice || choice.type !== 'choice') {
+    throw new Error('Expected runtime choice block.')
+  }
+
+  const segments: Array<{ references: string[]; blocks: RuntimeWikiStoryBlock[] }> = []
+  let index = choiceIndex + 1
+
+  while (blocks[index]?.type === 'predicate') {
+    const predicate = blocks[index]
+
+    if (!predicate || predicate.type !== 'predicate') {
+      break
+    }
+
+    const sequence = parseRuntimeBlockSequence(blocks, index + 1, true)
+    segments.push({
+      references: predicate.references,
+      blocks: sequence.blocks,
+    })
+    index = sequence.nextIndex
+  }
+
+  const values = choice.values ?? choice.options.map((_, optionIndex) => String(optionIndex + 1))
+  const branches = values.map((value): RuntimeWikiStoryChoiceBranch => {
+    const selectedBlocks = segments
+      .filter((segment) => segment.references.includes(value))
+      .flatMap((segment) => segment.blocks)
+
+    return {
+      id: `${choice.id}-branch-${value}`,
+      predicate: value,
+      references: [value],
+      blocks: selectedBlocks,
+    }
+  })
+
+  return {
+    block: {
+      ...choice,
+      branches: branches.filter(
+        (branch, optionIndex) => optionIndex < choice.options.length && branch.blocks.length > 0
+      ),
+    },
+    nextIndex: index,
+  }
 }
 
 async function fetchParsedWikiHtml(page: string, fetchImpl: typeof fetch): Promise<string> {
@@ -286,6 +452,34 @@ function parseCommandArgs(rawArgs: string): Record<string, string> {
   }
 
   return args
+}
+
+function splitChoiceOptions(value: string): string[] {
+  const trimmedValue = value.trim()
+
+  if (!trimmedValue) {
+    return []
+  }
+
+  return trimmedValue
+    .split(CHOICE_SEPARATOR_RE)
+    .map((part) => part.trim())
+    .filter(Boolean)
+}
+
+function formatRuntimeInteraction(
+  commandName: string,
+  args: Record<string, string>
+): string | null {
+  if (commandName === 'startbattle') {
+    return args.stageid ? `进入战斗：${args.stageid}` : '进入战斗'
+  }
+
+  if (commandName === 'tutorial') {
+    return args.waitforsignal ? `教程提示：${args.waitforsignal}` : '教程提示'
+  }
+
+  return null
 }
 
 function stripCommands(line: string): string {

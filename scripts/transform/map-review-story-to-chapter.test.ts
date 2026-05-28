@@ -35,17 +35,29 @@ describe('mapReviewStoryToChapter', () => {
   })
 
   it('maps guide-only prologue entries to their PRTS scenario pages', () => {
-    const chapter = mapReviewStoryToChapter('main_0', {
+    const prologueBeg = mapReviewStoryToChapter('main_0', {
       storyName: '序章·上',
       avgTag: '幕间',
       storySort: 1,
       storyTxt: 'obt/guide/beg/0_welcome_to_guide',
     })
+    const prologueEnd = mapReviewStoryToChapter('main_0', {
+      storyName: '序章·下',
+      avgTag: '幕间',
+      storySort: 2,
+      storyTxt: 'obt/guide/beg/2_guide_to_home',
+    })
 
-    expect(chapter.contentSource).toEqual({
+    expect(prologueBeg.contentSource).toEqual({
       provider: 'prts',
-      url: 'https://prts.wiki/w/%E5%94%A4%E9%86%92%E6%B5%8B%E8%AF%95/%E5%BA%8F%E7%AB%A0/BEG',
-      page: '唤醒测试/序章/BEG',
+      url: 'https://prts.wiki/w/W2G/BEG',
+      page: 'W2G/BEG',
+      kind: 'scenario-html',
+    })
+    expect(prologueEnd.contentSource).toEqual({
+      provider: 'prts',
+      url: 'https://prts.wiki/w/G2H/END',
+      page: 'G2H/END',
       kind: 'scenario-html',
     })
   })
