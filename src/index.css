@@ -1539,6 +1539,10 @@ h5 {
   border: 1px solid var(--as-border-soft);
 }
 
+.reader-visual-frame__stage--has-image {
+  min-height: 0;
+}
+
 .reader-visual-frame__loading {
   position: absolute;
   inset: 0;

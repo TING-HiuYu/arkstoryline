@@ -1428,7 +1428,13 @@ function ReaderVisualCueImageContent({
 
   return (
     <figure className="reader-visual-frame" ref={visualFrameRef}>
-      <div className="reader-visual-frame__stage">
+      <div
+        className={
+          imageSrc
+            ? 'reader-visual-frame__stage reader-visual-frame__stage--has-image'
+            : 'reader-visual-frame__stage'
+        }
+      >
         {shouldShowLoadingText ? (
           <div aria-live="polite" className="reader-visual-frame__loading">
             <Typography.Text type="secondary">{READER_VISUAL_IMAGE_LOADING_TEXT}</Typography.Text>
