@@ -4,6 +4,7 @@ import type { ExportRenderInput } from '../../domain/export/export-renderer'
 
 const drawText = vi.fn()
 const drawImage = vi.fn()
+const embedFont = vi.fn(async () => ({ widthOfTextAtSize: () => 64 }))
 
 vi.mock('@pdf-lib/fontkit', () => ({
   default: {},
@@ -14,7 +15,7 @@ vi.mock('pdf-lib', () => ({
   PDFDocument: {
     create: async () => ({
       registerFontkit: vi.fn(),
-      embedFont: vi.fn(async () => ({ widthOfTextAtSize: () => 64 })),
+      embedFont,
       embedPng: vi.fn(async () => ({ width: 320, height: 180 })),
       embedJpg: vi.fn(async () => ({ width: 320, height: 180 })),
       addPage: () => ({ drawText, drawImage }),
@@ -85,6 +86,7 @@ describe('PdfExportRenderer', () => {
   it('renders Chinese chapter into a pdf artifact', async () => {
     drawText.mockReset()
     drawImage.mockReset()
+    embedFont.mockClear()
 
     const renderer = new PdfExportRenderer({
       fetchImpl: async () =>
@@ -102,6 +104,7 @@ describe('PdfExportRenderer', () => {
     expect(
       drawText.mock.calls.some((call) => String(call[0]).includes('阿米娅：博士，醒醒。'))
     ).toBe(true)
+    expect(embedFont).toHaveBeenCalledWith(expect.any(Uint8Array), { subset: false })
   })
 
   it('embeds trusted PNG images when image export is enabled', async () => {

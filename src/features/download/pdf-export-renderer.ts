@@ -127,7 +127,7 @@ export class PdfExportRenderer implements ExportRenderer {
 
     const pdf = await PDFDocument.create()
     pdf.registerFontkit(fontkit)
-    const font = await pdf.embedFont(fontBytes, { subset: true })
+    const font = await pdf.embedFont(fontBytes, { subset: false })
 
     let page = pdf.addPage([PDF_PAGE_WIDTH, PDF_PAGE_HEIGHT])
     let cursorY = 800
