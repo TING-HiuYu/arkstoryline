@@ -13,14 +13,23 @@ vi.mock('@pdf-lib/fontkit', () => ({
 vi.mock('pdf-lib', () => ({
   rgb: () => ({ r: 0.1, g: 0.1, b: 0.1 }),
   PDFDocument: {
-    create: async () => ({
-      registerFontkit: vi.fn(),
-      embedFont,
-      embedPng: vi.fn(async () => ({ width: 320, height: 180 })),
-      embedJpg: vi.fn(async () => ({ width: 320, height: 180 })),
-      addPage: () => ({ drawText, drawImage }),
-      save: vi.fn(async () => new Uint8Array([37, 80, 68, 70])),
-    }),
+    create: async () => {
+      const pages: Array<{ drawText: typeof drawText; drawImage: typeof drawImage }> = []
+
+      return {
+        registerFontkit: vi.fn(),
+        embedFont,
+        embedPng: vi.fn(async () => ({ width: 320, height: 180 })),
+        embedJpg: vi.fn(async () => ({ width: 320, height: 180 })),
+        addPage: () => {
+          const page = { drawText, drawImage }
+          pages.push(page)
+          return page
+        },
+        getPages: () => pages,
+        save: vi.fn(async () => new Uint8Array([37, 80, 68, 70])),
+      }
+    },
   },
 }))
 
@@ -104,6 +113,11 @@ describe('PdfExportRenderer', () => {
     expect(
       drawText.mock.calls.some((call) => String(call[0]).includes('阿米娅：博士，醒醒。'))
     ).toBe(true)
+    expect(drawText.mock.calls.some((call) => String(call[0]).includes('目录'))).toBe(true)
+    expect(drawText.mock.calls.some((call) => String(call[0]).includes('曲谱A'))).toBe(true)
+    expect(drawText.mock.calls.some((call) => String(call[0]).includes('ArkStoryline 导出'))).toBe(
+      false
+    )
     expect(embedFont).toHaveBeenCalledWith(expect.any(Uint8Array), { subset: false })
   })
 

@@ -9,9 +9,16 @@ import { normalizeTrustedMediaUrl } from '../../infrastructure/storage/trusted-m
 import { buildZipArtifact, toSafeFileName } from './export-file-utils'
 
 interface EpubChapterInput {
+  albumTitle: string
   title: string
+  code?: string
   lines: ExportDocumentLine[]
   images: ExportDocumentImage[]
+}
+
+interface EpubAlbumInput {
+  title: string
+  chapters: EpubChapterInput[]
 }
 
 interface PreparedEpubImage {
@@ -75,6 +82,18 @@ function resolveImageExtension(mediaType: string): string {
   }
 
   return 'png'
+}
+
+function formatEpubChapterTitle(chapter: EpubChapterInput): string {
+  return chapter.code ? `${chapter.code} ${chapter.title}` : chapter.title
+}
+
+function getEpubTitle(albums: EpubAlbumInput[]): string {
+  if (albums.length === 1) {
+    return albums[0]?.title ?? '剧情导出'
+  }
+
+  return '剧情导出'
 }
 
 async function readResponseBytesWithLimit(response: Response): Promise<Uint8Array | null> {
@@ -186,6 +205,42 @@ function chapterXhtml(
 </html>`
 }
 
+function tocXhtml(albums: EpubAlbumInput[]): string {
+  const albumItems = albums
+    .map((album, albumIndex) => {
+      const chapterItems = album.chapters
+        .map((chapter, chapterIndex) => {
+          const chapterNumber =
+            albums.slice(0, albumIndex).reduce((total, item) => total + item.chapters.length, 0) +
+            chapterIndex +
+            1
+
+          return `<li><a href="chapter-${chapterNumber}.xhtml">${escapeXml(formatEpubChapterTitle(chapter))}</a></li>`
+        })
+        .join('\n          ')
+
+      return `<section id="album-${albumIndex + 1}">
+        <h2>${escapeXml(album.title)}</h2>
+        <ol>
+          ${chapterItems}
+        </ol>
+      </section>`
+    })
+    .join('\n      ')
+
+  return `<?xml version="1.0" encoding="utf-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+  <head>
+    <title>目录</title>
+    <link rel="stylesheet" type="text/css" href="../styles.css"/>
+  </head>
+  <body>
+    <h1>目录</h1>
+    ${albumItems}
+  </body>
+</html>`
+}
+
 function getEpubChapterLines(
   lines: ExportDocumentLine[],
   includeImages: boolean
@@ -198,18 +253,19 @@ function getEpubChapterLines(
 }
 
 async function buildEpubBytes(input: {
-  title: string
   revision: string
   generatedAt: string
-  chapters: EpubChapterInput[]
+  albums: EpubAlbumInput[]
 }): Promise<Uint8Array> {
   const zip = new JSZip()
   zip.file('mimetype', 'application/epub+zip', { compression: 'STORE' })
+  const title = getEpubTitle(input.albums)
+  const chapters = input.albums.flatMap((album) => album.chapters)
 
   const preparedImagesById = new Map<string, PreparedEpubImage>()
   let imageIndex = 0
 
-  for (const chapter of input.chapters) {
+  for (const chapter of chapters) {
     for (const image of chapter.images ?? []) {
       if (preparedImagesById.has(image.id)) {
         continue
@@ -245,7 +301,7 @@ async function buildEpubBytes(input: {
 </container>`
   )
 
-  const manifestItems = input.chapters
+  const manifestItems = chapters
     .map(
       (_chapter, index) =>
         `<item id="chapter-${index + 1}" href="Text/chapter-${index + 1}.xhtml" media-type="application/xhtml+xml"/>`
@@ -259,7 +315,7 @@ async function buildEpubBytes(input: {
     )
     .join('\n    ')
 
-  const spineItems = input.chapters
+  const spineItems = chapters
     .map((_chapter, index) => `<itemref idref="chapter-${index + 1}"/>`)
     .join('\n    ')
 
@@ -268,7 +324,7 @@ async function buildEpubBytes(input: {
     `<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="book-id" version="2.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>${escapeXml(input.title)}</dc:title>
+    <dc:title>${escapeXml(title)}</dc:title>
     <dc:language>zh-CN</dc:language>
     <dc:identifier id="book-id">arkstoryline-${escapeXml(input.revision)}</dc:identifier>
     <dc:description>sourceRevision=${escapeXml(input.revision)} generatedAt=${escapeXml(input.generatedAt)}</dc:description>
@@ -276,23 +332,44 @@ async function buildEpubBytes(input: {
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="style" href="styles.css" media-type="text/css"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml"/>
     ${manifestItems}
     ${imageManifestItems}
   </manifest>
   <spine toc="ncx">
+    <itemref idref="toc"/>
     ${spineItems}
   </spine>
 </package>`
   )
 
-  const navPoints = input.chapters
-    .map(
-      (chapter, index) =>
-        `<navPoint id="nav-${index + 1}" playOrder="${index + 1}">
-      <navLabel><text>${escapeXml(chapter.title)}</text></navLabel>
-      <content src="Text/chapter-${index + 1}.xhtml"/>
+  let playOrder = 1
+  let chapterOffset = 0
+  const navPoints = input.albums
+    .map((album, albumIndex) => {
+      const albumPlayOrder = playOrder
+      playOrder += 1
+      const chapterNavPoints = album.chapters
+        .map((chapter, chapterIndex) => {
+          const chapterNumber = chapterOffset + chapterIndex + 1
+          const chapterPlayOrder = playOrder
+          playOrder += 1
+
+          return `<navPoint id="chapter-${chapterNumber}" playOrder="${chapterPlayOrder}">
+        <navLabel><text>${escapeXml(formatEpubChapterTitle(chapter))}</text></navLabel>
+        <content src="Text/chapter-${chapterNumber}.xhtml"/>
+      </navPoint>`
+        })
+        .join('\n      ')
+
+      chapterOffset += album.chapters.length
+
+      return `<navPoint id="album-${albumIndex + 1}" playOrder="${albumPlayOrder}">
+      <navLabel><text>${escapeXml(album.title)}</text></navLabel>
+      <content src="Text/toc.xhtml#album-${albumIndex + 1}"/>
+      ${chapterNavPoints}
     </navPoint>`
-    )
+    })
     .join('\n    ')
 
   zip.file(
@@ -302,7 +379,7 @@ async function buildEpubBytes(input: {
   <head>
     <meta name="dtb:uid" content="arkstoryline-${escapeXml(input.revision)}"/>
   </head>
-  <docTitle><text>${escapeXml(input.title)}</text></docTitle>
+  <docTitle><text>${escapeXml(title)}</text></docTitle>
   <navMap>
     ${navPoints}
   </navMap>
@@ -311,17 +388,19 @@ async function buildEpubBytes(input: {
 
   zip.file(
     'OEBPS/styles.css',
-    'body { font-family: serif; line-height: 1.7; } h1 { font-size: 1.4em; } p { margin: 0.6em 0; } p.choice-selected { text-align: center; font-style: italic; } figure.story-image { margin: 1em 0; text-align: center; } figure.story-image img { max-width: 100%; height: auto; }'
+    'body { font-family: serif; line-height: 1.7; } h1 { font-size: 1.4em; } h2 { font-size: 1.15em; margin-top: 1.4em; } p { margin: 0.6em 0; } p.choice-selected { text-align: center; font-style: italic; } figure.story-image { margin: 1em 0; text-align: center; } figure.story-image img { max-width: 100%; height: auto; }'
   )
 
   for (const image of preparedImagesById.values()) {
     zip.file(`OEBPS/${image.href}`, image.data)
   }
 
-  input.chapters.forEach((chapter, index) => {
+  zip.file('OEBPS/Text/toc.xhtml', tocXhtml(input.albums))
+
+  chapters.forEach((chapter, index) => {
     zip.file(
       `OEBPS/Text/chapter-${index + 1}.xhtml`,
-      chapterXhtml(chapter.title, chapter.lines, preparedImagesById)
+      chapterXhtml(formatEpubChapterTitle(chapter), chapter.lines, preparedImagesById)
     )
   })
 
@@ -334,13 +413,17 @@ export class EpubExportRenderer implements ExportRenderer {
   public async render(input: ExportRenderInput): Promise<ExportArtifact[]> {
     if (input.selection.fileMode === 'single') {
       const bytes = await buildEpubBytes({
-        title: 'ArkStoryline 导出',
         revision: input.document.sourceRevision,
         generatedAt: input.document.generatedAt,
-        chapters: input.document.chapters.map((chapter) => ({
-          title: `${chapter.albumTitle} - ${chapter.chapterTitle}`,
-          lines: getEpubChapterLines(chapter.lines, input.includeImages),
-          images: input.includeImages ? (chapter.images ?? []) : [],
+        albums: input.document.albums.map((album) => ({
+          title: album.albumTitle,
+          chapters: album.chapters.map((chapter) => ({
+            albumTitle: album.albumTitle,
+            title: chapter.chapterTitle,
+            code: chapter.chapterCode,
+            lines: getEpubChapterLines(chapter.lines, input.includeImages),
+            images: input.includeImages ? (chapter.images ?? []) : [],
+          })),
         })),
       })
 
@@ -359,14 +442,20 @@ export class EpubExportRenderer implements ExportRenderer {
       entries.push({
         path: `${toSafeFileName(album.albumTitle)}.epub`,
         content: await buildEpubBytes({
-          title: album.albumTitle,
           revision: input.document.sourceRevision,
           generatedAt: input.document.generatedAt,
-          chapters: album.chapters.map((chapter) => ({
-            title: chapter.chapterTitle,
-            lines: getEpubChapterLines(chapter.lines, input.includeImages),
-            images: input.includeImages ? (chapter.images ?? []) : [],
-          })),
+          albums: [
+            {
+              title: album.albumTitle,
+              chapters: album.chapters.map((chapter) => ({
+                albumTitle: album.albumTitle,
+                title: chapter.chapterTitle,
+                code: chapter.chapterCode,
+                lines: getEpubChapterLines(chapter.lines, input.includeImages),
+                images: input.includeImages ? (chapter.images ?? []) : [],
+              })),
+            },
+          ],
         }),
       })
     }
