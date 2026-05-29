@@ -21,6 +21,7 @@ export interface StaticCatalogData {
     slug: string
     albumKind?: string
     homeSection?: string
+    chapterCount: number
     cover?: StoryAlbumCover
     summary?: string
     music?: StoryAlbumMusicMetadata
@@ -41,7 +42,23 @@ export interface StaticOperatorIndexData {
     profession?: string
     rarity?: string
     faction?: string
+    exportManifest?: StaticOperatorExportManifest
   }>
+}
+
+export interface StaticOperatorExportManifestEntry {
+  id: string
+  kind: 'archive' | 'module' | 'confidential'
+  title: string
+  page?: string
+  sourceUrl?: string
+  sections?: string[]
+}
+
+export interface StaticOperatorExportManifest {
+  archive: StaticOperatorExportManifestEntry[]
+  modules: StaticOperatorExportManifestEntry[]
+  confidential: StaticOperatorExportManifestEntry[]
 }
 
 export interface StaticOperatorConfidentialData {
@@ -520,7 +537,6 @@ export class StaticStoryRepository implements StoryRepository {
       return null
     }
   }
-
 }
 
 function assertSafeStaticPathSegment(value: string, label: string): string {

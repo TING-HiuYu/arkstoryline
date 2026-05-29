@@ -1,5 +1,5 @@
 import JSZip from 'jszip'
-import { describe, expect, it } from 'vitest'
+import { describe, expect, it, vi } from 'vitest'
 import { MemoryStoryRepository } from '../../infrastructure/storage/memory-story-repository'
 import { ExportService } from './export-service'
 
@@ -74,6 +74,32 @@ describe('ExportService', () => {
           citations: [],
         },
       },
+      operatorIndex: {
+        generatedAt: '2026-05-10T00:00:00.000Z',
+        operators: [{ name: '可露希尔', slug: 'opr-a' }],
+      },
+      operatorArchiveBySlug: {
+        'opr-a': {
+          operatorId: 'opr-a',
+          name: '可露希尔',
+          profile: {
+            基础档案: '【代号】可露希尔',
+          },
+        },
+      },
+      operatorModulesBySlug: {
+        'opr-a': {
+          operatorId: 'opr-a',
+          modules: [],
+        },
+      },
+      operatorConfidentialBySlug: {
+        'opr-a': {
+          operatorId: 'opr-a',
+          operatorName: '可露希尔',
+          records: [],
+        },
+      },
     })
 
     return repository
@@ -134,9 +160,13 @@ describe('ExportService', () => {
     expect(fileNames).toEqual(['曲谱A.txt', '曲谱B.txt'])
   })
 
-  it('reports chapter-level export progress', async () => {
+  it('reports chapter-level export progress before file generation starts', async () => {
     const service = new ExportService(createRepository())
-    const progress: Array<{ completedChapters: number; totalChapters: number }> = []
+    const progress: Array<{
+      completedChapters: number
+      totalChapters: number
+      phase: 'fetching' | 'generating'
+    }> = []
 
     await service.export(
       'txt',
@@ -154,9 +184,33 @@ describe('ExportService', () => {
     )
 
     expect(progress).toEqual([
-      { completedChapters: 1, totalChapters: 2 },
-      { completedChapters: 2, totalChapters: 2 },
+      { completedChapters: 1, totalChapters: 2, phase: 'fetching' },
+      { completedChapters: 2, totalChapters: 2, phase: 'fetching' },
+      { completedChapters: 2, totalChapters: 2, phase: 'generating' },
     ])
+  })
+
+  it('keeps operator exports on the main thread even when the worker threshold is reached', async () => {
+    const workerFactory = vi.fn(() => {
+      throw new Error('worker should not start for operator exports')
+    })
+    vi.stubGlobal('Worker', class TestWorker {})
+
+    const service = new ExportService(createRepository(), {
+      workerThreshold: 1,
+      workerFactory: workerFactory as unknown as () => Worker,
+    })
+
+    const artifacts = await service.export('txt', {
+      locale: 'zh_CN',
+      fileMode: 'single',
+      items: [{ albumId: 'opr-a', kind: 'operator', chapterIds: ['opr-a:archive'] }],
+    })
+
+    expect(workerFactory).not.toHaveBeenCalled()
+    expect(new TextDecoder().decode(artifacts[0]?.data)).toContain('可露希尔')
+
+    vi.unstubAllGlobals()
   })
 
   it('exports epub and writes revision/generation metadata', async () => {

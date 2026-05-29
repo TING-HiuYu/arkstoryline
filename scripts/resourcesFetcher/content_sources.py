@@ -257,6 +257,7 @@ def upsert_other_story_albums(
         for chapter in chapter_payloads:
             write_json(chapter_dir / f"{chapter['id']}.json", chapter)
         upsert_catalog_albums(catalog_path, album_payloads)
+        sync_catalog_chapter_counts(catalog_path=catalog_path, album_dir=album_dir)
         upsert_search_entries(search_index_path, locale, album_payloads)
 
     return {
@@ -329,6 +330,41 @@ def upsert_catalog_albums(catalog_path: Path, album_payloads: list[dict[str, Any
     ]
     catalog["albums"] = retained_albums + [album_summary(album) for album in album_payloads]
     write_json(catalog_path, catalog)
+
+
+def sync_catalog_chapter_counts(*, catalog_path: Path, album_dir: Path) -> None:
+    if not catalog_path.exists():
+        return
+
+    catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
+    albums = catalog.get("albums")
+    if not isinstance(albums, list):
+        return
+
+    chapter_count_by_album_id: dict[str, int] = {}
+    for album_path in album_dir.glob("*.json"):
+        album = json.loads(album_path.read_text(encoding="utf-8"))
+        album_id = album.get("id")
+        chapters = album.get("chapters")
+        if isinstance(album_id, str) and isinstance(chapters, list):
+            chapter_count_by_album_id[album_id] = len(chapters)
+
+    changed = False
+    for album in albums:
+        if not isinstance(album, dict):
+            continue
+
+        album_id = album.get("id")
+        if not isinstance(album_id, str) or album_id not in chapter_count_by_album_id:
+            continue
+
+        chapter_count = chapter_count_by_album_id[album_id]
+        if album.get("chapterCount") != chapter_count:
+            album["chapterCount"] = chapter_count
+            changed = True
+
+    if changed:
+        write_json(catalog_path, catalog)
 
 
 def upsert_search_entries(search_index_path: Path, locale: str, album_payloads: list[dict[str, Any]]) -> None:
