@@ -4,6 +4,7 @@ import type { ExportFileMode } from './export-format'
 export interface ExportSelectionItem {
   albumId: string
   chapterIds: string[]
+  kind?: 'story' | 'operator'
 }
 
 export interface ExportSelection {

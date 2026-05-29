@@ -7,6 +7,7 @@ from pathlib import Path
 
 from scripts.resourcesFetcher.operator import (
     build_operator_index,
+    parse_operator_export_manifest_html,
     parse_operator_entries_from_cargo,
     parse_operator_entries_from_parse_api,
     parse_operator_entries_from_rendered_html,
@@ -64,6 +65,40 @@ class OperatorIndexTests(unittest.TestCase):
             payload = json.loads(index_path.read_text(encoding="utf-8"))
             self.assertEqual(payload["source"]["method"], "rendered-fixture")
             self.assertEqual(len(payload["operators"]), 2)
+
+    def test_operator_export_manifest_extracts_archive_modules_and_confidential(self) -> None:
+        manifest = parse_operator_export_manifest_html(
+            operator_slug="operator-closur",
+            operator_page="可露希尔",
+            html="""
+            <h2><span class="mw-headline" id="模组">模组</span></h2>
+            <h3><span class="mw-headline" id="可露希尔证章">可露希尔证章</span></h3>
+            <div>基础证章，无特殊效果。</div>
+            <h3><span class="mw-headline" id="给自己的小奖杯">给自己的小奖杯</span><span class="mw-editsection">[编辑]</span></h3>
+            <div>基础信息 第一段</div>
+            <h2><span class="mw-headline" id="干员档案">干员档案</span></h2>
+            <table><tr><td>档案</td></tr></table>
+            <h2><span class="mw-headline" id="干员密录">干员密录</span></h2>
+            <table>
+              <tr>
+                <td>
+                  <b>精英化2 Lv.1</b>
+                  <b>分身有术</b>
+                  <a href="/w/%E5%8F%AF%E9%9C%B2%E5%B8%8C%E5%B0%94/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1">播放</a>
+                </td>
+              </tr>
+            </table>
+            """,
+        )
+
+        self.assertEqual(manifest["archive"][0]["id"], "operator-closur:archive")
+        self.assertEqual([entry["title"] for entry in manifest["modules"]], ["给自己的小奖杯"])
+        self.assertEqual(manifest["modules"][0]["id"], "operator-closur:module:operator-closur:module:2")
+        self.assertEqual(manifest["confidential"][0]["title"], "分身有术")
+        self.assertEqual(
+            manifest["confidential"][0]["id"],
+            "operator-closur:confidential:operator-closur:confidential:1",
+        )
 
 
 if __name__ == "__main__":

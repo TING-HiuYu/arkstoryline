@@ -57,6 +57,7 @@ import type {
   StaticKnowledgeRelatedItem,
   StaticOperatorArchiveData,
   StaticOperatorConfidentialData,
+  StaticOperatorExportManifestEntry,
   StaticOperatorIndexData,
   StaticOperatorModuleData,
   StaticOperatorModulesData,
@@ -119,8 +120,6 @@ interface OperatorBaseBundle {
   operatorName: string
   operator?: StaticOperatorIndexData['operators'][number]
   archive: StaticOperatorArchiveData
-  modules: StaticOperatorModulesData
-  confidential: StaticOperatorConfidentialData
 }
 
 type OperatorDetailMenuItem =
@@ -357,15 +356,19 @@ function compareOperatorGroupKey(left: string, right: string): number {
 }
 
 function compareOperatorName(left: OperatorTopologyViewModel, right: OperatorTopologyViewModel) {
-  const leftKey = buildOperatorSortKey(left.name)
-  const rightKey = buildOperatorSortKey(right.name)
+  return compareOperatorDisplayName(left.name, right.name)
+}
+
+function compareOperatorDisplayName(leftName: string, rightName: string) {
+  const leftKey = buildOperatorSortKey(leftName)
+  const rightKey = buildOperatorSortKey(rightName)
   const keyOrder = leftKey.localeCompare(rightKey, 'en', { sensitivity: 'base' })
 
   if (keyOrder !== 0) {
     return keyOrder
   }
 
-  return left.name.localeCompare(right.name, 'zh-Hans-CN', { sensitivity: 'base' })
+  return leftName.localeCompare(rightName, 'zh-Hans-CN', { sensitivity: 'base' })
 }
 
 function getOperatorInitialGroup(name: string): string {
@@ -609,7 +612,8 @@ function parseArchiveFields(section: ArchiveSectionViewModel): ArchiveFieldViewM
 
 function parseClinicalArchiveSection(section: ArchiveSectionViewModel): ClinicalArchiveViewModel {
   const content = section.paragraphs.join('\n').trim()
-  const metricPattern = /【(体细胞与源石融合率|血液源石结晶密度)】([\s\S]*?)(?=\n?【(?:体细胞与源石融合率|血液源石结晶密度)】|$)/g
+  const metricPattern =
+    /【(体细胞与源石融合率|血液源石结晶密度)】([\s\S]*?)(?=\n?【(?:体细胞与源石融合率|血液源石结晶密度)】|$)/g
   const summaryLines: string[] = []
   const metrics: ArchiveFieldViewModel[] = []
   let firstMetricIndex: number | null = null
@@ -726,10 +730,7 @@ function renderArchiveSectionContent(section: ArchiveSectionViewModel): ReactNod
       return (
         <div className="operator-archive-field-grid">
           {fields.map((field, index) => (
-            <article
-              className="operator-archive-field"
-              key={`${section.id}:${field.key}:${index}`}
-            >
+            <article className="operator-archive-field" key={`${section.id}:${field.key}:${index}`}>
               <h4 className="operator-archive-field__key">{field.key}</h4>
               <div className="operator-archive-field__value">{field.value}</div>
             </article>
@@ -1010,7 +1011,7 @@ function ReaderBlockItem({
           </Typography.Text>
           <Typography.Paragraph
             className={lineClassName}
-            style={{ marginBottom: 0, textAlign: 'left'}}
+            style={{ marginBottom: 0, textAlign: 'left' }}
           >
             {renderReaderTextWithKnowledgeMarkers(text, hasCitation, knowledgeMarkers)}
           </Typography.Paragraph>
@@ -1745,6 +1746,12 @@ function toChapterKey(chapterId: string): string {
   return `chapter:${chapterId}`
 }
 
+function formatDownloadChapterTitle(
+  chapter: Pick<StaticChapterData, 'code' | 'title' | 'avgTag'>
+): string {
+  return [chapter.code, chapter.title, chapter.avgTag].filter(Boolean).join(' ')
+}
+
 function isMainlineAlbumId(albumId: string): boolean {
   return /^main_\d+$/i.test(albumId)
 }
@@ -1785,6 +1792,8 @@ interface ClassifiedAlbum {
   sectionKey: HomeSectionKey
   albumKind: string
   section: TimelineCardViewModel['section']
+  chapterCount: number
+  chapterIds: string[]
   side?: 'left' | 'right'
   timelineRank: number
   gameOrderRank: number
@@ -1798,6 +1807,7 @@ function buildClassifiedAlbums(
     slug: string
     title: string
     albumKind?: string
+    chapterCount: number
     otherStory?: StaticAlbumData['otherStory']
   }>
 ): ClassifiedAlbum[] {
@@ -1860,6 +1870,8 @@ function buildClassifiedAlbums(
           sectionKey === 'otherStory'
             ? 'otherStory'
             : (timeline.section as TimelineCardViewModel['section']),
+        chapterCount: album.chapterCount,
+        chapterIds: [],
         side: timeline.side,
         timelineRank: timeline.timelineRank,
         gameOrderRank: timeline.gameOrderRank ?? Number.MAX_SAFE_INTEGER,
@@ -1877,6 +1889,8 @@ function buildClassifiedAlbums(
         sectionKey: 'mainline',
         albumKind: 'mainline',
         section: 'mainline',
+        chapterCount: album.chapterCount,
+        chapterIds: [],
         side: 'left',
         timelineRank: mainlineRank?.timelineRank ?? Number.MAX_SAFE_INTEGER,
         gameOrderRank: mainlineRank?.gameOrderRank ?? Number.MAX_SAFE_INTEGER,
@@ -1907,6 +1921,8 @@ function buildClassifiedAlbums(
           : sectionKey === 'sideStory' && normalizedCatalogEntryType === 'sideStory'
             ? 'sideStory'
             : 'mainline',
+      chapterCount: album.chapterCount,
+      chapterIds: [],
       side: sectionKey === 'sideStory' ? 'right' : sectionKey === 'mainline' ? 'left' : undefined,
       timelineRank: Number.MAX_SAFE_INTEGER,
       gameOrderRank: Number.MAX_SAFE_INTEGER,
@@ -1980,6 +1996,81 @@ interface DownloadSelectorPanelProps {
   defaultEmpty?: boolean
 }
 
+function toOperatorKey(operatorSlug: string): string {
+  return `operator:${operatorSlug}`
+}
+
+function toOperatorGroupKey(groupKey: string): string {
+  return `operator-group:${groupKey}`
+}
+
+function toOperatorExportItemKey(operatorSlug: string, itemId: string): string {
+  return `operator-item:${operatorSlug}:${itemId}`
+}
+
+function parseOperatorExportItemKey(key: string): { operatorSlug: string; itemId: string } | null {
+  const prefix = 'operator-item:'
+
+  if (!key.startsWith(prefix)) {
+    return null
+  }
+
+  const rest = key.slice(prefix.length)
+  const separatorIndex = rest.indexOf(':')
+
+  if (separatorIndex < 0) {
+    return null
+  }
+
+  return {
+    operatorSlug: rest.slice(0, separatorIndex),
+    itemId: rest.slice(separatorIndex + 1),
+  }
+}
+
+function normalizeOperatorExportManifestEntryId(
+  operatorSlug: string,
+  entry: StaticOperatorExportManifestEntry
+): string {
+  if (entry.id.startsWith(`${operatorSlug}:`)) {
+    return entry.id
+  }
+
+  return `${operatorSlug}:${entry.kind}:${entry.id}`
+}
+
+function getOperatorManifestExportEntries(
+  operator: StaticOperatorIndexData['operators'][number]
+): StaticOperatorExportManifestEntry[] {
+  const manifest = operator.exportManifest
+
+  if (!manifest) {
+    return []
+  }
+
+  return [...manifest.archive, ...manifest.modules, ...manifest.confidential].filter((entry) =>
+    Boolean(entry.id && entry.title)
+  )
+}
+
+function getOperatorManifestExportItemIds(
+  operator: StaticOperatorIndexData['operators'][number]
+): string[] {
+  return getOperatorManifestExportEntries(operator).map((entry) =>
+    normalizeOperatorExportManifestEntryId(operator.slug, entry)
+  )
+}
+
+interface NormalizedOperatorExportEntry extends StaticOperatorExportManifestEntry {
+  normalizedId: string
+}
+
+interface OperatorDownloadGroup {
+  key: string
+  label: string
+  operators: StaticOperatorIndexData['operators']
+}
+
 export function DownloadSelectorPanel({
   locale,
   defaultAlbumId,
@@ -1989,6 +2080,10 @@ export function DownloadSelectorPanel({
   const staticStoryRepository = useMemo(() => new StaticStoryRepository(), [])
   const [userCheckedKeys, setUserCheckedKeys] = useState<string[] | null>(null)
   const [userExpandedKeys, setUserExpandedKeys] = useState<string[] | null>(null)
+  const [loadedOperatorGroups, setLoadedOperatorGroups] = useState<Record<string, boolean>>({})
+  const [loadedOperatorExportItems, setLoadedOperatorExportItems] = useState<
+    Record<string, boolean>
+  >({})
   const [loadedAlbumDetails, setLoadedAlbumDetails] = useState<Record<string, StaticAlbumData>>({})
   const loadingAlbumDetailsRef = useRef(new Map<string, Promise<StaticAlbumData>>())
   const [exportFormat, setExportFormat] = useState<ExportFormat>('txt')
@@ -1998,6 +2093,7 @@ export function DownloadSelectorPanel({
   const [downloadProgress, setDownloadProgress] = useState({
     completedChapters: 0,
     totalChapters: 0,
+    phase: 'fetching' as 'fetching' | 'generating',
   })
   const [downloadError, setDownloadError] = useState<string | null>(null)
   const doctorName = useAppSettingsStore((state) => state.doctorName)
@@ -2010,6 +2106,11 @@ export function DownloadSelectorPanel({
   const catalogQuery = useQuery({
     queryKey: ['download-catalog', locale],
     queryFn: async () => staticStoryRepository.getCatalog(locale),
+  })
+
+  const operatorIndexQuery = useQuery({
+    queryKey: ['download-operator-index'],
+    queryFn: async () => staticStoryRepository.getOperatorIndex(),
   })
 
   const ensureAlbumDetailLoaded = useCallback(
@@ -2047,6 +2148,68 @@ export function DownloadSelectorPanel({
 
   const timelineData = timelineQuery.data
   const catalogData = catalogQuery.data
+  const operatorIndexData = operatorIndexQuery.data
+  const operatorBySlug = useMemo(() => {
+    if (!operatorIndexData) {
+      return new Map<string, StaticOperatorIndexData['operators'][number]>()
+    }
+
+    return new Map(operatorIndexData.operators.map((operator) => [operator.slug, operator]))
+  }, [operatorIndexData])
+  const operatorExportEntriesBySlug = useMemo(() => {
+    const entriesBySlug = new Map<string, NormalizedOperatorExportEntry[]>()
+
+    if (!operatorIndexData) {
+      return entriesBySlug
+    }
+
+    for (const operator of operatorIndexData.operators) {
+      entriesBySlug.set(
+        operator.slug,
+        getOperatorManifestExportEntries(operator).map((entry) => ({
+          ...entry,
+          normalizedId: normalizeOperatorExportManifestEntryId(operator.slug, entry),
+        }))
+      )
+    }
+
+    return entriesBySlug
+  }, [operatorIndexData])
+  const exportableOperatorSlugs = useMemo(() => {
+    if (!operatorIndexData) {
+      return []
+    }
+
+    return operatorIndexData.operators
+      .filter((operator) => (operatorExportEntriesBySlug.get(operator.slug)?.length ?? 0) > 0)
+      .map((operator) => operator.slug)
+  }, [operatorExportEntriesBySlug, operatorIndexData])
+  const operatorDownloadGroups = useMemo((): OperatorDownloadGroup[] => {
+    const groups = new Map<string, StaticOperatorIndexData['operators']>()
+
+    if (!operatorIndexData) {
+      return []
+    }
+
+    for (const operator of operatorIndexData.operators) {
+      if ((operatorExportEntriesBySlug.get(operator.slug)?.length ?? 0) === 0) {
+        continue
+      }
+
+      const key = getOperatorInitialGroup(operator.name)
+      groups.set(key, [...(groups.get(key) ?? []), operator])
+    }
+
+    return [...groups.entries()]
+      .sort(([left], [right]) => compareOperatorGroupKey(left, right))
+      .map(([key, operators]) => ({
+        key,
+        label: key,
+        operators: [...operators].sort((left, right) =>
+          compareOperatorDisplayName(left.name, right.name)
+        ),
+      }))
+  }, [operatorExportEntriesBySlug, operatorIndexData])
 
   const timelineCards = useMemo(() => {
     if (!timelineData) {
@@ -2084,6 +2247,62 @@ export function DownloadSelectorPanel({
 
   const classifiedAlbumById = useMemo(
     () => new Map(classifiedAlbums.map((item) => [item.albumId, item])),
+    [classifiedAlbums]
+  )
+
+  const albumIdByChapterId = useMemo(() => {
+    const next = new Map<string, string>()
+    for (const album of classifiedAlbums) {
+      for (const chapterId of album.chapterIds) {
+        next.set(chapterId, album.albumId)
+      }
+    }
+
+    for (const [albumId, detail] of Object.entries(loadedAlbumDetails)) {
+      for (const chapter of detail.chapters) {
+        next.set(chapter.id, albumId)
+      }
+    }
+
+    return next
+  }, [classifiedAlbums, loadedAlbumDetails])
+
+  const getAlbumIdsForCheckedKey = useCallback(
+    (key: string): string[] => {
+      if (key === 'root:all') {
+        return classifiedAlbums.map((item) => item.albumId)
+      }
+
+      if (key === 'group:storyline') {
+        return classifiedAlbums
+          .filter((item) => item.sectionKey === 'mainline' || item.sectionKey === 'sideStory')
+          .map((item) => item.albumId)
+      }
+
+      if (key === 'group:mainline') {
+        return classifiedAlbums
+          .filter((item) => item.sectionKey === 'mainline')
+          .map((item) => item.albumId)
+      }
+
+      if (key === 'group:sideStory') {
+        return classifiedAlbums
+          .filter((item) => item.sectionKey === 'sideStory')
+          .map((item) => item.albumId)
+      }
+
+      if (key === 'group:otherStory') {
+        return classifiedAlbums
+          .filter((item) => item.sectionKey === 'otherStory')
+          .map((item) => item.albumId)
+      }
+
+      if (key.startsWith('album:')) {
+        return [key.slice('album:'.length)]
+      }
+
+      return []
+    },
     [classifiedAlbums]
   )
 
@@ -2153,15 +2372,88 @@ export function DownloadSelectorPanel({
   }, [defaultEmpty, defaultAlbumId, defaultSelectedAlbumDetailQuery.data, focusedChapterId])
   const checkedKeys = userCheckedKeys ?? defaultCheckedKeys
 
-  if (timelineQuery.isLoading || catalogQuery.isLoading) {
+  const checkedChapterCount = useMemo(() => {
+    const selectedAlbumIds = new Set<string>()
+    const selectedChapterIds = new Set<string>()
+    const selectedOperatorItemIds = new Set<string>()
+    const selectedOperatorSlugs = new Set<string>()
+
+    for (const key of checkedKeys) {
+      if (key.startsWith('chapter:')) {
+        selectedChapterIds.add(key.slice('chapter:'.length))
+        continue
+      }
+
+      for (const albumId of getAlbumIdsForCheckedKey(key)) {
+        selectedAlbumIds.add(albumId)
+      }
+
+      if (key === 'group:operatorRecord') {
+        for (const operatorSlug of exportableOperatorSlugs) {
+          selectedOperatorSlugs.add(operatorSlug)
+        }
+        continue
+      }
+
+      if (key.startsWith('operator-group:')) {
+        const operatorGroupKey = key.slice('operator-group:'.length)
+        const group = operatorDownloadGroups.find((item) => item.key === operatorGroupKey)
+        for (const operator of group?.operators ?? []) {
+          selectedOperatorSlugs.add(operator.slug)
+        }
+        continue
+      }
+
+      if (key.startsWith('operator:')) {
+        selectedOperatorSlugs.add(key.slice('operator:'.length))
+        continue
+      }
+
+      const parsed = parseOperatorExportItemKey(key)
+      if (parsed) {
+        selectedOperatorItemIds.add(`${parsed.operatorSlug}:${parsed.itemId}`)
+      }
+    }
+
+    let selectedAlbumChapterCount = 0
+    for (const albumId of selectedAlbumIds) {
+      selectedAlbumChapterCount += classifiedAlbumById.get(albumId)?.chapterCount ?? 0
+    }
+
+    let selectedLooseChapterCount = 0
+    for (const chapterId of selectedChapterIds) {
+      const chapterAlbumId = albumIdByChapterId.get(chapterId)
+      if (!chapterAlbumId || !selectedAlbumIds.has(chapterAlbumId)) {
+        selectedLooseChapterCount += 1
+      }
+    }
+
+    for (const operatorSlug of selectedOperatorSlugs) {
+      for (const entry of operatorExportEntriesBySlug.get(operatorSlug) ?? []) {
+        selectedOperatorItemIds.add(`${operatorSlug}:${entry.normalizedId}`)
+      }
+    }
+
+    return selectedAlbumChapterCount + selectedLooseChapterCount + selectedOperatorItemIds.size
+  }, [
+    albumIdByChapterId,
+    checkedKeys,
+    classifiedAlbumById,
+    exportableOperatorSlugs,
+    getAlbumIdsForCheckedKey,
+    operatorDownloadGroups,
+    operatorExportEntriesBySlug,
+  ])
+
+  if (timelineQuery.isLoading || catalogQuery.isLoading || operatorIndexQuery.isLoading) {
     return <LoadingState message="正在加载下载选择器..." />
   }
 
-  if (timelineQuery.isError || catalogQuery.isError) {
+  if (timelineQuery.isError || catalogQuery.isError || operatorIndexQuery.isError) {
     return <ErrorState message="下载选择器加载失败。" />
   }
 
-  if (!timelineData || !catalogData) {
+  if (!timelineData || !catalogData || !operatorIndexData) {
     return <ErrorState message="下载选择器数据不完整。" />
   }
 
@@ -2174,8 +2466,29 @@ export function DownloadSelectorPanel({
       isLeaf: false,
       children: detail?.chapters.map((chapter) => ({
         key: toChapterKey(chapter.id),
-        title: chapter.title,
+        title: formatDownloadChapterTitle(chapter),
       })),
+    }
+  }
+
+  const toOperatorNode = (operator: StaticOperatorIndexData['operators'][number]): DataNode => {
+    const manifestEntries = operatorExportEntriesBySlug.get(operator.slug) ?? []
+    const shouldRenderExportItems = Boolean(loadedOperatorExportItems[operator.slug])
+
+    return {
+      key: toOperatorKey(operator.slug),
+      title: operator.name,
+      disabled: manifestEntries.length === 0,
+      isLeaf: manifestEntries.length === 0,
+      children: shouldRenderExportItems
+        ? manifestEntries.map((entry) => ({
+            key: toOperatorExportItemKey(operator.slug, entry.normalizedId),
+            title:
+              entry.kind === 'archive'
+                ? entry.title
+                : `${entry.kind === 'module' ? '模组' : '秘录'} · ${entry.title}`,
+          }))
+        : undefined,
     }
   }
 
@@ -2203,6 +2516,13 @@ export function DownloadSelectorPanel({
     .sort((left, right) => left.title.localeCompare(right.title, 'zh-Hans-CN'))
     .map(toAlbumNode)
 
+  const operatorGroupNodes: DataNode[] = operatorDownloadGroups.map((group) => ({
+    key: toOperatorGroupKey(group.key),
+    title: group.label,
+    isLeaf: false,
+    children: loadedOperatorGroups[group.key] ? group.operators.map(toOperatorNode) : undefined,
+  }))
+
   const treeData: DataNode[] = [
     {
       key: 'root:all',
@@ -2229,21 +2549,36 @@ export function DownloadSelectorPanel({
           title: '附加档案',
           children: otherStoryNodes,
         },
+        {
+          key: 'group:operatorRecord',
+          title: '干员',
+          children: operatorGroupNodes,
+        },
       ],
     },
   ]
 
-  const checkedChapterCount = checkedKeys.filter((key) => key.startsWith('chapter:')).length
   const hasExportableSelection = checkedKeys.some((key) => {
     if (key === 'root:all' || key === 'group:storyline') {
       return true
     }
 
-    if (key === 'group:mainline' || key === 'group:sideStory' || key === 'group:otherStory') {
+    if (
+      key === 'group:mainline' ||
+      key === 'group:sideStory' ||
+      key === 'group:otherStory' ||
+      key === 'group:operatorRecord'
+    ) {
       return true
     }
 
-    return key.startsWith('album:') || key.startsWith('chapter:')
+    return (
+      key.startsWith('album:') ||
+      key.startsWith('chapter:') ||
+      key.startsWith('operator-group:') ||
+      key.startsWith('operator:') ||
+      key.startsWith('operator-item:')
+    )
   })
 
   const downloadArtifacts = (artifacts: ExportArtifact[]) => {
@@ -2261,39 +2596,22 @@ export function DownloadSelectorPanel({
     }
   }
 
-  const getAlbumIdsForCheckedKey = (key: string): string[] => {
-    if (key === 'root:all') {
-      return classifiedAlbums
-        .filter((item) => item.sectionKey !== 'operatorRecord')
-        .map((item) => item.albumId)
+  const getOperatorSlugsForCheckedKey = (key: string): string[] => {
+    if (key === 'group:operatorRecord') {
+      return exportableOperatorSlugs
     }
 
-    if (key === 'group:storyline') {
-      return classifiedAlbums
-        .filter((item) => item.sectionKey === 'mainline' || item.sectionKey === 'sideStory')
-        .map((item) => item.albumId)
+    if (key.startsWith('operator-group:')) {
+      const operatorGroupKey = key.slice('operator-group:'.length)
+      return (
+        operatorDownloadGroups
+          .find((group) => group.key === operatorGroupKey)
+          ?.operators.map((operator) => operator.slug) ?? []
+      )
     }
 
-    if (key === 'group:mainline') {
-      return classifiedAlbums
-        .filter((item) => item.sectionKey === 'mainline')
-        .map((item) => item.albumId)
-    }
-
-    if (key === 'group:sideStory') {
-      return classifiedAlbums
-        .filter((item) => item.sectionKey === 'sideStory')
-        .map((item) => item.albumId)
-    }
-
-    if (key === 'group:otherStory') {
-      return classifiedAlbums
-        .filter((item) => item.sectionKey === 'otherStory')
-        .map((item) => item.albumId)
-    }
-
-    if (key.startsWith('album:')) {
-      return [key.slice('album:'.length)]
+    if (key.startsWith('operator:')) {
+      return [key.slice('operator:'.length)]
     }
 
     return []
@@ -2303,6 +2621,9 @@ export function DownloadSelectorPanel({
     const selectedAlbumIds = new Set<string>()
     const fullAlbumIds = new Set<string>()
     const selectedChapterIds = new Set<string>()
+    const selectedOperatorSlugs = new Set<string>()
+    const fullOperatorSlugs = new Set<string>()
+    const selectedOperatorItemIds = new Map<string, Set<string>>()
 
     for (const key of checkedKeys) {
       if (key.startsWith('chapter:')) {
@@ -2310,9 +2631,26 @@ export function DownloadSelectorPanel({
         continue
       }
 
+      if (key.startsWith('operator-item:')) {
+        const parsed = parseOperatorExportItemKey(key)
+        if (parsed) {
+          selectedOperatorSlugs.add(parsed.operatorSlug)
+          const selectedItemIds =
+            selectedOperatorItemIds.get(parsed.operatorSlug) ?? new Set<string>()
+          selectedItemIds.add(parsed.itemId)
+          selectedOperatorItemIds.set(parsed.operatorSlug, selectedItemIds)
+        }
+        continue
+      }
+
       for (const albumId of getAlbumIdsForCheckedKey(key)) {
         selectedAlbumIds.add(albumId)
         fullAlbumIds.add(albumId)
+      }
+
+      for (const operatorSlug of getOperatorSlugsForCheckedKey(key)) {
+        selectedOperatorSlugs.add(operatorSlug)
+        fullOperatorSlugs.add(operatorSlug)
       }
     }
 
@@ -2339,6 +2677,25 @@ export function DownloadSelectorPanel({
       }
     }
 
+    for (const operatorSlug of selectedOperatorSlugs) {
+      const operator = operatorBySlug.get(operatorSlug)
+      if (!operator) {
+        continue
+      }
+
+      const selectedItemIds = selectedOperatorItemIds.get(operatorSlug) ?? new Set<string>()
+      const allOperatorItemIds =
+        operatorExportEntriesBySlug.get(operatorSlug)?.map((entry) => entry.normalizedId) ??
+        getOperatorManifestExportItemIds(operator)
+      const chapterIds = fullOperatorSlugs.has(operatorSlug)
+        ? allOperatorItemIds
+        : allOperatorItemIds.filter((itemId) => selectedItemIds.has(itemId))
+
+      if (chapterIds.length > 0) {
+        items.push({ albumId: operatorSlug, chapterIds, kind: 'operator' as const })
+      }
+    }
+
     return {
       locale,
       fileMode: exportFileMode,
@@ -2357,12 +2714,18 @@ export function DownloadSelectorPanel({
         )
       : 0
   const downloadButtonLabel = isDownloading
-    ? `已下载 ${downloadPercent}%`
-    : `下载已选内容（${checkedChapterCount} 章）`
+    ? downloadProgress.phase === 'generating'
+      ? '生成文件中'
+      : `已下载 ${downloadPercent}%`
+    : `下载已选内容（${checkedChapterCount} 项）`
 
   const handleDownload = async () => {
     setDownloadError(null)
-    setDownloadProgress({ completedChapters: 0, totalChapters: checkedChapterCount })
+    setDownloadProgress({
+      completedChapters: 0,
+      totalChapters: checkedChapterCount,
+      phase: 'fetching',
+    })
     setIsDownloading(true)
 
     try {
@@ -2371,7 +2734,7 @@ export function DownloadSelectorPanel({
         (total, item) => total + item.chapterIds.length,
         0
       )
-      setDownloadProgress({ completedChapters: 0, totalChapters })
+      setDownloadProgress({ completedChapters: 0, totalChapters, phase: 'fetching' })
       if (selection.items.length === 0) {
         throw new Error('请选择至少一个可导出的章节。')
       }
@@ -2406,6 +2769,32 @@ export function DownloadSelectorPanel({
       await ensureAlbumDetailLoaded(albumId)
       return
     }
+
+    if (key.startsWith('operator:')) {
+      const operatorSlug = key.slice('operator:'.length)
+      setLoadedOperatorExportItems((previous) => {
+        if (previous[operatorSlug]) {
+          return previous
+        }
+
+        return { ...previous, [operatorSlug]: true }
+      })
+      return
+    }
+
+    if (key.startsWith('operator-group:')) {
+      const operatorGroupKey = key.slice('operator-group:'.length)
+      setLoadedOperatorGroups((previous) => {
+        if (previous[operatorGroupKey]) {
+          return previous
+        }
+
+        return { ...previous, [operatorGroupKey]: true }
+      })
+      return
+    }
+
+    return
   }
 
   return (
@@ -2454,7 +2843,7 @@ export function DownloadSelectorPanel({
         ) : null}
       </Space>
       <Typography.Text type="secondary">
-        支持选择全部、多个曲谱、以及单曲谱内多章节。
+        支持选择全部、多个曲谱、单曲谱内多章节，以及干员档案/模组/秘录。
       </Typography.Text>
       {downloadError ? <Typography.Text type="danger">{downloadError}</Typography.Text> : null}
       {focusedChapterId ? (
@@ -2470,7 +2859,7 @@ export function DownloadSelectorPanel({
         onCheck={handleCheck}
         treeData={treeData}
       />
-      <Typography.Text>已选章节数：{checkedChapterCount}</Typography.Text>
+      <Typography.Text>已选内容数：{checkedChapterCount}</Typography.Text>
       <Button
         data-testid="download-action-bottom"
         type="primary"
@@ -2766,8 +3155,12 @@ export function AboutDataPage() {
       label: '网站源码',
       note: (
         <>
-          来自Github项目 
-          <a href="https://github.com/Ting-HiuYu/arkstoryline" target="_blank" rel="noopener noreferrer">
+          来自Github项目
+          <a
+            href="https://github.com/Ting-HiuYu/arkstoryline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Ting-HiuYu/arkstoryline
           </a>
           ，如果感觉这个网站有帮到你，还请给我点个star支持一下，谢谢！
@@ -4298,11 +4691,7 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
       const operator = operatorIndex.operators.find((candidate) => candidate.slug === operatorSlug)
       const operatorName = operator?.name ?? operatorSlug
 
-      const [archive, modules, confidential] = await Promise.all([
-        staticStoryRepository.getOperatorArchive(operatorSlug, operatorName),
-        staticStoryRepository.getOperatorModules(operatorSlug),
-        staticStoryRepository.getOperatorConfidential(operatorSlug, operatorName),
-      ])
+      const archive = await staticStoryRepository.getOperatorArchive(operatorSlug, operatorName)
       const hydratedArchive =
         (hasOperatorArchiveContent(archive) ? archive : null) ??
         buildOperatorArchiveFromIndexEntry(operatorSlug, operatorName, operator)
@@ -4311,8 +4700,6 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
         operatorName,
         operator,
         archive: hydratedArchive,
-        modules,
-        confidential,
       }
     },
   })
@@ -4333,19 +4720,33 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
     },
   })
 
-  const shouldLoadRuntimeOperatorPage = Boolean(operatorSlug && operatorBaseQuery.data?.operator?.page)
-  const runtimeArchiveReady =
-    !shouldLoadRuntimeOperatorPage ||
-    Boolean(
-      runtimeOperatorArchiveQuery.data &&
-        hasOperatorArchiveContent(runtimeOperatorArchiveQuery.data)
-    )
+  const shouldLoadRuntimeOperatorPage = Boolean(
+    operatorSlug && operatorBaseQuery.data?.operator?.page
+  )
+
+  const staticOperatorExtrasQuery = useQuery({
+    queryKey: ['operator-static-extras', operatorSlug],
+    enabled: Boolean(operatorSlug && operatorBaseQuery.data),
+    queryFn: async () => {
+      if (!operatorSlug || !operatorBaseQuery.data) {
+        throw new Error('Missing operatorSlug')
+      }
+
+      const [modules, confidential] = await Promise.all([
+        staticStoryRepository.getOperatorModules(operatorSlug),
+        staticStoryRepository.getOperatorConfidential(
+          operatorSlug,
+          operatorBaseQuery.data.operatorName
+        ),
+      ])
+
+      return { modules, confidential }
+    },
+  })
 
   const runtimeOperatorExtrasQuery = useQuery({
     queryKey: ['operator-runtime-extras', operatorSlug, operatorBaseQuery.data?.operator?.page],
-    enabled: Boolean(
-      operatorSlug && operatorBaseQuery.data?.operator?.page && runtimeArchiveReady
-    ),
+    enabled: shouldLoadRuntimeOperatorPage,
     queryFn: async () => {
       if (!operatorSlug || !operatorBaseQuery.data?.operator?.page) {
         throw new Error('Missing operator page')
@@ -4370,16 +4771,25 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
         ? runtimeOperatorArchiveQuery.data
         : operatorBaseQuery.data.archive
     const runtimeExtras = runtimeOperatorExtrasQuery.data
-    const hydratedModules = hasRuntimePage
-      ? runtimeExtras?.modules.modules.length
-        ? mergeOperatorModules(operatorBaseQuery.data.modules, runtimeExtras.modules)
-        : operatorBaseQuery.data.modules
-      : operatorBaseQuery.data.modules
-    const hydratedConfidential = hasRuntimePage
-      ? runtimeExtras?.confidential.records.length
-        ? mergeOperatorConfidential(operatorBaseQuery.data.confidential, runtimeExtras.confidential)
-        : createEmptyOperatorConfidential(operatorSlug, operatorBaseQuery.data.operatorName)
-      : operatorBaseQuery.data.confidential
+    const emptyModules: StaticOperatorModulesData = {
+      operatorId: operatorSlug,
+      operatorName: operatorBaseQuery.data.operatorName,
+      modules: [],
+    }
+    const emptyConfidential = createEmptyOperatorConfidential(
+      operatorSlug,
+      operatorBaseQuery.data.operatorName
+    )
+    const staticModules = staticOperatorExtrasQuery.data?.modules ?? emptyModules
+    const staticConfidential = staticOperatorExtrasQuery.data?.confidential ?? emptyConfidential
+    const hydratedModules =
+      runtimeExtras?.modules.modules.length && hasRuntimePage
+        ? mergeOperatorModules(staticModules, runtimeExtras.modules)
+        : staticModules
+    const hydratedConfidential =
+      runtimeExtras?.confidential.records.length && hasRuntimePage
+        ? mergeOperatorConfidential(staticConfidential, runtimeExtras.confidential)
+        : staticConfidential
     const operatorAlbum = createOperatorAlbum(
       operatorSlug,
       operatorBaseQuery.data.operatorName,
@@ -4400,6 +4810,7 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
     operatorBaseQuery.data,
     runtimeOperatorArchiveQuery.data,
     runtimeOperatorExtrasQuery.data,
+    staticOperatorExtrasQuery.data,
   ])
 
   useEffect(() => {
@@ -4485,19 +4896,6 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
     return <LoadingState message="正在加载干员详情..." />
   }
 
-  if (shouldLoadRuntimeOperatorPage && runtimeOperatorArchiveQuery.isLoading) {
-    return <LoadingState message="正在加载干员档案..." />
-  }
-
-  if (
-    shouldLoadRuntimeOperatorPage &&
-    (runtimeOperatorArchiveQuery.isError ||
-      !runtimeOperatorArchiveQuery.data ||
-      !hasOperatorArchiveContent(runtimeOperatorArchiveQuery.data))
-  ) {
-    return <ErrorState message="干员档案加载失败。" />
-  }
-
   if (operatorBaseQuery.isError || !operatorBundle) {
     return <ErrorState message="干员详情加载失败。" />
   }
@@ -4542,10 +4940,7 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
                 {archiveSections.map((section) => (
                   <article className="operator-archive-section" key={section.id}>
                     <header className="operator-archive-section__header">
-                      <Typography.Title
-                        className="operator-archive-section__title"
-                        level={3}
-                      >
+                      <Typography.Title className="operator-archive-section__title" level={3}>
                         {section.title}
                       </Typography.Title>
                     </header>
@@ -4571,7 +4966,14 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
                       {`模组 · ${selectedModule.name}`}
                     </Typography.Title>
                     <Divider style={{ margin: 0 }} />
-                    <Typography.Paragraph style={{ marginBottom: 0, whiteSpace: 'pre-wrap', fontSize: '14pt', lineHeight: '28pt' }}>
+                    <Typography.Paragraph
+                      style={{
+                        marginBottom: 0,
+                        whiteSpace: 'pre-wrap',
+                        fontSize: '14pt',
+                        lineHeight: '28pt',
+                      }}
+                    >
                       {selectedModuleBasicInfo}
                     </Typography.Paragraph>
                   </Space>

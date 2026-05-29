@@ -46,6 +46,16 @@ def main() -> None:
     operator_index_parser.add_argument("--operator-cargo-fixture")
     operator_index_parser.add_argument("--output-dir", default=CONFIG.data_dir)
     operator_index_parser.add_argument("--cache-dir", default=CONFIG.cache_dir)
+    operator_index_parser.add_argument(
+        "--operator-limit",
+        type=int,
+        help="Limit processed operators for parser verification runs.",
+    )
+    operator_index_parser.add_argument(
+        "--skip-export-manifest",
+        action="store_true",
+        help="Only refresh the operator list; do not inspect each operator page for downloadable entries.",
+    )
     operator_index_parser.add_argument("--dry-run", action="store_true")
 
     terra_historicus_parser = subparsers.add_parser(
@@ -90,6 +100,8 @@ def main() -> None:
             rendered_fixture=Path(args.operator_rendered_fixture) if args.operator_rendered_fixture else None,
             parse_fixture=Path(args.operator_parse_fixture) if args.operator_parse_fixture else None,
             cargo_fixture=Path(args.operator_cargo_fixture) if args.operator_cargo_fixture else None,
+            include_export_manifest=not args.skip_export_manifest,
+            operator_limit=args.operator_limit,
             dry_run=args.dry_run,
         )
         print(json.dumps(result, ensure_ascii=False, indent=2, sort_keys=True))

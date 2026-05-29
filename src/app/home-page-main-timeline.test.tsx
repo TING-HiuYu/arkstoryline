@@ -792,13 +792,15 @@ describe('HomePage 22.6 四分区与干员入口行为', () => {
 
     await screen.findByRole('heading', { name: '可露希尔' })
 
-    const menuItems = screen.getAllByRole('menuitem')
-    expect(menuItems.map((item) => item.textContent)).toEqual([
-      '档案',
-      '模组 · 给自己的小奖杯',
-      '秘录 · 购物清单',
-      '秘录 · 加班券',
-    ])
+    await waitFor(() => {
+      const menuItems = screen.getAllByRole('menuitem')
+      expect(menuItems.map((item) => item.textContent)).toEqual([
+        '档案',
+        '模组 · 给自己的小奖杯',
+        '秘录 · 购物清单',
+        '秘录 · 加班券',
+      ])
+    })
 
     expect(screen.getByText('基础档案')).toBeInTheDocument()
     expect(screen.getByText('身份')).toBeInTheDocument()
@@ -838,7 +840,7 @@ describe('HomePage 22.6 四分区与干员入口行为', () => {
     )
 
     await screen.findByRole('heading', { name: '可露希尔' })
-    fireEvent.click(screen.getByRole('menuitem', { name: '秘录 · 加班券' }))
+    fireEvent.click(await screen.findByRole('menuitem', { name: '秘录 · 加班券' }))
 
     expect(await screen.findByText('伦蒂尼姆的工业产能仍然弥足珍贵。')).toBeInTheDocument()
     expect(screen.getByText('亚历山德莉娜议长阁下。')).toBeInTheDocument()
@@ -858,7 +860,7 @@ describe('HomePage 22.6 四分区与干员入口行为', () => {
     )
 
     await screen.findByRole('heading', { name: '可露希尔' })
-    fireEvent.click(screen.getByRole('menuitem', { name: '秘录 · 加班券' }))
+    fireEvent.click(await screen.findByRole('menuitem', { name: '秘录 · 加班券' }))
 
     const image = await screen.findByAltText('剧情背景')
     expect(image).toHaveAttribute(

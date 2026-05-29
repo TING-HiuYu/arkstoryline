@@ -19,6 +19,11 @@ HTML_DIV_OPEN_RE = re.compile(r"<div\b(?P<attrs>[^>]*)>", re.IGNORECASE | re.DOT
 HTML_TAG_RE = re.compile(r"<[^>]+>")
 HTML_ATTR_RE = re.compile(r"([a-zA-Z_:][-a-zA-Z0-9_:.]*)\s*=\s*(['\"])(.*?)\2", re.DOTALL)
 RENDERED_REVISION_RE = re.compile(r'"wgRevisionId"\s*:\s*(?P<oldid>\d+)')
+HTML_HEADING_RE = re.compile(
+    r"<h(?P<level>[23])\b(?P<attrs>[^>]*)>(?P<body>.*?)</h(?P=level)>",
+    re.IGNORECASE | re.DOTALL,
+)
+HTML_BOLD_RE = re.compile(r"<b\b[^>]*>(?P<label>.*?)</b>", re.IGNORECASE | re.DOTALL)
 
 
 @dataclass(frozen=True, slots=True)
@@ -29,6 +34,7 @@ class OperatorIndexEntry:
     profession: str | None = None
     rarity: str | None = None
     faction: str | None = None
+    export_manifest: dict[str, list[dict[str, object]]] | None = None
 
     def as_json(self) -> dict[str, object]:
         payload: dict[str, object] = {
@@ -42,6 +48,8 @@ class OperatorIndexEntry:
             payload["rarity"] = self.rarity
         if self.faction:
             payload["faction"] = self.faction
+        if self.export_manifest:
+            payload["exportManifest"] = self.export_manifest
         return payload
 
 
@@ -53,6 +61,8 @@ def build_operator_index(
     rendered_fixture: Path | None = None,
     parse_fixture: Path | None = None,
     cargo_fixture: Path | None = None,
+    include_export_manifest: bool = True,
+    operator_limit: int | None = None,
     dry_run: bool = False,
 ) -> dict[str, object]:
     diagnostics = ResourceDiagnostics()
@@ -113,6 +123,13 @@ def build_operator_index(
     if not entries:
         diagnostics.missing_pages.append(operator_index_page)
 
+    if operator_limit is not None:
+        entries = entries[: max(0, operator_limit)]
+
+    manifest_failures: list[dict[str, str]] = []
+    if entries and include_export_manifest and not dry_run:
+        entries, manifest_failures = attach_operator_export_manifests(client, entries)
+
     source: dict[str, object] = {"providerId": "arknights-wiki", "page": operator_index_page, "method": method}
     if oldid:
         source["oldid"] = oldid
@@ -135,6 +152,7 @@ def build_operator_index(
         "attempts": attempts,
         "oldid": oldid,
         "failures": failures,
+        "manifestFailures": manifest_failures,
         "diagnostics": diagnostics.as_json({"ready": 0, "referenced": 0, "missing": 0, "disabled": 0}),
     }
     diagnostics_path = cache_dir / "diagnostics" / "operator-index-report.json"
@@ -151,6 +169,129 @@ def parse_rendered_operator_index(client: WikiClient, operator_index_page: str) 
 def parse_api_operator_index(client: WikiClient, operator_index_page: str) -> tuple[list[OperatorIndexEntry], str | None]:
     payload = client.fetch_parse_api(operator_index_page)
     return parse_operator_entries_from_parse_api(payload), extract_parse_oldid(payload)
+
+
+def attach_operator_export_manifests(
+    client: WikiClient, entries: list[OperatorIndexEntry]
+) -> tuple[list[OperatorIndexEntry], list[dict[str, str]]]:
+    failures: list[dict[str, str]] = []
+    hydrated_entries: list[OperatorIndexEntry] = []
+
+    try:
+        from rich.progress import Progress
+    except Exception:
+        Progress = None  # type: ignore[assignment]
+
+    if Progress is None:
+        iterator = entries
+        task_context = None
+    else:
+        task_context = Progress()
+        task_context.start()
+        task_id = task_context.add_task("Fetching operator export manifests", total=len(entries))
+        iterator = entries
+
+    try:
+        for index, entry in enumerate(iterator, start=1):
+            export_manifest: dict[str, list[dict[str, object]]] | None = None
+            try:
+                payload = client.fetch_parse_api(entry.page)
+                html = extract_parse_html(payload)
+                export_manifest = parse_operator_export_manifest_html(
+                    html=html,
+                    operator_slug=entry.slug,
+                    operator_page=entry.page,
+                )
+            except Exception as error:
+                failures.append({"operator": entry.name, "page": entry.page, "message": str(error)})
+
+            hydrated_entries.append(
+                OperatorIndexEntry(
+                    name=entry.name,
+                    slug=entry.slug,
+                    page=entry.page,
+                    profession=entry.profession,
+                    rarity=entry.rarity,
+                    faction=entry.faction,
+                    export_manifest=export_manifest,
+                )
+            )
+
+            if task_context is not None:
+                task_context.update(
+                    task_id,
+                    description=f"Fetching operator export manifests: {index}/{len(entries)} {entry.name}",
+                )
+                task_context.advance(task_id)
+            elif index == 1 or index == len(entries) or index % 25 == 0:
+                print(f"operator manifest {index}/{len(entries)}: {entry.name}", flush=True)
+    finally:
+        if task_context is not None:
+            task_context.stop()
+
+    return hydrated_entries, failures
+
+
+def extract_parse_html(payload: dict[str, Any]) -> str:
+    parse_payload = payload.get("parse")
+    if not isinstance(parse_payload, dict):
+        return ""
+    text_payload = parse_payload.get("text")
+    if isinstance(text_payload, str):
+        return text_payload
+    if isinstance(text_payload, dict):
+        html = text_payload.get("*")
+        return html if isinstance(html, str) else ""
+    return ""
+
+
+def parse_operator_export_manifest_html(
+    *, html: str, operator_slug: str, operator_page: str
+) -> dict[str, list[dict[str, object]]]:
+    archive_entries: list[dict[str, object]] = []
+    module_entries: list[dict[str, object]] = []
+    confidential_entries: list[dict[str, object]] = []
+
+    if get_heading_section_html(html, "干员档案"):
+        archive_entries.append(
+            {
+                "id": f"{operator_slug}:archive",
+                "kind": "archive",
+                "title": "档案",
+                "page": operator_page,
+                "sourceUrl": build_wiki_source_url(operator_page),
+                "sections": ["基础档案", "综合体检测试", "综合性能检测结果", "临床诊断分析"],
+            }
+        )
+
+    for index, title in parse_operator_exportable_module_titles(html):
+        module_entries.append(
+            {
+                "id": f"{operator_slug}:module:{operator_slug}:module:{index}",
+                "kind": "module",
+                "title": title,
+                "page": operator_page,
+                "sourceUrl": build_wiki_source_url(operator_page),
+                "sections": ["基础信息"],
+            }
+        )
+
+    for index, item in enumerate(parse_operator_confidential_links(html), start=1):
+        confidential_entries.append(
+            {
+                "id": f"{operator_slug}:confidential:{operator_slug}:confidential:{index}",
+                "kind": "confidential",
+                "title": item["title"],
+                "page": item["page"],
+                "sourceUrl": build_wiki_source_url(item["page"]),
+            }
+        )
+
+    return {
+        "archive": archive_entries,
+        "modules": module_entries,
+        "confidential": confidential_entries,
+    }
 
 
 def parse_operator_entries_from_rendered_html(html: str) -> list[OperatorIndexEntry]:
@@ -244,6 +385,143 @@ def parse_operator_entries_from_cargo(payload: dict[str, Any]) -> list[OperatorI
         )
 
     return sorted(entries, key=lambda item: item.slug)
+
+
+def parse_operator_exportable_module_titles(html: str) -> list[tuple[int, str]]:
+    module_section = get_heading_section_html(html, "模组")
+    module_sections = split_child_heading_sections(module_section, "3")
+    titles: list[tuple[int, str]] = []
+    seen: set[str] = set()
+
+    for index, (title, body) in enumerate(module_sections, start=1):
+        if not title or title in seen:
+            continue
+        if not extract_module_basic_info_text(body):
+            continue
+        seen.add(title)
+        titles.append((index, title))
+
+    return titles
+
+
+def split_child_heading_sections(html: str, heading_level: str) -> list[tuple[str, str]]:
+    headings = [match for match in HTML_HEADING_RE.finditer(html) if match.group("level") == heading_level]
+    sections: list[tuple[str, str]] = []
+
+    for index, heading in enumerate(headings):
+        title = clean_heading_title(heading.group("body"))
+        section_start = heading.end()
+        section_end = headings[index + 1].start() if index + 1 < len(headings) else len(html)
+        sections.append((title, html[section_start:section_end]))
+
+    return sections
+
+
+def extract_module_basic_info_text(html: str) -> str:
+    text = clean_html_text(html.replace("<br>", "\n").replace("<br/>", "\n").replace("<br />", "\n"))
+    match = re.search(
+        r"基础信息\s*(?:全文阅读\s*)?([\s\S]*?)(?=(?:攻击\s*[+＋]|生命\s*[+＋]|防御\s*[+＋]|法术抗性\s*[+＋]|模组解锁任务|解锁需求与材料消耗|任务\d|$))",
+        text,
+    )
+
+    return re.sub(r"\s+", " ", match.group(1)).strip() if match else ""
+
+
+def clean_heading_title(html: str) -> str:
+    cleaned = re.sub(
+        r"<span\b(?=[^>]*class=['\"][^'\"]*\bmw-editsection\b)[^>]*>.*?</span>",
+        "",
+        html,
+        flags=re.I | re.S,
+    )
+    return re.sub(r"(?:\[?编辑\]?)$", "", clean_html_text(cleaned)).strip()
+
+
+def parse_operator_confidential_links(html: str) -> list[dict[str, str]]:
+    confidential_section = get_heading_section_html(html, "干员密录")
+    records: list[dict[str, str]] = []
+    seen_pages: set[str] = set()
+
+    for row_match in HTML_ROW_RE.finditer(confidential_section):
+        row = row_match.group("body")
+        link_match = next(
+            (
+                match
+                for match in HTML_LINK_RE.finditer(row)
+                if (page_from_href(parse_html_attrs(match.group("attrs")).get("href", "")) or "").find(
+                    "/干员密录/"
+                )
+                >= 0
+            ),
+            None,
+        )
+        if not link_match:
+            continue
+        attrs = parse_html_attrs(link_match.group("attrs"))
+        page = page_from_href(attrs.get("href", ""))
+        if not page or page in seen_pages:
+            continue
+
+        labels = [
+            clean_html_text(match.group("label"))
+            for match in HTML_BOLD_RE.finditer(row)
+            if clean_html_text(match.group("label"))
+        ]
+        title = next(
+            (
+                label
+                for label in reversed(labels)
+                if not re.match(r"^Lv\.", label, re.IGNORECASE) and not label.endswith("%")
+            ),
+            "",
+        )
+        if not title:
+            title = clean_html_text(link_match.group("label")) or f"干员密录 {len(records) + 1}"
+
+        seen_pages.add(page)
+        records.append({"title": title, "page": page})
+
+    if records:
+        return records
+
+    for link_match in HTML_LINK_RE.finditer(confidential_section):
+        attrs = parse_html_attrs(link_match.group("attrs"))
+        page = page_from_href(attrs.get("href", ""))
+        if not page or "/干员密录/" not in page or page in seen_pages:
+            continue
+        title = clean_html_text(link_match.group("label")) or f"干员密录 {len(records) + 1}"
+        seen_pages.add(page)
+        records.append({"title": title, "page": page})
+
+    return records
+
+
+def get_heading_section_html(html: str, heading_id: str) -> str:
+    headings = list(HTML_HEADING_RE.finditer(html))
+
+    for index, heading in enumerate(headings):
+        if heading.group("level") != "2":
+            continue
+
+        attrs = parse_html_attrs(heading.group("attrs"))
+        body = heading.group("body")
+        body_attrs: dict[str, str] = {}
+        for tag_match in HTML_TAG_RE.finditer(body):
+            body_attrs.update(parse_html_attrs(tag_match.group(0)))
+
+        heading_text = clean_html_text(body)
+        if attrs.get("id") != heading_id and body_attrs.get("id") != heading_id and heading_text != heading_id:
+            continue
+
+        section_start = heading.end()
+        section_end = len(html)
+        for next_heading in headings[index + 1 :]:
+            if next_heading.group("level") == "2":
+                section_end = next_heading.start()
+                break
+        return html[section_start:section_end]
+
+    return ""
 
 
 def load_operator_index_entries(path: Path) -> list[OperatorIndexEntry]:
@@ -361,3 +639,15 @@ def pick_first(mapping: dict[str, Any], *keys: str) -> str | None:
 def write_json(path: Path, payload: dict[str, object]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+
+
+def build_wiki_source_url(page: str) -> str:
+    return "https://prts.wiki/w/" + "/".join(
+        segment for segment in (quote_path_segment(part) for part in page.split("/")) if segment
+    )
+
+
+def quote_path_segment(value: str) -> str:
+    from urllib.parse import quote
+
+    return quote(value, safe="")

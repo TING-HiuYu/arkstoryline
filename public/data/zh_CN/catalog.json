@@ -2,6 +2,7 @@
   "albums": [
     {
       "albumKind": "intermezzi",
+      "chapterCount": 16,
       "chapters": [
         {
           "albumId": "1stact",
@@ -202,6 +203,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 7,
       "chapters": [
         {
           "albumId": "act10d5",
@@ -303,6 +305,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 6,
       "chapters": [
         {
           "albumId": "act10mini",
@@ -395,6 +398,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 20,
       "chapters": [
         {
           "albumId": "act11d0",
@@ -635,6 +639,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 6,
       "chapters": [
         {
           "albumId": "act11mini",
@@ -727,6 +732,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 21,
       "chapters": [
         {
           "albumId": "act12d0",
@@ -977,6 +983,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 7,
       "chapters": [
         {
           "albumId": "act12mini",
@@ -1078,6 +1085,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 20,
       "chapters": [
         {
           "albumId": "act12side",
@@ -1319,6 +1327,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 7,
       "chapters": [
         {
           "albumId": "act13d0",
@@ -1420,6 +1429,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act13d5",
@@ -1651,6 +1661,7 @@
     },
     {
       "albumKind": "sidestory",
+      "chapterCount": 6,
       "chapters": [
         {
           "albumId": "act13mini",
@@ -1732,6 +1743,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 24,
       "chapters": [
         {
           "albumId": "act13side",
@@ -2013,6 +2025,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 6,
       "chapters": [
         {
           "albumId": "act14mini",
@@ -2105,6 +2118,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 20,
       "chapters": [
         {
           "albumId": "act14side",
@@ -2345,6 +2359,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 18,
       "chapters": [
         {
           "albumId": "act15d0",
@@ -2565,6 +2580,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 7,
       "chapters": [
         {
           "albumId": "act15d5",
@@ -2666,6 +2682,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 7,
       "chapters": [
         {
           "albumId": "act15mini",
@@ -2767,6 +2784,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act15side",
@@ -2994,6 +3012,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 17,
       "chapters": [
         {
           "albumId": "act16d5",
@@ -3204,6 +3223,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 6,
       "chapters": [
         {
           "albumId": "act16mini",
@@ -3296,6 +3316,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 18,
       "chapters": [
         {
           "albumId": "act16side",
@@ -3515,6 +3536,7 @@
     },
     {
       "albumKind": "sidestory",
+      "chapterCount": 17,
       "chapters": [
         {
           "albumId": "act17d0",
@@ -3711,6 +3733,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 6,
       "chapters": [
         {
           "albumId": "act17mini",
@@ -3803,6 +3826,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 24,
       "chapters": [
         {
           "albumId": "act17side",
@@ -4085,6 +4109,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 14,
       "chapters": [
         {
           "albumId": "act18d0",
@@ -4265,6 +4290,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 18,
       "chapters": [
         {
           "albumId": "act18d3",
@@ -4485,6 +4511,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 6,
       "chapters": [
         {
           "albumId": "act18mini",
@@ -4577,6 +4604,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act18side",
@@ -4808,6 +4836,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 7,
       "chapters": [
         {
           "albumId": "act19mini",
@@ -4909,6 +4938,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 20,
       "chapters": [
         {
           "albumId": "act19side",
@@ -5149,6 +5179,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 6,
       "chapters": [
         {
           "albumId": "act20mini",
@@ -5241,6 +5272,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 18,
       "chapters": [
         {
           "albumId": "act20side",
@@ -5462,6 +5494,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 24,
       "chapters": [
         {
           "albumId": "act21side",
@@ -5742,6 +5775,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 18,
       "chapters": [
         {
           "albumId": "act22side",
@@ -5962,6 +5996,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act23side",
@@ -6192,6 +6227,7 @@
     },
     {
       "albumKind": "sidestory",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act24side",
@@ -6408,6 +6444,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 24,
       "chapters": [
         {
           "albumId": "act25side",
@@ -6688,6 +6725,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act26side",
@@ -6922,6 +6960,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act27side",
@@ -7154,6 +7193,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act28side",
@@ -7383,6 +7423,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 23,
       "chapters": [
         {
           "albumId": "act29side",
@@ -7654,6 +7695,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act30side",
@@ -7884,6 +7926,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act31side",
@@ -8115,6 +8158,7 @@
     },
     {
       "albumKind": "sidestory",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act32side",
@@ -8331,6 +8375,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 23,
       "chapters": [
         {
           "albumId": "act33side",
@@ -8602,6 +8647,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act34side",
@@ -8832,6 +8878,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act35side",
@@ -9062,6 +9109,7 @@
     },
     {
       "albumKind": "sidestory",
+      "chapterCount": 16,
       "chapters": [
         {
           "albumId": "act36side",
@@ -9248,6 +9296,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 18,
       "chapters": [
         {
           "albumId": "act37side",
@@ -9467,6 +9516,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 24,
       "chapters": [
         {
           "albumId": "act38side",
@@ -9750,6 +9800,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act39side",
@@ -9980,6 +10031,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 26,
       "chapters": [
         {
           "albumId": "act3d0",
@@ -10280,6 +10332,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act40side",
@@ -10510,6 +10563,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act41side",
@@ -10741,6 +10795,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 24,
       "chapters": [
         {
           "albumId": "act42side",
@@ -11021,6 +11076,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act43side",
@@ -11251,6 +11307,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act44side",
@@ -11482,6 +11539,7 @@
     },
     {
       "albumKind": "sidestory",
+      "chapterCount": 17,
       "chapters": [
         {
           "albumId": "act45side",
@@ -11678,6 +11736,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 24,
       "chapters": [
         {
           "albumId": "act46side",
@@ -11958,6 +12017,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act47side",
@@ -12189,6 +12249,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 19,
       "chapters": [
         {
           "albumId": "act48side",
@@ -12419,6 +12480,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 24,
       "chapters": [
         {
           "albumId": "act49side",
@@ -12702,6 +12764,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 7,
       "chapters": [
         {
           "albumId": "act4d0",
@@ -12803,6 +12866,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 18,
       "chapters": [
         {
           "albumId": "act51side",
@@ -13023,6 +13087,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 27,
       "chapters": [
         {
           "albumId": "act5d0",
@@ -13333,6 +13398,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 3,
       "chapters": [
         {
           "albumId": "act6d5",
@@ -13398,6 +13464,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 6,
       "chapters": [
         {
           "albumId": "act7d5",
@@ -13490,6 +13557,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 6,
       "chapters": [
         {
           "albumId": "act7mini",
@@ -13582,6 +13650,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 6,
       "chapters": [
         {
           "albumId": "act8mini",
@@ -13674,6 +13743,7 @@
     },
     {
       "albumKind": "intermezzi",
+      "chapterCount": 13,
       "chapters": [
         {
           "albumId": "act9d0",
@@ -13844,6 +13914,7 @@
     },
     {
       "albumKind": "sideStory",
+      "chapterCount": 7,
       "chapters": [
         {
           "albumId": "act9mini",
@@ -13945,6 +14016,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 14,
       "chapters": [
         {
           "albumId": "main_0",
@@ -14131,6 +14203,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 12,
       "chapters": [
         {
           "albumId": "main_1",
@@ -14287,6 +14360,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 28,
       "chapters": [
         {
           "albumId": "main_10",
@@ -14603,6 +14677,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 27,
       "chapters": [
         {
           "albumId": "main_11",
@@ -14909,6 +14984,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 27,
       "chapters": [
         {
           "albumId": "main_12",
@@ -15215,6 +15291,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 27,
       "chapters": [
         {
           "albumId": "main_13",
@@ -15521,6 +15598,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 41,
       "chapters": [
         {
           "albumId": "main_14",
@@ -15967,6 +16045,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 25,
       "chapters": [
         {
           "albumId": "main_15",
@@ -16253,6 +16332,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 25,
       "chapters": [
         {
           "albumId": "main_16",
@@ -16539,6 +16619,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 24,
       "chapters": [
         {
           "albumId": "main_17",
@@ -16815,6 +16896,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 20,
       "chapters": [
         {
           "albumId": "main_2",
@@ -17051,6 +17133,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 16,
       "chapters": [
         {
           "albumId": "main_3",
@@ -17247,6 +17330,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 20,
       "chapters": [
         {
           "albumId": "main_4",
@@ -17483,6 +17567,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 17,
       "chapters": [
         {
           "albumId": "main_5",
@@ -17689,6 +17774,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 27,
       "chapters": [
         {
           "albumId": "main_6",
@@ -17995,6 +18081,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 20,
       "chapters": [
         {
           "albumId": "main_7",
@@ -18231,6 +18318,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 39,
       "chapters": [
         {
           "albumId": "main_8",
@@ -18657,6 +18745,7 @@
     },
     {
       "albumKind": "mainline",
+      "chapterCount": 20,
       "chapters": [
         {
           "albumId": "main_9",
@@ -18893,6 +18982,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_12fce_set_1",
@@ -18926,6 +19016,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_absin_set_1",
@@ -18959,6 +19050,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_acdrop_set_1",
@@ -18992,6 +19084,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_adnach_set_1",
@@ -19025,6 +19118,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 2,
       "chapters": [
         {
           "albumId": "story_aglina_set_1",
@@ -19067,6 +19161,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_agoat2_set_1",
@@ -19100,6 +19195,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_akafyu_set_1",
@@ -19133,6 +19229,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_alanna_set_1",
@@ -19166,6 +19263,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_almond_set_1",
@@ -19199,6 +19297,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_amgoat_set_1",
@@ -19232,6 +19331,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_amgoat_set_2",
@@ -19265,6 +19365,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_angel_set_1",
@@ -19298,6 +19399,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_angel_set_2",
@@ -19331,6 +19433,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ansel_set_1",
@@ -19364,6 +19467,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_aosta_set_1",
@@ -19397,6 +19501,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_aprl_set_1",
@@ -19430,6 +19535,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_aprot2_set_1",
@@ -19463,6 +19569,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_archet_set_1",
@@ -19496,6 +19603,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ardign_set_1",
@@ -19529,6 +19637,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_aroma_set_1",
@@ -19562,6 +19671,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_asbest_set_1",
@@ -19595,6 +19705,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ascln_set_1",
@@ -19628,6 +19739,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ash_set_1",
@@ -19661,6 +19773,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ashlok_set_1",
@@ -19694,6 +19807,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_astesi_set_1",
@@ -19727,6 +19841,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_astesi_set_2",
@@ -19760,6 +19875,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_aurora_set_1",
@@ -19793,6 +19909,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ayer_set_1",
@@ -19826,6 +19943,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_baslin_set_1",
@@ -19859,6 +19977,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_bdhkgt_set_1",
@@ -19892,6 +20011,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_beewax_set_1",
@@ -19925,6 +20045,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_bena_set_1",
@@ -19958,6 +20079,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_bgsnow_set_1",
@@ -19991,6 +20113,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_bibeak_set_1",
@@ -20024,6 +20147,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_bibeak_set_2",
@@ -20057,6 +20181,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_billro_set_1",
@@ -20090,6 +20215,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_bison_set_1",
@@ -20123,6 +20249,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_blackd_set_1",
@@ -20156,6 +20283,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_blackd_set_2",
@@ -20189,6 +20317,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_bldsk_set_1",
@@ -20222,6 +20351,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_bldsk_set_2",
@@ -20255,6 +20385,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_blemsh_set_1",
@@ -20288,6 +20419,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_blitz_set_1",
@@ -20321,6 +20453,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_blkkgt_set_1",
@@ -20354,6 +20487,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_blkngt_set_1",
@@ -20387,6 +20521,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_bluep_set_1",
@@ -20420,6 +20555,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_bobb_set_1",
@@ -20453,6 +20589,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_botany_set_1",
@@ -20486,6 +20623,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_bpipe_set_1",
@@ -20519,6 +20657,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_branch_set_1",
@@ -20552,6 +20691,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_breeze_set_1",
@@ -20585,6 +20725,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_breeze_set_2",
@@ -20618,6 +20759,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_brigid_set_1",
@@ -20651,6 +20793,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_broca_set_1",
@@ -20684,6 +20827,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_broca_set_2",
@@ -20717,6 +20861,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_brownb_set_1",
@@ -20750,6 +20895,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_bryota_set_1",
@@ -20783,6 +20929,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_bstalk_set_1",
@@ -20816,6 +20963,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_bubble_set_1",
@@ -20849,6 +20997,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_buildr_set_1",
@@ -20882,6 +21031,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_cammou_set_1",
@@ -20915,6 +21065,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_caper_set_1",
@@ -20948,6 +21099,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_cast3_set_1",
@@ -20981,6 +21133,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_catap_set_1",
@@ -21014,6 +21167,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_catap_set_2",
@@ -21047,6 +21201,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_cathy_set_1",
@@ -21080,6 +21235,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ccheal_set_1",
@@ -21113,6 +21269,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_cello_set_1",
@@ -21146,6 +21303,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_cement_set_1",
@@ -21179,6 +21337,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_cerber_set_1",
@@ -21212,6 +21371,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_cetsyr_set_1",
@@ -21245,6 +21405,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ceylon_set_1",
@@ -21278,6 +21439,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ceylon_set_2",
@@ -21311,6 +21473,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_cgbird_set_1",
@@ -21344,6 +21507,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_chen_set_1",
@@ -21377,6 +21541,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_chen2_set_1",
@@ -21410,6 +21575,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_chen2_set_2",
@@ -21443,6 +21609,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_chiave_set_1",
@@ -21476,6 +21643,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_chimes_set_1",
@@ -21509,6 +21677,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_chnut_set_1",
@@ -21542,6 +21711,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_christ_set_1",
@@ -21575,6 +21745,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_chyue_set_1",
@@ -21608,6 +21779,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_closur_set_1",
@@ -21641,6 +21813,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_clour_set_1",
@@ -21674,6 +21847,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_coldst_set_1",
@@ -21707,6 +21881,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_crosly_set_1",
@@ -21740,6 +21915,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_crow_set_1",
@@ -21773,6 +21949,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ctable_set_1",
@@ -21806,6 +21983,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ctrail_set_1",
@@ -21839,6 +22017,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_cutter_set_1",
@@ -21872,6 +22051,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_dagda_set_1",
@@ -21905,6 +22085,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_deepcl_set_1",
@@ -21938,6 +22119,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_deepcl_set_2",
@@ -21971,6 +22153,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_demkni_set_1",
@@ -22004,6 +22187,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_doroth_set_1",
@@ -22037,6 +22221,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_durin_set_1",
@@ -22070,6 +22255,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_durnar_set_1",
@@ -22103,6 +22289,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_durnar_set_2",
@@ -22136,6 +22323,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_dusk_set_1",
@@ -22169,6 +22357,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ebnhlz_set_1",
@@ -22202,6 +22391,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ela_set_1",
@@ -22235,6 +22425,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_elysm_set_1",
@@ -22268,6 +22459,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_erato_set_1",
@@ -22301,6 +22493,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_estell_set_1",
@@ -22334,6 +22527,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ethan_set_1",
@@ -22367,6 +22561,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_excu_set_1",
@@ -22400,6 +22595,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_excu_set_2",
@@ -22433,6 +22629,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_excu2_set_1",
@@ -22466,6 +22663,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_f12yin_set_1",
@@ -22499,6 +22697,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_f12yin_set_2",
@@ -22532,6 +22731,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_falco_set_1",
@@ -22565,6 +22765,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_fang_set_1",
@@ -22598,6 +22799,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_fartth_set_1",
@@ -22631,6 +22833,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_finlpp_set_1",
@@ -22664,6 +22867,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_firwhl_set_1",
@@ -22697,6 +22901,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_flamtl_set_1",
@@ -22730,6 +22935,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_flint_set_1",
@@ -22763,6 +22969,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_flower_set_1",
@@ -22796,6 +23003,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_flower_set_2",
@@ -22829,6 +23037,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_fmout_set_1",
@@ -22862,6 +23071,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_folivo_set_1",
@@ -22895,6 +23105,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_folnic_set_1",
@@ -22928,6 +23139,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_forcer_set_1",
@@ -22961,6 +23173,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_franka_set_1",
@@ -22994,6 +23207,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_franka_set_2",
@@ -23027,6 +23241,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_frncat_set_1",
@@ -23060,6 +23275,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_frostl_set_1",
@@ -23093,6 +23309,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_fuze_set_1",
@@ -23126,6 +23343,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_gdglow_set_1",
@@ -23159,6 +23377,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ghost_set_1",
@@ -23192,6 +23411,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ghost_set_2",
@@ -23225,6 +23445,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ghost2_set_1",
@@ -23258,6 +23479,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_glacus_set_1",
@@ -23291,6 +23513,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_glady_set_1",
@@ -23324,6 +23547,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_glassb_set_1",
@@ -23357,6 +23581,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_glassb_set_2",
@@ -23390,6 +23615,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_glaze_set_1",
@@ -23423,6 +23649,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_glider_set_1",
@@ -23456,6 +23683,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_gnosis_set_1",
@@ -23489,6 +23717,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_grabds_set_1",
@@ -23522,6 +23751,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_grani_set_1",
@@ -23555,6 +23785,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_gravel_set_1",
@@ -23588,6 +23819,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_greyy_set_1",
@@ -23621,6 +23853,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_greyy2_set_1",
@@ -23654,6 +23887,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_gvial2_set_1",
@@ -23687,6 +23921,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_gyuki_set_1",
@@ -23720,6 +23955,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_haak_set_1",
@@ -23753,6 +23989,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_hadiya_set_1",
@@ -23786,6 +24023,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_haini_set_1",
@@ -23819,6 +24057,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_halo_set_1",
@@ -23852,6 +24091,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_halo2_set_1",
@@ -23885,6 +24125,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_hamoni_set_1",
@@ -23918,6 +24159,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_harold_set_1",
@@ -23951,6 +24193,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_hbisc2_set_1",
@@ -23984,6 +24227,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_headb2_set_1",
@@ -24017,6 +24261,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_headbr_set_1",
@@ -24050,6 +24295,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_headbr_set_2",
@@ -24083,6 +24329,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_heidi_set_1",
@@ -24116,6 +24363,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_helage_set_1",
@@ -24149,6 +24397,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_hibisc_set_1",
@@ -24182,6 +24431,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_hmau_set_1",
@@ -24215,6 +24465,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_hmau_set_2",
@@ -24248,6 +24499,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_horn_set_1",
@@ -24281,6 +24533,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_hpsts_set_1",
@@ -24314,6 +24567,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_hsguma_set_1",
@@ -24347,6 +24601,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_huang_set_1",
@@ -24380,6 +24635,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_humus_set_1",
@@ -24413,6 +24669,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_iana_set_1",
@@ -24446,6 +24703,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ifrit_set_1",
@@ -24479,6 +24737,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_indigo_set_1",
@@ -24512,6 +24771,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_inside_set_1",
@@ -24545,6 +24805,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_irene_set_1",
@@ -24578,6 +24839,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_iris_set_1",
@@ -24611,6 +24873,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ironmn_set_1",
@@ -24644,6 +24907,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_jaksel_set_1",
@@ -24677,6 +24941,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_jesca2_set_1",
@@ -24710,6 +24975,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_jesica_set_1",
@@ -24743,6 +25009,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_jnight_set_1",
@@ -24776,6 +25043,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ju_set_1",
@@ -24809,6 +25077,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_judge_set_1",
@@ -24842,6 +25111,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_kafka_set_1",
@@ -24875,6 +25145,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_kaitou_set_1",
@@ -24908,6 +25179,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_kalts_set_1",
@@ -24941,6 +25213,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_kazema_set_1",
@@ -24974,6 +25247,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_kazema_set_2",
@@ -25007,6 +25281,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_kichi_set_1",
@@ -25040,6 +25315,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_kirara_set_1",
@@ -25073,6 +25349,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_kirara_set_2",
@@ -25106,6 +25383,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_kjera_set_1",
@@ -25139,6 +25417,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_kroos_set_1",
@@ -25172,6 +25451,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_lasher_set_1",
@@ -25205,6 +25485,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_lava_set_1",
@@ -25238,6 +25519,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_lava_set_2",
@@ -25271,6 +25553,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_lava2_set_1",
@@ -25304,6 +25587,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_leizi_set_1",
@@ -25337,6 +25621,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_lessng_set_1",
@@ -25370,6 +25655,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_leto_set_1",
@@ -25403,6 +25689,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_lin_set_1",
@@ -25436,6 +25723,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ling_set_1",
@@ -25469,6 +25757,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_lionhd_set_1",
@@ -25502,6 +25791,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_liskam_set_1",
@@ -25535,6 +25825,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_liskam_set_2",
@@ -25568,6 +25859,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_lmlee_set_1",
@@ -25601,6 +25893,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_lolxh_set_1",
@@ -25634,6 +25927,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_lumen_set_1",
@@ -25667,6 +25961,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_lunacu_set_1",
@@ -25700,6 +25995,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_luton_set_1",
@@ -25733,6 +26029,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_makiri_set_1",
@@ -25766,6 +26063,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_malist_set_1",
@@ -25799,6 +26097,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_mantic_set_1",
@@ -25832,6 +26131,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_mantra_set_1",
@@ -25865,6 +26165,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_mberry_set_1",
@@ -25898,6 +26199,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_medic2_set_1",
@@ -25931,6 +26233,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_melan_set_1",
@@ -25964,6 +26267,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_melnte_set_1",
@@ -25997,6 +26301,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_meteo_set_1",
@@ -26030,6 +26335,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_mgllan_set_1",
@@ -26063,6 +26369,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_midn_set_1",
@@ -26096,6 +26403,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_milu_set_1",
@@ -26129,6 +26437,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_mint_set_1",
@@ -26162,6 +26471,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_mitm_set_1",
@@ -26195,6 +26505,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_mizuki_set_1",
@@ -26228,6 +26539,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_mlyss_set_1",
@@ -26261,6 +26573,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_mm_set_1",
@@ -26294,6 +26607,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_moeshd_set_1",
@@ -26327,6 +26641,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_morgan_set_1",
@@ -26360,6 +26675,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_mostma_set_1",
@@ -26393,6 +26709,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_mostma_set_2",
@@ -26426,6 +26743,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_mudrok_set_1",
@@ -26459,6 +26777,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_myrrh_set_1",
@@ -26492,6 +26811,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_myrtle_set_1",
@@ -26525,6 +26845,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_narant_set_1",
@@ -26558,6 +26879,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_nblade_set_1",
@@ -26591,6 +26913,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ncdeer_set_1",
@@ -26624,6 +26947,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_nearl2_set_1",
@@ -26657,6 +26981,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_nian_set_1",
@@ -26690,6 +27015,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_nights_set_1",
@@ -26723,6 +27049,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_noirc_set_1",
@@ -26756,6 +27083,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_nothin_set_1",
@@ -26789,6 +27117,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_nowell_set_1",
@@ -26822,6 +27151,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_nymph_set_1",
@@ -26855,6 +27185,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_orchid_set_1",
@@ -26888,6 +27219,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_orchid_set_2",
@@ -26921,6 +27253,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_otter_set_1",
@@ -26954,6 +27287,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_otter_set_2",
@@ -26987,6 +27321,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_panda_set_1",
@@ -27020,6 +27355,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_papyrs_set_1",
@@ -27053,6 +27389,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_peper_set_1",
@@ -27086,6 +27423,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_phatom_set_1",
@@ -27119,6 +27457,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_phenxi_set_1",
@@ -27152,6 +27491,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_philae_set_1",
@@ -27185,6 +27525,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_pianst_set_1",
@@ -27218,6 +27559,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_pianst_set_2",
@@ -27251,6 +27593,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_pinecn_set_1",
@@ -27284,6 +27627,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_pinecn_set_2",
@@ -27317,6 +27661,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_platnm_set_1",
@@ -27350,6 +27695,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_plosis_set_1",
@@ -27383,6 +27729,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_poca_set_1",
@@ -27416,6 +27763,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_podego_set_1",
@@ -27449,6 +27797,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_popka_set_1",
@@ -27482,6 +27831,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_popka_set_2",
@@ -27515,6 +27865,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_prove_set_1",
@@ -27548,6 +27899,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_prove_set_2",
@@ -27581,6 +27933,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_provs_set_1",
@@ -27614,6 +27967,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_pudd_set_1",
@@ -27647,6 +28001,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_puzzle_set_1",
@@ -27680,6 +28035,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_qanik_set_1",
@@ -27713,6 +28069,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_qiubai_set_1",
@@ -27746,6 +28103,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_quartz_set_1",
@@ -27779,6 +28137,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_quercu_set_1",
@@ -27812,6 +28171,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_quercu_set_2",
@@ -27845,6 +28205,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ray_set_1",
@@ -27878,6 +28239,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_ray_set_2",
@@ -27911,6 +28273,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_rdoc_set_1",
@@ -27944,6 +28307,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_reckpr_set_1",
@@ -27977,6 +28341,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_rfalcn_set_1",
@@ -28010,6 +28375,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_rfrost_set_1",
@@ -28043,6 +28409,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_robin_set_1",
@@ -28076,6 +28443,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_robrta_set_1",
@@ -28109,6 +28477,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_rockr_set_1",
@@ -28142,6 +28511,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 2,
       "chapters": [
         {
           "albumId": "story_rope_set_1",
@@ -28184,6 +28554,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_rosesa_set_1",
@@ -28217,6 +28588,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_saga_set_1",
@@ -28250,6 +28622,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_savage_set_1",
@@ -28283,6 +28656,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 2,
       "chapters": [
         {
           "albumId": "story_savage_set_2",
@@ -28325,6 +28699,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_scave_set_1",
@@ -28358,6 +28733,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_sddrag_set_1",
@@ -28391,6 +28767,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_serum_set_1",
@@ -28424,6 +28801,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_sesa_set_1",
@@ -28457,6 +28835,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_shining_set_1",
@@ -28490,6 +28869,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_shotst_set_1",
@@ -28523,6 +28903,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_shotst_set_2",
@@ -28556,6 +28937,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_shu_set_1",
@@ -28589,6 +28971,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_shwaz_set_1",
@@ -28622,6 +29005,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_shwaz_set_2",
@@ -28655,6 +29039,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_sidero_set_1",
@@ -28688,6 +29073,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_siege_set_1",
@@ -28721,6 +29107,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_silent_set_1",
@@ -28754,6 +29141,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_skadi_set_1",
@@ -28787,6 +29175,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_skfire_set_1",
@@ -28820,6 +29209,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_skgoat_set_1",
@@ -28853,6 +29243,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_skgoat_set_2",
@@ -28886,6 +29277,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_slbell_set_1",
@@ -28919,6 +29311,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_slchan_set_1",
@@ -28952,6 +29345,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_slchan_set_2",
@@ -28985,6 +29379,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_sleach_set_1",
@@ -29018,6 +29413,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_sleach_set_2",
@@ -29051,6 +29447,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_snakek_set_1",
@@ -29084,6 +29481,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_snhunt_set_1",
@@ -29117,6 +29515,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_snsant_set_1",
@@ -29150,6 +29549,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_sntlla_set_1",
@@ -29183,6 +29583,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_sophia_set_1",
@@ -29216,6 +29617,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_sora_set_1",
@@ -29249,6 +29651,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_sora_set_2",
@@ -29282,6 +29685,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_spikes_set_1",
@@ -29315,6 +29719,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_spot_set_1",
@@ -29348,6 +29753,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_spuria_set_1",
@@ -29381,6 +29787,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_sqrrel_set_1",
@@ -29414,6 +29821,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_sqrrel_set_2",
@@ -29447,6 +29855,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_strong_set_1",
@@ -29480,6 +29889,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_strong_set_2",
@@ -29513,6 +29923,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_sunbr_set_1",
@@ -29546,6 +29957,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_sunbr_set_2",
@@ -29579,6 +29991,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_susuro_set_1",
@@ -29612,6 +30025,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_svrash_set_1",
@@ -29645,6 +30059,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_svrash_set_2",
@@ -29678,6 +30093,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_swire_set_1",
@@ -29711,6 +30127,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_swllow_set_1",
@@ -29744,6 +30161,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_tachak_set_1",
@@ -29777,6 +30195,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_takila_set_1",
@@ -29810,6 +30229,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_tecno_set_1",
@@ -29843,6 +30263,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_texas_set_1",
@@ -29876,6 +30297,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_therex_set_1",
@@ -29909,6 +30331,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_thorns_set_1",
@@ -29942,6 +30365,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_tiger_set_1",
@@ -29975,6 +30399,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_tinman_set_1",
@@ -30008,6 +30433,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_tippi_set_1",
@@ -30041,6 +30467,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_tknogi_set_1",
@@ -30074,6 +30501,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_toddi_set_1",
@@ -30107,6 +30535,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_tomimi_set_1",
@@ -30140,6 +30569,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_totter_set_1",
@@ -30173,6 +30603,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_totter_set_2",
@@ -30206,6 +30637,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_tuye_set_1",
@@ -30239,6 +30671,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_utage_set_1",
@@ -30272,6 +30705,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_utage_set_2",
@@ -30305,6 +30739,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_vendla_set_1",
@@ -30338,6 +30773,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_vigil_set_1",
@@ -30371,6 +30807,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_vigil_set_2",
@@ -30404,6 +30841,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_vigna_set_1",
@@ -30437,6 +30875,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_vodfox_set_1",
@@ -30470,6 +30909,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_vrdant_set_1",
@@ -30503,6 +30943,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_vvana_set_1",
@@ -30536,6 +30977,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_waaifu_set_1",
@@ -30569,6 +31011,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_wang_set_1",
@@ -30602,6 +31045,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_wanqin_set_1",
@@ -30635,6 +31079,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_warmy_set_1",
@@ -30668,6 +31113,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_weedy_set_1",
@@ -30701,6 +31147,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_weedy_set_2",
@@ -30734,6 +31181,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_whispr_set_1",
@@ -30767,6 +31215,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_whitw2_set_1",
@@ -30800,6 +31249,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_wildmn_set_1",
@@ -30833,6 +31283,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_windft_set_1",
@@ -30866,6 +31317,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_wintim_set_1",
@@ -30899,6 +31351,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_wscoot_set_1",
@@ -30932,6 +31385,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_wulfen_set_1",
@@ -30965,6 +31419,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_wyvern_set_1",
@@ -30998,6 +31453,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_xingzh_set_1",
@@ -31031,6 +31487,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_yak_set_1",
@@ -31064,6 +31521,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_yu_set_1",
@@ -31097,6 +31555,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_yuki_set_1",
@@ -31130,6 +31589,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_zebra_set_1",
@@ -31163,6 +31623,7 @@
     },
     {
       "albumKind": "operatorRecord",
+      "chapterCount": 1,
       "chapters": [
         {
           "albumId": "story_zumama_set_1",

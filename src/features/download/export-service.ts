@@ -16,6 +16,7 @@ interface ExportServiceOptions {
 export interface ExportProgress {
   completedChapters: number
   totalChapters: number
+  phase: 'fetching' | 'generating'
 }
 
 export interface ExportRunOptions {
@@ -53,16 +54,24 @@ export class ExportService {
       throw new Error('导出项不能为空。')
     }
 
-    const chapterCount = selection.items.reduce((total, item) => total + item.chapterIds.length, 0)
-
-    if (!runOptions.onProgress && this.shouldUseWorker(format, chapterCount)) {
+    if (!runOptions.onProgress && this.shouldUseWorker(format, selection)) {
       return this.exportByWorker(format, selection)
     }
 
     const document = await buildExportDocument(this.repository, selection, {
-      onChapterExported: runOptions.onProgress,
+      onChapterExported: (progress) =>
+        runOptions.onProgress?.({
+          ...progress,
+          phase: 'fetching',
+        }),
     })
     const renderer = this.renderers[format]
+    const totalChapters = selection.items.reduce((total, item) => total + item.chapterIds.length, 0)
+    runOptions.onProgress?.({
+      completedChapters: totalChapters,
+      totalChapters,
+      phase: 'generating',
+    })
 
     return renderer.render({
       document,
@@ -71,8 +80,16 @@ export class ExportService {
     })
   }
 
-  private shouldUseWorker(format: ExportFormat, chapterCount: number): boolean {
-    return format === 'txt' && chapterCount >= this.workerThreshold && typeof Worker !== 'undefined'
+  private shouldUseWorker(format: ExportFormat, selection: ExportSelection): boolean {
+    const chapterCount = selection.items.reduce((total, item) => total + item.chapterIds.length, 0)
+    const includesOperatorContent = selection.items.some((item) => item.kind === 'operator')
+
+    return (
+      format === 'txt' &&
+      chapterCount >= this.workerThreshold &&
+      typeof Worker !== 'undefined' &&
+      !includesOperatorContent
+    )
   }
 
   private async exportByWorker(
