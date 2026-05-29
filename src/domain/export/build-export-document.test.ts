@@ -18,7 +18,7 @@ describe('buildExportDocument', () => {
         files: {},
       },
       catalog: {
-        albums: [{ id: 'album_a', title: '曲谱A', slug: 'album-a' }],
+        albums: [{ id: 'album_a', title: '曲谱A', slug: 'album-a', chapterCount: 2 }],
       },
       timeline: {
         items: [],
@@ -98,7 +98,7 @@ describe('buildExportDocument', () => {
         files: {},
       },
       catalog: {
-        albums: [{ id: 'album_a', title: '曲谱A', slug: 'album-a' }],
+        albums: [{ id: 'album_a', title: '曲谱A', slug: 'album-a', chapterCount: 1 }],
       },
       timeline: {
         items: [],
@@ -177,7 +177,7 @@ describe('buildExportDocument', () => {
         files: {},
       },
       catalog: {
-        albums: [{ id: 'album_a', title: '曲谱A', slug: 'album-a' }],
+        albums: [{ id: 'album_a', title: '曲谱A', slug: 'album-a', chapterCount: 1 }],
       },
       timeline: {
         items: [],
@@ -241,7 +241,7 @@ describe('buildExportDocument', () => {
         files: {},
       },
       catalog: {
-        albums: [{ id: 'album_a', title: '曲谱A', slug: 'album-a' }],
+        albums: [{ id: 'album_a', title: '曲谱A', slug: 'album-a', chapterCount: 1 }],
       },
       timeline: {
         items: [],
@@ -538,7 +538,7 @@ describe('buildExportDocument', () => {
         source: { providerId: 'fixture', commitSha: 'rev-invalid' },
         files: {},
       },
-      catalog: { albums: [{ id: 'album_a', title: '曲谱A', slug: 'album-a' }] },
+      catalog: { albums: [{ id: 'album_a', title: '曲谱A', slug: 'album-a', chapterCount: 1 }] },
       timeline: { items: [] },
       searchIndex: {
         generatedAt: '2026-05-10T00:00:00.000Z',
@@ -586,7 +586,7 @@ describe('buildExportDocument', () => {
         source: { providerId: 'fixture', commitSha: 'rev-mismatch' },
         files: {},
       },
-      catalog: { albums: [{ id: 'album_a', title: '曲谱A', slug: 'album-a' }] },
+      catalog: { albums: [{ id: 'album_a', title: '曲谱A', slug: 'album-a', chapterCount: 1 }] },
       timeline: { items: [] },
       searchIndex: {
         generatedAt: '2026-05-10T00:00:00.000Z',

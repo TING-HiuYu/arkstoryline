@@ -20,8 +20,8 @@ describe('ExportService', () => {
       },
       catalog: {
         albums: [
-          { id: 'album_a', title: '曲谱A', slug: 'album-a' },
-          { id: 'album_b', title: '曲谱B', slug: 'album-b' },
+          { id: 'album_a', title: '曲谱A', slug: 'album-a', chapterCount: 1 },
+          { id: 'album_b', title: '曲谱B', slug: 'album-b', chapterCount: 1 },
         ],
       },
       timeline: {
