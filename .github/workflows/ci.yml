@@ -1,50 +1,49 @@
-name: CI
+name: PRTS Metadata Sync
 
 on:
-  push:
-    branches:
-      - main
-  pull_request:
+  schedule:
+    - cron: '0 18 * * 0'
+  workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
-  group: ci-${{ github.ref }}
+  group: prts-metadata-sync-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
-  verify:
+  sync:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          version: 10
+          python-version: '3.12'
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: pnpm
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install rich
 
-      - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+      - name: Sync PRTS metadata
+        run: |
+          python3 -m scripts.resourcesFetcher sync-storyline-index
+          python3 -m scripts.resourcesFetcher sync-operator-index
+          python3 -m scripts.resourcesFetcher sync-terra-historicus-index
+          python3 -m scripts.resourcesFetcher sync-story-content-sources
 
-      - name: Lint
-        run: pnpm lint
-
-      - name: Typecheck
-        run: pnpm typecheck
-
-      - name: Unit tests
-        run: pnpm test
-
-      - name: Resource fetcher tests
-        run: python3 -m unittest discover scripts/resourcesFetcher/tests
-
-      - name: Build
-        run: pnpm build
+      - name: Commit metadata changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data
+          if git diff --cached --quiet; then
+            echo "No metadata changes to commit."
+          else
+            git commit -m "chore(data): sync PRTS metadata"
+            git push
+          fi
