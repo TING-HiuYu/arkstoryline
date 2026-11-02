@@ -7,17 +7,32 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 concurrency:
-  group: prts-metadata-sync-${{ github.ref }}
-  cancel-in-progress: true
+  group: prts-metadata-sync
+  cancel-in-progress: false
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+    env:
+      BASE_BRANCH: ${{ github.event.repository.default_branch }}
     steps:
+      - name: Check sync credentials
+        env:
+          PRTS_SYNC_TOKEN: ${{ secrets.PRTS_SYNC_TOKEN }}
+        run: |
+          if [ -z "$PRTS_SYNC_TOKEN" ]; then
+            echo "::error::Set PRTS_SYNC_TOKEN to a token with Contents and Pull requests read/write permissions for this repository."
+            exit 1
+          fi
+
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PRTS_SYNC_TOKEN }}
+          ref: ${{ env.BASE_BRANCH }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -34,16 +49,94 @@ jobs:
           python3 -m scripts.resourcesFetcher sync-storyline-index
           python3 -m scripts.resourcesFetcher sync-operator-index
           python3 -m scripts.resourcesFetcher sync-terra-historicus-index
-          python3 -m scripts.resourcesFetcher sync-story-content-sources
 
-      - name: Commit metadata changes
+      - name: Detect metadata changes
+        id: metadata
+        run: python3 -m scripts.check_metadata_changes
+
+      - name: Create sync branch
+        if: steps.metadata.outputs.changed == 'true'
+        id: branch
+        run: |
+          branch="automation/prts-sync-$(date -u +%Y%m%d)"
+          indexes=(public/data/storyline/index.json public/data/operator/index.json public/data/terra-historicus/index.json)
+          blobs=()
+          for path in "${indexes[@]}"; do
+            blobs+=("$(git hash-object -w "$path")")
+          done
+          git add --force -- "${indexes[@]}"
+          git restore --source=HEAD --staged --worktree -- "${indexes[@]}"
+          if git ls-remote --exit-code --heads origin "refs/heads/$branch"; then
+            git fetch origin "refs/heads/$branch:refs/remotes/origin/$branch"
+            git switch -c "$branch" --track "origin/$branch"
+          else
+            status=$?
+            if [ "$status" -ne 2 ]; then
+              echo "::error::Failed to check the remote sync branch."
+              exit "$status"
+            fi
+            git switch -c "$branch"
+          fi
+          for index in "${!indexes[@]}"; do
+            mkdir -p "$(dirname "${indexes[$index]}")"
+            git cat-file blob "${blobs[$index]}" > "${indexes[$index]}"
+          done
+          echo "name=$branch" >> "$GITHUB_OUTPUT"
+
+      - name: Setup pnpm
+        if: steps.metadata.outputs.changed == 'true'
+        uses: pnpm/action-setup@v4
+        with:
+          version: '10'
+
+      - name: Setup Node
+        if: steps.metadata.outputs.changed == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: pnpm
+
+      - name: Install Node dependencies
+        if: steps.metadata.outputs.changed == 'true'
+        run: pnpm install --frozen-lockfile
+
+      - name: Build and validate data
+        if: steps.metadata.outputs.changed == 'true'
+        run: |
+          pnpm data:sync
+          pnpm data:build
+          python3 -m scripts.resourcesFetcher sync-story-content-sources
+          pnpm data:validate
+
+      - name: Commit and push data
+        if: steps.metadata.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data
-          if git diff --cached --quiet; then
-            echo "No metadata changes to commit."
-          else
-            git commit -m "chore(data): sync PRTS metadata"
-            git push
+          git add --force -- public/data public/assets/covers
+          git commit -m "chore(data): sync PRTS metadata and rebuild data"
+          git push --set-upstream origin HEAD
+
+      - name: Create PR and enable auto-merge
+        if: steps.metadata.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.PRTS_SYNC_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          SYNC_BRANCH: ${{ steps.branch.outputs.name }}
+        run: |
+          pr_url=$(gh pr list \
+            --base "$BASE_BRANCH" --head "$SYNC_BRANCH" --state open \
+            --json url --jq '.[0].url // empty')
+          if [ -z "$pr_url" ]; then
+            pr_url=$(gh pr create \
+              --base "$BASE_BRANCH" \
+              --head "$SYNC_BRANCH" \
+              --title "chore(data): sync PRTS metadata and rebuild data" \
+              --body "Automated metadata refresh and full game-data rebuild. Data validation passed. Squash auto-merge is requested; required checks and branch rules still apply.")
           fi
+          gh pr merge "$pr_url" \
+            --auto --squash --delete-branch \
+            --match-head-commit "$(git rev-parse HEAD)"
+          echo "### Metadata sync pull request" >> "$GITHUB_STEP_SUMMARY"
+          echo "$pr_url" >> "$GITHUB_STEP_SUMMARY"
+          echo "Squash auto-merge requested; GitHub merges only when branch requirements are satisfied." >> "$GITHUB_STEP_SUMMARY"
