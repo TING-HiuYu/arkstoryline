@@ -1,4 +1,5 @@
 import type { ExportDocument, ExportDocumentChapter, ExportDocumentAlbum } from './export-document'
+import { STATIC_DATA_BASE_URL } from '../../app/config'
 import type { ExportSelection } from './export-selection'
 import { applyDoctorName } from '../story/doctor-name'
 import type {
@@ -137,11 +138,15 @@ function resolveExportImageSourcePath(
     return undefined
   }
 
+  if (trimmed.startsWith('/data/')) {
+    return `${STATIC_DATA_BASE_URL}/${trimmed.slice('/data/'.length)}`
+  }
+
   if (/^(https?:)?\/\//i.test(trimmed) || trimmed.startsWith('/')) {
     return trimmed
   }
 
-  return `/data/${locale}/chapters/${trimmed.replace(/^\.?\//, '')}`
+  return `${STATIC_DATA_BASE_URL}/${locale}/chapters/${trimmed.replace(/^\.?\//, '')}`
 }
 
 function formatExportChapterTitle(chapter: Pick<StaticChapterData, 'title' | 'avgTag'>): string {

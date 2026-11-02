@@ -1,4 +1,5 @@
 import type { AppLocale } from '../../app/i18n'
+import { STATIC_DATA_BASE_URL } from '../../app/config'
 import type { ContentSource, RelatedRef } from '../../domain/album/album-types'
 import type {
   StoryAlbumOtherStoryMetadata,
@@ -494,7 +495,7 @@ export class StaticStoryRepository implements StoryRepository {
 
   private async readRootJson<T>(relativePath: string): Promise<T> {
     const normalizedPath = normalizeStaticDataRelativePath(relativePath)
-    return this.readCachedJson<T>(`/data/${normalizedPath}`, relativePath)
+    return this.readCachedJson<T>(`${STATIC_DATA_BASE_URL}/${normalizedPath}`, relativePath)
   }
 
   private async readCachedJson<T>(url: string, errorLabel: string): Promise<T> {

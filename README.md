@@ -2,6 +2,8 @@
 
 ArkStoryline is a static Arknights story reader. It builds storyline, operator, search, and runtime URL indexes ahead of time, then serves the frontend as plain static assets.
 
+For a Worker mounted below the root, set `ARK_BASE_PATH` to the desired URL prefix, run `pnpm build:worker`, then deploy with `npx wrangler deploy --config .wrangler-generated.json --keep-vars`. Configure Cloudflare routes for the prefix and its children. The build generates the Worker configuration from `wrangler.worker.json` and the path variable; the regular `pnpm build` remains suitable for root-hosted deployments.
+
 ## Development
 
 ```bash
