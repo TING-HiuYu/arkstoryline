@@ -259,9 +259,10 @@ function getHeadingSection(doc: Document, headingId: string): Element[] {
   }
 
   const section: Element[] = []
-  let current = heading.nextElementSibling
+  const headingContainer = heading.closest('.mw-heading') ?? heading
+  let current = headingContainer.nextElementSibling
 
-  while (current && current.tagName.toLowerCase() !== 'h2') {
+  while (current && !current.matches('h2, .mw-heading2')) {
     section.push(current)
     current = current.nextElementSibling
   }
@@ -302,6 +303,13 @@ function getSubsections(
 }
 
 function flattenMobileSectionChildren(node: Element, childHeadingTag: 'h3'): Element[] {
+  if (node.matches('.mw-heading')) {
+    const heading = node.querySelector(childHeadingTag)
+    if (heading) {
+      return [heading]
+    }
+  }
+
   if (node.tagName.toLowerCase() === childHeadingTag) {
     return [node]
   }
@@ -310,7 +318,9 @@ function flattenMobileSectionChildren(node: Element, childHeadingTag: 'h3'): Ele
     return [node]
   }
 
-  return Array.from(node.children)
+  return Array.from(node.children).flatMap((child) =>
+    flattenMobileSectionChildren(child, childHeadingTag)
+  )
 }
 
 function extractModuleBasicInfoText(nodes: Element[]): string {

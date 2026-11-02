@@ -4767,7 +4767,9 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
 
     const hasRuntimePage = Boolean(operatorBaseQuery.data.operator?.page)
     const hydratedArchive =
-      hasRuntimePage && runtimeOperatorArchiveQuery.data
+      hasRuntimePage &&
+      runtimeOperatorArchiveQuery.data &&
+      hasOperatorArchiveContent(runtimeOperatorArchiveQuery.data)
         ? runtimeOperatorArchiveQuery.data
         : operatorBaseQuery.data.archive
     const runtimeExtras = runtimeOperatorExtrasQuery.data
@@ -4917,6 +4919,18 @@ export function OperatorDetailPage({ onAlbumResolved }: AlbumBreadcrumbSync) {
     <main>
       <Space orientation="vertical" size={12} style={{ width: '100%' }}>
         <Typography.Title level={2}>{operatorName}</Typography.Title>
+        {runtimeOperatorArchiveQuery.isFetching || runtimeOperatorExtrasQuery.isFetching ? (
+          <LoadingState message="正在从 PRTS 加载干员正文..." />
+        ) : null}
+        {runtimeOperatorArchiveQuery.isError ? (
+          <ErrorState message="PRTS 干员档案加载失败，已保留现有信息，请稍后重试。" />
+        ) : runtimeOperatorArchiveQuery.data &&
+          !hasOperatorArchiveContent(runtimeOperatorArchiveQuery.data) ? (
+          <ErrorState message="未能从 PRTS 解析干员档案，已保留现有信息。" />
+        ) : null}
+        {runtimeOperatorExtrasQuery.isError ? (
+          <ErrorState message="PRTS 模组和秘录加载失败，已保留现有信息，请稍后重试。" />
+        ) : null}
         <Typography.Text type="secondary">
           档案 {operatorDocumentCount} · 模组 {operatorModuleCount} · 秘录{' '}
           {operatorConfidentialCount}

@@ -39,6 +39,9 @@ python3 -m scripts.resourcesFetcher build-compat-index
 ```
 
 The Python resource fetcher only discovers classifications and source URLs. Story text and images are resolved by the frontend at runtime.
+Operator details load PRTS archive, module, and record content in the browser.
+Basic index information remains visible if archive parsing returns no content or
+the request fails; the page displays the loading or failure status separately.
 
 ### Automated metadata sync
 

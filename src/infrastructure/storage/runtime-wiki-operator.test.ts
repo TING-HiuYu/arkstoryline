@@ -1,5 +1,8 @@
 import { describe, expect, it } from 'vitest'
-import { loadRuntimeWikiOperatorArchive, parseRuntimeWikiOperatorHtml } from './runtime-wiki-operator'
+import {
+  loadRuntimeWikiOperatorArchive,
+  parseRuntimeWikiOperatorHtml,
+} from './runtime-wiki-operator'
 
 describe('runtime wiki operator parser', () => {
   it('extracts archive sections, modules and confidential records from rendered wiki html', () => {
@@ -138,10 +141,48 @@ describe('runtime wiki operator parser', () => {
       `,
     })
 
-    expect(parsed.modules.modules.map((module) => module.name)).toEqual([
-      '风笛证章',
-      '破城矛弹夹',
-    ])
+    expect(parsed.modules.modules.map((module) => module.name)).toEqual(['风笛证章', '破城矛弹夹'])
     expect(parsed.modules.modules[1]?.fields.基础信息).toBe('维多利亚军工旧制式弹夹。')
+  })
+
+  it.each([false, true])('extracts wrapped MediaWiki headings (mobile section: %s)', (mobile) => {
+    const content = `
+      <div class="mw-heading mw-heading3">
+        <h3 id="测试模组">测试模组</h3><span class="mw-editsection">编辑</span>
+      </div>
+      <div><p>基础信息<br />模组说明<br />攻击 +65</p></div>
+    `
+    const parsed = parseRuntimeWikiOperatorHtml({
+      operatorSlug: 'operator-test',
+      operatorName: '测试干员',
+      page: '测试干员',
+      html: `
+        <div class="mw-heading mw-heading2"><h2 id="模组">模组</h2></div>
+        ${mobile ? `<section>${content}</section>` : content}
+        <div class="mw-heading mw-heading2"><h2 id="干员档案">干员档案</h2></div>
+        <table>
+          <tr><th>基础档案</th></tr>
+          <tr><th><small>初始开放</small></th></tr>
+          <tr><td>测试档案正文</td></tr>
+        </table>
+        <div class="mw-heading mw-heading2"><h2 id="语音记录">语音记录</h2></div>
+        <table><tr><th>不应进入档案</th></tr><tr><td>语音正文</td></tr></table>
+        <div class="mw-heading mw-heading2"><h2 id="干员密录">干员密录</h2></div>
+        <table><tr><td><b>测试秘录</b><a href="/w/测试干员/干员密录/1">播放</a></td></tr></table>
+        <div class="mw-heading mw-heading2"><h2 id="干员模型">干员模型</h2></div>
+        <a href="/w/测试干员/干员密录/2">不应进入秘录</a>
+      `,
+    })
+
+    expect(parsed.archive.profile).toEqual({
+      档案1: '基础档案',
+      档案1条件: '初始开放',
+      档案1文本: '测试档案正文',
+    })
+    expect(parsed.modules.modules).toEqual([
+      expect.objectContaining({ name: '测试模组', fields: { 基础信息: '模组说明' } }),
+    ])
+    expect(parsed.confidential.records).toHaveLength(1)
+    expect(parsed.confidential.records[0]?.title).toBe('测试秘录')
   })
 })
