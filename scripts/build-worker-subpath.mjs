@@ -1,4 +1,4 @@
-import { readFile, readdir, rm, writeFile } from 'node:fs/promises'
+import { copyFile, readFile, readdir, rm, writeFile } from 'node:fs/promises'
 import { spawnSync } from 'node:child_process'
 import path from 'node:path'
 
@@ -32,13 +32,7 @@ async function prefixJson(directory) {
   }
 }
 await prefixJson(path.join(outputDirectory, 'data'))
+// Static Assets SPA fallback serves /index.html for unmatched navigation paths.
+await copyFile(path.join(outputDirectory, 'index.html'), path.join('dist', 'index.html'))
 const config = JSON.parse(await readFile('wrangler.worker.json', 'utf8'))
-config.vars = { ...config.vars, SITE_BASE_PATH: prefix }
-config.assets.run_worker_first = [
-  prefix,
-  `${prefix}/*`,
-  `!${prefix}/assets/*`,
-  `!${prefix}/data/*`,
-  `!${prefix}/fonts/*`,
-]
 await writeFile('.wrangler-generated.json', `${JSON.stringify(config, null, 2)}\n`)
