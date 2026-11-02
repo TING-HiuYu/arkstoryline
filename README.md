@@ -2,6 +2,8 @@
 
 ArkStoryline is a static Arknights story reader. It builds storyline, operator, search, and runtime URL indexes ahead of time, then serves the frontend as plain static assets.
 
+The Worker build also publishes the navigation page at `thy.icu/` and mounts the reader at `/ark/storyline/`. Edit `portal/links.json` to update the navigation links and tags; `pnpm build:worker` generates the static page and both reader variants. Cloudflare Workers Builds uses `pnpm build:worker` followed by `npx wrangler deploy --config wrangler.worker.jsonc --keep-vars`.
+
 ## Development
 
 ```bash

@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
+    "build:worker": "pnpm build && node scripts/build-worker-site.mjs",
     "data:sync": "tsx scripts/data-sync.ts",
     "data:build": "tsx scripts/data-build.ts",
     "data:validate": "tsx scripts/data-validate.ts",

@@ -6,12 +6,17 @@ import App from './App.tsx'
 import { detectLocaleFromPath } from './app/i18n.ts'
 import { AppProviders } from './app/providers.tsx'
 
-const initialLocale = detectLocaleFromPath(window.location.pathname)
+const basePath = import.meta.env.BASE_URL.replace(/\/$/, '')
+const initialLocale = detectLocaleFromPath(
+  basePath && window.location.pathname.startsWith(`${basePath}/`)
+    ? window.location.pathname.slice(basePath.length)
+    : window.location.pathname
+)
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <AppProviders>
-      <BrowserRouter>
+      <BrowserRouter basename={basePath || '/'}>
         <App locale={initialLocale} />
       </BrowserRouter>
     </AppProviders>
