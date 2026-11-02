@@ -1,21 +1,21 @@
 {
-  "albumId": "act15d0",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "MB-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "MB-3_首次遇袭/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/MB-3_%E9%A6%96%E6%AC%A1%E9%81%87%E8%A2%AD/END"
-  },
   "id": "act15d0--activities__act15d0__level_act15d0_03_end",
-  "navigation": {
-    "nextChapterId": "act15d0--activities__act15d0__level_act15d0_st01",
-    "previousChapterId": "act15d0--activities__act15d0__level_act15d0_03_beg"
-  },
+  "albumId": "act15d0",
+  "title": "首次遇袭",
   "subtitle": "MB-3",
+  "code": "MB-3",
+  "avgTag": "行动后",
   "summary": "info/activities/act15d0/level_act15d0_03_end",
-  "title": "首次遇袭"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MB-3_%E9%A6%96%E6%AC%A1%E9%81%87%E8%A2%AD/END",
+    "page": "MB-3_首次遇袭/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act15d0--activities__act15d0__level_act15d0_03_beg",
+    "nextChapterId": "act15d0--activities__act15d0__level_act15d0_st01"
+  },
+  "blocks": [],
+  "citations": []
 }

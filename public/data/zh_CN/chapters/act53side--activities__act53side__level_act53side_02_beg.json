@@ -1,0 +1,21 @@
+{
+  "id": "act53side--activities__act53side__level_act53side_02_beg",
+  "albumId": "act53side",
+  "title": "记新友的混乱",
+  "subtitle": "TO-2",
+  "code": "TO-2",
+  "avgTag": "行动前",
+  "summary": "info/activities/act53side/level_act53side_02_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TO-2_%E8%AE%B0%E6%96%B0%E5%8F%8B%E7%9A%84%E6%B7%B7%E4%B9%B1/BEG",
+    "page": "TO-2_记新友的混乱/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act53side--activities__act53side__level_act53side_01_end",
+    "nextChapterId": "act53side--activities__act53side__level_act53side_03_end"
+  },
+  "blocks": [],
+  "citations": []
+}

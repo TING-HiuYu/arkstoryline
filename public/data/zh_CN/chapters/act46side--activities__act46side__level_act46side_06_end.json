@@ -1,21 +1,21 @@
 {
-  "albumId": "act46side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "OS-6",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "OS-6_绿翡翠/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/OS-6_%E7%BB%BF%E7%BF%A1%E7%BF%A0/END"
-  },
   "id": "act46side--activities__act46side__level_act46side_06_end",
-  "navigation": {
-    "nextChapterId": "act46side--activities__act46side__level_act46side_07_beg",
-    "previousChapterId": "act46side--activities__act46side__level_act46side_06_beg"
-  },
+  "albumId": "act46side",
+  "title": "绿翡翠",
   "subtitle": "OS-6",
+  "code": "OS-6",
+  "avgTag": "行动后",
   "summary": "info/activities/act46side/level_act46side_06_end",
-  "title": "绿翡翠"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OS-6_%E7%BB%BF%E7%BF%A1%E7%BF%A0/END",
+    "page": "OS-6_绿翡翠/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act46side--activities__act46side__level_act46side_06_beg",
+    "nextChapterId": "act46side--activities__act46side__level_act46side_07_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

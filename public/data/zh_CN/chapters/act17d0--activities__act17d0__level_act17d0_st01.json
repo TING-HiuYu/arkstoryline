@@ -1,21 +1,21 @@
 {
-  "albumId": "act17d0",
-  "avgTag": "幕间",
-  "blocks": [],
-  "citations": [],
-  "code": "OD-ST-1",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "OD-ST-1_拉马克行动/NBT",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/OD-ST-1_%E6%8B%89%E9%A9%AC%E5%85%8B%E8%A1%8C%E5%8A%A8/NBT"
-  },
   "id": "act17d0--activities__act17d0__level_act17d0_st01",
-  "navigation": {
-    "nextChapterId": "act17d0--activities__act17d0__level_act17d0_01_beg",
-    "previousChapterId": null
-  },
+  "albumId": "act17d0",
+  "title": "拉马克行动",
   "subtitle": "OD-ST-1",
+  "code": "OD-ST-1",
+  "avgTag": "幕间",
   "summary": "info/activities/act17d0/level_act17d0_st01",
-  "title": "拉马克行动"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OD-ST-1_%E6%8B%89%E9%A9%AC%E5%85%8B%E8%A1%8C%E5%8A%A8/NBT",
+    "page": "OD-ST-1_拉马克行动/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": null,
+    "nextChapterId": "act17d0--activities__act17d0__level_act17d0_01_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

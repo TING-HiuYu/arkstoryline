@@ -1,21 +1,21 @@
 {
-  "albumId": "main_12",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "12-5",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "12-5_脆钢/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/12-5_%E8%84%86%E9%92%A2/BEG"
-  },
   "id": "main_12--obt__main__level_main_12-04_beg",
-  "navigation": {
-    "nextChapterId": "main_12--obt__main__level_main_12-05_end",
-    "previousChapterId": "main_12--obt__main__level_main_12-03_end"
-  },
+  "albumId": "main_12",
+  "title": "脆钢",
   "subtitle": "12-5",
+  "code": "12-5",
+  "avgTag": "行动前",
   "summary": "info/obt/main/level_main_12-04_beg",
-  "title": "脆钢"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/12-5_%E8%84%86%E9%92%A2/BEG",
+    "page": "12-5_脆钢/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_12--obt__main__level_main_12-03_end",
+    "nextChapterId": "main_12--obt__main__level_main_12-05_end"
+  },
+  "blocks": [],
+  "citations": []
 }

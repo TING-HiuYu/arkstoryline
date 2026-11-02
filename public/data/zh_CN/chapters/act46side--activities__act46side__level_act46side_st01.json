@@ -1,21 +1,21 @@
 {
-  "albumId": "act46side",
-  "avgTag": "幕间",
-  "blocks": [],
-  "citations": [],
-  "code": "OS-ST-1",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "OS-ST-1_崩落/NBT",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/OS-ST-1_%E5%B4%A9%E8%90%BD/NBT"
-  },
   "id": "act46side--activities__act46side__level_act46side_st01",
-  "navigation": {
-    "nextChapterId": "act46side--activities__act46side__level_act46side_01_beg",
-    "previousChapterId": null
-  },
+  "albumId": "act46side",
+  "title": "崩落",
   "subtitle": "OS-ST-1",
+  "code": "OS-ST-1",
+  "avgTag": "幕间",
   "summary": "info/activities/act46side/level_act46side_st01",
-  "title": "崩落"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OS-ST-1_%E5%B4%A9%E8%90%BD/NBT",
+    "page": "OS-ST-1_崩落/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": null,
+    "nextChapterId": "act46side--activities__act46side__level_act46side_01_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

@@ -1,0 +1,21 @@
+{
+  "id": "act53side--activities__act53side__level_act53side_05_beg",
+  "albumId": "act53side",
+  "title": "勇敢的短耳朵",
+  "subtitle": "TO-5",
+  "code": "TO-5",
+  "avgTag": "行动前",
+  "summary": "info/activities/act53side/level_act53side_05_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TO-5_%E5%8B%87%E6%95%A2%E7%9A%84%E7%9F%AD%E8%80%B3%E6%9C%B5/BEG",
+    "page": "TO-5_勇敢的短耳朵/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act53side--activities__act53side__level_act53side_04_end",
+    "nextChapterId": "act53side--activities__act53side__level_act53side_05_end"
+  },
+  "blocks": [],
+  "citations": []
+}

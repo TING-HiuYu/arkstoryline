@@ -1,21 +1,21 @@
 {
-  "albumId": "act5d0",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "CB-8",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "CB-8_11:41P.M./BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/CB-8_11%3A41P.M./BEG"
-  },
   "id": "act5d0--activities__act5d0__level_act5d0_08_beg",
-  "navigation": {
-    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_08_end",
-    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_07_end"
-  },
+  "albumId": "act5d0",
+  "title": "11:41P.M.",
   "subtitle": "CB-8",
+  "code": "CB-8",
+  "avgTag": "行动前",
   "summary": "info/activities/act5d0/level_act5d0_08_beg",
-  "title": "11:41P.M."
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-8_11%3A41P.M./BEG",
+    "page": "CB-8_11:41P.M./BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_07_end",
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_08_end"
+  },
+  "blocks": [],
+  "citations": []
 }

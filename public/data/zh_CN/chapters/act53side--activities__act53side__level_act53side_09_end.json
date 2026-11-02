@@ -1,0 +1,21 @@
+{
+  "id": "act53side--activities__act53side__level_act53side_09_end",
+  "albumId": "act53side",
+  "title": "绘我们的黎明",
+  "subtitle": "TO-9",
+  "code": "TO-9",
+  "avgTag": "行动后",
+  "summary": "info/activities/act53side/level_act53side_09_end",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TO-9_%E7%BB%98%E6%88%91%E4%BB%AC%E7%9A%84%E9%BB%8E%E6%98%8E/END",
+    "page": "TO-9_绘我们的黎明/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act53side--activities__act53side__level_act53side_09_beg",
+    "nextChapterId": "act53side--activities__act53side__level_act53side_st03"
+  },
+  "blocks": [],
+  "citations": []
+}

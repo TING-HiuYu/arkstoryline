@@ -1,21 +1,21 @@
 {
-  "albumId": "act46side",
-  "avgTag": "幕间",
-  "blocks": [],
-  "citations": [],
-  "code": "OS-ST-2",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "OS-ST-2_圣巡与丧钟/NBT",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/OS-ST-2_%E5%9C%A3%E5%B7%A1%E4%B8%8E%E4%B8%A7%E9%92%9F/NBT"
-  },
   "id": "act46side--activities__act46side__level_act46side_st02",
-  "navigation": {
-    "nextChapterId": "act46side--activities__act46side__level_act46side_05_beg",
-    "previousChapterId": "act46side--activities__act46side__level_act46side_04_end"
-  },
+  "albumId": "act46side",
+  "title": "圣巡与丧钟",
   "subtitle": "OS-ST-2",
+  "code": "OS-ST-2",
+  "avgTag": "幕间",
   "summary": "info/activities/act46side/level_act46side_st02",
-  "title": "圣巡与丧钟"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OS-ST-2_%E5%9C%A3%E5%B7%A1%E4%B8%8E%E4%B8%A7%E9%92%9F/NBT",
+    "page": "OS-ST-2_圣巡与丧钟/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act46side--activities__act46side__level_act46side_04_end",
+    "nextChapterId": "act46side--activities__act46side__level_act46side_05_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

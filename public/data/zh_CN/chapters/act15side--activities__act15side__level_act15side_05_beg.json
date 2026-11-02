@@ -1,21 +1,21 @@
 {
-  "albumId": "act15side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "IW-5",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "IW-5_货与人/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/IW-5_%E8%B4%A7%E4%B8%8E%E4%BA%BA/BEG"
-  },
   "id": "act15side--activities__act15side__level_act15side_05_beg",
-  "navigation": {
-    "nextChapterId": "act15side--activities__act15side__level_act15side_05_end",
-    "previousChapterId": "act15side--activities__act15side__level_act15side_st02"
-  },
+  "albumId": "act15side",
+  "title": "货与人",
   "subtitle": "IW-5",
+  "code": "IW-5",
+  "avgTag": "行动前",
   "summary": "info/activities/act15side/level_act15side_05_beg",
-  "title": "货与人"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-5_%E8%B4%A7%E4%B8%8E%E4%BA%BA/BEG",
+    "page": "IW-5_货与人/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act15side--activities__act15side__level_act15side_st02",
+    "nextChapterId": "act15side--activities__act15side__level_act15side_05_end"
+  },
+  "blocks": [],
+  "citations": []
 }

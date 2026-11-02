@@ -1,0 +1,21 @@
+{
+  "id": "act50side--activities__act50side__level_act50side_02_beg",
+  "albumId": "act50side",
+  "title": "还我锅来！",
+  "subtitle": "TD-2",
+  "code": "TD-2",
+  "avgTag": "行动前",
+  "summary": "info/activities/act50side/level_act50side_02_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TD-2_%E8%BF%98%E6%88%91%E9%94%85%E6%9D%A5%EF%BC%81/BEG",
+    "page": "TD-2_还我锅来！/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act50side--activities__act50side__level_act50side_01_end",
+    "nextChapterId": "act50side--activities__act50side__level_act50side_02_end"
+  },
+  "blocks": [],
+  "citations": []
+}

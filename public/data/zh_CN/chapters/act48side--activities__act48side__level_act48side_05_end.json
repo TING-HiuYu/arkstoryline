@@ -1,21 +1,21 @@
 {
-  "albumId": "act48side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "ME-5",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "ME-5_汇流/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/ME-5_%E6%B1%87%E6%B5%81/END"
-  },
   "id": "act48side--activities__act48side__level_act48side_05_end",
-  "navigation": {
-    "nextChapterId": "act48side--activities__act48side__level_act48side_06_beg",
-    "previousChapterId": "act48side--activities__act48side__level_act48side_05_beg"
-  },
+  "albumId": "act48side",
+  "title": "汇流",
   "subtitle": "ME-5",
+  "code": "ME-5",
+  "avgTag": "行动后",
   "summary": "info/activities/act48side/level_act48side_05_end",
-  "title": "汇流"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ME-5_%E6%B1%87%E6%B5%81/END",
+    "page": "ME-5_汇流/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act48side--activities__act48side__level_act48side_05_beg",
+    "nextChapterId": "act48side--activities__act48side__level_act48side_06_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

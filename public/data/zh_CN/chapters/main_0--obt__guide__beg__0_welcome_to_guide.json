@@ -3,13 +3,13 @@
   "albumId": "main_0",
   "title": "序章·上",
   "avgTag": "幕间",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "W2G/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/W2G/BEG"
-  },
   "summary": "info/obt/guide/beg/0_welcome_to_guide",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/W2G/BEG",
+    "page": "W2G/BEG",
+    "kind": "scenario-html"
+  },
   "navigation": {
     "previousChapterId": null,
     "nextChapterId": "main_0--obt__guide__beg__2_guide_to_home"

@@ -1,21 +1,21 @@
 {
-  "albumId": "act17d0",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "OD-8",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "OD-8_渗透作战/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/OD-8_%E6%B8%97%E9%80%8F%E4%BD%9C%E6%88%98/END"
-  },
   "id": "act17d0--activities__act17d0__level_act17d0_08_end",
-  "navigation": {
-    "nextChapterId": "act17d0--activities__act17d0__level_act17d0_st03",
-    "previousChapterId": "act17d0--activities__act17d0__level_act17d0_08_beg"
-  },
+  "albumId": "act17d0",
+  "title": "渗透作战",
   "subtitle": "OD-8",
+  "code": "OD-8",
+  "avgTag": "行动后",
   "summary": "info/activities/act17d0/level_act17d0_08_end",
-  "title": "渗透作战"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OD-8_%E6%B8%97%E9%80%8F%E4%BD%9C%E6%88%98/END",
+    "page": "OD-8_渗透作战/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act17d0--activities__act17d0__level_act17d0_08_beg",
+    "nextChapterId": "act17d0--activities__act17d0__level_act17d0_st03"
+  },
+  "blocks": [],
+  "citations": []
 }

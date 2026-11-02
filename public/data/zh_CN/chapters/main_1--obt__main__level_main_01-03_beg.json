@@ -1,21 +1,21 @@
 {
-  "albumId": "main_1",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "1-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "1-3_狂奔/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/1-3_%E7%8B%82%E5%A5%94/BEG"
-  },
   "id": "main_1--obt__main__level_main_01-03_beg",
-  "navigation": {
-    "nextChapterId": "main_1--obt__main__level_main_01-03_end",
-    "previousChapterId": "main_1--obt__main__level_main_01-01_end"
-  },
+  "albumId": "main_1",
+  "title": "狂奔",
   "subtitle": "1-3",
+  "code": "1-3",
+  "avgTag": "行动前",
   "summary": "info/obt/main/level_main_01-03_beg",
-  "title": "狂奔"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/1-3_%E7%8B%82%E5%A5%94/BEG",
+    "page": "1-3_狂奔/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_1--obt__main__level_main_01-01_end",
+    "nextChapterId": "main_1--obt__main__level_main_01-03_end"
+  },
+  "blocks": [],
+  "citations": []
 }

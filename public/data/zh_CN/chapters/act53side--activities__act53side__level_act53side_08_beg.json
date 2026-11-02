@@ -1,0 +1,21 @@
+{
+  "id": "act53side--activities__act53side__level_act53side_08_beg",
+  "albumId": "act53side",
+  "title": "以决心做邮戳",
+  "subtitle": "TO-8",
+  "code": "TO-8",
+  "avgTag": "行动前",
+  "summary": "info/activities/act53side/level_act53side_08_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TO-8_%E4%BB%A5%E5%86%B3%E5%BF%83%E5%81%9A%E9%82%AE%E6%88%B3/BEG",
+    "page": "TO-8_以决心做邮戳/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act53side--activities__act53side__level_act53side_07_end",
+    "nextChapterId": "act53side--activities__act53side__level_act53side_08_end"
+  },
+  "blocks": [],
+  "citations": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "act54side--activities__act54side__level_act54side_03_beg",
+  "albumId": "act54side",
+  "title": "月晕",
+  "subtitle": "SR-3",
+  "code": "SR-3",
+  "avgTag": "行动前",
+  "summary": "info/activities/act54side/level_act54side_03_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SR-3_%E6%9C%88%E6%99%95/BEG",
+    "page": "SR-3_月晕/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act54side--activities__act54side__level_act54side_02_beg",
+    "nextChapterId": "act54side--activities__act54side__level_act54side_04_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

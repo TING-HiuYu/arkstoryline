@@ -1,21 +1,21 @@
 {
-  "albumId": "act38side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "PV-9",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "PV-9_狼群与群狼/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/PV-9_%E7%8B%BC%E7%BE%A4%E4%B8%8E%E7%BE%A4%E7%8B%BC/BEG"
-  },
   "id": "act38side--activities__act38side__level_act38side_09_beg",
-  "navigation": {
-    "nextChapterId": "act38side--activities__act38side__level_act38side_09_end",
-    "previousChapterId": "act38side--activities__act38side__level_act38side_st03"
-  },
+  "albumId": "act38side",
+  "title": "狼群与群狼",
   "subtitle": "PV-9",
+  "code": "PV-9",
+  "avgTag": "行动前",
   "summary": "info/activities/act38side/level_act38side_09_beg",
-  "title": "狼群与群狼"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-9_%E7%8B%BC%E7%BE%A4%E4%B8%8E%E7%BE%A4%E7%8B%BC/BEG",
+    "page": "PV-9_狼群与群狼/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act38side--activities__act38side__level_act38side_st03",
+    "nextChapterId": "act38side--activities__act38side__level_act38side_09_end"
+  },
+  "blocks": [],
+  "citations": []
 }

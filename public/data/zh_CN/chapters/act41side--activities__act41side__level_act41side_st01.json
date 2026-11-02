@@ -1,21 +1,21 @@
 {
-  "albumId": "act41side",
-  "avgTag": "幕间",
-  "blocks": [],
-  "citations": [],
-  "code": "EA-ST-1",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "EA-ST-1_涉过寒夜/NBT",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/EA-ST-1_%E6%B6%89%E8%BF%87%E5%AF%92%E5%A4%9C/NBT"
-  },
   "id": "act41side--activities__act41side__level_act41side_st01",
-  "navigation": {
-    "nextChapterId": "act41side--activities__act41side__level_act41side_01_beg",
-    "previousChapterId": null
-  },
+  "albumId": "act41side",
+  "title": "涉过寒夜",
   "subtitle": "EA-ST-1",
+  "code": "EA-ST-1",
+  "avgTag": "幕间",
   "summary": "info/activities/act41side/level_act41side_st01",
-  "title": "涉过寒夜"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-ST-1_%E6%B6%89%E8%BF%87%E5%AF%92%E5%A4%9C/NBT",
+    "page": "EA-ST-1_涉过寒夜/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": null,
+    "nextChapterId": "act41side--activities__act41side__level_act41side_01_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

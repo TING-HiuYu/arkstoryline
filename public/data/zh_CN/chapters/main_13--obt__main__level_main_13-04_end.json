@@ -1,21 +1,21 @@
 {
-  "albumId": "main_13",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "13-5",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "13-5_苦厄盘桓/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/13-5_%E8%8B%A6%E5%8E%84%E7%9B%98%E6%A1%93/END"
-  },
   "id": "main_13--obt__main__level_main_13-04_end",
-  "navigation": {
-    "nextChapterId": "main_13--obt__main__level_main_13-05_beg",
-    "previousChapterId": "main_13--obt__main__level_main_13-04_beg"
-  },
+  "albumId": "main_13",
+  "title": "苦厄盘桓",
   "subtitle": "13-5",
+  "code": "13-5",
+  "avgTag": "行动后",
   "summary": "info/obt/main/level_main_13-04_end",
-  "title": "苦厄盘桓"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/13-5_%E8%8B%A6%E5%8E%84%E7%9B%98%E6%A1%93/END",
+    "page": "13-5_苦厄盘桓/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_13--obt__main__level_main_13-04_beg",
+    "nextChapterId": "main_13--obt__main__level_main_13-05_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

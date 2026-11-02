@@ -1,0 +1,21 @@
+{
+  "id": "act54side--activities__act54side__level_act54side_st02",
+  "albumId": "act54side",
+  "title": "满月一生",
+  "subtitle": "SR-ST-2",
+  "code": "SR-ST-2",
+  "avgTag": "幕间",
+  "summary": "info/activities/act54side/level_act54side_st02",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SR-ST-2_%E6%BB%A1%E6%9C%88%E4%B8%80%E7%94%9F/NBT",
+    "page": "SR-ST-2_满月一生/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act54side--activities__act54side__level_act54side_08_end",
+    "nextChapterId": null
+  },
+  "blocks": [],
+  "citations": []
+}

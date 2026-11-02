@@ -1,21 +1,21 @@
 {
-  "albumId": "act5d0",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "CB-8",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "CB-8_11:41P.M./END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/CB-8_11%3A41P.M./END"
-  },
   "id": "act5d0--activities__act5d0__level_act5d0_08_end",
-  "navigation": {
-    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_09_beg",
-    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_08_beg"
-  },
+  "albumId": "act5d0",
+  "title": "11:41P.M.",
   "subtitle": "CB-8",
+  "code": "CB-8",
+  "avgTag": "行动后",
   "summary": "info/activities/act5d0/level_act5d0_08_end",
-  "title": "11:41P.M."
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-8_11%3A41P.M./END",
+    "page": "CB-8_11:41P.M./END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_08_beg",
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_09_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

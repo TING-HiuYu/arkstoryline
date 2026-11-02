@@ -1,344 +1,344 @@
 {
+  "id": "act23side",
+  "slug": "act23side",
+  "title": "登临意",
+  "sourceEntryType": "UNKNOWN",
   "albumKind": "intermezzi",
+  "homeSection": "sideStory",
+  "timelineRank": 1673928000,
+  "gameOrderRank": 4009,
+  "cover": {
+    "primaryImageId": "kv_where_vernal_winds_will_never_blow",
+    "titleImageId": "title_where_vernal_winds_will_never_blow",
+    "backgroundImageId": "storybg_where_vernal_winds_will_never_blow",
+    "storyEntryPicId": "storyEntryPic_act23side",
+    "url": "https://media.prts.wiki/d/d6/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%99%BB%E4%B8%B4%E6%84%8F.png",
+    "source": "stage-kv",
+    "assetStatus": "disabled",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 1673928000,
   "chapters": [
     {
-      "albumId": "act23side",
-      "avgTag": "幕间",
-      "code": "WB-ST-1",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-ST-1_忽梦少年事/NBT",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-ST-1_%E5%BF%BD%E6%A2%A6%E5%B0%91%E5%B9%B4%E4%BA%8B/NBT"
-      },
-      "downloadable": true,
       "id": "act23side--activities__act23side__level_act23side_st01",
-      "path": "chapters/act23side--activities__act23side__level_act23side_st01.json",
+      "albumId": "act23side",
+      "title": "忽梦少年事",
+      "code": "WB-ST-1",
+      "avgTag": "幕间",
       "sort": 1,
-      "title": "忽梦少年事"
+      "path": "chapters/act23side--activities__act23side__level_act23side_st01.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-ST-1_%E5%BF%BD%E6%A2%A6%E5%B0%91%E5%B9%B4%E4%BA%8B/NBT",
+        "page": "WB-ST-1_忽梦少年事/NBT",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act23side",
-      "avgTag": "行动前",
-      "code": "WB-1",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-1_塞上春来/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-1_%E5%A1%9E%E4%B8%8A%E6%98%A5%E6%9D%A5/BEG"
-      },
-      "downloadable": true,
       "id": "act23side--activities__act23side__level_act23side_01_beg",
-      "path": "chapters/act23side--activities__act23side__level_act23side_01_beg.json",
-      "sort": 2,
-      "title": "塞上春来"
-    },
-    {
       "albumId": "act23side",
-      "avgTag": "行动后",
+      "title": "塞上春来",
       "code": "WB-1",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-1_塞上春来/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-1_%E5%A1%9E%E4%B8%8A%E6%98%A5%E6%9D%A5/END"
-      },
+      "avgTag": "行动前",
+      "sort": 2,
+      "path": "chapters/act23side--activities__act23side__level_act23side_01_beg.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-1_%E5%A1%9E%E4%B8%8A%E6%98%A5%E6%9D%A5/BEG",
+        "page": "WB-1_塞上春来/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act23side--activities__act23side__level_act23side_01_end",
-      "path": "chapters/act23side--activities__act23side__level_act23side_01_end.json",
+      "albumId": "act23side",
+      "title": "塞上春来",
+      "code": "WB-1",
+      "avgTag": "行动后",
       "sort": 3,
-      "title": "塞上春来"
+      "path": "chapters/act23side--activities__act23side__level_act23side_01_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-1_%E5%A1%9E%E4%B8%8A%E6%98%A5%E6%9D%A5/END",
+        "page": "WB-1_塞上春来/END",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act23side",
-      "avgTag": "行动前",
-      "code": "WB-2",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-2_沙海黄尘/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-2_%E6%B2%99%E6%B5%B7%E9%BB%84%E5%B0%98/BEG"
-      },
-      "downloadable": true,
       "id": "act23side--activities__act23side__level_act23side_02_beg",
-      "path": "chapters/act23side--activities__act23side__level_act23side_02_beg.json",
-      "sort": 4,
-      "title": "沙海黄尘"
-    },
-    {
       "albumId": "act23side",
-      "avgTag": "行动后",
+      "title": "沙海黄尘",
       "code": "WB-2",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-2_沙海黄尘/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-2_%E6%B2%99%E6%B5%B7%E9%BB%84%E5%B0%98/END"
-      },
+      "avgTag": "行动前",
+      "sort": 4,
+      "path": "chapters/act23side--activities__act23side__level_act23side_02_beg.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-2_%E6%B2%99%E6%B5%B7%E9%BB%84%E5%B0%98/BEG",
+        "page": "WB-2_沙海黄尘/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act23side--activities__act23side__level_act23side_02_end",
-      "path": "chapters/act23side--activities__act23side__level_act23side_02_end.json",
+      "albumId": "act23side",
+      "title": "沙海黄尘",
+      "code": "WB-2",
+      "avgTag": "行动后",
       "sort": 5,
-      "title": "沙海黄尘"
+      "path": "chapters/act23side--activities__act23side__level_act23side_02_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-2_%E6%B2%99%E6%B5%B7%E9%BB%84%E5%B0%98/END",
+        "page": "WB-2_沙海黄尘/END",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act23side",
-      "avgTag": "行动前",
-      "code": "WB-3",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-3_树犹如此/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-3_%E6%A0%91%E7%8A%B9%E5%A6%82%E6%AD%A4/BEG"
-      },
-      "downloadable": true,
       "id": "act23side--activities__act23side__level_act23side_03_beg",
-      "path": "chapters/act23side--activities__act23side__level_act23side_03_beg.json",
-      "sort": 6,
-      "title": "树犹如此"
-    },
-    {
       "albumId": "act23side",
-      "avgTag": "行动后",
+      "title": "树犹如此",
       "code": "WB-3",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-3_树犹如此/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-3_%E6%A0%91%E7%8A%B9%E5%A6%82%E6%AD%A4/END"
-      },
+      "avgTag": "行动前",
+      "sort": 6,
+      "path": "chapters/act23side--activities__act23side__level_act23side_03_beg.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-3_%E6%A0%91%E7%8A%B9%E5%A6%82%E6%AD%A4/BEG",
+        "page": "WB-3_树犹如此/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act23side--activities__act23side__level_act23side_03_end",
-      "path": "chapters/act23side--activities__act23side__level_act23side_03_end.json",
+      "albumId": "act23side",
+      "title": "树犹如此",
+      "code": "WB-3",
+      "avgTag": "行动后",
       "sort": 7,
-      "title": "树犹如此"
+      "path": "chapters/act23side--activities__act23side__level_act23side_03_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-3_%E6%A0%91%E7%8A%B9%E5%A6%82%E6%AD%A4/END",
+        "page": "WB-3_树犹如此/END",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act23side",
-      "avgTag": "行动前",
-      "code": "WB-4",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-4_不念往昔/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-4_%E4%B8%8D%E5%BF%B5%E5%BE%80%E6%98%94/BEG"
-      },
-      "downloadable": true,
       "id": "act23side--activities__act23side__level_act23side_04_beg",
-      "path": "chapters/act23side--activities__act23side__level_act23side_04_beg.json",
-      "sort": 8,
-      "title": "不念往昔"
-    },
-    {
       "albumId": "act23side",
-      "avgTag": "行动后",
+      "title": "不念往昔",
       "code": "WB-4",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-4_不念往昔/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-4_%E4%B8%8D%E5%BF%B5%E5%BE%80%E6%98%94/END"
-      },
+      "avgTag": "行动前",
+      "sort": 8,
+      "path": "chapters/act23side--activities__act23side__level_act23side_04_beg.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-4_%E4%B8%8D%E5%BF%B5%E5%BE%80%E6%98%94/BEG",
+        "page": "WB-4_不念往昔/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act23side--activities__act23side__level_act23side_04_end",
-      "path": "chapters/act23side--activities__act23side__level_act23side_04_end.json",
+      "albumId": "act23side",
+      "title": "不念往昔",
+      "code": "WB-4",
+      "avgTag": "行动后",
       "sort": 9,
-      "title": "不念往昔"
+      "path": "chapters/act23side--activities__act23side__level_act23side_04_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-4_%E4%B8%8D%E5%BF%B5%E5%BE%80%E6%98%94/END",
+        "page": "WB-4_不念往昔/END",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act23side",
-      "avgTag": "幕间",
-      "code": "WB-ST-2",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-ST-2_信我所信/NBT",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-ST-2_%E4%BF%A1%E6%88%91%E6%89%80%E4%BF%A1/NBT"
-      },
-      "downloadable": true,
       "id": "act23side--activities__act23side__level_act23side_st02",
-      "path": "chapters/act23side--activities__act23side__level_act23side_st02.json",
-      "sort": 10,
-      "title": "信我所信"
-    },
-    {
       "albumId": "act23side",
-      "avgTag": "行动前",
-      "code": "WB-5",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-5_风雨欲来/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-5_%E9%A3%8E%E9%9B%A8%E6%AC%B2%E6%9D%A5/BEG"
-      },
-      "downloadable": true,
-      "id": "act23side--activities__act23side__level_act23side_05_beg",
-      "path": "chapters/act23side--activities__act23side__level_act23side_05_beg.json",
-      "sort": 11,
-      "title": "风雨欲来"
-    },
-    {
-      "albumId": "act23side",
-      "avgTag": "行动后",
-      "code": "WB-6",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-6_瑟瑟秋华/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-6_%E7%91%9F%E7%91%9F%E7%A7%8B%E5%8D%8E/END"
-      },
-      "downloadable": true,
-      "id": "act23side--activities__act23side__level_act23side_06_end",
-      "path": "chapters/act23side--activities__act23side__level_act23side_06_end.json",
-      "sort": 12,
-      "title": "瑟瑟秋华"
-    },
-    {
-      "albumId": "act23side",
-      "avgTag": "行动前",
-      "code": "WB-7",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-7_“屏风卫”/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-7_%E2%80%9C%E5%B1%8F%E9%A3%8E%E5%8D%AB%E2%80%9D/BEG"
-      },
-      "downloadable": true,
-      "id": "act23side--activities__act23side__level_act23side_07_beg",
-      "path": "chapters/act23side--activities__act23side__level_act23side_07_beg.json",
-      "sort": 13,
-      "title": "“屏风卫”"
-    },
-    {
-      "albumId": "act23side",
-      "avgTag": "行动后",
-      "code": "WB-7",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-7_“屏风卫”/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-7_%E2%80%9C%E5%B1%8F%E9%A3%8E%E5%8D%AB%E2%80%9D/END"
-      },
-      "downloadable": true,
-      "id": "act23side--activities__act23side__level_act23side_07_end",
-      "path": "chapters/act23side--activities__act23side__level_act23side_07_end.json",
-      "sort": 14,
-      "title": "“屏风卫”"
-    },
-    {
-      "albumId": "act23side",
-      "avgTag": "行动前",
-      "code": "WB-8",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-8_旷古之晤/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-8_%E6%97%B7%E5%8F%A4%E4%B9%8B%E6%99%A4/BEG"
-      },
-      "downloadable": true,
-      "id": "act23side--activities__act23side__level_act23side_08_beg",
-      "path": "chapters/act23side--activities__act23side__level_act23side_08_beg.json",
-      "sort": 15,
-      "title": "旷古之晤"
-    },
-    {
-      "albumId": "act23side",
-      "avgTag": "行动后",
-      "code": "WB-8",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-8_旷古之晤/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-8_%E6%97%B7%E5%8F%A4%E4%B9%8B%E6%99%A4/END"
-      },
-      "downloadable": true,
-      "id": "act23side--activities__act23side__level_act23side_08_end",
-      "path": "chapters/act23side--activities__act23side__level_act23side_08_end.json",
-      "sort": 16,
-      "title": "旷古之晤"
-    },
-    {
-      "albumId": "act23side",
-      "avgTag": "行动前",
-      "code": "WB-9",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-9_“冬藏”/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-9_%E2%80%9C%E5%86%AC%E8%97%8F%E2%80%9D/BEG"
-      },
-      "downloadable": true,
-      "id": "act23side--activities__act23side__level_act23side_09_beg",
-      "path": "chapters/act23side--activities__act23side__level_act23side_09_beg.json",
-      "sort": 17,
-      "title": "“冬藏”"
-    },
-    {
-      "albumId": "act23side",
-      "avgTag": "行动后",
-      "code": "WB-9",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-9_“冬藏”/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-9_%E2%80%9C%E5%86%AC%E8%97%8F%E2%80%9D/END"
-      },
-      "downloadable": true,
-      "id": "act23side--activities__act23side__level_act23side_09_end",
-      "path": "chapters/act23side--activities__act23side__level_act23side_09_end.json",
-      "sort": 18,
-      "title": "“冬藏”"
-    },
-    {
-      "albumId": "act23side",
+      "title": "信我所信",
+      "code": "WB-ST-2",
       "avgTag": "幕间",
-      "code": "WB-ST-3",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "WB-ST-3_粘劫收后/NBT",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/WB-ST-3_%E7%B2%98%E5%8A%AB%E6%94%B6%E5%90%8E/NBT"
-      },
+      "sort": 10,
+      "path": "chapters/act23side--activities__act23side__level_act23side_st02.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-ST-2_%E4%BF%A1%E6%88%91%E6%89%80%E4%BF%A1/NBT",
+        "page": "WB-ST-2_信我所信/NBT",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act23side--activities__act23side__level_act23side_05_beg",
+      "albumId": "act23side",
+      "title": "风雨欲来",
+      "code": "WB-5",
+      "avgTag": "行动前",
+      "sort": 11,
+      "path": "chapters/act23side--activities__act23side__level_act23side_05_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-5_%E9%A3%8E%E9%9B%A8%E6%AC%B2%E6%9D%A5/BEG",
+        "page": "WB-5_风雨欲来/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act23side--activities__act23side__level_act23side_06_end",
+      "albumId": "act23side",
+      "title": "瑟瑟秋华",
+      "code": "WB-6",
+      "avgTag": "行动后",
+      "sort": 12,
+      "path": "chapters/act23side--activities__act23side__level_act23side_06_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-6_%E7%91%9F%E7%91%9F%E7%A7%8B%E5%8D%8E/END",
+        "page": "WB-6_瑟瑟秋华/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act23side--activities__act23side__level_act23side_07_beg",
+      "albumId": "act23side",
+      "title": "“屏风卫”",
+      "code": "WB-7",
+      "avgTag": "行动前",
+      "sort": 13,
+      "path": "chapters/act23side--activities__act23side__level_act23side_07_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-7_%E2%80%9C%E5%B1%8F%E9%A3%8E%E5%8D%AB%E2%80%9D/BEG",
+        "page": "WB-7_“屏风卫”/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act23side--activities__act23side__level_act23side_07_end",
+      "albumId": "act23side",
+      "title": "“屏风卫”",
+      "code": "WB-7",
+      "avgTag": "行动后",
+      "sort": 14,
+      "path": "chapters/act23side--activities__act23side__level_act23side_07_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-7_%E2%80%9C%E5%B1%8F%E9%A3%8E%E5%8D%AB%E2%80%9D/END",
+        "page": "WB-7_“屏风卫”/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act23side--activities__act23side__level_act23side_08_beg",
+      "albumId": "act23side",
+      "title": "旷古之晤",
+      "code": "WB-8",
+      "avgTag": "行动前",
+      "sort": 15,
+      "path": "chapters/act23side--activities__act23side__level_act23side_08_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-8_%E6%97%B7%E5%8F%A4%E4%B9%8B%E6%99%A4/BEG",
+        "page": "WB-8_旷古之晤/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act23side--activities__act23side__level_act23side_08_end",
+      "albumId": "act23side",
+      "title": "旷古之晤",
+      "code": "WB-8",
+      "avgTag": "行动后",
+      "sort": 16,
+      "path": "chapters/act23side--activities__act23side__level_act23side_08_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-8_%E6%97%B7%E5%8F%A4%E4%B9%8B%E6%99%A4/END",
+        "page": "WB-8_旷古之晤/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act23side--activities__act23side__level_act23side_09_beg",
+      "albumId": "act23side",
+      "title": "“冬藏”",
+      "code": "WB-9",
+      "avgTag": "行动前",
+      "sort": 17,
+      "path": "chapters/act23side--activities__act23side__level_act23side_09_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-9_%E2%80%9C%E5%86%AC%E8%97%8F%E2%80%9D/BEG",
+        "page": "WB-9_“冬藏”/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act23side--activities__act23side__level_act23side_09_end",
+      "albumId": "act23side",
+      "title": "“冬藏”",
+      "code": "WB-9",
+      "avgTag": "行动后",
+      "sort": 18,
+      "path": "chapters/act23side--activities__act23side__level_act23side_09_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-9_%E2%80%9C%E5%86%AC%E8%97%8F%E2%80%9D/END",
+        "page": "WB-9_“冬藏”/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act23side--activities__act23side__level_act23side_st03",
-      "path": "chapters/act23side--activities__act23side__level_act23side_st03.json",
+      "albumId": "act23side",
+      "title": "粘劫收后",
+      "code": "WB-ST-3",
+      "avgTag": "幕间",
       "sort": 19,
-      "title": "粘劫收后"
+      "path": "chapters/act23side--activities__act23side__level_act23side_st03.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/WB-ST-3_%E7%B2%98%E5%8A%AB%E6%94%B6%E5%90%8E/NBT",
+        "page": "WB-ST-3_粘劫收后/NBT",
+        "kind": "scenario-html"
+      }
     }
   ],
-  "cover": {
-    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
-    "assetStatus": "disabled",
-    "backgroundImageId": "storybg_where_vernal_winds_will_never_blow",
-    "primaryImageId": "kv_where_vernal_winds_will_never_blow",
-    "source": "stage-kv",
-    "storyEntryPicId": "storyEntryPic_act23side",
-    "titleImageId": "title_where_vernal_winds_will_never_blow",
-    "url": "https://media.prts.wiki/d/d6/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%99%BB%E4%B8%B4%E6%84%8F.png"
+  "source": {
+    "providerId": "github-raw",
+    "revision": "63c7cec73c3858d0ae913f85cc89af3cef4d744f",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
   },
   "extras": [],
-  "gameOrderRank": 4009,
-  "homeSection": "sideStory",
-  "id": "act23side",
+  "summary": "伫立塞上百年的城市，要送别一位在此戍守百年的人。\n庙堂之高，江湖之远。尘霾下阴谋悄然酝酿。\n风沙吹不折胡杨，众志成城，无惧天灾悬顶。\n论剑问道，遥忆往事，烈酒尚有余温。\n纵横棋路，恩怨情仇，尽归尘土。\n边鼓声声，远送故人。",
   "music": {
-    "arcTitle": "岁岁今朝",
     "movementTitle": "岁岁今朝",
-    "recommended": false,
-    "sourcePage": "stage_table.storylineStorySets",
+    "arcTitle": "岁岁今朝",
     "tags": [
       "tag_12",
       "tag_13"
-    ]
-  },
-  "slug": "act23side",
-  "source": {
-    "path": "zh_CN/gamedata/excel/story_review_table.json",
-    "providerId": "github-raw",
-    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
-  },
-  "sourceEntryType": "UNKNOWN",
-  "startTime": 1673928000,
-  "summary": "伫立塞上百年的城市，要送别一位在此戍守百年的人。\n庙堂之高，江湖之远。尘霾下阴谋悄然酝酿。\n风沙吹不折胡杨，众志成城，无惧天灾悬顶。\n论剑问道，遥忆往事，烈酒尚有余温。\n纵横棋路，恩怨情仇，尽归尘土。\n边鼓声声，远送故人。",
-  "timelineRank": 1673928000,
-  "title": "登临意"
+    ],
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets"
+  }
 }

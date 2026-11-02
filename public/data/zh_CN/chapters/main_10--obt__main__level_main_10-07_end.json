@@ -1,21 +1,21 @@
 {
-  "albumId": "main_10",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "10-8",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "10-8_无暇哀悼/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/10-8_%E6%97%A0%E6%9A%87%E5%93%80%E6%82%BC/END"
-  },
   "id": "main_10--obt__main__level_main_10-07_end",
-  "navigation": {
-    "nextChapterId": "main_10--obt__main__level_main_10-08_beg",
-    "previousChapterId": "main_10--obt__main__level_main_10-06_beg"
-  },
+  "albumId": "main_10",
+  "title": "无暇哀悼",
   "subtitle": "10-8",
+  "code": "10-8",
+  "avgTag": "行动后",
   "summary": "info/obt/main/level_main_10-07_end",
-  "title": "无暇哀悼"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-8_%E6%97%A0%E6%9A%87%E5%93%80%E6%82%BC/END",
+    "page": "10-8_无暇哀悼/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_10--obt__main__level_main_10-06_beg",
+    "nextChapterId": "main_10--obt__main__level_main_10-08_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

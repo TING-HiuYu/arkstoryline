@@ -1,21 +1,21 @@
 {
-  "albumId": "main_11",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "11-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "11-3_蒸汽升腾/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/11-3_%E8%92%B8%E6%B1%BD%E5%8D%87%E8%85%BE/BEG"
-  },
   "id": "main_11--obt__main__level_main_11-03_beg",
-  "navigation": {
-    "nextChapterId": "main_11--obt__main__level_main_11-03_end",
-    "previousChapterId": "main_11--obt__main__level_main_11-02_end"
-  },
+  "albumId": "main_11",
+  "title": "蒸汽升腾",
   "subtitle": "11-3",
+  "code": "11-3",
+  "avgTag": "行动前",
   "summary": "info/obt/main/level_main_11-03_beg",
-  "title": "蒸汽升腾"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/11-3_%E8%92%B8%E6%B1%BD%E5%8D%87%E8%85%BE/BEG",
+    "page": "11-3_蒸汽升腾/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_11--obt__main__level_main_11-02_end",
+    "nextChapterId": "main_11--obt__main__level_main_11-03_end"
+  },
+  "blocks": [],
+  "citations": []
 }

@@ -1,21 +1,21 @@
 {
-  "albumId": "main_3",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "3-2",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "3-2_记忆/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/3-2_%E8%AE%B0%E5%BF%86/END"
-  },
   "id": "main_3--obt__main__level_main_03-02_end",
-  "navigation": {
-    "nextChapterId": "main_3--obt__main__level_main_03-03_beg",
-    "previousChapterId": "main_3--obt__main__level_main_03-02_beg"
-  },
+  "albumId": "main_3",
+  "title": "记忆",
   "subtitle": "3-2",
+  "code": "3-2",
+  "avgTag": "行动后",
   "summary": "info/obt/main/level_main_03-02_end",
-  "title": "记忆"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/3-2_%E8%AE%B0%E5%BF%86/END",
+    "page": "3-2_记忆/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_3--obt__main__level_main_03-02_beg",
+    "nextChapterId": "main_3--obt__main__level_main_03-03_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

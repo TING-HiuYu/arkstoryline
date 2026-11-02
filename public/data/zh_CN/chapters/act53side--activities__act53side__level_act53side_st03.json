@@ -1,0 +1,21 @@
+{
+  "id": "act53side--activities__act53side__level_act53side_st03",
+  "albumId": "act53side",
+  "title": "祝好 终途的我",
+  "subtitle": "TO-ST-3",
+  "code": "TO-ST-3",
+  "avgTag": "幕间",
+  "summary": "info/activities/act53side/level_act53side_st03",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TO-ST-3_%E7%A5%9D%E5%A5%BD%20%E7%BB%88%E9%80%94%E7%9A%84%E6%88%91/NBT",
+    "page": "TO-ST-3_祝好 终途的我/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act53side--activities__act53side__level_act53side_09_end",
+    "nextChapterId": null
+  },
+  "blocks": [],
+  "citations": []
+}

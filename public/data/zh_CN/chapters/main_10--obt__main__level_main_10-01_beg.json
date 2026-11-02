@@ -1,21 +1,21 @@
 {
-  "albumId": "main_10",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "10-2",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "10-2_抢夺目标/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/10-2_%E6%8A%A2%E5%A4%BA%E7%9B%AE%E6%A0%87/BEG"
-  },
   "id": "main_10--obt__main__level_main_10-01_beg",
-  "navigation": {
-    "nextChapterId": "main_10--obt__main__level_main_10-01_end",
-    "previousChapterId": "main_10--obt__main__level_st_10-01"
-  },
+  "albumId": "main_10",
+  "title": "抢夺目标",
   "subtitle": "10-2",
+  "code": "10-2",
+  "avgTag": "行动前",
   "summary": "info/obt/main/level_main_10-01_beg",
-  "title": "抢夺目标"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-2_%E6%8A%A2%E5%A4%BA%E7%9B%AE%E6%A0%87/BEG",
+    "page": "10-2_抢夺目标/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_10--obt__main__level_st_10-01",
+    "nextChapterId": "main_10--obt__main__level_main_10-01_end"
+  },
+  "blocks": [],
+  "citations": []
 }

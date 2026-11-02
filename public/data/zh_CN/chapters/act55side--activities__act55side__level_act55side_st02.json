@@ -1,0 +1,21 @@
+{
+  "id": "act55side--activities__act55side__level_act55side_st02",
+  "albumId": "act55side",
+  "title": "激越的灵魂",
+  "subtitle": "TL-ST-2",
+  "code": "TL-ST-2",
+  "avgTag": "幕间",
+  "summary": "info/activities/act55side/level_act55side_st02",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TL-ST-2_%E6%BF%80%E8%B6%8A%E7%9A%84%E7%81%B5%E9%AD%82/NBT",
+    "page": "TL-ST-2_激越的灵魂/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act55side--activities__act55side__level_act55side_04_end",
+    "nextChapterId": "act55side--activities__act55side__level_act55side_05_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

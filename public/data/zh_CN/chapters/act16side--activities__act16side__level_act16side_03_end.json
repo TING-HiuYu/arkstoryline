@@ -1,21 +1,21 @@
 {
-  "albumId": "act16side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "GA-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "GA-3_混血儿/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/GA-3_%E6%B7%B7%E8%A1%80%E5%84%BF/END"
-  },
   "id": "act16side--activities__act16side__level_act16side_03_end",
-  "navigation": {
-    "nextChapterId": "act16side--activities__act16side__level_act16side_04_beg",
-    "previousChapterId": "act16side--activities__act16side__level_act16side_03_beg"
-  },
+  "albumId": "act16side",
+  "title": "混血儿",
   "subtitle": "GA-3",
+  "code": "GA-3",
+  "avgTag": "行动后",
   "summary": "info/activities/act16side/level_act16side_03_end",
-  "title": "混血儿"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GA-3_%E6%B7%B7%E8%A1%80%E5%84%BF/END",
+    "page": "GA-3_混血儿/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act16side--activities__act16side__level_act16side_03_beg",
+    "nextChapterId": "act16side--activities__act16side__level_act16side_04_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

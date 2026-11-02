@@ -1,0 +1,21 @@
+{
+  "id": "act50side--activities__act50side__level_act50side_st01",
+  "albumId": "act50side",
+  "title": "风沙渐起",
+  "subtitle": "TD-ST-1",
+  "code": "TD-ST-1",
+  "avgTag": "幕间",
+  "summary": "info/activities/act50side/level_act50side_st01",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TD-ST-1_%E9%A3%8E%E6%B2%99%E6%B8%90%E8%B5%B7/NBT",
+    "page": "TD-ST-1_风沙渐起/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": null,
+    "nextChapterId": "act50side--activities__act50side__level_act50side_01_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

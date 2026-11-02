@@ -1,0 +1,21 @@
+{
+  "id": "act52side--activities__act52side__level_act52side_st03",
+  "albumId": "act52side",
+  "title": "留给明天",
+  "subtitle": "YW-ST-3",
+  "code": "YW-ST-3",
+  "avgTag": "幕间",
+  "summary": "info/activities/act52side/level_act52side_st03",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/YW-ST-3_%E7%95%99%E7%BB%99%E6%98%8E%E5%A4%A9/NBT",
+    "page": "YW-ST-3_留给明天/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act52side--activities__act52side__level_act52side_08_end",
+    "nextChapterId": null
+  },
+  "blocks": [],
+  "citations": []
+}

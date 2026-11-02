@@ -1,0 +1,19 @@
+{
+  "albumId": "act21mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BD-ST3_香蕉出血热/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BD-ST3_%E9%A6%99%E8%95%89%E5%87%BA%E8%A1%80%E7%83%AD/NBT"
+  },
+  "id": "act21mini--activities__act21mini__level_act21mini_st03",
+  "navigation": {
+    "nextChapterId": "act21mini--activities__act21mini__level_act21mini_st04",
+    "previousChapterId": "act21mini--activities__act21mini__level_act21mini_st02"
+  },
+  "summary": "info/activities/act21mini/level_act21mini_st03",
+  "title": "香蕉出血热"
+}

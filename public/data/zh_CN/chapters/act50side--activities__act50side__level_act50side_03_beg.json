@@ -1,0 +1,21 @@
+{
+  "id": "act50side--activities__act50side__level_act50side_03_beg",
+  "albumId": "act50side",
+  "title": "不能掉以轻心",
+  "subtitle": "TD-3",
+  "code": "TD-3",
+  "avgTag": "行动前",
+  "summary": "info/activities/act50side/level_act50side_03_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TD-3_%E4%B8%8D%E8%83%BD%E6%8E%89%E4%BB%A5%E8%BD%BB%E5%BF%83/BEG",
+    "page": "TD-3_不能掉以轻心/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act50side--activities__act50side__level_act50side_02_end",
+    "nextChapterId": "act50side--activities__act50side__level_act50side_03_end"
+  },
+  "blocks": [],
+  "citations": []
+}

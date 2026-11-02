@@ -1,21 +1,21 @@
 {
-  "albumId": "main_10",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "10-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "10-3_低下头/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/10-3_%E4%BD%8E%E4%B8%8B%E5%A4%B4/BEG"
-  },
   "id": "main_10--obt__main__level_main_10-02_beg",
-  "navigation": {
-    "nextChapterId": "main_10--obt__main__level_main_10-02_end",
-    "previousChapterId": "main_10--obt__main__level_main_10-01_end"
-  },
+  "albumId": "main_10",
+  "title": "低下头",
   "subtitle": "10-3",
+  "code": "10-3",
+  "avgTag": "行动前",
   "summary": "info/obt/main/level_main_10-02_beg",
-  "title": "低下头"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-3_%E4%BD%8E%E4%B8%8B%E5%A4%B4/BEG",
+    "page": "10-3_低下头/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_10--obt__main__level_main_10-01_end",
+    "nextChapterId": "main_10--obt__main__level_main_10-02_end"
+  },
+  "blocks": [],
+  "citations": []
 }

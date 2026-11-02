@@ -1,21 +1,21 @@
 {
-  "albumId": "act21side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "IS-5",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "IS-5_恒久法则/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/IS-5_%E6%81%92%E4%B9%85%E6%B3%95%E5%88%99/BEG"
-  },
   "id": "act21side--activities__act21side__level_act21side_05_beg",
-  "navigation": {
-    "nextChapterId": "act21side--activities__act21side__level_act21side_05_end",
-    "previousChapterId": "act21side--activities__act21side__level_act21side_st02"
-  },
+  "albumId": "act21side",
+  "title": "恒久法则",
   "subtitle": "IS-5",
+  "code": "IS-5",
+  "avgTag": "行动前",
   "summary": "info/activities/act21side/level_act21side_05_beg",
-  "title": "恒久法则"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-5_%E6%81%92%E4%B9%85%E6%B3%95%E5%88%99/BEG",
+    "page": "IS-5_恒久法则/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act21side--activities__act21side__level_act21side_st02",
+    "nextChapterId": "act21side--activities__act21side__level_act21side_05_end"
+  },
+  "blocks": [],
+  "citations": []
 }

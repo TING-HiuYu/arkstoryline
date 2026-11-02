@@ -1,0 +1,21 @@
+{
+  "id": "act50side--activities__act50side__level_act50side_08_beg",
+  "albumId": "act50side",
+  "title": "宿命流转，苍霆激荡",
+  "subtitle": "TD-8",
+  "code": "TD-8",
+  "avgTag": "行动前",
+  "summary": "info/activities/act50side/level_act50side_08_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TD-8_%E5%AE%BF%E5%91%BD%E6%B5%81%E8%BD%AC%EF%BC%8C%E8%8B%8D%E9%9C%86%E6%BF%80%E8%8D%A1/BEG",
+    "page": "TD-8_宿命流转，苍霆激荡/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act50side--activities__act50side__level_act50side_07_end",
+    "nextChapterId": "act50side--activities__act50side__level_act50side_08_end"
+  },
+  "blocks": [],
+  "citations": []
+}

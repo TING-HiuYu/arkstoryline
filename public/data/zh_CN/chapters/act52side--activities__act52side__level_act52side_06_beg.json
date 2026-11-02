@@ -1,0 +1,21 @@
+{
+  "id": "act52side--activities__act52side__level_act52side_06_beg",
+  "albumId": "act52side",
+  "title": "大人物",
+  "subtitle": "YW-6",
+  "code": "YW-6",
+  "avgTag": "行动前",
+  "summary": "info/activities/act52side/level_act52side_06_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/YW-6_%E5%A4%A7%E4%BA%BA%E7%89%A9/BEG",
+    "page": "YW-6_大人物/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act52side--activities__act52side__level_act52side_05_end",
+    "nextChapterId": "act52side--activities__act52side__level_act52side_06_end"
+  },
+  "blocks": [],
+  "citations": []
+}

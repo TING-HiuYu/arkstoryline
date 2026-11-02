@@ -1,21 +1,21 @@
 {
-  "albumId": "act9d0",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "DM-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "DM-3_挤压/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/DM-3_%E6%8C%A4%E5%8E%8B/BEG"
-  },
   "id": "act9d0--activities__act9d0__level_act9d0_03_beg",
-  "navigation": {
-    "nextChapterId": "act9d0--activities__act9d0__level_act9d0_03_end",
-    "previousChapterId": "act9d0--activities__act9d0__level_act9d0_02_end"
-  },
+  "albumId": "act9d0",
+  "title": "挤压",
   "subtitle": "DM-3",
+  "code": "DM-3",
+  "avgTag": "行动前",
   "summary": "info/activities/act9d0/level_act9d0_03_beg",
-  "title": "挤压"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DM-3_%E6%8C%A4%E5%8E%8B/BEG",
+    "page": "DM-3_挤压/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act9d0--activities__act9d0__level_act9d0_02_end",
+    "nextChapterId": "act9d0--activities__act9d0__level_act9d0_03_end"
+  },
+  "blocks": [],
+  "citations": []
 }

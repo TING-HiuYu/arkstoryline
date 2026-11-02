@@ -1,0 +1,21 @@
+{
+  "id": "act52side--activities__act52side__level_act52side_st02",
+  "albumId": "act52side",
+  "title": "海声嘈杂",
+  "subtitle": "YW-ST-2",
+  "code": "YW-ST-2",
+  "avgTag": "幕间",
+  "summary": "info/activities/act52side/level_act52side_st02",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/YW-ST-2_%E6%B5%B7%E5%A3%B0%E5%98%88%E6%9D%82/NBT",
+    "page": "YW-ST-2_海声嘈杂/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act52side--activities__act52side__level_act52side_04_end",
+    "nextChapterId": "act52side--activities__act52side__level_act52side_05_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

@@ -1,0 +1,424 @@
+{
+  "id": "act55side",
+  "slug": "act55side",
+  "title": "时间啊，向前！",
+  "sourceEntryType": "UNKNOWN",
+  "albumKind": "intermezzi",
+  "homeSection": "sideStory",
+  "timelineRank": 1793487600,
+  "gameOrderRank": 8005,
+  "cover": {
+    "primaryImageId": "kv_time_set_forth",
+    "titleImageId": "title_time_set_forth",
+    "backgroundImageId": "storybg_time_set_forth",
+    "storyEntryPicId": "storyEntryPic_act55side",
+    "url": "https://media.prts.wiki/0/02/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81.png",
+    "source": "stage-kv",
+    "assetStatus": "disabled",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 1793487600,
+  "chapters": [
+    {
+      "id": "act55side--activities__act55side__level_act55side_st01",
+      "albumId": "act55side",
+      "title": "复生的奇迹",
+      "code": "TL-ST-1",
+      "avgTag": "幕间",
+      "sort": 1,
+      "path": "chapters/act55side--activities__act55side__level_act55side_st01.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-ST-1_%E5%A4%8D%E7%94%9F%E7%9A%84%E5%A5%87%E8%BF%B9/NBT",
+        "page": "TL-ST-1_复生的奇迹/NBT",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_01_beg",
+      "albumId": "act55side",
+      "title": "庸俗的实践",
+      "code": "TL-1",
+      "avgTag": "行动前",
+      "sort": 2,
+      "path": "chapters/act55side--activities__act55side__level_act55side_01_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-1_%E5%BA%B8%E4%BF%97%E7%9A%84%E5%AE%9E%E8%B7%B5/BEG",
+        "page": "TL-1_庸俗的实践/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_01_end",
+      "albumId": "act55side",
+      "title": "庸俗的实践",
+      "code": "TL-1",
+      "avgTag": "行动后",
+      "sort": 3,
+      "path": "chapters/act55side--activities__act55side__level_act55side_01_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-1_%E5%BA%B8%E4%BF%97%E7%9A%84%E5%AE%9E%E8%B7%B5/END",
+        "page": "TL-1_庸俗的实践/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_02_beg",
+      "albumId": "act55side",
+      "title": "孑遗的道路",
+      "code": "TL-2",
+      "avgTag": "行动前",
+      "sort": 4,
+      "path": "chapters/act55side--activities__act55side__level_act55side_02_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-2_%E5%AD%91%E9%81%97%E7%9A%84%E9%81%93%E8%B7%AF/BEG",
+        "page": "TL-2_孑遗的道路/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_02_end",
+      "albumId": "act55side",
+      "title": "孑遗的道路",
+      "code": "TL-2",
+      "avgTag": "行动后",
+      "sort": 5,
+      "path": "chapters/act55side--activities__act55side__level_act55side_02_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-2_%E5%AD%91%E9%81%97%E7%9A%84%E9%81%93%E8%B7%AF/END",
+        "page": "TL-2_孑遗的道路/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_03_beg",
+      "albumId": "act55side",
+      "title": "苦难的历程",
+      "code": "TL-3",
+      "avgTag": "行动前",
+      "sort": 6,
+      "path": "chapters/act55side--activities__act55side__level_act55side_03_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-3_%E8%8B%A6%E9%9A%BE%E7%9A%84%E5%8E%86%E7%A8%8B/BEG",
+        "page": "TL-3_苦难的历程/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_03_end",
+      "albumId": "act55side",
+      "title": "苦难的历程",
+      "code": "TL-3",
+      "avgTag": "行动后",
+      "sort": 7,
+      "path": "chapters/act55side--activities__act55side__level_act55side_03_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-3_%E8%8B%A6%E9%9A%BE%E7%9A%84%E5%8E%86%E7%A8%8B/END",
+        "page": "TL-3_苦难的历程/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_04_beg",
+      "albumId": "act55side",
+      "title": "刻板的争论",
+      "code": "TL-4",
+      "avgTag": "行动前",
+      "sort": 8,
+      "path": "chapters/act55side--activities__act55side__level_act55side_04_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-4_%E5%88%BB%E6%9D%BF%E7%9A%84%E4%BA%89%E8%AE%BA/BEG",
+        "page": "TL-4_刻板的争论/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_04_end",
+      "albumId": "act55side",
+      "title": "刻板的争论",
+      "code": "TL-4",
+      "avgTag": "行动后",
+      "sort": 9,
+      "path": "chapters/act55side--activities__act55side__level_act55side_04_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-4_%E5%88%BB%E6%9D%BF%E7%9A%84%E4%BA%89%E8%AE%BA/END",
+        "page": "TL-4_刻板的争论/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_st02",
+      "albumId": "act55side",
+      "title": "激越的灵魂",
+      "code": "TL-ST-2",
+      "avgTag": "幕间",
+      "sort": 10,
+      "path": "chapters/act55side--activities__act55side__level_act55side_st02.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-ST-2_%E6%BF%80%E8%B6%8A%E7%9A%84%E7%81%B5%E9%AD%82/NBT",
+        "page": "TL-ST-2_激越的灵魂/NBT",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_05_beg",
+      "albumId": "act55side",
+      "title": "轰鸣的沉默",
+      "code": "TL-5",
+      "avgTag": "行动前",
+      "sort": 11,
+      "path": "chapters/act55side--activities__act55side__level_act55side_05_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-5_%E8%BD%B0%E9%B8%A3%E7%9A%84%E6%B2%89%E9%BB%98/BEG",
+        "page": "TL-5_轰鸣的沉默/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_05_end",
+      "albumId": "act55side",
+      "title": "轰鸣的沉默",
+      "code": "TL-5",
+      "avgTag": "行动后",
+      "sort": 12,
+      "path": "chapters/act55side--activities__act55side__level_act55side_05_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-5_%E8%BD%B0%E9%B8%A3%E7%9A%84%E6%B2%89%E9%BB%98/END",
+        "page": "TL-5_轰鸣的沉默/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_06_beg",
+      "albumId": "act55side",
+      "title": "元音的长度",
+      "code": "TL-6",
+      "avgTag": "行动前",
+      "sort": 13,
+      "path": "chapters/act55side--activities__act55side__level_act55side_06_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-6_%E5%85%83%E9%9F%B3%E7%9A%84%E9%95%BF%E5%BA%A6/BEG",
+        "page": "TL-6_元音的长度/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_06_end",
+      "albumId": "act55side",
+      "title": "元音的长度",
+      "code": "TL-6",
+      "avgTag": "行动后",
+      "sort": 14,
+      "path": "chapters/act55side--activities__act55side__level_act55side_06_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-6_%E5%85%83%E9%9F%B3%E7%9A%84%E9%95%BF%E5%BA%A6/END",
+        "page": "TL-6_元音的长度/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_07_beg",
+      "albumId": "act55side",
+      "title": "滚烫的双眸",
+      "code": "TL-7",
+      "avgTag": "行动前",
+      "sort": 15,
+      "path": "chapters/act55side--activities__act55side__level_act55side_07_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-7_%E6%BB%9A%E7%83%AB%E7%9A%84%E5%8F%8C%E7%9C%B8/BEG",
+        "page": "TL-7_滚烫的双眸/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_07_end",
+      "albumId": "act55side",
+      "title": "滚烫的双眸",
+      "code": "TL-7",
+      "avgTag": "行动后",
+      "sort": 16,
+      "path": "chapters/act55side--activities__act55side__level_act55side_07_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-7_%E6%BB%9A%E7%83%AB%E7%9A%84%E5%8F%8C%E7%9C%B8/END",
+        "page": "TL-7_滚烫的双眸/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_08_beg",
+      "albumId": "act55side",
+      "title": "潮湿的火焰",
+      "code": "TL-8",
+      "avgTag": "行动前",
+      "sort": 17,
+      "path": "chapters/act55side--activities__act55side__level_act55side_08_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-8_%E6%BD%AE%E6%B9%BF%E7%9A%84%E7%81%AB%E7%84%B0/BEG",
+        "page": "TL-8_潮湿的火焰/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_08_end",
+      "albumId": "act55side",
+      "title": "潮湿的火焰",
+      "code": "TL-8",
+      "avgTag": "行动后",
+      "sort": 18,
+      "path": "chapters/act55side--activities__act55side__level_act55side_08_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-8_%E6%BD%AE%E6%B9%BF%E7%9A%84%E7%81%AB%E7%84%B0/END",
+        "page": "TL-8_潮湿的火焰/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_st03",
+      "albumId": "act55side",
+      "title": "孱弱的团结",
+      "code": "TL-ST-3",
+      "avgTag": "幕间",
+      "sort": 19,
+      "path": "chapters/act55side--activities__act55side__level_act55side_st03.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-ST-3_%E5%AD%B1%E5%BC%B1%E7%9A%84%E5%9B%A2%E7%BB%93/NBT",
+        "page": "TL-ST-3_孱弱的团结/NBT",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_09_beg",
+      "albumId": "act55side",
+      "title": "自由的黄昏",
+      "code": "TL-9",
+      "avgTag": "行动前",
+      "sort": 20,
+      "path": "chapters/act55side--activities__act55side__level_act55side_09_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-9_%E8%87%AA%E7%94%B1%E7%9A%84%E9%BB%84%E6%98%8F/BEG",
+        "page": "TL-9_自由的黄昏/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_09_end",
+      "albumId": "act55side",
+      "title": "自由的黄昏",
+      "code": "TL-9",
+      "avgTag": "行动后",
+      "sort": 21,
+      "path": "chapters/act55side--activities__act55side__level_act55side_09_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-9_%E8%87%AA%E7%94%B1%E7%9A%84%E9%BB%84%E6%98%8F/END",
+        "page": "TL-9_自由的黄昏/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_10_beg",
+      "albumId": "act55side",
+      "title": "活着的重量",
+      "code": "TL-10",
+      "avgTag": "行动前",
+      "sort": 22,
+      "path": "chapters/act55side--activities__act55side__level_act55side_10_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-10_%E6%B4%BB%E7%9D%80%E7%9A%84%E9%87%8D%E9%87%8F/BEG",
+        "page": "TL-10_活着的重量/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_10_end",
+      "albumId": "act55side",
+      "title": "活着的重量",
+      "code": "TL-10",
+      "avgTag": "行动后",
+      "sort": 23,
+      "path": "chapters/act55side--activities__act55side__level_act55side_10_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-10_%E6%B4%BB%E7%9D%80%E7%9A%84%E9%87%8D%E9%87%8F/END",
+        "page": "TL-10_活着的重量/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act55side--activities__act55side__level_act55side_st04",
+      "albumId": "act55side",
+      "title": "年轻的未来",
+      "code": "TL-ST-4",
+      "avgTag": "幕间",
+      "sort": 24,
+      "path": "chapters/act55side--activities__act55side__level_act55side_st04.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/TL-ST-4_%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%9C%AA%E6%9D%A5/NBT",
+        "page": "TL-ST-4_年轻的未来/NBT",
+        "kind": "scenario-html"
+      }
+    }
+  ],
+  "source": {
+    "providerId": "github-raw",
+    "revision": "63c7cec73c3858d0ae913f85cc89af3cef4d744f",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
+  },
+  "extras": [],
+  "summary": "一场突如其来的灾变暴露出这片土地上无数沉疴。\n皇权摇摇欲坠，人们积蓄已久的怒火一触即燃。\n沉默、祈祷、悲泣、忍耐……我们不需要再如此。\n拿起我们手中的矿镐与锄头，刀剑与纸笔。\n我们为旧时代敲响丧钟，我们在废土上搭建希望。\n人们呼唤已久的一场大火终于在这个冬天燃起。\n冬天已经过去了，我们还来得及拥抱春天。",
+  "music": {
+    "movementTitle": "燎原",
+    "arcTitle": "燎原",
+    "tags": [
+      "tag_12",
+      "tag_14"
+    ],
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets"
+  }
+}

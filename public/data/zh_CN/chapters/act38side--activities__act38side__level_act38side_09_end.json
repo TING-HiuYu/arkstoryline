@@ -1,21 +1,21 @@
 {
-  "albumId": "act38side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "PV-9",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "PV-9_狼群与群狼/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/PV-9_%E7%8B%BC%E7%BE%A4%E4%B8%8E%E7%BE%A4%E7%8B%BC/END"
-  },
   "id": "act38side--activities__act38side__level_act38side_09_end",
-  "navigation": {
-    "nextChapterId": "act38side--activities__act38side__level_act38side_10_beg",
-    "previousChapterId": "act38side--activities__act38side__level_act38side_09_beg"
-  },
+  "albumId": "act38side",
+  "title": "狼群与群狼",
   "subtitle": "PV-9",
+  "code": "PV-9",
+  "avgTag": "行动后",
   "summary": "info/activities/act38side/level_act38side_09_end",
-  "title": "狼群与群狼"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-9_%E7%8B%BC%E7%BE%A4%E4%B8%8E%E7%BE%A4%E7%8B%BC/END",
+    "page": "PV-9_狼群与群狼/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act38side--activities__act38side__level_act38side_09_beg",
+    "nextChapterId": "act38side--activities__act38side__level_act38side_10_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

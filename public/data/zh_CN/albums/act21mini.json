@@ -1,0 +1,143 @@
+{
+  "albumKind": "sideStory",
+  "chapters": [
+    {
+      "albumId": "act21mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BD-ST1_土壤病/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BD-ST1_%E5%9C%9F%E5%A3%A4%E7%97%85/NBT"
+      },
+      "downloadable": true,
+      "id": "act21mini--activities__act21mini__level_act21mini_st01",
+      "path": "chapters/act21mini--activities__act21mini__level_act21mini_st01.json",
+      "sort": 1,
+      "title": "土壤病"
+    },
+    {
+      "albumId": "act21mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BD-ST2_退行性猎犬病/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BD-ST2_%E9%80%80%E8%A1%8C%E6%80%A7%E7%8C%8E%E7%8A%AC%E7%97%85/NBT"
+      },
+      "downloadable": true,
+      "id": "act21mini--activities__act21mini__level_act21mini_st02",
+      "path": "chapters/act21mini--activities__act21mini__level_act21mini_st02.json",
+      "sort": 2,
+      "title": "退行性猎犬病"
+    },
+    {
+      "albumId": "act21mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BD-ST3_香蕉出血热/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BD-ST3_%E9%A6%99%E8%95%89%E5%87%BA%E8%A1%80%E7%83%AD/NBT"
+      },
+      "downloadable": true,
+      "id": "act21mini--activities__act21mini__level_act21mini_st03",
+      "path": "chapters/act21mini--activities__act21mini__level_act21mini_st03.json",
+      "sort": 3,
+      "title": "香蕉出血热"
+    },
+    {
+      "albumId": "act21mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BD-ST4_专性寄生/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BD-ST4_%E4%B8%93%E6%80%A7%E5%AF%84%E7%94%9F/NBT"
+      },
+      "downloadable": true,
+      "id": "act21mini--activities__act21mini__level_act21mini_st04",
+      "path": "chapters/act21mini--activities__act21mini__level_act21mini_st04.json",
+      "sort": 4,
+      "title": "专性寄生"
+    },
+    {
+      "albumId": "act21mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BD-ST5_热病与城/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BD-ST5_%E7%83%AD%E7%97%85%E4%B8%8E%E5%9F%8E/NBT"
+      },
+      "downloadable": true,
+      "id": "act21mini--activities__act21mini__level_act21mini_st05",
+      "path": "chapters/act21mini--activities__act21mini__level_act21mini_st05.json",
+      "sort": 5,
+      "title": "热病与城"
+    },
+    {
+      "albumId": "act21mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BD-ST6_大流行/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BD-ST6_%E5%A4%A7%E6%B5%81%E8%A1%8C/NBT"
+      },
+      "downloadable": true,
+      "id": "act21mini--activities__act21mini__level_act21mini_st06",
+      "path": "chapters/act21mini--activities__act21mini__level_act21mini_st06.json",
+      "sort": 6,
+      "title": "大流行"
+    },
+    {
+      "albumId": "act21mini",
+      "avgTag": "幕间",
+      "contentSource": {
+        "kind": "scenario-html",
+        "page": "BD-ST7_漫游症/NBT",
+        "provider": "prts",
+        "url": "https://prts.wiki/w/BD-ST7_%E6%BC%AB%E6%B8%B8%E7%97%87/NBT"
+      },
+      "downloadable": true,
+      "id": "act21mini--activities__act21mini__level_act21mini_st07",
+      "path": "chapters/act21mini--activities__act21mini__level_act21mini_st07.json",
+      "sort": 7,
+      "title": "漫游症"
+    }
+  ],
+  "cover": {
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
+    "assetStatus": "disabled",
+    "backgroundImageId": "storybg_bolivar_diagnosed",
+    "primaryImageId": "kv_bolivar_diagnosed",
+    "source": "stage-kv",
+    "storyEntryPicId": "storyEntryPic_act21mini",
+    "storyPicId": "storyPic_act21mini",
+    "titleImageId": "title_bolivar_diagnosed",
+    "url": "https://media.prts.wiki/4/46/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E4%B8%9B%E6%9E%97%E7%97%87%E7%BB%93.png"
+  },
+  "extras": [],
+  "gameOrderRank": 8002,
+  "homeSection": "sideStory",
+  "id": "act21mini",
+  "music": {
+    "arcTitle": "泰拉奇谈",
+    "movementTitle": "泰拉奇谈",
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets",
+    "tags": []
+  },
+  "slug": "act21mini",
+  "source": {
+    "path": "zh_CN/gamedata/excel/story_review_table.json",
+    "providerId": "github-raw",
+    "revision": "63c7cec73c3858d0ae913f85cc89af3cef4d744f"
+  },
+  "sourceEntryType": "UNKNOWN",
+  "startTime": 1783638000,
+  "summary": "一幕幕以死亡为结局的悲剧背后，是一场漫长的疫病。\n所有生长于这片土地的人都是患者。\n在被黑流吞没之前，抓住记忆的丝线，\n顺着它，找寻我们的来处。",
+  "timelineRank": 1783638000,
+  "title": "丛林症结"
+}

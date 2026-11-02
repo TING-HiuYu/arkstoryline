@@ -74,7 +74,7 @@
       "title": "无瑕之日"
     }
   ],
-  "gameOrderRank": 900000021,
+  "gameOrderRank": 900000022,
   "homeSection": "otherStory",
   "id": "other-story-萨卡兹的无终奇语-6505326ff7",
   "otherStory": {
@@ -86,9 +86,9 @@
   "source": {
     "path": "storyline.index.sections.other",
     "providerId": "prts",
-    "revision": "2026-05-26T20:55:23.000119+00:00"
+    "revision": "2026-11-02T08:27:33.219930+00:00"
   },
   "sourceEntryType": "ARCHIVE_EXTRA",
-  "timelineRank": 900000021,
+  "timelineRank": 900000022,
   "title": "萨卡兹的无终奇语"
 }

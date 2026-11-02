@@ -1,21 +1,21 @@
 {
-  "albumId": "main_1",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "1-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "1-3_狂奔/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/1-3_%E7%8B%82%E5%A5%94/END"
-  },
   "id": "main_1--obt__main__level_main_01-03_end",
-  "navigation": {
-    "nextChapterId": "main_1--obt__main__level_main_01-04_beg",
-    "previousChapterId": "main_1--obt__main__level_main_01-03_beg"
-  },
+  "albumId": "main_1",
+  "title": "狂奔",
   "subtitle": "1-3",
+  "code": "1-3",
+  "avgTag": "行动后",
   "summary": "info/obt/main/level_main_01-03_end",
-  "title": "狂奔"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/1-3_%E7%8B%82%E5%A5%94/END",
+    "page": "1-3_狂奔/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_1--obt__main__level_main_01-03_beg",
+    "nextChapterId": "main_1--obt__main__level_main_01-04_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

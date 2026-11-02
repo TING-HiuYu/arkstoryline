@@ -1,21 +1,21 @@
 {
-  "albumId": "act25side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "CW-10",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "CW-10_散于星辰之间/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/CW-10_%E6%95%A3%E4%BA%8E%E6%98%9F%E8%BE%B0%E4%B9%8B%E9%97%B4/BEG"
-  },
   "id": "act25side--activities__act25side__level_act25side_10_beg",
-  "navigation": {
-    "nextChapterId": "act25side--activities__act25side__level_act25side_10_end",
-    "previousChapterId": "act25side--activities__act25side__level_act25side_09_end"
-  },
+  "albumId": "act25side",
+  "title": "散于星辰之间",
   "subtitle": "CW-10",
+  "code": "CW-10",
+  "avgTag": "行动前",
   "summary": "info/activities/act25side/level_act25side_10_beg",
-  "title": "散于星辰之间"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CW-10_%E6%95%A3%E4%BA%8E%E6%98%9F%E8%BE%B0%E4%B9%8B%E9%97%B4/BEG",
+    "page": "CW-10_散于星辰之间/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act25side--activities__act25side__level_act25side_09_end",
+    "nextChapterId": "act25side--activities__act25side__level_act25side_10_end"
+  },
+  "blocks": [],
+  "citations": []
 }

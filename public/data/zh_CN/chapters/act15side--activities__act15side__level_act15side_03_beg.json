@@ -1,21 +1,21 @@
 {
-  "albumId": "act15side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "IW-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "IW-3_光与影/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/IW-3_%E5%85%89%E4%B8%8E%E5%BD%B1/BEG"
-  },
   "id": "act15side--activities__act15side__level_act15side_03_beg",
-  "navigation": {
-    "nextChapterId": "act15side--activities__act15side__level_act15side_03_end",
-    "previousChapterId": "act15side--activities__act15side__level_act15side_02_end"
-  },
+  "albumId": "act15side",
+  "title": "光与影",
   "subtitle": "IW-3",
+  "code": "IW-3",
+  "avgTag": "行动前",
   "summary": "info/activities/act15side/level_act15side_03_beg",
-  "title": "光与影"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-3_%E5%85%89%E4%B8%8E%E5%BD%B1/BEG",
+    "page": "IW-3_光与影/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act15side--activities__act15side__level_act15side_02_end",
+    "nextChapterId": "act15side--activities__act15side__level_act15side_03_end"
+  },
+  "blocks": [],
+  "citations": []
 }

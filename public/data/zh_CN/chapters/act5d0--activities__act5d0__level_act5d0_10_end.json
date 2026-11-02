@@ -1,21 +1,21 @@
 {
-  "albumId": "act5d0",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "CB-10",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "CB-10_1:11A.M./END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/CB-10_1%3A11A.M./END"
-  },
   "id": "act5d0--activities__act5d0__level_act5d0_10_end",
-  "navigation": {
-    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_st03",
-    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_10_beg"
-  },
+  "albumId": "act5d0",
+  "title": "1:11A.M.",
   "subtitle": "CB-10",
+  "code": "CB-10",
+  "avgTag": "行动后",
   "summary": "info/activities/act5d0/level_act5d0_10_end",
-  "title": "1:11A.M."
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CB-10_1%3A11A.M./END",
+    "page": "CB-10_1:11A.M./END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act5d0--activities__act5d0__level_act5d0_10_beg",
+    "nextChapterId": "act5d0--activities__act5d0__level_act5d0_st03"
+  },
+  "blocks": [],
+  "citations": []
 }

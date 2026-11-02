@@ -1,0 +1,21 @@
+{
+  "id": "act55side--activities__act55side__level_act55side_09_end",
+  "albumId": "act55side",
+  "title": "自由的黄昏",
+  "subtitle": "TL-9",
+  "code": "TL-9",
+  "avgTag": "行动后",
+  "summary": "info/activities/act55side/level_act55side_09_end",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TL-9_%E8%87%AA%E7%94%B1%E7%9A%84%E9%BB%84%E6%98%8F/END",
+    "page": "TL-9_自由的黄昏/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act55side--activities__act55side__level_act55side_09_beg",
+    "nextChapterId": "act55side--activities__act55side__level_act55side_10_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

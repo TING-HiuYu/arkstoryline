@@ -1,0 +1,21 @@
+{
+  "id": "act53side--activities__act53side__level_act53side_04_beg",
+  "albumId": "act53side",
+  "title": "谷里升起太阳",
+  "subtitle": "TO-4",
+  "code": "TO-4",
+  "avgTag": "行动前",
+  "summary": "info/activities/act53side/level_act53side_04_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TO-4_%E8%B0%B7%E9%87%8C%E5%8D%87%E8%B5%B7%E5%A4%AA%E9%98%B3/BEG",
+    "page": "TO-4_谷里升起太阳/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act53side--activities__act53side__level_act53side_03_end",
+    "nextChapterId": "act53side--activities__act53side__level_act53side_04_end"
+  },
+  "blocks": [],
+  "citations": []
+}

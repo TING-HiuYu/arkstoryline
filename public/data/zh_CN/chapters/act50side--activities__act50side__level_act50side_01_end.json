@@ -1,0 +1,21 @@
+{
+  "id": "act50side--activities__act50side__level_act50side_01_end",
+  "albumId": "act50side",
+  "title": "硬壳下的胆小鬼",
+  "subtitle": "TD-1",
+  "code": "TD-1",
+  "avgTag": "行动后",
+  "summary": "info/activities/act50side/level_act50side_01_end",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TD-1_%E7%A1%AC%E5%A3%B3%E4%B8%8B%E7%9A%84%E8%83%86%E5%B0%8F%E9%AC%BC/END",
+    "page": "TD-1_硬壳下的胆小鬼/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act50side--activities__act50side__level_act50side_01_beg",
+    "nextChapterId": "act50side--activities__act50side__level_act50side_02_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

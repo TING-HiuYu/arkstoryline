@@ -1,21 +1,21 @@
 {
-  "albumId": "main_10",
-  "avgTag": "幕间",
-  "blocks": [],
-  "citations": [],
-  "code": "10-1",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "10-1_被追逐者/NBT",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/10-1_%E8%A2%AB%E8%BF%BD%E9%80%90%E8%80%85/NBT"
-  },
   "id": "main_10--obt__main__level_st_10-01",
-  "navigation": {
-    "nextChapterId": "main_10--obt__main__level_main_10-01_beg",
-    "previousChapterId": null
-  },
+  "albumId": "main_10",
+  "title": "被追逐者",
   "subtitle": "10-1",
+  "code": "10-1",
+  "avgTag": "幕间",
   "summary": "info/obt/main/level_st_10-01",
-  "title": "被追逐者"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-1_%E8%A2%AB%E8%BF%BD%E9%80%90%E8%80%85/NBT",
+    "page": "10-1_被追逐者/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": null,
+    "nextChapterId": "main_10--obt__main__level_main_10-01_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

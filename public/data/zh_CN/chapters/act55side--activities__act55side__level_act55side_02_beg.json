@@ -1,0 +1,21 @@
+{
+  "id": "act55side--activities__act55side__level_act55side_02_beg",
+  "albumId": "act55side",
+  "title": "孑遗的道路",
+  "subtitle": "TL-2",
+  "code": "TL-2",
+  "avgTag": "行动前",
+  "summary": "info/activities/act55side/level_act55side_02_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TL-2_%E5%AD%91%E9%81%97%E7%9A%84%E9%81%93%E8%B7%AF/BEG",
+    "page": "TL-2_孑遗的道路/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act55side--activities__act55side__level_act55side_01_end",
+    "nextChapterId": "act55side--activities__act55side__level_act55side_02_end"
+  },
+  "blocks": [],
+  "citations": []
+}

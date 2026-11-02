@@ -1,21 +1,21 @@
 {
-  "albumId": "act40side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "OR-1",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "OR-1_一清二白/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/OR-1_%E4%B8%80%E6%B8%85%E4%BA%8C%E7%99%BD/END"
-  },
   "id": "act40side--activities__act40side__level_act40side_01_end",
-  "navigation": {
-    "nextChapterId": "act40side--activities__act40side__level_act40side_02_beg",
-    "previousChapterId": "act40side--activities__act40side__level_act40side_01_beg"
-  },
+  "albumId": "act40side",
+  "title": "一清二白",
   "subtitle": "OR-1",
+  "code": "OR-1",
+  "avgTag": "行动后",
   "summary": "info/activities/act40side/level_act40side_01_end",
-  "title": "一清二白"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OR-1_%E4%B8%80%E6%B8%85%E4%BA%8C%E7%99%BD/END",
+    "page": "OR-1_一清二白/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act40side--activities__act40side__level_act40side_01_beg",
+    "nextChapterId": "act40side--activities__act40side__level_act40side_02_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

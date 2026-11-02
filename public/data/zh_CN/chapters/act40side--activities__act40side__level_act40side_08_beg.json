@@ -1,21 +1,21 @@
 {
-  "albumId": "act40side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "OR-8",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "OR-8_金玉藏心/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/OR-8_%E9%87%91%E7%8E%89%E8%97%8F%E5%BF%83/BEG"
-  },
   "id": "act40side--activities__act40side__level_act40side_08_beg",
-  "navigation": {
-    "nextChapterId": "act40side--activities__act40side__level_act40side_08_end",
-    "previousChapterId": "act40side--activities__act40side__level_act40side_07_end"
-  },
+  "albumId": "act40side",
+  "title": "金玉藏心",
   "subtitle": "OR-8",
+  "code": "OR-8",
+  "avgTag": "行动前",
   "summary": "info/activities/act40side/level_act40side_08_beg",
-  "title": "金玉藏心"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OR-8_%E9%87%91%E7%8E%89%E8%97%8F%E5%BF%83/BEG",
+    "page": "OR-8_金玉藏心/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act40side--activities__act40side__level_act40side_07_end",
+    "nextChapterId": "act40side--activities__act40side__level_act40side_08_end"
+  },
+  "blocks": [],
+  "citations": []
 }

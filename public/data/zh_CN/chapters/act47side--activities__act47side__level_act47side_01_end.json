@@ -1,21 +1,21 @@
 {
-  "albumId": "act47side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "UR-1",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "UR-1_嘈杂的天空/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/UR-1_%E5%98%88%E6%9D%82%E7%9A%84%E5%A4%A9%E7%A9%BA/END"
-  },
   "id": "act47side--activities__act47side__level_act47side_01_end",
-  "navigation": {
-    "nextChapterId": "act47side--activities__act47side__level_act47side_02_beg",
-    "previousChapterId": "act47side--activities__act47side__level_act47side_01_beg"
-  },
+  "albumId": "act47side",
+  "title": "嘈杂的天空",
   "subtitle": "UR-1",
+  "code": "UR-1",
+  "avgTag": "行动后",
   "summary": "info/activities/act47side/level_act47side_01_end",
-  "title": "嘈杂的天空"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/UR-1_%E5%98%88%E6%9D%82%E7%9A%84%E5%A4%A9%E7%A9%BA/END",
+    "page": "UR-1_嘈杂的天空/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act47side--activities__act47side__level_act47side_01_beg",
+    "nextChapterId": "act47side--activities__act47side__level_act47side_02_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

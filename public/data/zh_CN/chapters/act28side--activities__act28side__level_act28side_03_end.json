@@ -1,21 +1,21 @@
 {
-  "albumId": "act28side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "CV-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "CV-3_圈套/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/CV-3_%E5%9C%88%E5%A5%97/END"
-  },
   "id": "act28side--activities__act28side__level_act28side_03_end",
-  "navigation": {
-    "nextChapterId": "act28side--activities__act28side__level_act28side_04_beg",
-    "previousChapterId": "act28side--activities__act28side__level_act28side_03_beg"
-  },
+  "albumId": "act28side",
+  "title": "圈套",
   "subtitle": "CV-3",
+  "code": "CV-3",
+  "avgTag": "行动后",
   "summary": "info/activities/act28side/level_act28side_03_end",
-  "title": "圈套"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CV-3_%E5%9C%88%E5%A5%97/END",
+    "page": "CV-3_圈套/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act28side--activities__act28side__level_act28side_03_beg",
+    "nextChapterId": "act28side--activities__act28side__level_act28side_04_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

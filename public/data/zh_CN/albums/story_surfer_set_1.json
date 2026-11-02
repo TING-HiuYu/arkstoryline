@@ -1,0 +1,33 @@
+{
+  "id": "story_surfer_set_1",
+  "slug": "story-surfer-set-1",
+  "title": "顶峰之景",
+  "sourceEntryType": "UNKNOWN",
+  "albumKind": "operatorRecord",
+  "homeSection": "operatorRecord",
+  "timelineRank": 0,
+  "cover": {
+    "url": "https://media.prts.wiki/f/f1/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E9%A1%B6%E5%B3%B0%E4%B9%8B%E6%99%AF.png",
+    "source": "none",
+    "assetStatus": "missing",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 0,
+  "chapters": [
+    {
+      "id": "story_surfer_set_1--obt__memory__story_surfer_1_1",
+      "albumId": "story_surfer_set_1",
+      "title": "顶峰之景",
+      "avgTag": "幕间",
+      "sort": 0,
+      "path": "chapters/story_surfer_set_1--obt__memory__story_surfer_1_1.json",
+      "downloadable": true
+    }
+  ],
+  "source": {
+    "providerId": "github-raw",
+    "revision": "63c7cec73c3858d0ae913f85cc89af3cef4d744f",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
+  },
+  "extras": []
+}

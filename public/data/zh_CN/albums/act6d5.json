@@ -73,11 +73,11 @@
   "source": {
     "path": "zh_CN/gamedata/excel/story_review_table.json",
     "providerId": "github-raw",
-    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+    "revision": "63c7cec73c3858d0ae913f85cc89af3cef4d744f"
   },
   "sourceEntryType": "UNKNOWN",
   "startTime": 1578513600,
-  "summary": "根据古老的传说，巨大的怪物随时可能来袭！\n龙门这座孤城，如何用一场惊天爆炸度过年关？\n燃情巨制《龙门末日守城》......不，该叫《洪炉示岁》！\n总之，敬请期待！",
+  "summary": "根据古老的传说，巨大的怪物随时可能来袭！\n龙门这座孤城，如何用一场惊天爆炸度过年关？\n燃情巨制《龙门末日守城》……不，该叫《洪炉示岁》！\n总之，敬请期待！",
   "timelineRank": 1578513600,
   "title": "洪炉示岁"
 }

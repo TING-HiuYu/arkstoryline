@@ -1,0 +1,19 @@
+{
+  "albumId": "act21mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BD-ST7_漫游症/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BD-ST7_%E6%BC%AB%E6%B8%B8%E7%97%87/NBT"
+  },
+  "id": "act21mini--activities__act21mini__level_act21mini_st07",
+  "navigation": {
+    "nextChapterId": null,
+    "previousChapterId": "act21mini--activities__act21mini__level_act21mini_st06"
+  },
+  "summary": "info/activities/act21mini/level_act21mini_st07",
+  "title": "漫游症"
+}

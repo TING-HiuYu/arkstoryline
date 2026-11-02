@@ -1,0 +1,21 @@
+{
+  "id": "act52side--activities__act52side__level_act52side_07_beg",
+  "albumId": "act52side",
+  "title": "殉葬品",
+  "subtitle": "YW-7",
+  "code": "YW-7",
+  "avgTag": "行动前",
+  "summary": "info/activities/act52side/level_act52side_07_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/YW-7_%E6%AE%89%E8%91%AC%E5%93%81/BEG",
+    "page": "YW-7_殉葬品/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act52side--activities__act52side__level_act52side_06_end",
+    "nextChapterId": "act52side--activities__act52side__level_act52side_07_end"
+  },
+  "blocks": [],
+  "citations": []
+}

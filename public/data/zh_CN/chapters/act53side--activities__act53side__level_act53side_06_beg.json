@@ -1,0 +1,21 @@
+{
+  "id": "act53side--activities__act53side__level_act53side_06_beg",
+  "albumId": "act53side",
+  "title": "最难坦诚",
+  "subtitle": "TO-6",
+  "code": "TO-6",
+  "avgTag": "行动前",
+  "summary": "info/activities/act53side/level_act53side_06_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TO-6_%E6%9C%80%E9%9A%BE%E5%9D%A6%E8%AF%9A/BEG",
+    "page": "TO-6_最难坦诚/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act53side--activities__act53side__level_act53side_05_end",
+    "nextChapterId": "act53side--activities__act53side__level_act53side_06_end"
+  },
+  "blocks": [],
+  "citations": []
+}

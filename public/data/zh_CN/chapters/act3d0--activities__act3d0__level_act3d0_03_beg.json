@@ -1,21 +1,21 @@
 {
-  "albumId": "act3d0",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "OF-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "OF-3_竞走赛/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/OF-3_%E7%AB%9E%E8%B5%B0%E8%B5%9B/BEG"
-  },
   "id": "act3d0--activities__act3d0__level_act3d0_03_beg",
-  "navigation": {
-    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_03_end",
-    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_02_end"
-  },
+  "albumId": "act3d0",
+  "title": "竞走赛",
   "subtitle": "OF-3",
+  "code": "OF-3",
+  "avgTag": "行动前",
   "summary": "info/activities/act3d0/level_act3d0_03_beg",
-  "title": "竞走赛"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OF-3_%E7%AB%9E%E8%B5%B0%E8%B5%9B/BEG",
+    "page": "OF-3_竞走赛/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act3d0--activities__act3d0__level_act3d0_02_end",
+    "nextChapterId": "act3d0--activities__act3d0__level_act3d0_03_end"
+  },
+  "blocks": [],
+  "citations": []
 }

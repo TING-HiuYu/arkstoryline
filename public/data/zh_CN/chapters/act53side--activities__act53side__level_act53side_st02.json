@@ -1,0 +1,21 @@
+{
+  "id": "act53side--activities__act53side__level_act53side_st02",
+  "albumId": "act53side",
+  "title": "糖纸星星",
+  "subtitle": "TO-ST-2",
+  "code": "TO-ST-2",
+  "avgTag": "幕间",
+  "summary": "info/activities/act53side/level_act53side_st02",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TO-ST-2_%E7%B3%96%E7%BA%B8%E6%98%9F%E6%98%9F/NBT",
+    "page": "TO-ST-2_糖纸星星/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act53side--activities__act53side__level_act53side_06_end",
+    "nextChapterId": "act53side--activities__act53side__level_act53side_07_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

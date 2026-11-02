@@ -1,0 +1,19 @@
+{
+  "albumId": "act21mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BD-ST4_专性寄生/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BD-ST4_%E4%B8%93%E6%80%A7%E5%AF%84%E7%94%9F/NBT"
+  },
+  "id": "act21mini--activities__act21mini__level_act21mini_st04",
+  "navigation": {
+    "nextChapterId": "act21mini--activities__act21mini__level_act21mini_st05",
+    "previousChapterId": "act21mini--activities__act21mini__level_act21mini_st03"
+  },
+  "summary": "info/activities/act21mini/level_act21mini_st04",
+  "title": "专性寄生"
+}

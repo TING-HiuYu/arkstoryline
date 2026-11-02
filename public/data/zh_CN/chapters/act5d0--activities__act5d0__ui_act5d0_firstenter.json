@@ -6,6 +6,12 @@
   "code": "ENTRY",
   "avgTag": "幕间",
   "summary": "info/activities/act5d0/ui_act5d0_firstenter",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ENTRY_%E5%BA%8F%E7%AB%A0/NBT",
+    "page": "ENTRY_序章/NBT",
+    "kind": "scenario-html"
+  },
   "navigation": {
     "previousChapterId": null,
     "nextChapterId": "act5d0--activities__act5d0__level_act5d0_01_beg"

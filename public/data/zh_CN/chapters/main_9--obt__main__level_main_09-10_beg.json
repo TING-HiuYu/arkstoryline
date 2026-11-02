@@ -1,21 +1,21 @@
 {
-  "albumId": "main_9",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "9-12",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "9-12_鬼影如潮/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/9-12_%E9%AC%BC%E5%BD%B1%E5%A6%82%E6%BD%AE/BEG"
-  },
   "id": "main_9--obt__main__level_main_09-10_beg",
-  "navigation": {
-    "nextChapterId": "main_9--obt__main__level_main_09-11_end",
-    "previousChapterId": "main_9--obt__main__level_main_09-08_end"
-  },
+  "albumId": "main_9",
+  "title": "鬼影如潮",
   "subtitle": "9-12",
+  "code": "9-12",
+  "avgTag": "行动前",
   "summary": "info/obt/main/level_main_09-10_beg",
-  "title": "鬼影如潮"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/9-12_%E9%AC%BC%E5%BD%B1%E5%A6%82%E6%BD%AE/BEG",
+    "page": "9-12_鬼影如潮/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_9--obt__main__level_main_09-08_end",
+    "nextChapterId": "main_9--obt__main__level_main_09-11_end"
+  },
+  "blocks": [],
+  "citations": []
 }

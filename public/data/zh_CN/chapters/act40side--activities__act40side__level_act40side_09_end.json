@@ -1,21 +1,21 @@
 {
-  "albumId": "act40side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "OR-9",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "OR-9_长寿面/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/OR-9_%E9%95%BF%E5%AF%BF%E9%9D%A2/END"
-  },
   "id": "act40side--activities__act40side__level_act40side_09_end",
-  "navigation": {
-    "nextChapterId": "act40side--activities__act40side__level_act40side_st03",
-    "previousChapterId": "act40side--activities__act40side__level_act40side_09_beg"
-  },
+  "albumId": "act40side",
+  "title": "长寿面",
   "subtitle": "OR-9",
+  "code": "OR-9",
+  "avgTag": "行动后",
   "summary": "info/activities/act40side/level_act40side_09_end",
-  "title": "长寿面"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OR-9_%E9%95%BF%E5%AF%BF%E9%9D%A2/END",
+    "page": "OR-9_长寿面/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act40side--activities__act40side__level_act40side_09_beg",
+    "nextChapterId": "act40side--activities__act40side__level_act40side_st03"
+  },
+  "blocks": [],
+  "citations": []
 }

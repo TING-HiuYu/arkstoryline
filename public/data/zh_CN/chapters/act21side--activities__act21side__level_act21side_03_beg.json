@@ -1,21 +1,21 @@
 {
-  "albumId": "act21side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "IS-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "IS-3_万箭所指/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/IS-3_%E4%B8%87%E7%AE%AD%E6%89%80%E6%8C%87/BEG"
-  },
   "id": "act21side--activities__act21side__level_act21side_03_beg",
-  "navigation": {
-    "nextChapterId": "act21side--activities__act21side__level_act21side_03_end",
-    "previousChapterId": "act21side--activities__act21side__level_act21side_02_end"
-  },
+  "albumId": "act21side",
+  "title": "万箭所指",
   "subtitle": "IS-3",
+  "code": "IS-3",
+  "avgTag": "行动前",
   "summary": "info/activities/act21side/level_act21side_03_beg",
-  "title": "万箭所指"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-3_%E4%B8%87%E7%AE%AD%E6%89%80%E6%8C%87/BEG",
+    "page": "IS-3_万箭所指/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act21side--activities__act21side__level_act21side_02_end",
+    "nextChapterId": "act21side--activities__act21side__level_act21side_03_end"
+  },
+  "blocks": [],
+  "citations": []
 }

@@ -1,0 +1,21 @@
+{
+  "id": "act52side--activities__act52side__level_act52side_05_beg",
+  "albumId": "act52side",
+  "title": "三岔路口",
+  "subtitle": "YW-5",
+  "code": "YW-5",
+  "avgTag": "行动前",
+  "summary": "info/activities/act52side/level_act52side_05_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/YW-5_%E4%B8%89%E5%B2%94%E8%B7%AF%E5%8F%A3/BEG",
+    "page": "YW-5_三岔路口/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act52side--activities__act52side__level_act52side_st02",
+    "nextChapterId": "act52side--activities__act52side__level_act52side_05_end"
+  },
+  "blocks": [],
+  "citations": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "act52side--activities__act52side__level_act52side_04_beg",
+  "albumId": "act52side",
+  "title": "走上街道",
+  "subtitle": "YW-4",
+  "code": "YW-4",
+  "avgTag": "行动前",
+  "summary": "info/activities/act52side/level_act52side_04_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/YW-4_%E8%B5%B0%E4%B8%8A%E8%A1%97%E9%81%93/BEG",
+    "page": "YW-4_走上街道/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act52side--activities__act52side__level_act52side_03_end",
+    "nextChapterId": "act52side--activities__act52side__level_act52side_04_end"
+  },
+  "blocks": [],
+  "citations": []
+}

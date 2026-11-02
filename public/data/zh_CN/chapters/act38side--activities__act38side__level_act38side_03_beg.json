@@ -1,21 +1,21 @@
 {
-  "albumId": "act38side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "PV-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "PV-3_恶客盈门/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/PV-3_%E6%81%B6%E5%AE%A2%E7%9B%88%E9%97%A8/BEG"
-  },
   "id": "act38side--activities__act38side__level_act38side_03_beg",
-  "navigation": {
-    "nextChapterId": "act38side--activities__act38side__level_act38side_03_end",
-    "previousChapterId": "act38side--activities__act38side__level_act38side_02_end"
-  },
+  "albumId": "act38side",
+  "title": "恶客盈门",
   "subtitle": "PV-3",
+  "code": "PV-3",
+  "avgTag": "行动前",
   "summary": "info/activities/act38side/level_act38side_03_beg",
-  "title": "恶客盈门"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PV-3_%E6%81%B6%E5%AE%A2%E7%9B%88%E9%97%A8/BEG",
+    "page": "PV-3_恶客盈门/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act38side--activities__act38side__level_act38side_02_end",
+    "nextChapterId": "act38side--activities__act38side__level_act38side_03_end"
+  },
+  "blocks": [],
+  "citations": []
 }

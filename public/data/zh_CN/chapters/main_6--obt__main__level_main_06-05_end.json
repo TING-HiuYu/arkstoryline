@@ -1,21 +1,21 @@
 {
-  "albumId": "main_6",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "6-5",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "6-5_解决谁？/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/6-5_%E8%A7%A3%E5%86%B3%E8%B0%81%EF%BC%9F/END"
-  },
   "id": "main_6--obt__main__level_main_06-05_end",
-  "navigation": {
-    "nextChapterId": "main_6--obt__main__level_st_06-01",
-    "previousChapterId": "main_6--obt__main__level_main_06-05_beg"
-  },
+  "albumId": "main_6",
+  "title": "解决谁？",
   "subtitle": "6-5",
+  "code": "6-5",
+  "avgTag": "行动后",
   "summary": "info/obt/main/level_main_06-05_end",
-  "title": "解决谁？"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/6-5_%E8%A7%A3%E5%86%B3%E8%B0%81%EF%BC%9F/END",
+    "page": "6-5_解决谁？/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_6--obt__main__level_main_06-05_beg",
+    "nextChapterId": "main_6--obt__main__level_st_06-01"
+  },
+  "blocks": [],
+  "citations": []
 }

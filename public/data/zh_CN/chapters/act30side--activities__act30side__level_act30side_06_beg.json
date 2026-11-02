@@ -1,21 +1,21 @@
 {
-  "albumId": "act30side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "RS-6",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "RS-6_补票！/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/RS-6_%E8%A1%A5%E7%A5%A8%EF%BC%81/BEG"
-  },
   "id": "act30side--activities__act30side__level_act30side_06_beg",
-  "navigation": {
-    "nextChapterId": "act30side--activities__act30side__level_act30side_06_end",
-    "previousChapterId": "act30side--activities__act30side__level_act30side_st02"
-  },
+  "albumId": "act30side",
+  "title": "补票！",
   "subtitle": "RS-6",
+  "code": "RS-6",
+  "avgTag": "行动前",
   "summary": "info/activities/act30side/level_act30side_06_beg",
-  "title": "补票！"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RS-6_%E8%A1%A5%E7%A5%A8%EF%BC%81/BEG",
+    "page": "RS-6_补票！/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act30side--activities__act30side__level_act30side_st02",
+    "nextChapterId": "act30side--activities__act30side__level_act30side_06_end"
+  },
+  "blocks": [],
+  "citations": []
 }

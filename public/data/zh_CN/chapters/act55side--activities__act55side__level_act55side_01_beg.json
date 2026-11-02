@@ -1,0 +1,21 @@
+{
+  "id": "act55side--activities__act55side__level_act55side_01_beg",
+  "albumId": "act55side",
+  "title": "庸俗的实践",
+  "subtitle": "TL-1",
+  "code": "TL-1",
+  "avgTag": "行动前",
+  "summary": "info/activities/act55side/level_act55side_01_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TL-1_%E5%BA%B8%E4%BF%97%E7%9A%84%E5%AE%9E%E8%B7%B5/BEG",
+    "page": "TL-1_庸俗的实践/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act55side--activities__act55side__level_act55side_st01",
+    "nextChapterId": "act55side--activities__act55side__level_act55side_01_end"
+  },
+  "blocks": [],
+  "citations": []
+}

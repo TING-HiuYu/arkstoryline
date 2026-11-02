@@ -1,0 +1,234 @@
+{
+  "id": "act54side",
+  "slug": "act54side",
+  "title": "月行水上",
+  "sourceEntryType": "UNKNOWN",
+  "albumKind": "sidestory",
+  "homeSection": "sideStory",
+  "timelineRank": 1788476400,
+  "cover": {
+    "primaryImageId": "storyEntryPic_act54side",
+    "storyEntryPicId": "storyEntryPic_act54side",
+    "url": "https://media.prts.wiki/0/07/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%9C%88%E8%A1%8C%E6%B0%B4%E4%B8%8A.png",
+    "source": "review-entry-pic",
+    "assetStatus": "disabled",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 1788476400,
+  "chapters": [
+    {
+      "id": "act54side--activities__act54side__level_act54side_st01",
+      "albumId": "act54side",
+      "title": "月落",
+      "code": "SR-ST-1",
+      "avgTag": "幕间",
+      "sort": 1,
+      "path": "chapters/act54side--activities__act54side__level_act54side_st01.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SR-ST-1_%E6%9C%88%E8%90%BD/NBT",
+        "page": "SR-ST-1_月落/NBT",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act54side--activities__act54side__level_act54side_01_beg",
+      "albumId": "act54side",
+      "title": "月出",
+      "code": "SR-1",
+      "avgTag": "行动前",
+      "sort": 2,
+      "path": "chapters/act54side--activities__act54side__level_act54side_01_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SR-1_%E6%9C%88%E5%87%BA/BEG",
+        "page": "SR-1_月出/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act54side--activities__act54side__level_act54side_02_beg",
+      "albumId": "act54side",
+      "title": "月涌",
+      "code": "SR-2",
+      "avgTag": "行动前",
+      "sort": 3,
+      "path": "chapters/act54side--activities__act54side__level_act54side_02_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SR-2_%E6%9C%88%E6%B6%8C/BEG",
+        "page": "SR-2_月涌/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act54side--activities__act54side__level_act54side_03_beg",
+      "albumId": "act54side",
+      "title": "月晕",
+      "code": "SR-3",
+      "avgTag": "行动前",
+      "sort": 4,
+      "path": "chapters/act54side--activities__act54side__level_act54side_03_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SR-3_%E6%9C%88%E6%99%95/BEG",
+        "page": "SR-3_月晕/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act54side--activities__act54side__level_act54side_04_beg",
+      "albumId": "act54side",
+      "title": "月移",
+      "code": "SR-4",
+      "avgTag": "行动前",
+      "sort": 5,
+      "path": "chapters/act54side--activities__act54side__level_act54side_04_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SR-4_%E6%9C%88%E7%A7%BB/BEG",
+        "page": "SR-4_月移/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act54side--activities__act54side__level_act54side_05_beg",
+      "albumId": "act54side",
+      "title": "月斜",
+      "code": "SR-5",
+      "avgTag": "行动前",
+      "sort": 6,
+      "path": "chapters/act54side--activities__act54side__level_act54side_05_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SR-5_%E6%9C%88%E6%96%9C/BEG",
+        "page": "SR-5_月斜/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act54side--activities__act54side__level_act54side_06_beg",
+      "albumId": "act54side",
+      "title": "月蚀",
+      "code": "SR-6",
+      "avgTag": "行动前",
+      "sort": 7,
+      "path": "chapters/act54side--activities__act54side__level_act54side_06_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SR-6_%E6%9C%88%E8%9A%80/BEG",
+        "page": "SR-6_月蚀/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act54side--activities__act54side__level_act54side_06_end",
+      "albumId": "act54side",
+      "title": "月蚀",
+      "code": "SR-6",
+      "avgTag": "行动后",
+      "sort": 8,
+      "path": "chapters/act54side--activities__act54side__level_act54side_06_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SR-6_%E6%9C%88%E8%9A%80/END",
+        "page": "SR-6_月蚀/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act54side--activities__act54side__level_act54side_07_beg",
+      "albumId": "act54side",
+      "title": "月悬",
+      "code": "SR-7",
+      "avgTag": "行动前",
+      "sort": 9,
+      "path": "chapters/act54side--activities__act54side__level_act54side_07_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SR-7_%E6%9C%88%E6%82%AC/BEG",
+        "page": "SR-7_月悬/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act54side--activities__act54side__level_act54side_07_end",
+      "albumId": "act54side",
+      "title": "月悬",
+      "code": "SR-7",
+      "avgTag": "行动后",
+      "sort": 10,
+      "path": "chapters/act54side--activities__act54side__level_act54side_07_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SR-7_%E6%9C%88%E6%82%AC/END",
+        "page": "SR-7_月悬/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act54side--activities__act54side__level_act54side_08_beg",
+      "albumId": "act54side",
+      "title": "月满",
+      "code": "SR-8",
+      "avgTag": "行动前",
+      "sort": 11,
+      "path": "chapters/act54side--activities__act54side__level_act54side_08_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SR-8_%E6%9C%88%E6%BB%A1/BEG",
+        "page": "SR-8_月满/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act54side--activities__act54side__level_act54side_08_end",
+      "albumId": "act54side",
+      "title": "月满",
+      "code": "SR-8",
+      "avgTag": "行动后",
+      "sort": 12,
+      "path": "chapters/act54side--activities__act54side__level_act54side_08_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SR-8_%E6%9C%88%E6%BB%A1/END",
+        "page": "SR-8_月满/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act54side--activities__act54side__level_act54side_st02",
+      "albumId": "act54side",
+      "title": "满月一生",
+      "code": "SR-ST-2",
+      "avgTag": "幕间",
+      "sort": 13,
+      "path": "chapters/act54side--activities__act54side__level_act54side_st02.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/SR-ST-2_%E6%BB%A1%E6%9C%88%E4%B8%80%E7%94%9F/NBT",
+        "page": "SR-ST-2_满月一生/NBT",
+        "kind": "scenario-html"
+      }
+    }
+  ],
+  "source": {
+    "providerId": "github-raw",
+    "revision": "63c7cec73c3858d0ae913f85cc89af3cef4d744f",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
+  },
+  "extras": []
+}

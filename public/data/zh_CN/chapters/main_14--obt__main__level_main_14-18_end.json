@@ -1,21 +1,21 @@
 {
-  "albumId": "main_14",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "14-20",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "14-20_列王行迹/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/14-20_%E5%88%97%E7%8E%8B%E8%A1%8C%E8%BF%B9/END"
-  },
   "id": "main_14--obt__main__level_main_14-18_end",
-  "navigation": {
-    "nextChapterId": "main_14--obt__main__level_main_14-19_beg",
-    "previousChapterId": "main_14--obt__main__level_main_14-18_beg"
-  },
+  "albumId": "main_14",
+  "title": "列王行迹",
   "subtitle": "14-20",
+  "code": "14-20",
+  "avgTag": "行动后",
   "summary": "info/obt/main/level_main_14-18_end",
-  "title": "列王行迹"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-20_%E5%88%97%E7%8E%8B%E8%A1%8C%E8%BF%B9/END",
+    "page": "14-20_列王行迹/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_14--obt__main__level_main_14-18_beg",
+    "nextChapterId": "main_14--obt__main__level_main_14-19_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

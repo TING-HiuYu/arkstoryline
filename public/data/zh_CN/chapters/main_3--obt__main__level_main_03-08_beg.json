@@ -1,21 +1,21 @@
 {
-  "albumId": "main_3",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "3-8",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "3-8_黄昏/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/3-8_%E9%BB%84%E6%98%8F/BEG"
-  },
   "id": "main_3--obt__main__level_main_03-08_beg",
-  "navigation": {
-    "nextChapterId": "main_3--obt__main__level_main_03-08_end",
-    "previousChapterId": "main_3--obt__main__level_main_03-07_end"
-  },
+  "albumId": "main_3",
+  "title": "黄昏",
   "subtitle": "3-8",
+  "code": "3-8",
+  "avgTag": "行动前",
   "summary": "info/obt/main/level_main_03-08_beg",
-  "title": "黄昏"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/3-8_%E9%BB%84%E6%98%8F/BEG",
+    "page": "3-8_黄昏/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_3--obt__main__level_main_03-07_end",
+    "nextChapterId": "main_3--obt__main__level_main_03-08_end"
+  },
+  "blocks": [],
+  "citations": []
 }

@@ -1,21 +1,21 @@
 {
-  "albumId": "main_16",
-  "avgTag": "幕间",
-  "blocks": [],
-  "citations": [],
-  "code": "EG-10",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "EG-10_无前/NBT",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/EG-10_%E6%97%A0%E5%89%8D/NBT"
-  },
   "id": "main_16--obt__main__level_spst_16-04",
-  "navigation": {
-    "nextChapterId": null,
-    "previousChapterId": "main_16--obt__main__level_spst_16-03"
-  },
+  "albumId": "main_16",
+  "title": "无前",
   "subtitle": "EG-10",
+  "code": "EG-10",
+  "avgTag": "幕间",
   "summary": "info/obt/main/level_spst_16-04",
-  "title": "无前"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EG-10_%E6%97%A0%E5%89%8D/NBT",
+    "page": "EG-10_无前/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_16--obt__main__level_spst_16-03",
+    "nextChapterId": null
+  },
+  "blocks": [],
+  "citations": []
 }

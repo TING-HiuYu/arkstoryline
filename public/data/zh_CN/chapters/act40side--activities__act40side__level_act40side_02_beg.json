@@ -1,21 +1,21 @@
 {
-  "albumId": "act40side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "OR-2",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "OR-2_糖瓜粘/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/OR-2_%E7%B3%96%E7%93%9C%E7%B2%98/BEG"
-  },
   "id": "act40side--activities__act40side__level_act40side_02_beg",
-  "navigation": {
-    "nextChapterId": "act40side--activities__act40side__level_act40side_02_end",
-    "previousChapterId": "act40side--activities__act40side__level_act40side_01_end"
-  },
+  "albumId": "act40side",
+  "title": "糖瓜粘",
   "subtitle": "OR-2",
+  "code": "OR-2",
+  "avgTag": "行动前",
   "summary": "info/activities/act40side/level_act40side_02_beg",
-  "title": "糖瓜粘"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OR-2_%E7%B3%96%E7%93%9C%E7%B2%98/BEG",
+    "page": "OR-2_糖瓜粘/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act40side--activities__act40side__level_act40side_01_end",
+    "nextChapterId": "act40side--activities__act40side__level_act40side_02_end"
+  },
+  "blocks": [],
+  "citations": []
 }

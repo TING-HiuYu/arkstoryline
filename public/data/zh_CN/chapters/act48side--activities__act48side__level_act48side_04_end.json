@@ -1,21 +1,21 @@
 {
-  "albumId": "act48side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "ME-4",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "ME-4_失手/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/ME-4_%E5%A4%B1%E6%89%8B/END"
-  },
   "id": "act48side--activities__act48side__level_act48side_04_end",
-  "navigation": {
-    "nextChapterId": "act48side--activities__act48side__level_act48side_st02",
-    "previousChapterId": "act48side--activities__act48side__level_act48side_04_beg"
-  },
+  "albumId": "act48side",
+  "title": "失手",
   "subtitle": "ME-4",
+  "code": "ME-4",
+  "avgTag": "行动后",
   "summary": "info/activities/act48side/level_act48side_04_end",
-  "title": "失手"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ME-4_%E5%A4%B1%E6%89%8B/END",
+    "page": "ME-4_失手/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act48side--activities__act48side__level_act48side_04_beg",
+    "nextChapterId": "act48side--activities__act48side__level_act48side_st02"
+  },
+  "blocks": [],
+  "citations": []
 }

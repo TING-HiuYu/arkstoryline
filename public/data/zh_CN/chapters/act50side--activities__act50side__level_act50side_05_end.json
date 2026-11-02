@@ -1,0 +1,21 @@
+{
+  "id": "act50side--activities__act50side__level_act50side_05_end",
+  "albumId": "act50side",
+  "title": "只能成功，不能失败",
+  "subtitle": "TD-5",
+  "code": "TD-5",
+  "avgTag": "行动后",
+  "summary": "info/activities/act50side/level_act50side_05_end",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TD-5_%E5%8F%AA%E8%83%BD%E6%88%90%E5%8A%9F%EF%BC%8C%E4%B8%8D%E8%83%BD%E5%A4%B1%E8%B4%A5/END",
+    "page": "TD-5_只能成功，不能失败/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act50side--activities__act50side__level_act50side_05_beg",
+    "nextChapterId": "act50side--activities__act50side__level_act50side_06_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

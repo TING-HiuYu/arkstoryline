@@ -1,21 +1,21 @@
 {
-  "albumId": "act35side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "AS-6",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "AS-6_过往云烟/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/AS-6_%E8%BF%87%E5%BE%80%E4%BA%91%E7%83%9F/BEG"
-  },
   "id": "act35side--activities__act35side__level_act35side_06_beg",
-  "navigation": {
-    "nextChapterId": "act35side--activities__act35side__level_act35side_07_end",
-    "previousChapterId": "act35side--activities__act35side__level_act35side_st02"
-  },
+  "albumId": "act35side",
+  "title": "过往云烟",
   "subtitle": "AS-6",
+  "code": "AS-6",
+  "avgTag": "行动前",
   "summary": "info/activities/act35side/level_act35side_06_beg",
-  "title": "过往云烟"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AS-6_%E8%BF%87%E5%BE%80%E4%BA%91%E7%83%9F/BEG",
+    "page": "AS-6_过往云烟/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act35side--activities__act35side__level_act35side_st02",
+    "nextChapterId": "act35side--activities__act35side__level_act35side_07_end"
+  },
+  "blocks": [],
+  "citations": []
 }

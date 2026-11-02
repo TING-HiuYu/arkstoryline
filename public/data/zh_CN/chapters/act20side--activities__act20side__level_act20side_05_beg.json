@@ -1,21 +1,21 @@
 {
-  "albumId": "act20side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "IC-5",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "IC-5_加速冲线/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/IC-5_%E5%8A%A0%E9%80%9F%E5%86%B2%E7%BA%BF/BEG"
-  },
   "id": "act20side--activities__act20side__level_act20side_05_beg",
-  "navigation": {
-    "nextChapterId": "act20side--activities__act20side__level_act20side_05_end",
-    "previousChapterId": "act20side--activities__act20side__level_act20side_04_end"
-  },
+  "albumId": "act20side",
+  "title": "加速冲线",
   "subtitle": "IC-5",
+  "code": "IC-5",
+  "avgTag": "行动前",
   "summary": "info/activities/act20side/level_act20side_05_beg",
-  "title": "加速冲线"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IC-5_%E5%8A%A0%E9%80%9F%E5%86%B2%E7%BA%BF/BEG",
+    "page": "IC-5_加速冲线/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act20side--activities__act20side__level_act20side_04_end",
+    "nextChapterId": "act20side--activities__act20side__level_act20side_05_end"
+  },
+  "blocks": [],
+  "citations": []
 }

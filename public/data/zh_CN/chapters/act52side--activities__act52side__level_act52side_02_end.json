@@ -1,0 +1,21 @@
+{
+  "id": "act52side--activities__act52side__level_act52side_02_end",
+  "albumId": "act52side",
+  "title": "浮浮沉沉",
+  "subtitle": "YW-2",
+  "code": "YW-2",
+  "avgTag": "行动后",
+  "summary": "info/activities/act52side/level_act52side_02_end",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/YW-2_%E6%B5%AE%E6%B5%AE%E6%B2%89%E6%B2%89/END",
+    "page": "YW-2_浮浮沉沉/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act52side--activities__act52side__level_act52side_02_beg",
+    "nextChapterId": "act52side--activities__act52side__level_act52side_03_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

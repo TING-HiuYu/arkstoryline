@@ -1,21 +1,21 @@
 {
-  "albumId": "act46side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "OS-4",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "OS-4_并蒂生/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/OS-4_%E5%B9%B6%E8%92%82%E7%94%9F/END"
-  },
   "id": "act46side--activities__act46side__level_act46side_04_end",
-  "navigation": {
-    "nextChapterId": "act46side--activities__act46side__level_act46side_st02",
-    "previousChapterId": "act46side--activities__act46side__level_act46side_04_beg"
-  },
+  "albumId": "act46side",
+  "title": "并蒂生",
   "subtitle": "OS-4",
+  "code": "OS-4",
+  "avgTag": "行动后",
   "summary": "info/activities/act46side/level_act46side_04_end",
-  "title": "并蒂生"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/OS-4_%E5%B9%B6%E8%92%82%E7%94%9F/END",
+    "page": "OS-4_并蒂生/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act46side--activities__act46side__level_act46side_04_beg",
+    "nextChapterId": "act46side--activities__act46side__level_act46side_st02"
+  },
+  "blocks": [],
+  "citations": []
 }

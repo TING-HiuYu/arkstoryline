@@ -1,21 +1,21 @@
 {
-  "albumId": "act27side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "SL-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "SL-3_手指之家/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/SL-3_%E6%89%8B%E6%8C%87%E4%B9%8B%E5%AE%B6/END"
-  },
   "id": "act27side--activities__act27side__level_act27side_03_end",
-  "navigation": {
-    "nextChapterId": "act27side--activities__act27side__level_act27side_04_beg",
-    "previousChapterId": "act27side--activities__act27side__level_act27side_03_beg"
-  },
+  "albumId": "act27side",
+  "title": "手指之家",
   "subtitle": "SL-3",
+  "code": "SL-3",
+  "avgTag": "行动后",
   "summary": "info/activities/act27side/level_act27side_03_end",
-  "title": "手指之家"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SL-3_%E6%89%8B%E6%8C%87%E4%B9%8B%E5%AE%B6/END",
+    "page": "SL-3_手指之家/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act27side--activities__act27side__level_act27side_03_beg",
+    "nextChapterId": "act27side--activities__act27side__level_act27side_04_beg"
+  },
+  "blocks": [],
+  "citations": []
 }
