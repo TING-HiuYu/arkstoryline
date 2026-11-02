@@ -17,6 +17,8 @@ lerna-debug.log*
 node_modules/
 dist/
 dist-ssr/
+.wrangler/
+.wrangler-generated.json
 target/
 coverage/
 playwright-report/
