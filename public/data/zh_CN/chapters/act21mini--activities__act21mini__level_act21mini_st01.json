@@ -1,0 +1,19 @@
+{
+  "albumId": "act21mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BD-ST1_土壤病/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BD-ST1_%E5%9C%9F%E5%A3%A4%E7%97%85/NBT"
+  },
+  "id": "act21mini--activities__act21mini__level_act21mini_st01",
+  "navigation": {
+    "nextChapterId": "act21mini--activities__act21mini__level_act21mini_st02",
+    "previousChapterId": null
+  },
+  "summary": "info/activities/act21mini/level_act21mini_st01",
+  "title": "土壤病"
+}

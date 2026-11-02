@@ -1,21 +1,21 @@
 {
-  "albumId": "act51side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "PA-5",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "PA-5_高尚的背叛/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/PA-5_%E9%AB%98%E5%B0%9A%E7%9A%84%E8%83%8C%E5%8F%9B/END"
-  },
   "id": "act51side--activities__act51side__level_act51side_05_end",
-  "navigation": {
-    "nextChapterId": "act51side--activities__act51side__level_act51side_06_beg",
-    "previousChapterId": "act51side--activities__act51side__level_act51side_05_beg"
-  },
+  "albumId": "act51side",
+  "title": "高尚的背叛",
   "subtitle": "PA-5",
+  "code": "PA-5",
+  "avgTag": "行动后",
   "summary": "info/activities/act51side/level_act51side_05_end",
-  "title": "高尚的背叛"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/PA-5_%E9%AB%98%E5%B0%9A%E7%9A%84%E8%83%8C%E5%8F%9B/END",
+    "page": "PA-5_高尚的背叛/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act51side--activities__act51side__level_act51side_05_beg",
+    "nextChapterId": "act51side--activities__act51side__level_act51side_06_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

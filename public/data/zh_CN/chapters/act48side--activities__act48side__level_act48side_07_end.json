@@ -1,21 +1,21 @@
 {
-  "albumId": "act48side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "ME-7",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "ME-7_奔袭/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/ME-7_%E5%A5%94%E8%A2%AD/END"
-  },
   "id": "act48side--activities__act48side__level_act48side_07_end",
-  "navigation": {
-    "nextChapterId": "act48side--activities__act48side__level_act48side_08_beg",
-    "previousChapterId": "act48side--activities__act48side__level_act48side_07_beg"
-  },
+  "albumId": "act48side",
+  "title": "奔袭",
   "subtitle": "ME-7",
+  "code": "ME-7",
+  "avgTag": "行动后",
   "summary": "info/activities/act48side/level_act48side_07_end",
-  "title": "奔袭"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ME-7_%E5%A5%94%E8%A2%AD/END",
+    "page": "ME-7_奔袭/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act48side--activities__act48side__level_act48side_07_beg",
+    "nextChapterId": "act48side--activities__act48side__level_act48side_08_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T05:03:43.678089+00:00",
+  "generatedAt": "2026-11-02T08:50:46.088086+00:00",
   "operators": [
     {
       "exportManifest": {
@@ -651,7 +651,28 @@
             "title": "新茉莉酒馆"
           }
         ],
-        "modules": []
+        "modules": [
+          {
+            "id": "operator-08b01fe0ef:module:operator-08b01fe0ef:module:1",
+            "kind": "module",
+            "page": "松桐",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E6%9D%BE%E6%A1%90",
+            "title": "松桐证章"
+          },
+          {
+            "id": "operator-08b01fe0ef:module:operator-08b01fe0ef:module:2",
+            "kind": "module",
+            "page": "松桐",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E6%9D%BE%E6%A1%90",
+            "title": "神明的惦念"
+          }
+        ]
       },
       "faction": "东",
       "name": "松桐",
@@ -1156,6 +1177,16 @@
             ],
             "sourceUrl": "https://prts.wiki/w/%E7%83%9B%E7%85%8C",
             "title": "热切的期盼"
+          },
+          {
+            "id": "operator-0f1ebf6d2e:module:operator-0f1ebf6d2e:module:3",
+            "kind": "module",
+            "page": "烛煌",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E7%83%9B%E7%85%8C",
+            "title": "沟通小助手"
           }
         ]
       },
@@ -1183,7 +1214,15 @@
             "title": "档案"
           }
         ],
-        "confidential": [],
+        "confidential": [
+          {
+            "id": "operator-102423ea57:confidential:operator-102423ea57:confidential:1",
+            "kind": "confidential",
+            "page": "乌啾/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/%E4%B9%8C%E5%95%BE/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "号外！号外！"
+          }
+        ],
         "modules": [
           {
             "id": "operator-102423ea57:module:operator-102423ea57:module:1",
@@ -1382,6 +1421,16 @@
             ],
             "sourceUrl": "https://prts.wiki/w/%E7%BC%AA%E5%B0%94%E8%B5%9B%E6%80%9D",
             "title": "落叶四季"
+          },
+          {
+            "id": "operator-11fbc91549:module:operator-11fbc91549:module:4",
+            "kind": "module",
+            "page": "缪尔赛思",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E7%BC%AA%E5%B0%94%E8%B5%9B%E6%80%9D",
+            "title": "“缪尔赛思和朋友们”"
           }
         ]
       },
@@ -1605,7 +1654,15 @@
             "title": "档案"
           }
         ],
-        "confidential": [],
+        "confidential": [
+          {
+            "id": "operator-14df15fcc9:confidential:operator-14df15fcc9:confidential:1",
+            "kind": "confidential",
+            "page": "复奏/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/%E5%A4%8D%E5%A5%8F/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "春日序曲"
+          }
+        ],
         "modules": [
           {
             "id": "operator-14df15fcc9:module:operator-14df15fcc9:module:1",
@@ -2196,6 +2253,54 @@
       "profession": "医疗",
       "rarity": "4",
       "slug": "operator-1782c2ecdf"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
+            "id": "operator-184418d3c8:archive",
+            "kind": "archive",
+            "page": "焰狐龙梓兰",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E7%84%B0%E7%8B%90%E9%BE%99%E6%A2%93%E5%85%B0",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": [
+          {
+            "id": "operator-184418d3c8:module:operator-184418d3c8:module:1",
+            "kind": "module",
+            "page": "焰狐龙梓兰",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E7%84%B0%E7%8B%90%E9%BE%99%E6%A2%93%E5%85%B0",
+            "title": "焰狐龙梓兰证章"
+          },
+          {
+            "id": "operator-184418d3c8:module:operator-184418d3c8:module:2",
+            "kind": "module",
+            "page": "焰狐龙梓兰",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E7%84%B0%E7%8B%90%E9%BE%99%E6%A2%93%E5%85%B0",
+            "title": "梓兰特制箭靶"
+          }
+        ]
+      },
+      "faction": "行动预备组A6",
+      "name": "焰狐龙梓兰",
+      "page": "焰狐龙梓兰",
+      "profession": "狙击",
+      "rarity": "5",
+      "slug": "operator-184418d3c8"
     },
     {
       "exportManifest": {
@@ -4232,6 +4337,33 @@
       "exportManifest": {
         "archive": [
           {
+            "id": "operator-2d26a75c7e:archive",
+            "kind": "archive",
+            "page": "冻河",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%86%BB%E6%B2%B3",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": []
+      },
+      "faction": "乌萨斯",
+      "name": "冻河",
+      "page": "冻河",
+      "profession": "辅助",
+      "rarity": "5",
+      "slug": "operator-2d26a75c7e"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
             "id": "operator-3022e640ed:archive",
             "kind": "archive",
             "page": "卡涅利安",
@@ -4699,6 +4831,54 @@
       "exportManifest": {
         "archive": [
           {
+            "id": "operator-326a7f098b:archive",
+            "kind": "archive",
+            "page": "岳羽由加莉",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%B2%B3%E7%BE%BD%E7%94%B1%E5%8A%A0%E8%8E%89",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": [
+          {
+            "id": "operator-326a7f098b:module:operator-326a7f098b:module:1",
+            "kind": "module",
+            "page": "岳羽由加莉",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%B2%B3%E7%BE%BD%E7%94%B1%E5%8A%A0%E8%8E%89",
+            "title": "岳羽由加莉证章"
+          },
+          {
+            "id": "operator-326a7f098b:module:operator-326a7f098b:module:2",
+            "kind": "module",
+            "page": "岳羽由加莉",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%B2%B3%E7%BE%BD%E7%94%B1%E5%8A%A0%E8%8E%89",
+            "title": "命运的奖赏"
+          }
+        ]
+      },
+      "faction": "S.E.E.S.",
+      "name": "岳羽由加莉",
+      "page": "岳羽由加莉",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-326a7f098b"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
             "id": "operator-32f1e5ce6c:archive",
             "kind": "archive",
             "page": "杜林",
@@ -4859,7 +5039,15 @@
             "title": "档案"
           }
         ],
-        "confidential": [],
+        "confidential": [
+          {
+            "id": "operator-3379d48d24:confidential:operator-3379d48d24:confidential:1",
+            "kind": "confidential",
+            "page": "寒芒克洛丝/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/%E5%AF%92%E8%8A%92%E5%85%8B%E6%B4%9B%E4%B8%9D/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "蒙眬"
+          }
+        ],
         "modules": [
           {
             "id": "operator-3379d48d24:module:operator-3379d48d24:module:1",
@@ -5084,6 +5272,13 @@
             "page": "哈蒂娅/干员密录/1",
             "sourceUrl": "https://prts.wiki/w/%E5%93%88%E8%92%82%E5%A8%85/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
             "title": "去荒野的路"
+          },
+          {
+            "id": "operator-35c3d0feb5:confidential:operator-35c3d0feb5:confidential:2",
+            "kind": "confidential",
+            "page": "哈蒂娅/干员密录/2",
+            "sourceUrl": "https://prts.wiki/w/%E5%93%88%E8%92%82%E5%A8%85/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/2",
+            "title": "被抗拒者"
           }
         ],
         "modules": []
@@ -6174,6 +6369,16 @@
             ],
             "sourceUrl": "https://prts.wiki/w/%E7%84%B0%E5%BD%B1%E8%8B%87%E8%8D%89",
             "title": "“赠予红龙的花冠”"
+          },
+          {
+            "id": "operator-3c6903792e:module:operator-3c6903792e:module:3",
+            "kind": "module",
+            "page": "焰影苇草",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E7%84%B0%E5%BD%B1%E8%8B%87%E8%8D%89",
+            "title": "“独属自己的一隅”"
           }
         ]
       },
@@ -6240,6 +6445,16 @@
             ],
             "sourceUrl": "https://prts.wiki/w/%E5%8F%B7%E8%A7%92",
             "title": "旧日新装"
+          },
+          {
+            "id": "operator-3c7cb40107:module:operator-3c7cb40107:module:4",
+            "kind": "module",
+            "page": "号角",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%8F%B7%E8%A7%92",
+            "title": "号角特限证章"
           }
         ]
       },
@@ -6608,6 +6823,54 @@
       "exportManifest": {
         "archive": [
           {
+            "id": "operator-40cf87fdf3:archive",
+            "kind": "archive",
+            "page": "珊比",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E7%8F%8A%E6%AF%94",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": [
+          {
+            "id": "operator-40cf87fdf3:module:operator-40cf87fdf3:module:1",
+            "kind": "module",
+            "page": "珊比",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E7%8F%8A%E6%AF%94",
+            "title": "珊比证章"
+          },
+          {
+            "id": "operator-40cf87fdf3:module:operator-40cf87fdf3:module:2",
+            "kind": "module",
+            "page": "珊比",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E7%8F%8A%E6%AF%94",
+            "title": "出发的勇气"
+          }
+        ]
+      },
+      "faction": "雷姆必拓",
+      "name": "珊比",
+      "page": "珊比",
+      "profession": "重装",
+      "rarity": "5",
+      "slug": "operator-40cf87fdf3"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
             "id": "operator-40e23c7d2b:archive",
             "kind": "archive",
             "page": "夜刀",
@@ -6663,6 +6926,13 @@
             "page": "菲亚梅塔/干员密录/1",
             "sourceUrl": "https://prts.wiki/w/%E8%8F%B2%E4%BA%9A%E6%A2%85%E5%A1%94/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
             "title": "乐园"
+          },
+          {
+            "id": "operator-410f89ac9b:confidential:operator-410f89ac9b:confidential:2",
+            "kind": "confidential",
+            "page": "菲亚梅塔/干员密录/2",
+            "sourceUrl": "https://prts.wiki/w/%E8%8F%B2%E4%BA%9A%E6%A2%85%E5%A1%94/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/2",
+            "title": "在干净明亮的夜晚"
           }
         ],
         "modules": [
@@ -6695,6 +6965,16 @@
             ],
             "sourceUrl": "https://prts.wiki/w/%E8%8F%B2%E4%BA%9A%E6%A2%85%E5%A1%94",
             "title": "“律外”特种弹药配给组"
+          },
+          {
+            "id": "operator-410f89ac9b:module:operator-410f89ac9b:module:4",
+            "kind": "module",
+            "page": "菲亚梅塔",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E8%8F%B2%E4%BA%9A%E6%A2%85%E5%A1%94",
+            "title": "菲亚梅塔特限证章"
           }
         ]
       },
@@ -7355,6 +7635,33 @@
       "exportManifest": {
         "archive": [
           {
+            "id": "operator-49d264359c:archive",
+            "kind": "archive",
+            "page": "克莱门莎",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%85%8B%E8%8E%B1%E9%97%A8%E8%8E%8E",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": []
+      },
+      "faction": "阿戈尔",
+      "name": "克莱门莎",
+      "page": "克莱门莎",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-49d264359c"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
             "id": "operator-4a2a890141:archive",
             "kind": "archive",
             "page": "红云",
@@ -7581,6 +7888,33 @@
       "profession": "辅助",
       "rarity": "4",
       "slug": "operator-4aac1fe227"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
+            "id": "operator-4ba5706aa9:archive",
+            "kind": "archive",
+            "page": "塔露拉",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%A1%94%E9%9C%B2%E6%8B%89",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": []
+      },
+      "faction": "乌萨斯",
+      "name": "塔露拉",
+      "page": "塔露拉",
+      "profession": "近卫",
+      "rarity": "5",
+      "slug": "operator-4ba5706aa9"
     },
     {
       "exportManifest": {
@@ -8177,6 +8511,33 @@
       "profession": "近卫",
       "rarity": "4",
       "slug": "operator-4f2e618af1"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
+            "id": "operator-4f49f45bc3:archive",
+            "kind": "archive",
+            "page": "行铃",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E8%A1%8C%E9%93%83",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": []
+      },
+      "faction": "米诺斯",
+      "name": "行铃",
+      "page": "行铃",
+      "profession": "特种",
+      "rarity": "3",
+      "slug": "operator-4f49f45bc3"
     },
     {
       "exportManifest": {
@@ -9252,6 +9613,81 @@
       "exportManifest": {
         "archive": [
           {
+            "id": "operator-586b14b18f:archive",
+            "kind": "archive",
+            "page": "罗德岛隐秘队",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E7%BD%97%E5%BE%B7%E5%B2%9B%E9%9A%90%E7%A7%98%E9%98%9F",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": []
+      },
+      "faction": "罗德岛",
+      "name": "罗德岛隐秘队",
+      "page": "罗德岛隐秘队",
+      "profession": "先锋",
+      "rarity": "0",
+      "slug": "operator-586b14b18f"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
+            "id": "operator-5b0f2c14af:archive",
+            "kind": "archive",
+            "page": "雷狼龙S空爆",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E9%9B%B7%E7%8B%BC%E9%BE%99S%E7%A9%BA%E7%88%86",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": [
+          {
+            "id": "operator-5b0f2c14af:module:operator-5b0f2c14af:module:1",
+            "kind": "module",
+            "page": "雷狼龙S空爆",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E9%9B%B7%E7%8B%BC%E9%BE%99S%E7%A9%BA%E7%88%86",
+            "title": "雷狼龙S空爆证章"
+          },
+          {
+            "id": "operator-5b0f2c14af:module:operator-5b0f2c14af:module:2",
+            "kind": "module",
+            "page": "雷狼龙S空爆",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E9%9B%B7%E7%8B%BC%E9%BE%99S%E7%A9%BA%E7%88%86",
+            "title": "狩猎之路"
+          }
+        ]
+      },
+      "faction": "行动预备组A6",
+      "name": "雷狼龙S空爆",
+      "page": "雷狼龙S空爆",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-5b0f2c14af"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
             "id": "operator-5ce6388523:archive",
             "kind": "archive",
             "page": "絮雨",
@@ -9442,6 +9878,13 @@
             "page": "红隼/干员密录/1",
             "sourceUrl": "https://prts.wiki/w/%E7%BA%A2%E9%9A%BC/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
             "title": "未来的痕迹"
+          },
+          {
+            "id": "operator-5e563046a8:confidential:operator-5e563046a8:confidential:2",
+            "kind": "confidential",
+            "page": "红隼/干员密录/2",
+            "sourceUrl": "https://prts.wiki/w/%E7%BA%A2%E9%9A%BC/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/2",
+            "title": "第一道伤疤"
           }
         ],
         "modules": [
@@ -9988,6 +10431,54 @@
       "exportManifest": {
         "archive": [
           {
+            "id": "operator-65f783a814:archive",
+            "kind": "archive",
+            "page": "旅骨",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E6%97%85%E9%AA%A8",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": [
+          {
+            "id": "operator-65f783a814:module:operator-65f783a814:module:1",
+            "kind": "module",
+            "page": "旅骨",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E6%97%85%E9%AA%A8",
+            "title": "旅骨证章"
+          },
+          {
+            "id": "operator-65f783a814:module:operator-65f783a814:module:2",
+            "kind": "module",
+            "page": "旅骨",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E6%97%85%E9%AA%A8",
+            "title": "看不见的大海"
+          }
+        ]
+      },
+      "faction": "伊比利亚",
+      "name": "旅骨",
+      "page": "旅骨",
+      "profession": "特种",
+      "rarity": "4",
+      "slug": "operator-65f783a814"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
             "id": "operator-660dd51a9f:archive",
             "kind": "archive",
             "page": "截云",
@@ -10414,6 +10905,16 @@
             ],
             "sourceUrl": "https://prts.wiki/w/%E9%BA%92%E9%BA%9FR%E5%A4%9C%E5%88%80",
             "title": "训练用木桩"
+          },
+          {
+            "id": "operator-6b8db6bc07:module:operator-6b8db6bc07:module:3",
+            "kind": "module",
+            "page": "麒麟R夜刀",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E9%BA%92%E9%BA%9FR%E5%A4%9C%E5%88%80",
+            "title": "罗德岛制式双刀"
           }
         ]
       },
@@ -10779,7 +11280,15 @@
             "title": "档案"
           }
         ],
-        "confidential": [],
+        "confidential": [
+          {
+            "id": "operator-7009ea9b44:confidential:operator-7009ea9b44:confidential:1",
+            "kind": "confidential",
+            "page": "贝洛内/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/%E8%B4%9D%E6%B4%9B%E5%86%85/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "一个没有家主的家族"
+          }
+        ],
         "modules": [
           {
             "id": "operator-7009ea9b44:module:operator-7009ea9b44:module:1",
@@ -10844,6 +11353,62 @@
       "profession": "先锋",
       "rarity": "2",
       "slug": "operator-7068735a4d"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
+            "id": "operator-72cc04045f:archive",
+            "kind": "archive",
+            "page": "嘉辛塔",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%98%89%E8%BE%9B%E5%A1%94",
+            "title": "档案"
+          }
+        ],
+        "confidential": [
+          {
+            "id": "operator-72cc04045f:confidential:operator-72cc04045f:confidential:1",
+            "kind": "confidential",
+            "page": "嘉辛塔/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/%E5%98%89%E8%BE%9B%E5%A1%94/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "破土而出"
+          }
+        ],
+        "modules": [
+          {
+            "id": "operator-72cc04045f:module:operator-72cc04045f:module:1",
+            "kind": "module",
+            "page": "嘉辛塔",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%98%89%E8%BE%9B%E5%A1%94",
+            "title": "嘉辛塔证章"
+          },
+          {
+            "id": "operator-72cc04045f:module:operator-72cc04045f:module:2",
+            "kind": "module",
+            "page": "嘉辛塔",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%98%89%E8%BE%9B%E5%A1%94",
+            "title": "弹射起步"
+          }
+        ]
+      },
+      "faction": "雷姆必拓",
+      "name": "嘉辛塔",
+      "page": "嘉辛塔",
+      "profession": "先锋",
+      "rarity": "4",
+      "slug": "operator-72cc04045f"
     },
     {
       "exportManifest": {
@@ -11061,6 +11626,16 @@
             ],
             "sourceUrl": "https://prts.wiki/w/%E5%A8%9C%E4%BB%81%E5%9B%BE%E4%BA%9A",
             "title": "“吹尽狂沙”"
+          },
+          {
+            "id": "operator-74a85fb443:module:operator-74a85fb443:module:3",
+            "kind": "module",
+            "page": "娜仁图亚",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%A8%9C%E4%BB%81%E5%9B%BE%E4%BA%9A",
+            "title": "“致我们的老大”"
           }
         ]
       },
@@ -11710,6 +12285,33 @@
       "exportManifest": {
         "archive": [
           {
+            "id": "operator-7acf5f1925:archive",
+            "kind": "archive",
+            "page": "予愿安洁莉娜",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E4%BA%88%E6%84%BF%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": []
+      },
+      "faction": "罗德岛",
+      "name": "予愿安洁莉娜",
+      "page": "予愿安洁莉娜",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-7acf5f1925"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
             "id": "operator-7b9d15dd98:archive",
             "kind": "archive",
             "page": "祐天寺若麦",
@@ -11856,6 +12458,16 @@
             ],
             "sourceUrl": "https://prts.wiki/w/%E9%BB%8D",
             "title": "“钦天司时”"
+          },
+          {
+            "id": "operator-7c8ea94bba:module:operator-7c8ea94bba:module:3",
+            "kind": "module",
+            "page": "黍",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E9%BB%8D",
+            "title": "好时节"
           }
         ]
       },
@@ -12460,7 +13072,15 @@
             "title": "档案"
           }
         ],
-        "confidential": [],
+        "confidential": [
+          {
+            "id": "operator-8217cacde8:confidential:operator-8217cacde8:confidential:1",
+            "kind": "confidential",
+            "page": "PhonoR-0/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/PhonoR-0/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "河水流向眼睛"
+          }
+        ],
         "modules": []
       },
       "faction": "罗德岛",
@@ -12635,6 +13255,16 @@
             ],
             "sourceUrl": "https://prts.wiki/w/%E4%BB%87%E7%99%BD",
             "title": "雪浸过的斗笠"
+          },
+          {
+            "id": "operator-83d36f357c:module:operator-83d36f357c:module:3",
+            "kind": "module",
+            "page": "仇白",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E4%BB%87%E7%99%BD",
+            "title": "欲雪时"
           }
         ]
       },
@@ -12773,6 +13403,16 @@
             ],
             "sourceUrl": "https://prts.wiki/w/%E4%B9%8C%E5%B0%94%E6%AF%94%E5%AE%89",
             "title": "乌尔比安的衣橱"
+          },
+          {
+            "id": "operator-851f83326b:module:operator-851f83326b:module:3",
+            "kind": "module",
+            "page": "乌尔比安",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E4%B9%8C%E5%B0%94%E6%AF%94%E5%AE%89",
+            "title": "“前路”"
           }
         ]
       },
@@ -13028,6 +13668,62 @@
       "exportManifest": {
         "archive": [
           {
+            "id": "operator-8769888d70:archive",
+            "kind": "archive",
+            "page": "时隙",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E6%97%B6%E9%9A%99",
+            "title": "档案"
+          }
+        ],
+        "confidential": [
+          {
+            "id": "operator-8769888d70:confidential:operator-8769888d70:confidential:1",
+            "kind": "confidential",
+            "page": "时隙/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/%E6%97%B6%E9%9A%99/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "嗝尽所能"
+          }
+        ],
+        "modules": [
+          {
+            "id": "operator-8769888d70:module:operator-8769888d70:module:1",
+            "kind": "module",
+            "page": "时隙",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E6%97%B6%E9%9A%99",
+            "title": "时隙证章"
+          },
+          {
+            "id": "operator-8769888d70:module:operator-8769888d70:module:2",
+            "kind": "module",
+            "page": "时隙",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E6%97%B6%E9%9A%99",
+            "title": "突发性创造思维"
+          }
+        ]
+      },
+      "faction": "雷姆必拓",
+      "name": "时隙",
+      "page": "时隙",
+      "profession": "术师",
+      "rarity": "4",
+      "slug": "operator-8769888d70"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
             "id": "operator-88079190a0:archive",
             "kind": "archive",
             "page": "风丸",
@@ -13161,7 +13857,28 @@
           }
         ],
         "confidential": [],
-        "modules": []
+        "modules": [
+          {
+            "id": "operator-8bcf173f58:module:operator-8bcf173f58:module:1",
+            "kind": "module",
+            "page": "凛御银灰",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%87%9B%E5%BE%A1%E9%93%B6%E7%81%B0",
+            "title": "凛御银灰证章"
+          },
+          {
+            "id": "operator-8bcf173f58:module:operator-8bcf173f58:module:2",
+            "kind": "module",
+            "page": "凛御银灰",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%87%9B%E5%BE%A1%E9%93%B6%E7%81%B0",
+            "title": "邀约"
+          }
+        ]
       },
       "faction": "谢拉格",
       "name": "凛御银灰",
@@ -14408,7 +15125,15 @@
             "title": "档案"
           }
         ],
-        "confidential": [],
+        "confidential": [
+          {
+            "id": "operator-9bd48b8dc7:confidential:operator-9bd48b8dc7:confidential:1",
+            "kind": "confidential",
+            "page": "杜宾/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/%E6%9D%9C%E5%AE%BE/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "在玻利瓦尔以外"
+          }
+        ],
         "modules": [
           {
             "id": "operator-9bd48b8dc7:module:operator-9bd48b8dc7:module:1",
@@ -15492,6 +16217,102 @@
       "exportManifest": {
         "archive": [
           {
+            "id": "operator-a65963ceae:archive",
+            "kind": "archive",
+            "page": "谬因",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E8%B0%AC%E5%9B%A0",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": [
+          {
+            "id": "operator-a65963ceae:module:operator-a65963ceae:module:1",
+            "kind": "module",
+            "page": "谬因",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E8%B0%AC%E5%9B%A0",
+            "title": "谬因证章"
+          },
+          {
+            "id": "operator-a65963ceae:module:operator-a65963ceae:module:2",
+            "kind": "module",
+            "page": "谬因",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E8%B0%AC%E5%9B%A0",
+            "title": "第三相态"
+          }
+        ]
+      },
+      "faction": "哥伦比亚",
+      "name": "谬因",
+      "page": "谬因",
+      "profession": "术师",
+      "rarity": "5",
+      "slug": "operator-a65963ceae"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
+            "id": "operator-a73677abbd:archive",
+            "kind": "archive",
+            "page": "机械师",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E6%9C%BA%E6%A2%B0%E5%B8%88",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": [
+          {
+            "id": "operator-a73677abbd:module:operator-a73677abbd:module:1",
+            "kind": "module",
+            "page": "机械师",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E6%9C%BA%E6%A2%B0%E5%B8%88",
+            "title": "机械师证章"
+          },
+          {
+            "id": "operator-a73677abbd:module:operator-a73677abbd:module:2",
+            "kind": "module",
+            "page": "机械师",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E6%9C%BA%E6%A2%B0%E5%B8%88",
+            "title": "机械师特勤证章"
+          }
+        ]
+      },
+      "faction": "罗德岛-精英干员",
+      "name": "机械师",
+      "page": "机械师",
+      "profession": "重装",
+      "rarity": "5",
+      "slug": "operator-a73677abbd"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
             "id": "operator-a78976de98:archive",
             "kind": "archive",
             "page": "忍冬",
@@ -15526,6 +16347,16 @@
             ],
             "sourceUrl": "https://prts.wiki/w/%E5%BF%8D%E5%86%AC",
             "title": "杀手也有假期"
+          },
+          {
+            "id": "operator-a78976de98:module:operator-a78976de98:module:3",
+            "kind": "module",
+            "page": "忍冬",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%BF%8D%E5%86%AC",
+            "title": "剑舞"
           }
         ]
       },
@@ -16893,6 +17724,13 @@
             "page": "夜半/干员密录/1",
             "sourceUrl": "https://prts.wiki/w/%E5%A4%9C%E5%8D%8A/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
             "title": "荒地生灵"
+          },
+          {
+            "id": "operator-b626628155:confidential:operator-b626628155:confidential:2",
+            "kind": "confidential",
+            "page": "夜半/干员密录/2",
+            "sourceUrl": "https://prts.wiki/w/%E5%A4%9C%E5%8D%8A/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/2",
+            "title": "赏金猎人转行后"
           }
         ],
         "modules": [
@@ -17685,6 +18523,54 @@
       "exportManifest": {
         "archive": [
           {
+            "id": "operator-c04d6742ac:archive",
+            "kind": "archive",
+            "page": "结城理",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E7%BB%93%E5%9F%8E%E7%90%86",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": [
+          {
+            "id": "operator-c04d6742ac:module:operator-c04d6742ac:module:1",
+            "kind": "module",
+            "page": "结城理",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E7%BB%93%E5%9F%8E%E7%90%86",
+            "title": "结城理证章"
+          },
+          {
+            "id": "operator-c04d6742ac:module:operator-c04d6742ac:module:2",
+            "kind": "module",
+            "page": "结城理",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E7%BB%93%E5%9F%8E%E7%90%86",
+            "title": "彼此的声音"
+          }
+        ]
+      },
+      "faction": "S.E.E.S.",
+      "name": "结城理",
+      "page": "结城理",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-c04d6742ac"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
             "id": "operator-c062c3da7f:archive",
             "kind": "archive",
             "page": "聆音",
@@ -17698,7 +18584,15 @@
             "title": "档案"
           }
         ],
-        "confidential": [],
+        "confidential": [
+          {
+            "id": "operator-c062c3da7f:confidential:operator-c062c3da7f:confidential:1",
+            "kind": "confidential",
+            "page": "聆音/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/%E8%81%86%E9%9F%B3/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "砸碎一抹微笑"
+          }
+        ],
         "modules": []
       },
       "faction": "玻利瓦尔",
@@ -18123,7 +19017,15 @@
             "title": "档案"
           }
         ],
-        "confidential": [],
+        "confidential": [
+          {
+            "id": "operator-c63cdb40f7:confidential:operator-c63cdb40f7:confidential:1",
+            "kind": "confidential",
+            "page": "天空盒/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/%E5%A4%A9%E7%A9%BA%E7%9B%92/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "红气球，蓝气球"
+          }
+        ],
         "modules": []
       },
       "faction": "哥伦比亚",
@@ -18185,7 +19087,15 @@
             "title": "档案"
           }
         ],
-        "confidential": [],
+        "confidential": [
+          {
+            "id": "operator-c6a94223ee:confidential:operator-c6a94223ee:confidential:1",
+            "kind": "confidential",
+            "page": "裂响/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/%E8%A3%82%E5%93%8D/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "昨日已死"
+          }
+        ],
         "modules": [
           {
             "id": "operator-c6a94223ee:module:operator-c6a94223ee:module:1",
@@ -18233,7 +19143,15 @@
             "title": "档案"
           }
         ],
-        "confidential": [],
+        "confidential": [
+          {
+            "id": "operator-c6e34b48fb:confidential:operator-c6e34b48fb:confidential:1",
+            "kind": "confidential",
+            "page": "裁度/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/%E8%A3%81%E5%BA%A6/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "体面的本分"
+          }
+        ],
         "modules": [
           {
             "id": "operator-c6e34b48fb:module:operator-c6e34b48fb:module:1",
@@ -18329,6 +19247,33 @@
       "profession": "近卫",
       "rarity": "5",
       "slug": "operator-c6f16d91f2"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
+            "id": "operator-c6f8c0d895:archive",
+            "kind": "archive",
+            "page": "佩德洛",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E4%BD%A9%E5%BE%B7%E6%B4%9B",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": []
+      },
+      "faction": "玻利瓦尔",
+      "name": "佩德洛",
+      "page": "佩德洛",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-c6f8c0d895"
     },
     {
       "exportManifest": {
@@ -18719,6 +19664,13 @@
             "page": "渡桥/干员密录/1",
             "sourceUrl": "https://prts.wiki/w/%E6%B8%A1%E6%A1%A5/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
             "title": "白纸黑字"
+          },
+          {
+            "id": "operator-caae678335:confidential:operator-caae678335:confidential:2",
+            "kind": "confidential",
+            "page": "渡桥/干员密录/2",
+            "sourceUrl": "https://prts.wiki/w/%E6%B8%A1%E6%A1%A5/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/2",
+            "title": "有始有终"
           }
         ],
         "modules": [
@@ -18921,6 +19873,54 @@
       "exportManifest": {
         "archive": [
           {
+            "id": "operator-cebc39e47c:archive",
+            "kind": "archive",
+            "page": "埃癸斯",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%9F%83%E7%99%B8%E6%96%AF",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": [
+          {
+            "id": "operator-cebc39e47c:module:operator-cebc39e47c:module:1",
+            "kind": "module",
+            "page": "埃癸斯",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%9F%83%E7%99%B8%E6%96%AF",
+            "title": "埃癸斯证章"
+          },
+          {
+            "id": "operator-cebc39e47c:module:operator-cebc39e47c:module:2",
+            "kind": "module",
+            "page": "埃癸斯",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%9F%83%E7%99%B8%E6%96%AF",
+            "title": "约定的证明"
+          }
+        ]
+      },
+      "faction": "S.E.E.S.",
+      "name": "埃癸斯",
+      "page": "埃癸斯",
+      "profession": "狙击",
+      "rarity": "4",
+      "slug": "operator-cebc39e47c"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
             "id": "operator-cf3b65223e:archive",
             "kind": "archive",
             "page": "战车",
@@ -19045,6 +20045,13 @@
             "page": "妮芙/干员密录/1",
             "sourceUrl": "https://prts.wiki/w/%E5%A6%AE%E8%8A%99/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
             "title": "跃动的微光"
+          },
+          {
+            "id": "operator-d0596e6e8f:confidential:operator-d0596e6e8f:confidential:2",
+            "kind": "confidential",
+            "page": "妮芙/干员密录/2",
+            "sourceUrl": "https://prts.wiki/w/%E5%A6%AE%E8%8A%99/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/2",
+            "title": "心火"
           }
         ],
         "modules": [
@@ -20870,6 +21877,102 @@
       "exportManifest": {
         "archive": [
           {
+            "id": "operator-e2db3e9877:archive",
+            "kind": "archive",
+            "page": "镜匠",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E9%95%9C%E5%8C%A0",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": [
+          {
+            "id": "operator-e2db3e9877:module:operator-e2db3e9877:module:1",
+            "kind": "module",
+            "page": "镜匠",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E9%95%9C%E5%8C%A0",
+            "title": "镜匠证章"
+          },
+          {
+            "id": "operator-e2db3e9877:module:operator-e2db3e9877:module:2",
+            "kind": "module",
+            "page": "镜匠",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E9%95%9C%E5%8C%A0",
+            "title": "“啊哈！”"
+          }
+        ]
+      },
+      "faction": "罗德岛",
+      "name": "镜匠",
+      "page": "镜匠",
+      "profession": "重装",
+      "rarity": "4",
+      "slug": "operator-e2db3e9877"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
+            "id": "operator-e2f69cbd9b:archive",
+            "kind": "archive",
+            "page": "德·托莱多",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%BE%B7%C2%B7%E6%89%98%E8%8E%B1%E5%A4%9A",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": [
+          {
+            "id": "operator-e2f69cbd9b:module:operator-e2f69cbd9b:module:1",
+            "kind": "module",
+            "page": "德·托莱多",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%BE%B7%C2%B7%E6%89%98%E8%8E%B1%E5%A4%9A",
+            "title": "德·托莱多证章"
+          },
+          {
+            "id": "operator-e2f69cbd9b:module:operator-e2f69cbd9b:module:2",
+            "kind": "module",
+            "page": "德·托莱多",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%BE%B7%C2%B7%E6%89%98%E8%8E%B1%E5%A4%9A",
+            "title": "贵族义务"
+          }
+        ]
+      },
+      "faction": "伊比利亚",
+      "name": "德·托莱多",
+      "page": "德·托莱多",
+      "profession": "辅助",
+      "rarity": "4",
+      "slug": "operator-e2f69cbd9b"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
             "id": "operator-e3b682861f:archive",
             "kind": "archive",
             "page": "佩佩",
@@ -20923,6 +22026,33 @@
       "profession": "近卫",
       "rarity": "5",
       "slug": "operator-e3b682861f"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
+            "id": "operator-e3bb4a9631:archive",
+            "kind": "archive",
+            "page": "虎狼丸",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E8%99%8E%E7%8B%BC%E4%B8%B8",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": []
+      },
+      "faction": "S.E.E.S.",
+      "name": "虎狼丸",
+      "page": "虎狼丸",
+      "profession": "近卫",
+      "rarity": "0",
+      "slug": "operator-e3bb4a9631"
     },
     {
       "exportManifest": {
@@ -21304,6 +22434,62 @@
       "exportManifest": {
         "archive": [
           {
+            "id": "operator-e973d0ca17:archive",
+            "kind": "archive",
+            "page": "国度",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%9B%BD%E5%BA%A6",
+            "title": "档案"
+          }
+        ],
+        "confidential": [
+          {
+            "id": "operator-e973d0ca17:confidential:operator-e973d0ca17:confidential:1",
+            "kind": "confidential",
+            "page": "国度/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/%E5%9B%BD%E5%BA%A6/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "无名尸"
+          }
+        ],
+        "modules": [
+          {
+            "id": "operator-e973d0ca17:module:operator-e973d0ca17:module:1",
+            "kind": "module",
+            "page": "国度",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%9B%BD%E5%BA%A6",
+            "title": "国度证章"
+          },
+          {
+            "id": "operator-e973d0ca17:module:operator-e973d0ca17:module:2",
+            "kind": "module",
+            "page": "国度",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%9B%BD%E5%BA%A6",
+            "title": "空瓶罐们"
+          }
+        ]
+      },
+      "faction": "乌萨斯",
+      "name": "国度",
+      "page": "国度",
+      "profession": "特种",
+      "rarity": "5",
+      "slug": "operator-e973d0ca17"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
             "id": "operator-e9b5f4d55c:archive",
             "kind": "archive",
             "page": "圣聆初雪",
@@ -21466,7 +22652,15 @@
             "title": "档案"
           }
         ],
-        "confidential": [],
+        "confidential": [
+          {
+            "id": "operator-ee1b736d8e:confidential:operator-ee1b736d8e:confidential:1",
+            "kind": "confidential",
+            "page": "米格鲁/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/%E7%B1%B3%E6%A0%BC%E9%B2%81/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "小队的盾牌"
+          }
+        ],
         "modules": []
       },
       "faction": "行动预备组A1",
@@ -21789,6 +22983,13 @@
             "page": "夜烟/干员密录/1",
             "sourceUrl": "https://prts.wiki/w/%E5%A4%9C%E7%83%9F/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
             "title": "“猫猫”"
+          },
+          {
+            "id": "operator-f18251ebc7:confidential:operator-f18251ebc7:confidential:2",
+            "kind": "confidential",
+            "page": "夜烟/干员密录/2",
+            "sourceUrl": "https://prts.wiki/w/%E5%A4%9C%E7%83%9F/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/2",
+            "title": "女巫夜话"
           }
         ],
         "modules": [
@@ -21867,6 +23068,16 @@
             ],
             "sourceUrl": "https://prts.wiki/w/%E6%BA%AF%E5%85%89%E6%98%9F%E6%BA%90",
             "title": "探索者的收藏"
+          },
+          {
+            "id": "operator-f2332a4e5e:module:operator-f2332a4e5e:module:3",
+            "kind": "module",
+            "page": "溯光星源",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E6%BA%AF%E5%85%89%E6%98%9F%E6%BA%90",
+            "title": "远方问候"
           }
         ]
       },
@@ -22282,6 +23493,54 @@
       "exportManifest": {
         "archive": [
           {
+            "id": "operator-f7f5d3690d:archive",
+            "kind": "archive",
+            "page": "奥尔佳",
+            "sections": [
+              "基础档案",
+              "综合体检测试",
+              "综合性能检测结果",
+              "临床诊断分析"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%A5%A5%E5%B0%94%E4%BD%B3",
+            "title": "档案"
+          }
+        ],
+        "confidential": [],
+        "modules": [
+          {
+            "id": "operator-f7f5d3690d:module:operator-f7f5d3690d:module:1",
+            "kind": "module",
+            "page": "奥尔佳",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%A5%A5%E5%B0%94%E4%BD%B3",
+            "title": "奥尔佳证章"
+          },
+          {
+            "id": "operator-f7f5d3690d:module:operator-f7f5d3690d:module:2",
+            "kind": "module",
+            "page": "奥尔佳",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E5%A5%A5%E5%B0%94%E4%BD%B3",
+            "title": "来自昨天"
+          }
+        ]
+      },
+      "faction": "乌萨斯",
+      "name": "奥尔佳",
+      "page": "奥尔佳",
+      "profession": "近卫",
+      "rarity": "4",
+      "slug": "operator-f7f5d3690d"
+    },
+    {
+      "exportManifest": {
+        "archive": [
+          {
             "id": "operator-f8b969cdb1:archive",
             "kind": "archive",
             "page": "伺夜",
@@ -22424,7 +23683,15 @@
             "title": "档案"
           }
         ],
-        "confidential": [],
+        "confidential": [
+          {
+            "id": "operator-f912958e07:confidential:operator-f912958e07:confidential:1",
+            "kind": "confidential",
+            "page": "深巡/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/%E6%B7%B1%E5%B7%A1/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "X103号模块"
+          }
+        ],
         "modules": [
           {
             "id": "operator-f912958e07:module:operator-f912958e07:module:1",
@@ -22698,7 +23965,15 @@
             "title": "档案"
           }
         ],
-        "confidential": [],
+        "confidential": [
+          {
+            "id": "operator-fb8c863323:confidential:operator-fb8c863323:confidential:1",
+            "kind": "confidential",
+            "page": "CONFESS-47/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/CONFESS-47/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "不是盥洗室！"
+          }
+        ],
         "modules": []
       },
       "faction": "拉特兰",
@@ -22767,7 +24042,15 @@
             "title": "档案"
           }
         ],
-        "confidential": [],
+        "confidential": [
+          {
+            "id": "operator-fce72346d5:confidential:operator-fce72346d5:confidential:1",
+            "kind": "confidential",
+            "page": "寻澜/干员密录/1",
+            "sourceUrl": "https://prts.wiki/w/%E5%AF%BB%E6%BE%9C/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
+            "title": "顶峰之景"
+          }
+        ],
         "modules": [
           {
             "id": "operator-fce72346d5:module:operator-fce72346d5:module:1",
@@ -22854,6 +24137,16 @@
             ],
             "sourceUrl": "https://prts.wiki/w/%E7%99%BE%E7%82%BC%E5%98%89%E7%BB%B4%E5%B0%94",
             "title": "好锯多磨"
+          },
+          {
+            "id": "operator-fcee59c19a:module:operator-fcee59c19a:module:4",
+            "kind": "module",
+            "page": "百炼嘉维尔",
+            "sections": [
+              "基础信息"
+            ],
+            "sourceUrl": "https://prts.wiki/w/%E7%99%BE%E7%82%BC%E5%98%89%E7%BB%B4%E5%B0%94",
+            "title": "百炼嘉维尔特限证章"
           }
         ]
       },
@@ -23137,7 +24430,7 @@
   "schemaVersion": 1,
   "source": {
     "method": "rendered",
-    "oldid": "335492",
+    "oldid": "439147",
     "page": "干员一览",
     "providerId": "arknights-wiki"
   }

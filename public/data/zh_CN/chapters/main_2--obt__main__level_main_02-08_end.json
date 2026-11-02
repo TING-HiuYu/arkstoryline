@@ -1,21 +1,21 @@
 {
-  "albumId": "main_2",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "2-8",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "2-8_不做约定/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/2-8_%E4%B8%8D%E5%81%9A%E7%BA%A6%E5%AE%9A/END"
-  },
   "id": "main_2--obt__main__level_main_02-08_end",
-  "navigation": {
-    "nextChapterId": "main_2--obt__main__level_main_02-09_beg",
-    "previousChapterId": "main_2--obt__main__level_main_02-08_beg"
-  },
+  "albumId": "main_2",
+  "title": "不做约定",
   "subtitle": "2-8",
+  "code": "2-8",
+  "avgTag": "行动后",
   "summary": "info/obt/main/level_main_02-08_end",
-  "title": "不做约定"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/2-8_%E4%B8%8D%E5%81%9A%E7%BA%A6%E5%AE%9A/END",
+    "page": "2-8_不做约定/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_2--obt__main__level_main_02-08_beg",
+    "nextChapterId": "main_2--obt__main__level_main_02-09_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

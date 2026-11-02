@@ -1,21 +1,21 @@
 {
-  "albumId": "act41side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "EA-7",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "EA-7_烧灯者/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/EA-7_%E7%83%A7%E7%81%AF%E8%80%85/END"
-  },
   "id": "act41side--activities__act41side__level_act41side_07_end",
-  "navigation": {
-    "nextChapterId": "act41side--activities__act41side__level_act41side_08_beg",
-    "previousChapterId": "act41side--activities__act41side__level_act41side_07_beg"
-  },
+  "albumId": "act41side",
+  "title": "烧灯者",
   "subtitle": "EA-7",
+  "code": "EA-7",
+  "avgTag": "行动后",
   "summary": "info/activities/act41side/level_act41side_07_end",
-  "title": "烧灯者"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-7_%E7%83%A7%E7%81%AF%E8%80%85/END",
+    "page": "EA-7_烧灯者/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act41side--activities__act41side__level_act41side_07_beg",
+    "nextChapterId": "act41side--activities__act41side__level_act41side_08_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

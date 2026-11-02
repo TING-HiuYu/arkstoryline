@@ -1,0 +1,21 @@
+{
+  "id": "act52side--activities__act52side__level_act52side_08_beg",
+  "albumId": "act52side",
+  "title": "鳞的记忆",
+  "subtitle": "YW-8",
+  "code": "YW-8",
+  "avgTag": "行动前",
+  "summary": "info/activities/act52side/level_act52side_08_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/YW-8_%E9%B3%9E%E7%9A%84%E8%AE%B0%E5%BF%86/BEG",
+    "page": "YW-8_鳞的记忆/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act52side--activities__act52side__level_act52side_07_end",
+    "nextChapterId": "act52side--activities__act52side__level_act52side_08_end"
+  },
+  "blocks": [],
+  "citations": []
+}

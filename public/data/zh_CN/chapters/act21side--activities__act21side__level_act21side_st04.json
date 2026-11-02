@@ -1,21 +1,21 @@
 {
-  "albumId": "act21side",
-  "avgTag": "幕间",
-  "blocks": [],
-  "citations": [],
-  "code": "IS-ST-4",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "IS-ST-4_缝合/NBT",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/IS-ST-4_%E7%BC%9D%E5%90%88/NBT"
-  },
   "id": "act21side--activities__act21side__level_act21side_st04",
-  "navigation": {
-    "nextChapterId": null,
-    "previousChapterId": "act21side--activities__act21side__level_act21side_10_end"
-  },
+  "albumId": "act21side",
+  "title": "缝合",
   "subtitle": "IS-ST-4",
+  "code": "IS-ST-4",
+  "avgTag": "幕间",
   "summary": "info/activities/act21side/level_act21side_st04",
-  "title": "缝合"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-ST-4_%E7%BC%9D%E5%90%88/NBT",
+    "page": "IS-ST-4_缝合/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act21side--activities__act21side__level_act21side_10_end",
+    "nextChapterId": null
+  },
+  "blocks": [],
+  "citations": []
 }

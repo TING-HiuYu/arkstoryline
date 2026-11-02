@@ -1,21 +1,21 @@
 {
-  "albumId": "act42side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "MT-8",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "MT-8_朝圣/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/MT-8_%E6%9C%9D%E5%9C%A3/BEG"
-  },
   "id": "act42side--activities__act42side__level_act42side_08_beg",
-  "navigation": {
-    "nextChapterId": "act42side--activities__act42side__level_act42side_08_end",
-    "previousChapterId": "act42side--activities__act42side__level_act42side_07_end"
-  },
+  "albumId": "act42side",
+  "title": "朝圣",
   "subtitle": "MT-8",
+  "code": "MT-8",
+  "avgTag": "行动前",
   "summary": "info/activities/act42side/level_act42side_08_beg",
-  "title": "朝圣"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MT-8_%E6%9C%9D%E5%9C%A3/BEG",
+    "page": "MT-8_朝圣/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act42side--activities__act42side__level_act42side_07_end",
+    "nextChapterId": "act42side--activities__act42side__level_act42side_08_end"
+  },
+  "blocks": [],
+  "citations": []
 }

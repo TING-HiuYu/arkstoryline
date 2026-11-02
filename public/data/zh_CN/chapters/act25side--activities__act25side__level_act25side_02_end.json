@@ -1,21 +1,21 @@
 {
-  "albumId": "act25side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "CW-2",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "CW-2_无迹可寻/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/CW-2_%E6%97%A0%E8%BF%B9%E5%8F%AF%E5%AF%BB/END"
-  },
   "id": "act25side--activities__act25side__level_act25side_02_end",
-  "navigation": {
-    "nextChapterId": "act25side--activities__act25side__level_act25side_03_beg",
-    "previousChapterId": "act25side--activities__act25side__level_act25side_02_beg"
-  },
+  "albumId": "act25side",
+  "title": "无迹可寻",
   "subtitle": "CW-2",
+  "code": "CW-2",
+  "avgTag": "行动后",
   "summary": "info/activities/act25side/level_act25side_02_end",
-  "title": "无迹可寻"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/CW-2_%E6%97%A0%E8%BF%B9%E5%8F%AF%E5%AF%BB/END",
+    "page": "CW-2_无迹可寻/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act25side--activities__act25side__level_act25side_02_beg",
+    "nextChapterId": "act25side--activities__act25side__level_act25side_03_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

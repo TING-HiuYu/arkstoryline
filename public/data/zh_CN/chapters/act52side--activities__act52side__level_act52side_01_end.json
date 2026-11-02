@@ -1,0 +1,21 @@
+{
+  "id": "act52side--activities__act52side__level_act52side_01_end",
+  "albumId": "act52side",
+  "title": "互助会",
+  "subtitle": "YW-1",
+  "code": "YW-1",
+  "avgTag": "行动后",
+  "summary": "info/activities/act52side/level_act52side_01_end",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/YW-1_%E4%BA%92%E5%8A%A9%E4%BC%9A/END",
+    "page": "YW-1_互助会/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act52side--activities__act52side__level_act52side_01_beg",
+    "nextChapterId": "act52side--activities__act52side__level_act52side_02_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

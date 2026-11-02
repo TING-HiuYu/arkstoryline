@@ -1,21 +1,21 @@
 {
-  "albumId": "act31side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "HS-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "HS-3_早芒种/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/HS-3_%E6%97%A9%E8%8A%92%E7%A7%8D/BEG"
-  },
   "id": "act31side--activities__act31side__level_act31side_03_beg",
-  "navigation": {
-    "nextChapterId": "act31side--activities__act31side__level_act31side_03_end",
-    "previousChapterId": "act31side--activities__act31side__level_act31side_02_end"
-  },
+  "albumId": "act31side",
+  "title": "早芒种",
   "subtitle": "HS-3",
+  "code": "HS-3",
+  "avgTag": "行动前",
   "summary": "info/activities/act31side/level_act31side_03_beg",
-  "title": "早芒种"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/HS-3_%E6%97%A9%E8%8A%92%E7%A7%8D/BEG",
+    "page": "HS-3_早芒种/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act31side--activities__act31side__level_act31side_02_end",
+    "nextChapterId": "act31side--activities__act31side__level_act31side_03_end"
+  },
+  "blocks": [],
+  "citations": []
 }

@@ -1,21 +1,21 @@
 {
-  "albumId": "main_7",
-  "avgTag": "幕间",
-  "blocks": [],
-  "citations": [],
-  "code": "7-7",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "7-7_26:37:14/NBT",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/7-7_26%3A37%3A14/NBT"
-  },
   "id": "main_7--obt__main__level_st_07-02",
-  "navigation": {
-    "nextChapterId": "main_7--obt__main__level_main_07-06_beg",
-    "previousChapterId": "main_7--obt__main__level_main_07-05_end"
-  },
+  "albumId": "main_7",
+  "title": "26:37:14",
   "subtitle": "7-7",
+  "code": "7-7",
+  "avgTag": "幕间",
   "summary": "info/obt/main/level_st_07-02",
-  "title": "26:37:14"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/7-7_26%3A37%3A14/NBT",
+    "page": "7-7_26:37:14/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_7--obt__main__level_main_07-05_end",
+    "nextChapterId": "main_7--obt__main__level_main_07-06_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

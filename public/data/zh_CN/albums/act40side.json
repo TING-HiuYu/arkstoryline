@@ -1,344 +1,344 @@
 {
+  "id": "act40side",
+  "slug": "act40side",
+  "title": "相见欢",
+  "sourceEntryType": "UNKNOWN",
   "albumKind": "intermezzi",
+  "homeSection": "sideStory",
+  "timelineRank": 1737518400,
+  "gameOrderRank": 6007,
+  "cover": {
+    "primaryImageId": "kv_such_is_the_joy_of_our_reunion",
+    "titleImageId": "title_such_is_the_joy_of_our_reunion",
+    "backgroundImageId": "storybg_such_is_the_joy_of_our_reunion",
+    "storyEntryPicId": "storyEntryPic_act40side",
+    "url": "https://media.prts.wiki/3/38/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%9B%B8%E8%A7%81%E6%AC%A2.png",
+    "source": "stage-kv",
+    "assetStatus": "disabled",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 1737518400,
   "chapters": [
     {
-      "albumId": "act40side",
-      "avgTag": "幕间",
-      "code": "OR-ST-1",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-ST-1_陈皮菊花茶/NBT",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-ST-1_%E9%99%88%E7%9A%AE%E8%8F%8A%E8%8A%B1%E8%8C%B6/NBT"
-      },
-      "downloadable": true,
       "id": "act40side--activities__act40side__level_act40side_st01",
-      "path": "chapters/act40side--activities__act40side__level_act40side_st01.json",
+      "albumId": "act40side",
+      "title": "陈皮菊花茶",
+      "code": "OR-ST-1",
+      "avgTag": "幕间",
       "sort": 1,
-      "title": "陈皮菊花茶"
+      "path": "chapters/act40side--activities__act40side__level_act40side_st01.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-ST-1_%E9%99%88%E7%9A%AE%E8%8F%8A%E8%8A%B1%E8%8C%B6/NBT",
+        "page": "OR-ST-1_陈皮菊花茶/NBT",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act40side",
-      "avgTag": "行动前",
-      "code": "OR-1",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-1_一清二白/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-1_%E4%B8%80%E6%B8%85%E4%BA%8C%E7%99%BD/BEG"
-      },
-      "downloadable": true,
       "id": "act40side--activities__act40side__level_act40side_01_beg",
-      "path": "chapters/act40side--activities__act40side__level_act40side_01_beg.json",
-      "sort": 2,
-      "title": "一清二白"
-    },
-    {
       "albumId": "act40side",
-      "avgTag": "行动后",
+      "title": "一清二白",
       "code": "OR-1",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-1_一清二白/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-1_%E4%B8%80%E6%B8%85%E4%BA%8C%E7%99%BD/END"
-      },
+      "avgTag": "行动前",
+      "sort": 2,
+      "path": "chapters/act40side--activities__act40side__level_act40side_01_beg.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-1_%E4%B8%80%E6%B8%85%E4%BA%8C%E7%99%BD/BEG",
+        "page": "OR-1_一清二白/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act40side--activities__act40side__level_act40side_01_end",
-      "path": "chapters/act40side--activities__act40side__level_act40side_01_end.json",
+      "albumId": "act40side",
+      "title": "一清二白",
+      "code": "OR-1",
+      "avgTag": "行动后",
       "sort": 3,
-      "title": "一清二白"
+      "path": "chapters/act40side--activities__act40side__level_act40side_01_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-1_%E4%B8%80%E6%B8%85%E4%BA%8C%E7%99%BD/END",
+        "page": "OR-1_一清二白/END",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act40side",
-      "avgTag": "行动前",
-      "code": "OR-2",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-2_糖瓜粘/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-2_%E7%B3%96%E7%93%9C%E7%B2%98/BEG"
-      },
-      "downloadable": true,
       "id": "act40side--activities__act40side__level_act40side_02_beg",
-      "path": "chapters/act40side--activities__act40side__level_act40side_02_beg.json",
-      "sort": 4,
-      "title": "糖瓜粘"
-    },
-    {
       "albumId": "act40side",
-      "avgTag": "行动后",
+      "title": "糖瓜粘",
       "code": "OR-2",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-2_糖瓜粘/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-2_%E7%B3%96%E7%93%9C%E7%B2%98/END"
-      },
+      "avgTag": "行动前",
+      "sort": 4,
+      "path": "chapters/act40side--activities__act40side__level_act40side_02_beg.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-2_%E7%B3%96%E7%93%9C%E7%B2%98/BEG",
+        "page": "OR-2_糖瓜粘/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act40side--activities__act40side__level_act40side_02_end",
-      "path": "chapters/act40side--activities__act40side__level_act40side_02_end.json",
+      "albumId": "act40side",
+      "title": "糖瓜粘",
+      "code": "OR-2",
+      "avgTag": "行动后",
       "sort": 5,
-      "title": "糖瓜粘"
+      "path": "chapters/act40side--activities__act40side__level_act40side_02_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-2_%E7%B3%96%E7%93%9C%E7%B2%98/END",
+        "page": "OR-2_糖瓜粘/END",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act40side",
-      "avgTag": "行动前",
-      "code": "OR-3",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-3_油泼扯面/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-3_%E6%B2%B9%E6%B3%BC%E6%89%AF%E9%9D%A2/BEG"
-      },
-      "downloadable": true,
       "id": "act40side--activities__act40side__level_act40side_03_beg",
-      "path": "chapters/act40side--activities__act40side__level_act40side_03_beg.json",
-      "sort": 6,
-      "title": "油泼扯面"
-    },
-    {
       "albumId": "act40side",
-      "avgTag": "行动后",
+      "title": "油泼扯面",
       "code": "OR-3",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-3_油泼扯面/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-3_%E6%B2%B9%E6%B3%BC%E6%89%AF%E9%9D%A2/END"
-      },
+      "avgTag": "行动前",
+      "sort": 6,
+      "path": "chapters/act40side--activities__act40side__level_act40side_03_beg.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-3_%E6%B2%B9%E6%B3%BC%E6%89%AF%E9%9D%A2/BEG",
+        "page": "OR-3_油泼扯面/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act40side--activities__act40side__level_act40side_03_end",
-      "path": "chapters/act40side--activities__act40side__level_act40side_03_end.json",
+      "albumId": "act40side",
+      "title": "油泼扯面",
+      "code": "OR-3",
+      "avgTag": "行动后",
       "sort": 7,
-      "title": "油泼扯面"
+      "path": "chapters/act40side--activities__act40side__level_act40side_03_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-3_%E6%B2%B9%E6%B3%BC%E6%89%AF%E9%9D%A2/END",
+        "page": "OR-3_油泼扯面/END",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act40side",
-      "avgTag": "行动前",
-      "code": "OR-4",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-4_雪里蕻/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-4_%E9%9B%AA%E9%87%8C%E8%95%BB/BEG"
-      },
-      "downloadable": true,
       "id": "act40side--activities__act40side__level_act40side_04_beg",
-      "path": "chapters/act40side--activities__act40side__level_act40side_04_beg.json",
-      "sort": 8,
-      "title": "雪里蕻"
-    },
-    {
       "albumId": "act40side",
-      "avgTag": "行动后",
+      "title": "雪里蕻",
       "code": "OR-4",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-4_雪里蕻/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-4_%E9%9B%AA%E9%87%8C%E8%95%BB/END"
-      },
+      "avgTag": "行动前",
+      "sort": 8,
+      "path": "chapters/act40side--activities__act40side__level_act40side_04_beg.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-4_%E9%9B%AA%E9%87%8C%E8%95%BB/BEG",
+        "page": "OR-4_雪里蕻/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act40side--activities__act40side__level_act40side_04_end",
-      "path": "chapters/act40side--activities__act40side__level_act40side_04_end.json",
+      "albumId": "act40side",
+      "title": "雪里蕻",
+      "code": "OR-4",
+      "avgTag": "行动后",
       "sort": 9,
-      "title": "雪里蕻"
+      "path": "chapters/act40side--activities__act40side__level_act40side_04_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-4_%E9%9B%AA%E9%87%8C%E8%95%BB/END",
+        "page": "OR-4_雪里蕻/END",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act40side",
-      "avgTag": "幕间",
-      "code": "OR-ST-2",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-ST-2_雷公栗/NBT",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-ST-2_%E9%9B%B7%E5%85%AC%E6%A0%97/NBT"
-      },
-      "downloadable": true,
       "id": "act40side--activities__act40side__level_act40side_st02",
-      "path": "chapters/act40side--activities__act40side__level_act40side_st02.json",
-      "sort": 10,
-      "title": "雷公栗"
-    },
-    {
       "albumId": "act40side",
-      "avgTag": "行动前",
-      "code": "OR-6",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-6_胜肉火方/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-6_%E8%83%9C%E8%82%89%E7%81%AB%E6%96%B9/BEG"
-      },
-      "downloadable": true,
-      "id": "act40side--activities__act40side__level_act40side_06_beg",
-      "path": "chapters/act40side--activities__act40side__level_act40side_06_beg.json",
-      "sort": 11,
-      "title": "胜肉火方"
-    },
-    {
-      "albumId": "act40side",
-      "avgTag": "行动后",
-      "code": "OR-6",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-6_胜肉火方/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-6_%E8%83%9C%E8%82%89%E7%81%AB%E6%96%B9/END"
-      },
-      "downloadable": true,
-      "id": "act40side--activities__act40side__level_act40side_06_end",
-      "path": "chapters/act40side--activities__act40side__level_act40side_06_end.json",
-      "sort": 12,
-      "title": "胜肉火方"
-    },
-    {
-      "albumId": "act40side",
-      "avgTag": "行动前",
-      "code": "OR-7",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-7_五省盘/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-7_%E4%BA%94%E7%9C%81%E7%9B%98/BEG"
-      },
-      "downloadable": true,
-      "id": "act40side--activities__act40side__level_act40side_07_beg",
-      "path": "chapters/act40side--activities__act40side__level_act40side_07_beg.json",
-      "sort": 13,
-      "title": "五省盘"
-    },
-    {
-      "albumId": "act40side",
-      "avgTag": "行动后",
-      "code": "OR-7",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-7_五省盘/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-7_%E4%BA%94%E7%9C%81%E7%9B%98/END"
-      },
-      "downloadable": true,
-      "id": "act40side--activities__act40side__level_act40side_07_end",
-      "path": "chapters/act40side--activities__act40side__level_act40side_07_end.json",
-      "sort": 14,
-      "title": "五省盘"
-    },
-    {
-      "albumId": "act40side",
-      "avgTag": "行动前",
-      "code": "OR-8",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-8_金玉藏心/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-8_%E9%87%91%E7%8E%89%E8%97%8F%E5%BF%83/BEG"
-      },
-      "downloadable": true,
-      "id": "act40side--activities__act40side__level_act40side_08_beg",
-      "path": "chapters/act40side--activities__act40side__level_act40side_08_beg.json",
-      "sort": 15,
-      "title": "金玉藏心"
-    },
-    {
-      "albumId": "act40side",
-      "avgTag": "行动后",
-      "code": "OR-8",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-8_金玉藏心/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-8_%E9%87%91%E7%8E%89%E8%97%8F%E5%BF%83/END"
-      },
-      "downloadable": true,
-      "id": "act40side--activities__act40side__level_act40side_08_end",
-      "path": "chapters/act40side--activities__act40side__level_act40side_08_end.json",
-      "sort": 16,
-      "title": "金玉藏心"
-    },
-    {
-      "albumId": "act40side",
-      "avgTag": "行动前",
-      "code": "OR-9",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-9_长寿面/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-9_%E9%95%BF%E5%AF%BF%E9%9D%A2/BEG"
-      },
-      "downloadable": true,
-      "id": "act40side--activities__act40side__level_act40side_09_beg",
-      "path": "chapters/act40side--activities__act40side__level_act40side_09_beg.json",
-      "sort": 17,
-      "title": "长寿面"
-    },
-    {
-      "albumId": "act40side",
-      "avgTag": "行动后",
-      "code": "OR-9",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-9_长寿面/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-9_%E9%95%BF%E5%AF%BF%E9%9D%A2/END"
-      },
-      "downloadable": true,
-      "id": "act40side--activities__act40side__level_act40side_09_end",
-      "path": "chapters/act40side--activities__act40side__level_act40side_09_end.json",
-      "sort": 18,
-      "title": "长寿面"
-    },
-    {
-      "albumId": "act40side",
+      "title": "雷公栗",
+      "code": "OR-ST-2",
       "avgTag": "幕间",
-      "code": "OR-ST-3",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "OR-ST-3_须问汤/NBT",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/OR-ST-3_%E9%A1%BB%E9%97%AE%E6%B1%A4/NBT"
-      },
+      "sort": 10,
+      "path": "chapters/act40side--activities__act40side__level_act40side_st02.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-ST-2_%E9%9B%B7%E5%85%AC%E6%A0%97/NBT",
+        "page": "OR-ST-2_雷公栗/NBT",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act40side--activities__act40side__level_act40side_06_beg",
+      "albumId": "act40side",
+      "title": "胜肉火方",
+      "code": "OR-6",
+      "avgTag": "行动前",
+      "sort": 11,
+      "path": "chapters/act40side--activities__act40side__level_act40side_06_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-6_%E8%83%9C%E8%82%89%E7%81%AB%E6%96%B9/BEG",
+        "page": "OR-6_胜肉火方/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act40side--activities__act40side__level_act40side_06_end",
+      "albumId": "act40side",
+      "title": "胜肉火方",
+      "code": "OR-6",
+      "avgTag": "行动后",
+      "sort": 12,
+      "path": "chapters/act40side--activities__act40side__level_act40side_06_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-6_%E8%83%9C%E8%82%89%E7%81%AB%E6%96%B9/END",
+        "page": "OR-6_胜肉火方/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act40side--activities__act40side__level_act40side_07_beg",
+      "albumId": "act40side",
+      "title": "五省盘",
+      "code": "OR-7",
+      "avgTag": "行动前",
+      "sort": 13,
+      "path": "chapters/act40side--activities__act40side__level_act40side_07_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-7_%E4%BA%94%E7%9C%81%E7%9B%98/BEG",
+        "page": "OR-7_五省盘/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act40side--activities__act40side__level_act40side_07_end",
+      "albumId": "act40side",
+      "title": "五省盘",
+      "code": "OR-7",
+      "avgTag": "行动后",
+      "sort": 14,
+      "path": "chapters/act40side--activities__act40side__level_act40side_07_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-7_%E4%BA%94%E7%9C%81%E7%9B%98/END",
+        "page": "OR-7_五省盘/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act40side--activities__act40side__level_act40side_08_beg",
+      "albumId": "act40side",
+      "title": "金玉藏心",
+      "code": "OR-8",
+      "avgTag": "行动前",
+      "sort": 15,
+      "path": "chapters/act40side--activities__act40side__level_act40side_08_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-8_%E9%87%91%E7%8E%89%E8%97%8F%E5%BF%83/BEG",
+        "page": "OR-8_金玉藏心/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act40side--activities__act40side__level_act40side_08_end",
+      "albumId": "act40side",
+      "title": "金玉藏心",
+      "code": "OR-8",
+      "avgTag": "行动后",
+      "sort": 16,
+      "path": "chapters/act40side--activities__act40side__level_act40side_08_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-8_%E9%87%91%E7%8E%89%E8%97%8F%E5%BF%83/END",
+        "page": "OR-8_金玉藏心/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act40side--activities__act40side__level_act40side_09_beg",
+      "albumId": "act40side",
+      "title": "长寿面",
+      "code": "OR-9",
+      "avgTag": "行动前",
+      "sort": 17,
+      "path": "chapters/act40side--activities__act40side__level_act40side_09_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-9_%E9%95%BF%E5%AF%BF%E9%9D%A2/BEG",
+        "page": "OR-9_长寿面/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act40side--activities__act40side__level_act40side_09_end",
+      "albumId": "act40side",
+      "title": "长寿面",
+      "code": "OR-9",
+      "avgTag": "行动后",
+      "sort": 18,
+      "path": "chapters/act40side--activities__act40side__level_act40side_09_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-9_%E9%95%BF%E5%AF%BF%E9%9D%A2/END",
+        "page": "OR-9_长寿面/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act40side--activities__act40side__level_act40side_st03",
-      "path": "chapters/act40side--activities__act40side__level_act40side_st03.json",
+      "albumId": "act40side",
+      "title": "须问汤",
+      "code": "OR-ST-3",
+      "avgTag": "幕间",
       "sort": 19,
-      "title": "须问汤"
+      "path": "chapters/act40side--activities__act40side__level_act40side_st03.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/OR-ST-3_%E9%A1%BB%E9%97%AE%E6%B1%A4/NBT",
+        "page": "OR-ST-3_须问汤/NBT",
+        "kind": "scenario-html"
+      }
     }
   ],
-  "cover": {
-    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
-    "assetStatus": "disabled",
-    "backgroundImageId": "storybg_such_is_the_joy_of_our_reunion",
-    "primaryImageId": "kv_such_is_the_joy_of_our_reunion",
-    "source": "stage-kv",
-    "storyEntryPicId": "storyEntryPic_act40side",
-    "titleImageId": "title_such_is_the_joy_of_our_reunion",
-    "url": "https://media.prts.wiki/3/38/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%9B%B8%E8%A7%81%E6%AC%A2.png"
+  "source": {
+    "providerId": "github-raw",
+    "revision": "63c7cec73c3858d0ae913f85cc89af3cef4d744f",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
   },
   "extras": [],
-  "gameOrderRank": 6007,
-  "homeSection": "sideStory",
-  "id": "act40side",
+  "summary": "一场离别的雨，打湿了禁城内外无数人的肩袖。\n一封寄往维多利亚的信，包裹起言语难明的思愁。\n一把突如其来的火，烧毁半生心血，好不干净。\n一锅炖煮了百年的汤，是否来得及为他送上一线生机？\n或许那些所谓的“过去”，从来都称不上什么权谋算计，\n不过是人们面对无奈之事做出的无奈之举……\n此事古难全。如有相见，当尽欢。",
   "music": {
-    "arcTitle": "岁岁今朝",
     "movementTitle": "岁岁今朝",
-    "recommended": false,
-    "sourcePage": "stage_table.storylineStorySets",
+    "arcTitle": "岁岁今朝",
     "tags": [
       "tag_13",
       "tag_15"
-    ]
-  },
-  "slug": "act40side",
-  "source": {
-    "path": "zh_CN/gamedata/excel/story_review_table.json",
-    "providerId": "github-raw",
-    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
-  },
-  "sourceEntryType": "UNKNOWN",
-  "startTime": 1737518400,
-  "summary": "一场离别的雨，打湿了禁城内外无数人的肩袖。\n一封寄往维多利亚的信，包裹起言语难明的思愁。\n一把突如其来的火，烧毁半生心血，好不干净。\n一锅炖煮了百年的汤，是否来得及为他送上一线生机？\n或许那些所谓的“过去”，从来都称不上什么权谋算计，\n不过是人们面对无奈之事做出的无奈之举......\n此事古难全。如有相见，当尽欢。",
-  "timelineRank": 1737518400,
-  "title": "相见欢"
+    ],
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets"
+  }
 }

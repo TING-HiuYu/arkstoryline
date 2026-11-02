@@ -1,21 +1,21 @@
 {
-  "albumId": "act49side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "TA-1",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "TA-1_激石波/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/TA-1_%E6%BF%80%E7%9F%B3%E6%B3%A2/BEG"
-  },
   "id": "act49side--activities__act49side__level_act49side_01_beg",
-  "navigation": {
-    "nextChapterId": "act49side--activities__act49side__level_act49side_01_end",
-    "previousChapterId": "act49side--activities__act49side__level_act49side_st01"
-  },
+  "albumId": "act49side",
+  "title": "激石波",
   "subtitle": "TA-1",
+  "code": "TA-1",
+  "avgTag": "行动前",
   "summary": "info/activities/act49side/level_act49side_01_beg",
-  "title": "激石波"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-1_%E6%BF%80%E7%9F%B3%E6%B3%A2/BEG",
+    "page": "TA-1_激石波/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act49side--activities__act49side__level_act49side_st01",
+    "nextChapterId": "act49side--activities__act49side__level_act49side_01_end"
+  },
+  "blocks": [],
+  "citations": []
 }

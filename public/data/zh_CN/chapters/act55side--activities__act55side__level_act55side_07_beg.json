@@ -1,0 +1,21 @@
+{
+  "id": "act55side--activities__act55side__level_act55side_07_beg",
+  "albumId": "act55side",
+  "title": "滚烫的双眸",
+  "subtitle": "TL-7",
+  "code": "TL-7",
+  "avgTag": "行动前",
+  "summary": "info/activities/act55side/level_act55side_07_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TL-7_%E6%BB%9A%E7%83%AB%E7%9A%84%E5%8F%8C%E7%9C%B8/BEG",
+    "page": "TL-7_滚烫的双眸/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act55side--activities__act55side__level_act55side_06_end",
+    "nextChapterId": "act55side--activities__act55side__level_act55side_07_end"
+  },
+  "blocks": [],
+  "citations": []
+}

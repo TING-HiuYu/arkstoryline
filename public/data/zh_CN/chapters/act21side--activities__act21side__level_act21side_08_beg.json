@@ -1,21 +1,21 @@
 {
-  "albumId": "act21side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "IS-8",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "IS-8_危如累卵/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/IS-8_%E5%8D%B1%E5%A6%82%E7%B4%AF%E5%8D%B5/BEG"
-  },
   "id": "act21side--activities__act21side__level_act21side_08_beg",
-  "navigation": {
-    "nextChapterId": "act21side--activities__act21side__level_act21side_08_end",
-    "previousChapterId": "act21side--activities__act21side__level_act21side_07_end"
-  },
+  "albumId": "act21side",
+  "title": "危如累卵",
   "subtitle": "IS-8",
+  "code": "IS-8",
+  "avgTag": "行动前",
   "summary": "info/activities/act21side/level_act21side_08_beg",
-  "title": "危如累卵"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IS-8_%E5%8D%B1%E5%A6%82%E7%B4%AF%E5%8D%B5/BEG",
+    "page": "IS-8_危如累卵/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act21side--activities__act21side__level_act21side_07_end",
+    "nextChapterId": "act21side--activities__act21side__level_act21side_08_end"
+  },
+  "blocks": [],
+  "citations": []
 }

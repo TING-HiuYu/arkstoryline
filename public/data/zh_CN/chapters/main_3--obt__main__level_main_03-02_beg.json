@@ -1,21 +1,21 @@
 {
-  "albumId": "main_3",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "3-2",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "3-2_记忆/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/3-2_%E8%AE%B0%E5%BF%86/BEG"
-  },
   "id": "main_3--obt__main__level_main_03-02_beg",
-  "navigation": {
-    "nextChapterId": "main_3--obt__main__level_main_03-02_end",
-    "previousChapterId": "main_3--obt__main__level_main_03-01_end"
-  },
+  "albumId": "main_3",
+  "title": "记忆",
   "subtitle": "3-2",
+  "code": "3-2",
+  "avgTag": "行动前",
   "summary": "info/obt/main/level_main_03-02_beg",
-  "title": "记忆"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/3-2_%E8%AE%B0%E5%BF%86/BEG",
+    "page": "3-2_记忆/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_3--obt__main__level_main_03-01_end",
+    "nextChapterId": "main_3--obt__main__level_main_03-02_end"
+  },
+  "blocks": [],
+  "citations": []
 }

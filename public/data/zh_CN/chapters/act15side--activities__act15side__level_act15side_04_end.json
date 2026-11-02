@@ -1,21 +1,21 @@
 {
-  "albumId": "act15side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "IW-4",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "IW-4_秉烛/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/IW-4_%E7%A7%89%E7%83%9B/END"
-  },
   "id": "act15side--activities__act15side__level_act15side_04_end",
-  "navigation": {
-    "nextChapterId": "act15side--activities__act15side__level_act15side_st02",
-    "previousChapterId": "act15side--activities__act15side__level_act15side_04_beg"
-  },
+  "albumId": "act15side",
+  "title": "秉烛",
   "subtitle": "IW-4",
+  "code": "IW-4",
+  "avgTag": "行动后",
   "summary": "info/activities/act15side/level_act15side_04_end",
-  "title": "秉烛"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-4_%E7%A7%89%E7%83%9B/END",
+    "page": "IW-4_秉烛/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act15side--activities__act15side__level_act15side_04_beg",
+    "nextChapterId": "act15side--activities__act15side__level_act15side_st02"
+  },
+  "blocks": [],
+  "citations": []
 }

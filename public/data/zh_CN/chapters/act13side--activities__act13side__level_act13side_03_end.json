@@ -1,21 +1,21 @@
 {
-  "albumId": "act13side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "NL-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "NL-3_筹备着/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/NL-3_%E7%AD%B9%E5%A4%87%E7%9D%80/END"
-  },
   "id": "act13side--activities__act13side__level_act13side_03_end",
-  "navigation": {
-    "nextChapterId": "act13side--activities__act13side__level_act13side_04_beg",
-    "previousChapterId": "act13side--activities__act13side__level_act13side_03_beg"
-  },
+  "albumId": "act13side",
+  "title": "筹备着",
   "subtitle": "NL-3",
+  "code": "NL-3",
+  "avgTag": "行动后",
   "summary": "info/activities/act13side/level_act13side_03_end",
-  "title": "筹备着"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/NL-3_%E7%AD%B9%E5%A4%87%E7%9D%80/END",
+    "page": "NL-3_筹备着/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act13side--activities__act13side__level_act13side_03_beg",
+    "nextChapterId": "act13side--activities__act13side__level_act13side_04_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

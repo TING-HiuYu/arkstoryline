@@ -1,21 +1,21 @@
 {
-  "albumId": "main_7",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "7-5",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "7-5_并肩之约-2/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/7-5_%E5%B9%B6%E8%82%A9%E4%B9%8B%E7%BA%A6-2/END"
-  },
   "id": "main_7--obt__main__level_main_07-04_end",
-  "navigation": {
-    "nextChapterId": "main_7--obt__main__level_main_07-05_beg",
-    "previousChapterId": "main_7--obt__main__level_main_07-03_beg"
-  },
+  "albumId": "main_7",
+  "title": "并肩之约-2",
   "subtitle": "7-5",
+  "code": "7-5",
+  "avgTag": "行动后",
   "summary": "info/obt/main/level_main_07-04_end",
-  "title": "并肩之约-2"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/7-5_%E5%B9%B6%E8%82%A9%E4%B9%8B%E7%BA%A6-2/END",
+    "page": "7-5_并肩之约-2/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_7--obt__main__level_main_07-03_beg",
+    "nextChapterId": "main_7--obt__main__level_main_07-05_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

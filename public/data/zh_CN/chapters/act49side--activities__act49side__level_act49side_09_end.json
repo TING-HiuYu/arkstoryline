@@ -1,21 +1,21 @@
 {
-  "albumId": "act49side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "TA-9",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "TA-9_气合/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/TA-9_%E6%B0%94%E5%90%88/END"
-  },
   "id": "act49side--activities__act49side__level_act49side_09_end",
-  "navigation": {
-    "nextChapterId": "act49side--activities__act49side__level_act49side_10_beg",
-    "previousChapterId": "act49side--activities__act49side__level_act49side_09_beg"
-  },
+  "albumId": "act49side",
+  "title": "气合",
   "subtitle": "TA-9",
+  "code": "TA-9",
+  "avgTag": "行动后",
   "summary": "info/activities/act49side/level_act49side_09_end",
-  "title": "气合"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-9_%E6%B0%94%E5%90%88/END",
+    "page": "TA-9_气合/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act49side--activities__act49side__level_act49side_09_beg",
+    "nextChapterId": "act49side--activities__act49side__level_act49side_10_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

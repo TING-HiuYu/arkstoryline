@@ -1,21 +1,21 @@
 {
-  "albumId": "act18d3",
-  "avgTag": "幕间",
-  "blocks": [],
-  "citations": [],
-  "code": "SV-ST-2",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "SV-ST-2_侥幸离去/NBT",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/SV-ST-2_%E4%BE%A5%E5%B9%B8%E7%A6%BB%E5%8E%BB/NBT"
-  },
   "id": "act18d3--activities__act18d3__level_act18d3_st02",
-  "navigation": {
-    "nextChapterId": null,
-    "previousChapterId": "act18d3--activities__act18d3__level_act18d3_09_end"
-  },
+  "albumId": "act18d3",
+  "title": "侥幸离去",
   "subtitle": "SV-ST-2",
+  "code": "SV-ST-2",
+  "avgTag": "幕间",
   "summary": "info/activities/act18d3/level_act18d3_st02",
-  "title": "侥幸离去"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-ST-2_%E4%BE%A5%E5%B9%B8%E7%A6%BB%E5%8E%BB/NBT",
+    "page": "SV-ST-2_侥幸离去/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act18d3--activities__act18d3__level_act18d3_09_end",
+    "nextChapterId": null
+  },
+  "blocks": [],
+  "citations": []
 }

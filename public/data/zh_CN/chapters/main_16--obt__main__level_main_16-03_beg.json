@@ -1,21 +1,21 @@
 {
-  "albumId": "main_16",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "16-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "16-3_道路以目/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/16-3_%E9%81%93%E8%B7%AF%E4%BB%A5%E7%9B%AE/BEG"
-  },
   "id": "main_16--obt__main__level_main_16-03_beg",
-  "navigation": {
-    "nextChapterId": "main_16--obt__main__level_main_16-04_beg",
-    "previousChapterId": "main_16--obt__main__level_main_16-01_beg"
-  },
+  "albumId": "main_16",
+  "title": "道路以目",
   "subtitle": "16-3",
+  "code": "16-3",
+  "avgTag": "行动前",
   "summary": "info/obt/main/level_main_16-03_beg",
-  "title": "道路以目"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/16-3_%E9%81%93%E8%B7%AF%E4%BB%A5%E7%9B%AE/BEG",
+    "page": "16-3_道路以目/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_16--obt__main__level_main_16-01_beg",
+    "nextChapterId": "main_16--obt__main__level_main_16-04_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

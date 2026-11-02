@@ -1,21 +1,21 @@
 {
-  "albumId": "act17side",
-  "avgTag": "幕间",
-  "blocks": [],
-  "citations": [],
-  "code": "SN-ST-2",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "SN-ST-2_海滨小道/NBT",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/SN-ST-2_%E6%B5%B7%E6%BB%A8%E5%B0%8F%E9%81%93/NBT"
-  },
   "id": "act17side--activities__act17side__level_act17side_st02",
-  "navigation": {
-    "nextChapterId": "act17side--activities__act17side__level_act17side_02_end",
-    "previousChapterId": "act17side--activities__act17side__level_act17side_01_end"
-  },
+  "albumId": "act17side",
+  "title": "海滨小道",
   "subtitle": "SN-ST-2",
+  "code": "SN-ST-2",
+  "avgTag": "幕间",
   "summary": "info/activities/act17side/level_act17side_st02",
-  "title": "海滨小道"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-ST-2_%E6%B5%B7%E6%BB%A8%E5%B0%8F%E9%81%93/NBT",
+    "page": "SN-ST-2_海滨小道/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act17side--activities__act17side__level_act17side_01_end",
+    "nextChapterId": "act17side--activities__act17side__level_act17side_02_end"
+  },
+  "blocks": [],
+  "citations": []
 }

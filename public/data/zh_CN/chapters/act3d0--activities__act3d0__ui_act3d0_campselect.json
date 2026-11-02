@@ -6,6 +6,12 @@
   "code": "ENTRY",
   "avgTag": "幕间",
   "summary": "info/activities/act3d0/ui_act3d0_campselect",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ENTRY_%E6%BC%94%E5%87%BA%E5%BC%80%E5%A7%8B/NBT",
+    "page": "ENTRY_演出开始/NBT",
+    "kind": "scenario-html"
+  },
   "navigation": {
     "previousChapterId": null,
     "nextChapterId": "act3d0--activities__act3d0__level_act3d0_st01"

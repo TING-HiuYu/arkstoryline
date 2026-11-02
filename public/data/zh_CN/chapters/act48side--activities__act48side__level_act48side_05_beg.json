@@ -1,21 +1,21 @@
 {
-  "albumId": "act48side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "ME-5",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "ME-5_汇流/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/ME-5_%E6%B1%87%E6%B5%81/BEG"
-  },
   "id": "act48side--activities__act48side__level_act48side_05_beg",
-  "navigation": {
-    "nextChapterId": "act48side--activities__act48side__level_act48side_05_end",
-    "previousChapterId": "act48side--activities__act48side__level_act48side_st02"
-  },
+  "albumId": "act48side",
+  "title": "汇流",
   "subtitle": "ME-5",
+  "code": "ME-5",
+  "avgTag": "行动前",
   "summary": "info/activities/act48side/level_act48side_05_beg",
-  "title": "汇流"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ME-5_%E6%B1%87%E6%B5%81/BEG",
+    "page": "ME-5_汇流/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act48side--activities__act48side__level_act48side_st02",
+    "nextChapterId": "act48side--activities__act48side__level_act48side_05_end"
+  },
+  "blocks": [],
+  "citations": []
 }

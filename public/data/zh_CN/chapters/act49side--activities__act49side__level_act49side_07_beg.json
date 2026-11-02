@@ -1,21 +1,21 @@
 {
-  "albumId": "act49side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "TA-7",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "TA-7_相思断/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/TA-7_%E7%9B%B8%E6%80%9D%E6%96%AD/BEG"
-  },
   "id": "act49side--activities__act49side__level_act49side_07_beg",
-  "navigation": {
-    "nextChapterId": "act49side--activities__act49side__level_act49side_07_end",
-    "previousChapterId": "act49side--activities__act49side__level_act49side_06_end"
-  },
+  "albumId": "act49side",
+  "title": "相思断",
   "subtitle": "TA-7",
+  "code": "TA-7",
+  "avgTag": "行动前",
   "summary": "info/activities/act49side/level_act49side_07_beg",
-  "title": "相思断"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TA-7_%E7%9B%B8%E6%80%9D%E6%96%AD/BEG",
+    "page": "TA-7_相思断/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act49side--activities__act49side__level_act49side_06_end",
+    "nextChapterId": "act49side--activities__act49side__level_act49side_07_end"
+  },
+  "blocks": [],
+  "citations": []
 }

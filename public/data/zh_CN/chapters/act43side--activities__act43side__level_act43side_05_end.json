@@ -1,21 +1,21 @@
 {
-  "albumId": "act43side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "AD-5",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "AD-5_终将重逢/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/AD-5_%E7%BB%88%E5%B0%86%E9%87%8D%E9%80%A2/END"
-  },
   "id": "act43side--activities__act43side__level_act43side_05_end",
-  "navigation": {
-    "nextChapterId": "act43side--activities__act43side__level_act43side_06_beg",
-    "previousChapterId": "act43side--activities__act43side__level_act43side_05_beg"
-  },
+  "albumId": "act43side",
+  "title": "终将重逢",
   "subtitle": "AD-5",
+  "code": "AD-5",
+  "avgTag": "行动后",
   "summary": "info/activities/act43side/level_act43side_05_end",
-  "title": "终将重逢"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AD-5_%E7%BB%88%E5%B0%86%E9%87%8D%E9%80%A2/END",
+    "page": "AD-5_终将重逢/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act43side--activities__act43side__level_act43side_05_beg",
+    "nextChapterId": "act43side--activities__act43side__level_act43side_06_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

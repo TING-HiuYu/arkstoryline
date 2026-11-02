@@ -1,21 +1,21 @@
 {
-  "albumId": "act37side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "GO-1",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "GO-1_仇怨残余/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/GO-1_%E4%BB%87%E6%80%A8%E6%AE%8B%E4%BD%99/BEG"
-  },
   "id": "act37side--activities__act37side__level_act37side_01_beg",
-  "navigation": {
-    "nextChapterId": "act37side--activities__act37side__level_act37side_01_end",
-    "previousChapterId": "act37side--activities__act37side__level_act37side_st01"
-  },
+  "albumId": "act37side",
+  "title": "仇怨残余",
   "subtitle": "GO-1",
+  "code": "GO-1",
+  "avgTag": "行动前",
   "summary": "info/activities/act37side/level_act37side_01_beg",
-  "title": "仇怨残余"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/GO-1_%E4%BB%87%E6%80%A8%E6%AE%8B%E4%BD%99/BEG",
+    "page": "GO-1_仇怨残余/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act37side--activities__act37side__level_act37side_st01",
+    "nextChapterId": "act37side--activities__act37side__level_act37side_01_end"
+  },
+  "blocks": [],
+  "citations": []
 }

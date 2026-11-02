@@ -1,21 +1,21 @@
 {
-  "albumId": "act44side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "AT-8",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "AT-8_逝川/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/AT-8_%E9%80%9D%E5%B7%9D/BEG"
-  },
   "id": "act44side--activities__act44side__level_act44side_08_beg",
-  "navigation": {
-    "nextChapterId": "act44side--activities__act44side__level_act44side_08_end",
-    "previousChapterId": "act44side--activities__act44side__level_act44side_07_end"
-  },
+  "albumId": "act44side",
+  "title": "逝川",
   "subtitle": "AT-8",
+  "code": "AT-8",
+  "avgTag": "行动前",
   "summary": "info/activities/act44side/level_act44side_08_beg",
-  "title": "逝川"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AT-8_%E9%80%9D%E5%B7%9D/BEG",
+    "page": "AT-8_逝川/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act44side--activities__act44side__level_act44side_07_end",
+    "nextChapterId": "act44side--activities__act44side__level_act44side_08_end"
+  },
+  "blocks": [],
+  "citations": []
 }

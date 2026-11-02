@@ -1,21 +1,21 @@
 {
-  "albumId": "act15side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "IW-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "GA-7_光与影/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/GA-7_%E5%85%89%E4%B8%8E%E5%BD%B1/END"
-  },
   "id": "act15side--activities__act15side__level_act15side_03_end",
-  "navigation": {
-    "nextChapterId": "act15side--activities__act15side__level_act15side_04_beg",
-    "previousChapterId": "act15side--activities__act15side__level_act15side_03_beg"
-  },
+  "albumId": "act15side",
+  "title": "光与影",
   "subtitle": "IW-3",
+  "code": "IW-3",
+  "avgTag": "行动后",
   "summary": "info/activities/act15side/level_act15side_03_end",
-  "title": "光与影"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-3_%E5%85%89%E4%B8%8E%E5%BD%B1/END",
+    "page": "IW-3_光与影/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act15side--activities__act15side__level_act15side_03_beg",
+    "nextChapterId": "act15side--activities__act15side__level_act15side_04_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

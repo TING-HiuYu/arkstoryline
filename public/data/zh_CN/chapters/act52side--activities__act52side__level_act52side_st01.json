@@ -1,0 +1,21 @@
+{
+  "id": "act52side--activities__act52side__level_act52side_st01",
+  "albumId": "act52side",
+  "title": "羽兽盘旋",
+  "subtitle": "YW-ST-1",
+  "code": "YW-ST-1",
+  "avgTag": "幕间",
+  "summary": "info/activities/act52side/level_act52side_st01",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/YW-ST-1_%E7%BE%BD%E5%85%BD%E7%9B%98%E6%97%8B/NBT",
+    "page": "YW-ST-1_羽兽盘旋/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": null,
+    "nextChapterId": "act52side--activities__act52side__level_act52side_01_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

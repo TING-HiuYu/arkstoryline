@@ -1,21 +1,21 @@
 {
-  "albumId": "act15side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "IW-4",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "IW-4_秉烛/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/IW-4_%E7%A7%89%E7%83%9B/BEG"
-  },
   "id": "act15side--activities__act15side__level_act15side_04_beg",
-  "navigation": {
-    "nextChapterId": "act15side--activities__act15side__level_act15side_04_end",
-    "previousChapterId": "act15side--activities__act15side__level_act15side_03_end"
-  },
+  "albumId": "act15side",
+  "title": "秉烛",
   "subtitle": "IW-4",
+  "code": "IW-4",
+  "avgTag": "行动前",
   "summary": "info/activities/act15side/level_act15side_04_beg",
-  "title": "秉烛"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/IW-4_%E7%A7%89%E7%83%9B/BEG",
+    "page": "IW-4_秉烛/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act15side--activities__act15side__level_act15side_03_end",
+    "nextChapterId": "act15side--activities__act15side__level_act15side_04_end"
+  },
+  "blocks": [],
+  "citations": []
 }

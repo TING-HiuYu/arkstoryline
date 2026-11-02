@@ -1,21 +1,21 @@
 {
-  "albumId": "act12d0",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "RI-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "RI-3_往昔/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/RI-3_%E5%BE%80%E6%98%94/BEG"
-  },
   "id": "act12d0--activities__act12d0__level_act12d0_03_beg",
-  "navigation": {
-    "nextChapterId": "act12d0--activities__act12d0__level_act12d0_03_end",
-    "previousChapterId": "act12d0--activities__act12d0__level_act12d0_02_end"
-  },
+  "albumId": "act12d0",
+  "title": "往昔",
   "subtitle": "RI-3",
+  "code": "RI-3",
+  "avgTag": "行动前",
   "summary": "info/activities/act12d0/level_act12d0_03_beg",
-  "title": "往昔"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RI-3_%E5%BE%80%E6%98%94/BEG",
+    "page": "RI-3_往昔/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act12d0--activities__act12d0__level_act12d0_02_end",
+    "nextChapterId": "act12d0--activities__act12d0__level_act12d0_03_end"
+  },
+  "blocks": [],
+  "citations": []
 }

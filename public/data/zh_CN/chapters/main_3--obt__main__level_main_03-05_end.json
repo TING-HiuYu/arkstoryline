@@ -1,21 +1,21 @@
 {
-  "albumId": "main_3",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "3-5",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "3-5_呼叫/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/3-5_%E5%91%BC%E5%8F%AB/END"
-  },
   "id": "main_3--obt__main__level_main_03-05_end",
-  "navigation": {
-    "nextChapterId": "main_3--obt__main__level_main_03-06_beg",
-    "previousChapterId": "main_3--obt__main__level_main_03-05_beg"
-  },
+  "albumId": "main_3",
+  "title": "呼叫",
   "subtitle": "3-5",
+  "code": "3-5",
+  "avgTag": "行动后",
   "summary": "info/obt/main/level_main_03-05_end",
-  "title": "呼叫"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/3-5_%E5%91%BC%E5%8F%AB/END",
+    "page": "3-5_呼叫/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_3--obt__main__level_main_03-05_beg",
+    "nextChapterId": "main_3--obt__main__level_main_03-06_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

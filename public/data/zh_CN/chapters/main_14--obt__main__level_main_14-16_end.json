@@ -1,21 +1,21 @@
 {
-  "albumId": "main_14",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "14-18",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "14-18_在炽燃间咆哮/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/14-18_%E5%9C%A8%E7%82%BD%E7%87%83%E9%97%B4%E5%92%86%E5%93%AE/END"
-  },
   "id": "main_14--obt__main__level_main_14-16_end",
-  "navigation": {
-    "nextChapterId": "main_14--obt__main__level_main_14-17_beg",
-    "previousChapterId": "main_14--obt__main__level_main_14-16_beg"
-  },
+  "albumId": "main_14",
+  "title": "在炽燃间咆哮",
   "subtitle": "14-18",
+  "code": "14-18",
+  "avgTag": "行动后",
   "summary": "info/obt/main/level_main_14-16_end",
-  "title": "在炽燃间咆哮"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/14-18_%E5%9C%A8%E7%82%BD%E7%87%83%E9%97%B4%E5%92%86%E5%93%AE/END",
+    "page": "14-18_在炽燃间咆哮/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_14--obt__main__level_main_14-16_beg",
+    "nextChapterId": "main_14--obt__main__level_main_14-17_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

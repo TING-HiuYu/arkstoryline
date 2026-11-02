@@ -1,0 +1,33 @@
+{
+  "id": "story_blkngt_set_2",
+  "slug": "story-blkngt-set-2",
+  "title": "赏金猎人转行后",
+  "sourceEntryType": "UNKNOWN",
+  "albumKind": "operatorRecord",
+  "homeSection": "operatorRecord",
+  "timelineRank": 0,
+  "cover": {
+    "url": "https://media.prts.wiki/6/6a/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E8%B5%8F%E9%87%91%E7%8C%8E%E4%BA%BA%E8%BD%AC%E8%A1%8C%E5%90%8E.png",
+    "source": "none",
+    "assetStatus": "missing",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 0,
+  "chapters": [
+    {
+      "id": "story_blkngt_set_2--obt__memory__story_blkngt_2_1",
+      "albumId": "story_blkngt_set_2",
+      "title": "赏金猎人转行后",
+      "avgTag": "幕间",
+      "sort": 0,
+      "path": "chapters/story_blkngt_set_2--obt__memory__story_blkngt_2_1.json",
+      "downloadable": true
+    }
+  ],
+  "source": {
+    "providerId": "github-raw",
+    "revision": "63c7cec73c3858d0ae913f85cc89af3cef4d744f",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
+  },
+  "extras": []
+}

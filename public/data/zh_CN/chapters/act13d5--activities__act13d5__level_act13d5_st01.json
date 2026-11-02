@@ -1,21 +1,21 @@
 {
-  "albumId": "act13d5",
-  "avgTag": "幕间",
-  "blocks": [],
-  "citations": [],
-  "code": "MN-ST-1",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "MN-ST-1_亮相/NBT",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/MN-ST-1_%E4%BA%AE%E7%9B%B8/NBT"
-  },
   "id": "act13d5--activities__act13d5__level_act13d5_st01",
-  "navigation": {
-    "nextChapterId": "act13d5--activities__act13d5__level_act13d5_01_beg",
-    "previousChapterId": null
-  },
+  "albumId": "act13d5",
+  "title": "亮相",
   "subtitle": "MN-ST-1",
+  "code": "MN-ST-1",
+  "avgTag": "幕间",
   "summary": "info/activities/act13d5/level_act13d5_st01",
-  "title": "亮相"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MN-ST-1_%E4%BA%AE%E7%9B%B8/NBT",
+    "page": "MN-ST-1_亮相/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": null,
+    "nextChapterId": "act13d5--activities__act13d5__level_act13d5_01_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

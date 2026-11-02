@@ -1,0 +1,21 @@
+{
+  "id": "act54side--activities__act54side__level_act54side_07_beg",
+  "albumId": "act54side",
+  "title": "月悬",
+  "subtitle": "SR-7",
+  "code": "SR-7",
+  "avgTag": "行动前",
+  "summary": "info/activities/act54side/level_act54side_07_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SR-7_%E6%9C%88%E6%82%AC/BEG",
+    "page": "SR-7_月悬/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act54side--activities__act54side__level_act54side_06_end",
+    "nextChapterId": "act54side--activities__act54side__level_act54side_07_end"
+  },
+  "blocks": [],
+  "citations": []
+}

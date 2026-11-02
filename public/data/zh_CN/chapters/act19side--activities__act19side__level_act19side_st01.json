@@ -1,21 +1,21 @@
 {
-  "albumId": "act19side",
-  "avgTag": "幕间",
-  "blocks": [],
-  "citations": [],
-  "code": "DV-ST-1",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "DV-ST-1_逆行/NBT",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/DV-ST-1_%E9%80%86%E8%A1%8C/NBT"
-  },
   "id": "act19side--activities__act19side__level_act19side_st01",
-  "navigation": {
-    "nextChapterId": "act19side--activities__act19side__level_act19side_01_beg",
-    "previousChapterId": null
-  },
+  "albumId": "act19side",
+  "title": "逆行",
   "subtitle": "DV-ST-1",
+  "code": "DV-ST-1",
+  "avgTag": "幕间",
   "summary": "info/activities/act19side/level_act19side_st01",
-  "title": "逆行"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DV-ST-1_%E9%80%86%E8%A1%8C/NBT",
+    "page": "DV-ST-1_逆行/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": null,
+    "nextChapterId": "act19side--activities__act19side__level_act19side_01_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

@@ -6,6 +6,12 @@
   "code": "15-17",
   "avgTag": "幕间",
   "summary": "info/obt/main/level_main_15-15_end_variation02",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-17_%E2%80%9C%E5%A5%B9%E2%80%9D/NBT",
+    "page": "15-17_“她”/NBT",
+    "kind": "scenario-html"
+  },
   "navigation": {
     "previousChapterId": "main_15--obt__main__level_main_15-15_end_variation01",
     "nextChapterId": "main_15--obt__main__level_main_15-15_end"

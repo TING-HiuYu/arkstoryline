@@ -1,21 +1,21 @@
 {
-  "albumId": "act17side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "SN-1",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "SN-1_中心广场/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/SN-1_%E4%B8%AD%E5%BF%83%E5%B9%BF%E5%9C%BA/END"
-  },
   "id": "act17side--activities__act17side__level_act17side_01_end",
-  "navigation": {
-    "nextChapterId": "act17side--activities__act17side__level_act17side_st02",
-    "previousChapterId": "act17side--activities__act17side__level_act17side_01_beg"
-  },
+  "albumId": "act17side",
+  "title": "中心广场",
   "subtitle": "SN-1",
+  "code": "SN-1",
+  "avgTag": "行动后",
   "summary": "info/activities/act17side/level_act17side_01_end",
-  "title": "中心广场"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-1_%E4%B8%AD%E5%BF%83%E5%B9%BF%E5%9C%BA/END",
+    "page": "SN-1_中心广场/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act17side--activities__act17side__level_act17side_01_beg",
+    "nextChapterId": "act17side--activities__act17side__level_act17side_st02"
+  },
+  "blocks": [],
+  "citations": []
 }

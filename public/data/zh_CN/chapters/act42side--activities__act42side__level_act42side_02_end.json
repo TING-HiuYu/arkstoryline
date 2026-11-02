@@ -1,21 +1,21 @@
 {
-  "albumId": "act42side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "MT-2",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "MT-2_祈祷/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/MT-2_%E7%A5%88%E7%A5%B7/END"
-  },
   "id": "act42side--activities__act42side__level_act42side_02_end",
-  "navigation": {
-    "nextChapterId": "act42side--activities__act42side__level_act42side_03_beg",
-    "previousChapterId": "act42side--activities__act42side__level_act42side_02_beg"
-  },
+  "albumId": "act42side",
+  "title": "祈祷",
   "subtitle": "MT-2",
+  "code": "MT-2",
+  "avgTag": "行动后",
   "summary": "info/activities/act42side/level_act42side_02_end",
-  "title": "祈祷"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/MT-2_%E7%A5%88%E7%A5%B7/END",
+    "page": "MT-2_祈祷/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act42side--activities__act42side__level_act42side_02_beg",
+    "nextChapterId": "act42side--activities__act42side__level_act42side_03_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

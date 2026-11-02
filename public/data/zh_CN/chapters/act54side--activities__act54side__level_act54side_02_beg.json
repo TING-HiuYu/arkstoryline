@@ -1,0 +1,21 @@
+{
+  "id": "act54side--activities__act54side__level_act54side_02_beg",
+  "albumId": "act54side",
+  "title": "月涌",
+  "subtitle": "SR-2",
+  "code": "SR-2",
+  "avgTag": "行动前",
+  "summary": "info/activities/act54side/level_act54side_02_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SR-2_%E6%9C%88%E6%B6%8C/BEG",
+    "page": "SR-2_月涌/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act54side--activities__act54side__level_act54side_01_beg",
+    "nextChapterId": "act54side--activities__act54side__level_act54side_03_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

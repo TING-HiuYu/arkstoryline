@@ -1,21 +1,21 @@
 {
-  "albumId": "act44side",
-  "avgTag": "幕间",
-  "blocks": [],
-  "citations": [],
-  "code": "AT-ST-1",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "AT-ST-1_鬼之影/NBT",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/AT-ST-1_%E9%AC%BC%E4%B9%8B%E5%BD%B1/NBT"
-  },
   "id": "act44side--activities__act44side__level_act44side_st01",
-  "navigation": {
-    "nextChapterId": "act44side--activities__act44side__level_act44side_01_beg",
-    "previousChapterId": null
-  },
+  "albumId": "act44side",
+  "title": "鬼之影",
   "subtitle": "AT-ST-1",
+  "code": "AT-ST-1",
+  "avgTag": "幕间",
   "summary": "info/activities/act44side/level_act44side_st01",
-  "title": "鬼之影"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AT-ST-1_%E9%AC%BC%E4%B9%8B%E5%BD%B1/NBT",
+    "page": "AT-ST-1_鬼之影/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": null,
+    "nextChapterId": "act44side--activities__act44side__level_act44side_01_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

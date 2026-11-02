@@ -1,21 +1,21 @@
 {
-  "albumId": "act47side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "UR-5",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "UR-5_注目礼/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/UR-5_%E6%B3%A8%E7%9B%AE%E7%A4%BC/BEG"
-  },
   "id": "act47side--activities__act47side__level_act47side_05_beg",
-  "navigation": {
-    "nextChapterId": "act47side--activities__act47side__level_act47side_05_end",
-    "previousChapterId": "act47side--activities__act47side__level_act47side_st02"
-  },
+  "albumId": "act47side",
+  "title": "注目礼",
   "subtitle": "UR-5",
+  "code": "UR-5",
+  "avgTag": "行动前",
   "summary": "info/activities/act47side/level_act47side_05_beg",
-  "title": "注目礼"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/UR-5_%E6%B3%A8%E7%9B%AE%E7%A4%BC/BEG",
+    "page": "UR-5_注目礼/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act47side--activities__act47side__level_act47side_st02",
+    "nextChapterId": "act47side--activities__act47side__level_act47side_05_end"
+  },
+  "blocks": [],
+  "citations": []
 }

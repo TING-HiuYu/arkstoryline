@@ -1,0 +1,21 @@
+{
+  "id": "act53side--activities__act53side__level_act53side_07_end",
+  "albumId": "act53side",
+  "title": "谎言的重量",
+  "subtitle": "TO-7",
+  "code": "TO-7",
+  "avgTag": "行动后",
+  "summary": "info/activities/act53side/level_act53side_07_end",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TO-7_%E8%B0%8E%E8%A8%80%E7%9A%84%E9%87%8D%E9%87%8F/END",
+    "page": "TO-7_谎言的重量/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act53side--activities__act53side__level_act53side_07_beg",
+    "nextChapterId": "act53side--activities__act53side__level_act53side_08_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

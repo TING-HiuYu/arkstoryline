@@ -1,0 +1,344 @@
+{
+  "id": "act52side",
+  "slug": "act52side",
+  "title": "昨日海",
+  "sourceEntryType": "UNKNOWN",
+  "albumKind": "intermezzi",
+  "homeSection": "sideStory",
+  "timelineRank": 1791500400,
+  "gameOrderRank": 8004,
+  "cover": {
+    "primaryImageId": "kv_yet_another_wave",
+    "titleImageId": "title_yet_another_wave",
+    "backgroundImageId": "storybg_yet_another_wave",
+    "storyEntryPicId": "storyEntryPic_act52side",
+    "url": "https://media.prts.wiki/1/13/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E6%98%A8%E6%97%A5%E6%B5%B7.png",
+    "source": "stage-kv",
+    "assetStatus": "disabled",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 1791500400,
+  "chapters": [
+    {
+      "id": "act52side--activities__act52side__level_act52side_st01",
+      "albumId": "act52side",
+      "title": "羽兽盘旋",
+      "code": "YW-ST-1",
+      "avgTag": "幕间",
+      "sort": 1,
+      "path": "chapters/act52side--activities__act52side__level_act52side_st01.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-ST-1_%E7%BE%BD%E5%85%BD%E7%9B%98%E6%97%8B/NBT",
+        "page": "YW-ST-1_羽兽盘旋/NBT",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_01_beg",
+      "albumId": "act52side",
+      "title": "互助会",
+      "code": "YW-1",
+      "avgTag": "行动前",
+      "sort": 2,
+      "path": "chapters/act52side--activities__act52side__level_act52side_01_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-1_%E4%BA%92%E5%8A%A9%E4%BC%9A/BEG",
+        "page": "YW-1_互助会/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_01_end",
+      "albumId": "act52side",
+      "title": "互助会",
+      "code": "YW-1",
+      "avgTag": "行动后",
+      "sort": 3,
+      "path": "chapters/act52side--activities__act52side__level_act52side_01_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-1_%E4%BA%92%E5%8A%A9%E4%BC%9A/END",
+        "page": "YW-1_互助会/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_02_beg",
+      "albumId": "act52side",
+      "title": "浮浮沉沉",
+      "code": "YW-2",
+      "avgTag": "行动前",
+      "sort": 4,
+      "path": "chapters/act52side--activities__act52side__level_act52side_02_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-2_%E6%B5%AE%E6%B5%AE%E6%B2%89%E6%B2%89/BEG",
+        "page": "YW-2_浮浮沉沉/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_02_end",
+      "albumId": "act52side",
+      "title": "浮浮沉沉",
+      "code": "YW-2",
+      "avgTag": "行动后",
+      "sort": 5,
+      "path": "chapters/act52side--activities__act52side__level_act52side_02_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-2_%E6%B5%AE%E6%B5%AE%E6%B2%89%E6%B2%89/END",
+        "page": "YW-2_浮浮沉沉/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_03_beg",
+      "albumId": "act52side",
+      "title": "破手铐",
+      "code": "YW-3",
+      "avgTag": "行动前",
+      "sort": 6,
+      "path": "chapters/act52side--activities__act52side__level_act52side_03_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-3_%E7%A0%B4%E6%89%8B%E9%93%90/BEG",
+        "page": "YW-3_破手铐/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_03_end",
+      "albumId": "act52side",
+      "title": "破手铐",
+      "code": "YW-3",
+      "avgTag": "行动后",
+      "sort": 7,
+      "path": "chapters/act52side--activities__act52side__level_act52side_03_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-3_%E7%A0%B4%E6%89%8B%E9%93%90/END",
+        "page": "YW-3_破手铐/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_04_beg",
+      "albumId": "act52side",
+      "title": "走上街道",
+      "code": "YW-4",
+      "avgTag": "行动前",
+      "sort": 8,
+      "path": "chapters/act52side--activities__act52side__level_act52side_04_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-4_%E8%B5%B0%E4%B8%8A%E8%A1%97%E9%81%93/BEG",
+        "page": "YW-4_走上街道/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_04_end",
+      "albumId": "act52side",
+      "title": "走上街道",
+      "code": "YW-4",
+      "avgTag": "行动后",
+      "sort": 9,
+      "path": "chapters/act52side--activities__act52side__level_act52side_04_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-4_%E8%B5%B0%E4%B8%8A%E8%A1%97%E9%81%93/END",
+        "page": "YW-4_走上街道/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_st02",
+      "albumId": "act52side",
+      "title": "海声嘈杂",
+      "code": "YW-ST-2",
+      "avgTag": "幕间",
+      "sort": 10,
+      "path": "chapters/act52side--activities__act52side__level_act52side_st02.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-ST-2_%E6%B5%B7%E5%A3%B0%E5%98%88%E6%9D%82/NBT",
+        "page": "YW-ST-2_海声嘈杂/NBT",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_05_beg",
+      "albumId": "act52side",
+      "title": "三岔路口",
+      "code": "YW-5",
+      "avgTag": "行动前",
+      "sort": 11,
+      "path": "chapters/act52side--activities__act52side__level_act52side_05_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-5_%E4%B8%89%E5%B2%94%E8%B7%AF%E5%8F%A3/BEG",
+        "page": "YW-5_三岔路口/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_05_end",
+      "albumId": "act52side",
+      "title": "三岔路口",
+      "code": "YW-5",
+      "avgTag": "行动后",
+      "sort": 12,
+      "path": "chapters/act52side--activities__act52side__level_act52side_05_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-5_%E4%B8%89%E5%B2%94%E8%B7%AF%E5%8F%A3/END",
+        "page": "YW-5_三岔路口/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_06_beg",
+      "albumId": "act52side",
+      "title": "大人物",
+      "code": "YW-6",
+      "avgTag": "行动前",
+      "sort": 13,
+      "path": "chapters/act52side--activities__act52side__level_act52side_06_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-6_%E5%A4%A7%E4%BA%BA%E7%89%A9/BEG",
+        "page": "YW-6_大人物/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_06_end",
+      "albumId": "act52side",
+      "title": "大人物",
+      "code": "YW-6",
+      "avgTag": "行动后",
+      "sort": 14,
+      "path": "chapters/act52side--activities__act52side__level_act52side_06_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-6_%E5%A4%A7%E4%BA%BA%E7%89%A9/END",
+        "page": "YW-6_大人物/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_07_beg",
+      "albumId": "act52side",
+      "title": "殉葬品",
+      "code": "YW-7",
+      "avgTag": "行动前",
+      "sort": 15,
+      "path": "chapters/act52side--activities__act52side__level_act52side_07_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-7_%E6%AE%89%E8%91%AC%E5%93%81/BEG",
+        "page": "YW-7_殉葬品/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_07_end",
+      "albumId": "act52side",
+      "title": "殉葬品",
+      "code": "YW-7",
+      "avgTag": "行动后",
+      "sort": 16,
+      "path": "chapters/act52side--activities__act52side__level_act52side_07_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-7_%E6%AE%89%E8%91%AC%E5%93%81/END",
+        "page": "YW-7_殉葬品/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_08_beg",
+      "albumId": "act52side",
+      "title": "鳞的记忆",
+      "code": "YW-8",
+      "avgTag": "行动前",
+      "sort": 17,
+      "path": "chapters/act52side--activities__act52side__level_act52side_08_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-8_%E9%B3%9E%E7%9A%84%E8%AE%B0%E5%BF%86/BEG",
+        "page": "YW-8_鳞的记忆/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_08_end",
+      "albumId": "act52side",
+      "title": "鳞的记忆",
+      "code": "YW-8",
+      "avgTag": "行动后",
+      "sort": 18,
+      "path": "chapters/act52side--activities__act52side__level_act52side_08_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-8_%E9%B3%9E%E7%9A%84%E8%AE%B0%E5%BF%86/END",
+        "page": "YW-8_鳞的记忆/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act52side--activities__act52side__level_act52side_st03",
+      "albumId": "act52side",
+      "title": "留给明天",
+      "code": "YW-ST-3",
+      "avgTag": "幕间",
+      "sort": 19,
+      "path": "chapters/act52side--activities__act52side__level_act52side_st03.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/YW-ST-3_%E7%95%99%E7%BB%99%E6%98%8E%E5%A4%A9/NBT",
+        "page": "YW-ST-3_留给明天/NBT",
+        "kind": "scenario-html"
+      }
+    }
+  ],
+  "source": {
+    "providerId": "github-raw",
+    "revision": "63c7cec73c3858d0ae913f85cc89af3cef4d744f",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
+  },
+  "extras": [],
+  "summary": "什么是伊比利亚？\n是传说中那些赤金为砖、银线作毯的宫殿？\n还是眼前这片爬满溟痕、铺满噬尘的土地？\n是旧王室，还是审判庭？是伊比利亚人，还是岛民？\n来自大海的访客无法替谁回答，但她望向海面之下。\n那里沉眠着伊比利亚曾经的一切定义，\n骄傲的港都，雷亚-伊比利亚。",
+  "music": {
+    "movementTitle": "自海渊的一瞥",
+    "arcTitle": "自海渊的一瞥",
+    "tags": [
+      "tag_12",
+      "tag_13"
+    ],
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets"
+  }
+}

@@ -3,13 +3,13 @@
   "albumId": "main_0",
   "title": "序章·下",
   "avgTag": "幕间",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "G2H/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/G2H/END"
-  },
   "summary": "info/obt/guide/beg/2_guide_to_home",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/G2H/END",
+    "page": "G2H/END",
+    "kind": "scenario-html"
+  },
   "navigation": {
     "previousChapterId": "main_0--obt__guide__beg__0_welcome_to_guide",
     "nextChapterId": "main_0--obt__main__level_main_00-01_beg"

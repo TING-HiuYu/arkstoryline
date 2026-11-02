@@ -1,0 +1,21 @@
+{
+  "id": "act55side--activities__act55side__level_act55side_st04",
+  "albumId": "act55side",
+  "title": "年轻的未来",
+  "subtitle": "TL-ST-4",
+  "code": "TL-ST-4",
+  "avgTag": "幕间",
+  "summary": "info/activities/act55side/level_act55side_st04",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TL-ST-4_%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%9C%AA%E6%9D%A5/NBT",
+    "page": "TL-ST-4_年轻的未来/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act55side--activities__act55side__level_act55side_10_end",
+    "nextChapterId": null
+  },
+  "blocks": [],
+  "citations": []
+}

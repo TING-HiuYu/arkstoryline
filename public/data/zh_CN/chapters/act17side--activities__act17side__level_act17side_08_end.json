@@ -1,21 +1,21 @@
 {
-  "albumId": "act17side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "SN-8",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "SN-8_观测所/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/SN-8_%E8%A7%82%E6%B5%8B%E6%89%80/END"
-  },
   "id": "act17side--activities__act17side__level_act17side_08_end",
-  "navigation": {
-    "nextChapterId": "act17side--activities__act17side__level_act17side_st10",
-    "previousChapterId": "act17side--activities__act17side__level_act17side_st09"
-  },
+  "albumId": "act17side",
+  "title": "观测所",
   "subtitle": "SN-8",
+  "code": "SN-8",
+  "avgTag": "行动后",
   "summary": "info/activities/act17side/level_act17side_08_end",
-  "title": "观测所"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SN-8_%E8%A7%82%E6%B5%8B%E6%89%80/END",
+    "page": "SN-8_观测所/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act17side--activities__act17side__level_act17side_st09",
+    "nextChapterId": "act17side--activities__act17side__level_act17side_st10"
+  },
+  "blocks": [],
+  "citations": []
 }

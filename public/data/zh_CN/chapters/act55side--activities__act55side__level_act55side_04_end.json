@@ -1,0 +1,21 @@
+{
+  "id": "act55side--activities__act55side__level_act55side_04_end",
+  "albumId": "act55side",
+  "title": "刻板的争论",
+  "subtitle": "TL-4",
+  "code": "TL-4",
+  "avgTag": "行动后",
+  "summary": "info/activities/act55side/level_act55side_04_end",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TL-4_%E5%88%BB%E6%9D%BF%E7%9A%84%E4%BA%89%E8%AE%BA/END",
+    "page": "TL-4_刻板的争论/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act55side--activities__act55side__level_act55side_04_beg",
+    "nextChapterId": "act55side--activities__act55side__level_act55side_st02"
+  },
+  "blocks": [],
+  "citations": []
+}

@@ -1,0 +1,19 @@
+{
+  "albumId": "act21mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BD-ST6_大流行/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BD-ST6_%E5%A4%A7%E6%B5%81%E8%A1%8C/NBT"
+  },
+  "id": "act21mini--activities__act21mini__level_act21mini_st06",
+  "navigation": {
+    "nextChapterId": "act21mini--activities__act21mini__level_act21mini_st07",
+    "previousChapterId": "act21mini--activities__act21mini__level_act21mini_st05"
+  },
+  "summary": "info/activities/act21mini/level_act21mini_st06",
+  "title": "大流行"
+}

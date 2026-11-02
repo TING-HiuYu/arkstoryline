@@ -1,0 +1,33 @@
+{
+  "id": "story_hadiya_set_2",
+  "slug": "story-hadiya-set-2",
+  "title": "被抗拒者",
+  "sourceEntryType": "UNKNOWN",
+  "albumKind": "operatorRecord",
+  "homeSection": "operatorRecord",
+  "timelineRank": 0,
+  "cover": {
+    "url": "https://media.prts.wiki/5/5b/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E8%A2%AB%E6%8A%97%E6%8B%92%E8%80%85.png",
+    "source": "none",
+    "assetStatus": "missing",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 0,
+  "chapters": [
+    {
+      "id": "story_hadiya_set_2--obt__memory__story_hadiya_2_1",
+      "albumId": "story_hadiya_set_2",
+      "title": "被抗拒者",
+      "avgTag": "幕间",
+      "sort": 0,
+      "path": "chapters/story_hadiya_set_2--obt__memory__story_hadiya_2_1.json",
+      "downloadable": true
+    }
+  ],
+  "source": {
+    "providerId": "github-raw",
+    "revision": "63c7cec73c3858d0ae913f85cc89af3cef4d744f",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
+  },
+  "extras": []
+}

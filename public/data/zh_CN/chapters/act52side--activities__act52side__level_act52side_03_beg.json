@@ -1,0 +1,21 @@
+{
+  "id": "act52side--activities__act52side__level_act52side_03_beg",
+  "albumId": "act52side",
+  "title": "破手铐",
+  "subtitle": "YW-3",
+  "code": "YW-3",
+  "avgTag": "行动前",
+  "summary": "info/activities/act52side/level_act52side_03_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/YW-3_%E7%A0%B4%E6%89%8B%E9%93%90/BEG",
+    "page": "YW-3_破手铐/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act52side--activities__act52side__level_act52side_02_end",
+    "nextChapterId": "act52side--activities__act52side__level_act52side_03_end"
+  },
+  "blocks": [],
+  "citations": []
+}

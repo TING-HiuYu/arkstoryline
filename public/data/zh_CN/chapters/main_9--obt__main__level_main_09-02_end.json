@@ -1,21 +1,21 @@
 {
-  "albumId": "main_9",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "9-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "9-3_牌局/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/9-3_%E7%89%8C%E5%B1%80/END"
-  },
   "id": "main_9--obt__main__level_main_09-02_end",
-  "navigation": {
-    "nextChapterId": "main_9--obt__main__level_main_09-03_beg",
-    "previousChapterId": "main_9--obt__main__level_main_09-01_beg"
-  },
+  "albumId": "main_9",
+  "title": "牌局",
   "subtitle": "9-3",
+  "code": "9-3",
+  "avgTag": "行动后",
   "summary": "info/obt/main/level_main_09-02_end",
-  "title": "牌局"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/9-3_%E7%89%8C%E5%B1%80/END",
+    "page": "9-3_牌局/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_9--obt__main__level_main_09-01_beg",
+    "nextChapterId": "main_9--obt__main__level_main_09-03_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

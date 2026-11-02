@@ -1,0 +1,21 @@
+{
+  "id": "act54side--activities__act54side__level_act54side_04_beg",
+  "albumId": "act54side",
+  "title": "月移",
+  "subtitle": "SR-4",
+  "code": "SR-4",
+  "avgTag": "行动前",
+  "summary": "info/activities/act54side/level_act54side_04_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SR-4_%E6%9C%88%E7%A7%BB/BEG",
+    "page": "SR-4_月移/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act54side--activities__act54side__level_act54side_03_beg",
+    "nextChapterId": "act54side--activities__act54side__level_act54side_05_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

@@ -1,21 +1,21 @@
 {
-  "albumId": "act48side",
-  "avgTag": "幕间",
-  "blocks": [],
-  "citations": [],
-  "code": "ME-ST-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "ME-ST-3_无法再一次踏入的河/NBT",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/ME-ST-3_%E6%97%A0%E6%B3%95%E5%86%8D%E4%B8%80%E6%AC%A1%E8%B8%8F%E5%85%A5%E7%9A%84%E6%B2%B3/NBT"
-  },
   "id": "act48side--activities__act48side__level_act48side_st03",
-  "navigation": {
-    "nextChapterId": null,
-    "previousChapterId": "act48side--activities__act48side__level_act48side_08_end"
-  },
+  "albumId": "act48side",
+  "title": "无法再一次踏入的河",
   "subtitle": "ME-ST-3",
+  "code": "ME-ST-3",
+  "avgTag": "幕间",
   "summary": "info/activities/act48side/level_act48side_st03",
-  "title": "无法再一次踏入的河"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/ME-ST-3_%E6%97%A0%E6%B3%95%E5%86%8D%E4%B8%80%E6%AC%A1%E8%B8%8F%E5%85%A5%E7%9A%84%E6%B2%B3/NBT",
+    "page": "ME-ST-3_无法再一次踏入的河/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act48side--activities__act48side__level_act48side_08_end",
+    "nextChapterId": null
+  },
+  "blocks": [],
+  "citations": []
 }

@@ -1,21 +1,21 @@
 {
-  "albumId": "main_15",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "15-15",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "15-15_拒绝哀悼/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/15-15_%E6%8B%92%E7%BB%9D%E5%93%80%E6%82%BC/END"
-  },
   "id": "main_15--obt__main__level_main_15-14_end",
-  "navigation": {
-    "nextChapterId": "main_15--obt__main__level_st_15-02",
-    "previousChapterId": "main_15--obt__main__level_main_15-13_beg"
-  },
+  "albumId": "main_15",
+  "title": "拒绝哀悼",
   "subtitle": "15-15",
+  "code": "15-15",
+  "avgTag": "行动后",
   "summary": "info/obt/main/level_main_15-14_end",
-  "title": "拒绝哀悼"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/15-15_%E6%8B%92%E7%BB%9D%E5%93%80%E6%82%BC/END",
+    "page": "15-15_拒绝哀悼/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_15--obt__main__level_main_15-13_beg",
+    "nextChapterId": "main_15--obt__main__level_st_15-02"
+  },
+  "blocks": [],
+  "citations": []
 }

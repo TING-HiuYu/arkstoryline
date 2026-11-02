@@ -1,344 +1,344 @@
 {
+  "id": "act43side",
+  "slug": "act43side",
+  "title": "红丝绒",
+  "sourceEntryType": "UNKNOWN",
   "albumKind": "intermezzi",
+  "homeSection": "sideStory",
+  "timelineRank": 1749096000,
+  "gameOrderRank": 7001,
+  "cover": {
+    "primaryImageId": "kv_act_or_die",
+    "titleImageId": "title_act_or_die",
+    "backgroundImageId": "storybg_act_or_die",
+    "storyEntryPicId": "storyEntryPic_act43side",
+    "url": "https://media.prts.wiki/7/75/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%BA%A2%E4%B8%9D%E7%BB%92.png",
+    "source": "stage-kv",
+    "assetStatus": "disabled",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 1749096000,
   "chapters": [
     {
-      "albumId": "act43side",
-      "avgTag": "幕间",
-      "code": "AD-ST-1",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-ST-1_唆使一场死亡/NBT",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-ST-1_%E5%94%86%E4%BD%BF%E4%B8%80%E5%9C%BA%E6%AD%BB%E4%BA%A1/NBT"
-      },
-      "downloadable": true,
       "id": "act43side--activities__act43side__level_act43side_st01",
-      "path": "chapters/act43side--activities__act43side__level_act43side_st01.json",
+      "albumId": "act43side",
+      "title": "唆使一场死亡",
+      "code": "AD-ST-1",
+      "avgTag": "幕间",
       "sort": 1,
-      "title": "唆使一场死亡"
+      "path": "chapters/act43side--activities__act43side__level_act43side_st01.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-ST-1_%E5%94%86%E4%BD%BF%E4%B8%80%E5%9C%BA%E6%AD%BB%E4%BA%A1/NBT",
+        "page": "AD-ST-1_唆使一场死亡/NBT",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act43side",
-      "avgTag": "行动前",
-      "code": "AD-1",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-1_彩排日/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-1_%E5%BD%A9%E6%8E%92%E6%97%A5/BEG"
-      },
-      "downloadable": true,
       "id": "act43side--activities__act43side__level_act43side_01_beg",
-      "path": "chapters/act43side--activities__act43side__level_act43side_01_beg.json",
-      "sort": 2,
-      "title": "彩排日"
-    },
-    {
       "albumId": "act43side",
-      "avgTag": "行动后",
+      "title": "彩排日",
       "code": "AD-1",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-1_彩排日/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-1_%E5%BD%A9%E6%8E%92%E6%97%A5/END"
-      },
+      "avgTag": "行动前",
+      "sort": 2,
+      "path": "chapters/act43side--activities__act43side__level_act43side_01_beg.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-1_%E5%BD%A9%E6%8E%92%E6%97%A5/BEG",
+        "page": "AD-1_彩排日/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act43side--activities__act43side__level_act43side_01_end",
-      "path": "chapters/act43side--activities__act43side__level_act43side_01_end.json",
+      "albumId": "act43side",
+      "title": "彩排日",
+      "code": "AD-1",
+      "avgTag": "行动后",
       "sort": 3,
-      "title": "彩排日"
+      "path": "chapters/act43side--activities__act43side__level_act43side_01_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-1_%E5%BD%A9%E6%8E%92%E6%97%A5/END",
+        "page": "AD-1_彩排日/END",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act43side",
-      "avgTag": "行动前",
-      "code": "AD-2",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-2_排演一出悲剧/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-2_%E6%8E%92%E6%BC%94%E4%B8%80%E5%87%BA%E6%82%B2%E5%89%A7/BEG"
-      },
-      "downloadable": true,
       "id": "act43side--activities__act43side__level_act43side_02_beg",
-      "path": "chapters/act43side--activities__act43side__level_act43side_02_beg.json",
-      "sort": 4,
-      "title": "排演一出悲剧"
-    },
-    {
       "albumId": "act43side",
-      "avgTag": "行动后",
+      "title": "排演一出悲剧",
       "code": "AD-2",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-2_排演一出悲剧/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-2_%E6%8E%92%E6%BC%94%E4%B8%80%E5%87%BA%E6%82%B2%E5%89%A7/END"
-      },
+      "avgTag": "行动前",
+      "sort": 4,
+      "path": "chapters/act43side--activities__act43side__level_act43side_02_beg.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-2_%E6%8E%92%E6%BC%94%E4%B8%80%E5%87%BA%E6%82%B2%E5%89%A7/BEG",
+        "page": "AD-2_排演一出悲剧/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act43side--activities__act43side__level_act43side_02_end",
-      "path": "chapters/act43side--activities__act43side__level_act43side_02_end.json",
+      "albumId": "act43side",
+      "title": "排演一出悲剧",
+      "code": "AD-2",
+      "avgTag": "行动后",
       "sort": 5,
-      "title": "排演一出悲剧"
+      "path": "chapters/act43side--activities__act43side__level_act43side_02_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-2_%E6%8E%92%E6%BC%94%E4%B8%80%E5%87%BA%E6%82%B2%E5%89%A7/END",
+        "page": "AD-2_排演一出悲剧/END",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act43side",
-      "avgTag": "行动前",
-      "code": "AD-3",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-3_戏剧性/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-3_%E6%88%8F%E5%89%A7%E6%80%A7/BEG"
-      },
-      "downloadable": true,
       "id": "act43side--activities__act43side__level_act43side_03_beg",
-      "path": "chapters/act43side--activities__act43side__level_act43side_03_beg.json",
-      "sort": 6,
-      "title": "戏剧性"
-    },
-    {
       "albumId": "act43side",
-      "avgTag": "行动后",
+      "title": "戏剧性",
       "code": "AD-3",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-3_戏剧性/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-3_%E6%88%8F%E5%89%A7%E6%80%A7/END"
-      },
+      "avgTag": "行动前",
+      "sort": 6,
+      "path": "chapters/act43side--activities__act43side__level_act43side_03_beg.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-3_%E6%88%8F%E5%89%A7%E6%80%A7/BEG",
+        "page": "AD-3_戏剧性/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act43side--activities__act43side__level_act43side_03_end",
-      "path": "chapters/act43side--activities__act43side__level_act43side_03_end.json",
+      "albumId": "act43side",
+      "title": "戏剧性",
+      "code": "AD-3",
+      "avgTag": "行动后",
       "sort": 7,
-      "title": "戏剧性"
+      "path": "chapters/act43side--activities__act43side__level_act43side_03_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-3_%E6%88%8F%E5%89%A7%E6%80%A7/END",
+        "page": "AD-3_戏剧性/END",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act43side",
-      "avgTag": "行动前",
-      "code": "AD-4",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-4_一个荒唐的早晨/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-4_%E4%B8%80%E4%B8%AA%E8%8D%92%E5%94%90%E7%9A%84%E6%97%A9%E6%99%A8/BEG"
-      },
-      "downloadable": true,
       "id": "act43side--activities__act43side__level_act43side_04_beg",
-      "path": "chapters/act43side--activities__act43side__level_act43side_04_beg.json",
-      "sort": 8,
-      "title": "一个荒唐的早晨"
-    },
-    {
       "albumId": "act43side",
-      "avgTag": "行动后",
+      "title": "一个荒唐的早晨",
       "code": "AD-4",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-4_一个荒唐的早晨/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-4_%E4%B8%80%E4%B8%AA%E8%8D%92%E5%94%90%E7%9A%84%E6%97%A9%E6%99%A8/END"
-      },
+      "avgTag": "行动前",
+      "sort": 8,
+      "path": "chapters/act43side--activities__act43side__level_act43side_04_beg.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-4_%E4%B8%80%E4%B8%AA%E8%8D%92%E5%94%90%E7%9A%84%E6%97%A9%E6%99%A8/BEG",
+        "page": "AD-4_一个荒唐的早晨/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act43side--activities__act43side__level_act43side_04_end",
-      "path": "chapters/act43side--activities__act43side__level_act43side_04_end.json",
+      "albumId": "act43side",
+      "title": "一个荒唐的早晨",
+      "code": "AD-4",
+      "avgTag": "行动后",
       "sort": 9,
-      "title": "一个荒唐的早晨"
+      "path": "chapters/act43side--activities__act43side__level_act43side_04_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-4_%E4%B8%80%E4%B8%AA%E8%8D%92%E5%94%90%E7%9A%84%E6%97%A9%E6%99%A8/END",
+        "page": "AD-4_一个荒唐的早晨/END",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act43side",
-      "avgTag": "幕间",
-      "code": "AD-ST-2",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-ST-2_焦点/NBT",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-ST-2_%E7%84%A6%E7%82%B9/NBT"
-      },
-      "downloadable": true,
       "id": "act43side--activities__act43side__level_act43side_st02",
-      "path": "chapters/act43side--activities__act43side__level_act43side_st02.json",
-      "sort": 10,
-      "title": "焦点"
-    },
-    {
       "albumId": "act43side",
-      "avgTag": "行动前",
-      "code": "AD-5",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-5_终将重逢/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-5_%E7%BB%88%E5%B0%86%E9%87%8D%E9%80%A2/BEG"
-      },
-      "downloadable": true,
-      "id": "act43side--activities__act43side__level_act43side_05_beg",
-      "path": "chapters/act43side--activities__act43side__level_act43side_05_beg.json",
-      "sort": 11,
-      "title": "终将重逢"
-    },
-    {
-      "albumId": "act43side",
-      "avgTag": "行动后",
-      "code": "AD-5",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-5_终将重逢/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-5_%E7%BB%88%E5%B0%86%E9%87%8D%E9%80%A2/END"
-      },
-      "downloadable": true,
-      "id": "act43side--activities__act43side__level_act43side_05_end",
-      "path": "chapters/act43side--activities__act43side__level_act43side_05_end.json",
-      "sort": 12,
-      "title": "终将重逢"
-    },
-    {
-      "albumId": "act43side",
-      "avgTag": "行动前",
-      "code": "AD-6",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-6_倒带独白/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-6_%E5%80%92%E5%B8%A6%E7%8B%AC%E7%99%BD/BEG"
-      },
-      "downloadable": true,
-      "id": "act43side--activities__act43side__level_act43side_06_beg",
-      "path": "chapters/act43side--activities__act43side__level_act43side_06_beg.json",
-      "sort": 13,
-      "title": "倒带独白"
-    },
-    {
-      "albumId": "act43side",
-      "avgTag": "行动后",
-      "code": "AD-6",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-6_倒带独白/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-6_%E5%80%92%E5%B8%A6%E7%8B%AC%E7%99%BD/END"
-      },
-      "downloadable": true,
-      "id": "act43side--activities__act43side__level_act43side_06_end",
-      "path": "chapters/act43side--activities__act43side__level_act43side_06_end.json",
-      "sort": 14,
-      "title": "倒带独白"
-    },
-    {
-      "albumId": "act43side",
-      "avgTag": "行动前",
-      "code": "AD-7",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-7_“血钻”的歌声/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-7_%E2%80%9C%E8%A1%80%E9%92%BB%E2%80%9D%E7%9A%84%E6%AD%8C%E5%A3%B0/BEG"
-      },
-      "downloadable": true,
-      "id": "act43side--activities__act43side__level_act43side_07_beg",
-      "path": "chapters/act43side--activities__act43side__level_act43side_07_beg.json",
-      "sort": 15,
-      "title": "“血钻”的歌声"
-    },
-    {
-      "albumId": "act43side",
-      "avgTag": "行动后",
-      "code": "AD-7",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-7_“血钻”的歌声/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-7_%E2%80%9C%E8%A1%80%E9%92%BB%E2%80%9D%E7%9A%84%E6%AD%8C%E5%A3%B0/END"
-      },
-      "downloadable": true,
-      "id": "act43side--activities__act43side__level_act43side_07_end",
-      "path": "chapters/act43side--activities__act43side__level_act43side_07_end.json",
-      "sort": 16,
-      "title": "“血钻”的歌声"
-    },
-    {
-      "albumId": "act43side",
-      "avgTag": "行动前",
-      "code": "AD-8",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-8_登台致礼/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-8_%E7%99%BB%E5%8F%B0%E8%87%B4%E7%A4%BC/BEG"
-      },
-      "downloadable": true,
-      "id": "act43side--activities__act43side__level_act43side_08_beg",
-      "path": "chapters/act43side--activities__act43side__level_act43side_08_beg.json",
-      "sort": 17,
-      "title": "登台致礼"
-    },
-    {
-      "albumId": "act43side",
-      "avgTag": "行动后",
-      "code": "AD-8",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-8_登台致礼/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-8_%E7%99%BB%E5%8F%B0%E8%87%B4%E7%A4%BC/END"
-      },
-      "downloadable": true,
-      "id": "act43side--activities__act43side__level_act43side_08_end",
-      "path": "chapters/act43side--activities__act43side__level_act43side_08_end.json",
-      "sort": 18,
-      "title": "登台致礼"
-    },
-    {
-      "albumId": "act43side",
+      "title": "焦点",
+      "code": "AD-ST-2",
       "avgTag": "幕间",
-      "code": "AD-ST-3",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "AD-ST-3_致观众/NBT",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/AD-ST-3_%E8%87%B4%E8%A7%82%E4%BC%97/NBT"
-      },
+      "sort": 10,
+      "path": "chapters/act43side--activities__act43side__level_act43side_st02.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-ST-2_%E7%84%A6%E7%82%B9/NBT",
+        "page": "AD-ST-2_焦点/NBT",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act43side--activities__act43side__level_act43side_05_beg",
+      "albumId": "act43side",
+      "title": "终将重逢",
+      "code": "AD-5",
+      "avgTag": "行动前",
+      "sort": 11,
+      "path": "chapters/act43side--activities__act43side__level_act43side_05_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-5_%E7%BB%88%E5%B0%86%E9%87%8D%E9%80%A2/BEG",
+        "page": "AD-5_终将重逢/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act43side--activities__act43side__level_act43side_05_end",
+      "albumId": "act43side",
+      "title": "终将重逢",
+      "code": "AD-5",
+      "avgTag": "行动后",
+      "sort": 12,
+      "path": "chapters/act43side--activities__act43side__level_act43side_05_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-5_%E7%BB%88%E5%B0%86%E9%87%8D%E9%80%A2/END",
+        "page": "AD-5_终将重逢/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act43side--activities__act43side__level_act43side_06_beg",
+      "albumId": "act43side",
+      "title": "倒带独白",
+      "code": "AD-6",
+      "avgTag": "行动前",
+      "sort": 13,
+      "path": "chapters/act43side--activities__act43side__level_act43side_06_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-6_%E5%80%92%E5%B8%A6%E7%8B%AC%E7%99%BD/BEG",
+        "page": "AD-6_倒带独白/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act43side--activities__act43side__level_act43side_06_end",
+      "albumId": "act43side",
+      "title": "倒带独白",
+      "code": "AD-6",
+      "avgTag": "行动后",
+      "sort": 14,
+      "path": "chapters/act43side--activities__act43side__level_act43side_06_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-6_%E5%80%92%E5%B8%A6%E7%8B%AC%E7%99%BD/END",
+        "page": "AD-6_倒带独白/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act43side--activities__act43side__level_act43side_07_beg",
+      "albumId": "act43side",
+      "title": "“血钻”的歌声",
+      "code": "AD-7",
+      "avgTag": "行动前",
+      "sort": 15,
+      "path": "chapters/act43side--activities__act43side__level_act43side_07_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-7_%E2%80%9C%E8%A1%80%E9%92%BB%E2%80%9D%E7%9A%84%E6%AD%8C%E5%A3%B0/BEG",
+        "page": "AD-7_“血钻”的歌声/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act43side--activities__act43side__level_act43side_07_end",
+      "albumId": "act43side",
+      "title": "“血钻”的歌声",
+      "code": "AD-7",
+      "avgTag": "行动后",
+      "sort": 16,
+      "path": "chapters/act43side--activities__act43side__level_act43side_07_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-7_%E2%80%9C%E8%A1%80%E9%92%BB%E2%80%9D%E7%9A%84%E6%AD%8C%E5%A3%B0/END",
+        "page": "AD-7_“血钻”的歌声/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act43side--activities__act43side__level_act43side_08_beg",
+      "albumId": "act43side",
+      "title": "登台致礼",
+      "code": "AD-8",
+      "avgTag": "行动前",
+      "sort": 17,
+      "path": "chapters/act43side--activities__act43side__level_act43side_08_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-8_%E7%99%BB%E5%8F%B0%E8%87%B4%E7%A4%BC/BEG",
+        "page": "AD-8_登台致礼/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act43side--activities__act43side__level_act43side_08_end",
+      "albumId": "act43side",
+      "title": "登台致礼",
+      "code": "AD-8",
+      "avgTag": "行动后",
+      "sort": 18,
+      "path": "chapters/act43side--activities__act43side__level_act43side_08_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-8_%E7%99%BB%E5%8F%B0%E8%87%B4%E7%A4%BC/END",
+        "page": "AD-8_登台致礼/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act43side--activities__act43side__level_act43side_st03",
-      "path": "chapters/act43side--activities__act43side__level_act43side_st03.json",
+      "albumId": "act43side",
+      "title": "致观众",
+      "code": "AD-ST-3",
+      "avgTag": "幕间",
       "sort": 19,
-      "title": "致观众"
+      "path": "chapters/act43side--activities__act43side__level_act43side_st03.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/AD-ST-3_%E8%87%B4%E8%A7%82%E4%BC%97/NBT",
+        "page": "AD-ST-3_致观众/NBT",
+        "kind": "scenario-html"
+      }
     }
   ],
-  "cover": {
-    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
-    "assetStatus": "disabled",
-    "backgroundImageId": "storybg_act_or_die",
-    "primaryImageId": "kv_act_or_die",
-    "source": "stage-kv",
-    "storyEntryPicId": "storyEntryPic_act43side",
-    "titleImageId": "title_act_or_die",
-    "url": "https://media.prts.wiki/7/75/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E7%BA%A2%E4%B8%9D%E7%BB%92.png"
+  "source": {
+    "providerId": "github-raw",
+    "revision": "63c7cec73c3858d0ae913f85cc89af3cef4d744f",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
   },
   "extras": [],
-  "gameOrderRank": 7001,
-  "homeSection": "sideStory",
-  "id": "act43side",
+  "summary": "蓝卡坞拍摄地块开向荒野，众人受困其中，无法离开。\n一场多年前的旧案正在如今的人们心中作祟。\n喜悦、恐惧、惶惑、怀疑、愤怒和仇恨轮番登场——\n直到淋漓的鲜血为这一切画上一个浓墨重彩的句点。\n在这一切背后，是谁以情绪做笔，撰写这出荒诞悲剧？\n卢西恩掀开幕布，他将登台，他将领衔。",
   "music": {
-    "arcTitle": "泰拉奇谈",
     "movementTitle": "泰拉奇谈",
-    "recommended": false,
-    "sourcePage": "stage_table.storylineStorySets",
+    "arcTitle": "泰拉奇谈",
     "tags": [
       "tag_13",
       "tag_16"
-    ]
-  },
-  "slug": "act43side",
-  "source": {
-    "path": "zh_CN/gamedata/excel/story_review_table.json",
-    "providerId": "github-raw",
-    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
-  },
-  "sourceEntryType": "UNKNOWN",
-  "startTime": 1749096000,
-  "summary": "蓝卡坞拍摄地块开向荒野，众人受困其中，无法离开。\n一场多年前的旧案正在如今的人们心中作祟。\n喜悦、恐惧、惶惑、怀疑、愤怒和仇恨轮番登场——\n直到淋漓的鲜血为这一切画上一个浓墨重彩的句点。\n在这一切背后，是谁以情绪做笔，撰写这出荒诞悲剧？\n卢西恩掀开幕布，他将登台，他将领衔。",
-  "timelineRank": 1749096000,
-  "title": "红丝绒"
+    ],
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets"
+  }
 }

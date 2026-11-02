@@ -1,0 +1,21 @@
+{
+  "id": "act50side--activities__act50side__level_act50side_04_end",
+  "albumId": "act50side",
+  "title": "赤雪之兆",
+  "subtitle": "TD-4",
+  "code": "TD-4",
+  "avgTag": "行动后",
+  "summary": "info/activities/act50side/level_act50side_04_end",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TD-4_%E8%B5%A4%E9%9B%AA%E4%B9%8B%E5%85%86/END",
+    "page": "TD-4_赤雪之兆/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act50side--activities__act50side__level_act50side_04_beg",
+    "nextChapterId": "act50side--activities__act50side__level_act50side_05_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

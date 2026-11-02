@@ -1,21 +1,21 @@
 {
-  "albumId": "act14side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "BI-8",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "BI-8_将军/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/BI-8_%E5%B0%86%E5%86%9B/BEG"
-  },
   "id": "act14side--activities__act14side__level_act14side_08_beg",
-  "navigation": {
-    "nextChapterId": "act14side--activities__act14side__level_act14side_08_end",
-    "previousChapterId": "act14side--activities__act14side__level_act14side_07_end"
-  },
+  "albumId": "act14side",
+  "title": "将军",
   "subtitle": "BI-8",
+  "code": "BI-8",
+  "avgTag": "行动前",
   "summary": "info/activities/act14side/level_act14side_08_beg",
-  "title": "将军"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BI-8_%E5%B0%86%E5%86%9B/BEG",
+    "page": "BI-8_将军/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act14side--activities__act14side__level_act14side_07_end",
+    "nextChapterId": "act14side--activities__act14side__level_act14side_08_end"
+  },
+  "blocks": [],
+  "citations": []
 }

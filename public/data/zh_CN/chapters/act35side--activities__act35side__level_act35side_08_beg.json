@@ -1,21 +1,21 @@
 {
-  "albumId": "act35side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "AS-8",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "AS-8_黄沙尽头/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/AS-8_%E9%BB%84%E6%B2%99%E5%B0%BD%E5%A4%B4/BEG"
-  },
   "id": "act35side--activities__act35side__level_act35side_08_beg",
-  "navigation": {
-    "nextChapterId": "act35side--activities__act35side__level_act35side_08_end",
-    "previousChapterId": "act35side--activities__act35side__level_act35side_07_end"
-  },
+  "albumId": "act35side",
+  "title": "黄沙尽头",
   "subtitle": "AS-8",
+  "code": "AS-8",
+  "avgTag": "行动前",
   "summary": "info/activities/act35side/level_act35side_08_beg",
-  "title": "黄沙尽头"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AS-8_%E9%BB%84%E6%B2%99%E5%B0%BD%E5%A4%B4/BEG",
+    "page": "AS-8_黄沙尽头/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act35side--activities__act35side__level_act35side_07_end",
+    "nextChapterId": "act35side--activities__act35side__level_act35side_08_end"
+  },
+  "blocks": [],
+  "citations": []
 }

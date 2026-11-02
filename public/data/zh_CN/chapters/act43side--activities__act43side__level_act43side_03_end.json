@@ -1,21 +1,21 @@
 {
-  "albumId": "act43side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "AD-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "AD-3_戏剧性/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/AD-3_%E6%88%8F%E5%89%A7%E6%80%A7/END"
-  },
   "id": "act43side--activities__act43side__level_act43side_03_end",
-  "navigation": {
-    "nextChapterId": "act43side--activities__act43side__level_act43side_04_beg",
-    "previousChapterId": "act43side--activities__act43side__level_act43side_03_beg"
-  },
+  "albumId": "act43side",
+  "title": "戏剧性",
   "subtitle": "AD-3",
+  "code": "AD-3",
+  "avgTag": "行动后",
   "summary": "info/activities/act43side/level_act43side_03_end",
-  "title": "戏剧性"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/AD-3_%E6%88%8F%E5%89%A7%E6%80%A7/END",
+    "page": "AD-3_戏剧性/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act43side--activities__act43side__level_act43side_03_beg",
+    "nextChapterId": "act43side--activities__act43side__level_act43side_04_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

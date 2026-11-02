@@ -1,21 +1,21 @@
 {
-  "albumId": "act27side",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "SL-2",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "SL-2_小蓝孩/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/SL-2_%E5%B0%8F%E8%93%9D%E5%AD%A9/END"
-  },
   "id": "act27side--activities__act27side__level_act27side_02_end",
-  "navigation": {
-    "nextChapterId": "act27side--activities__act27side__level_act27side_03_beg",
-    "previousChapterId": "act27side--activities__act27side__level_act27side_02_beg"
-  },
+  "albumId": "act27side",
+  "title": "小蓝孩",
   "subtitle": "SL-2",
+  "code": "SL-2",
+  "avgTag": "行动后",
   "summary": "info/activities/act27side/level_act27side_02_end",
-  "title": "小蓝孩"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SL-2_%E5%B0%8F%E8%93%9D%E5%AD%A9/END",
+    "page": "SL-2_小蓝孩/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act27side--activities__act27side__level_act27side_02_beg",
+    "nextChapterId": "act27side--activities__act27side__level_act27side_03_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

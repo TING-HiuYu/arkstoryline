@@ -1,0 +1,262 @@
+{
+  "changedAlbums": 24,
+  "changedChapters": 135,
+  "dryRun": false,
+  "generatedAt": "2026-11-02T08:53:50.751614+00:00",
+  "missing": 396,
+  "missingSamples": [
+    {
+      "albumId": "story_12fce_set_1",
+      "chapterId": "story_12fce_set_1--obt__memory__story_12fce_1_1",
+      "title": "一些选择"
+    },
+    {
+      "albumId": "story_absin_set_1",
+      "chapterId": "story_absin_set_1--obt__memory__story_absin_1_1",
+      "title": "向死寻生"
+    },
+    {
+      "albumId": "story_acdrop_set_1",
+      "chapterId": "story_acdrop_set_1--obt__memory__story_acdrop_1_1",
+      "title": "一面墙"
+    },
+    {
+      "albumId": "story_adnach_set_1",
+      "chapterId": "story_adnach_set_1--obt__memory__story_adnach_1_1",
+      "title": "预备“先知”"
+    },
+    {
+      "albumId": "story_aglina_set_1",
+      "chapterId": "story_aglina_set_1--obt__memory__story_aglina_1_1",
+      "title": "没写收件人的包裹"
+    },
+    {
+      "albumId": "story_aglina_set_1",
+      "chapterId": "story_aglina_set_1--obt__memory__story_aglina_1_2",
+      "title": "没写收件人的包裹"
+    },
+    {
+      "albumId": "story_agoat2_set_1",
+      "chapterId": "story_agoat2_set_1--obt__memory__story_agoat2_1_1",
+      "title": "夜色中的第一步"
+    },
+    {
+      "albumId": "story_akafyu_set_1",
+      "chapterId": "story_akafyu_set_1--obt__memory__story_akafyu_1_1",
+      "title": "异乡剑士"
+    },
+    {
+      "albumId": "story_alanna_set_1",
+      "chapterId": "story_alanna_set_1--obt__memory__story_alanna_1_1",
+      "title": "再见一面"
+    },
+    {
+      "albumId": "story_almond_set_1",
+      "chapterId": "story_almond_set_1--obt__memory__story_almond_1_1",
+      "title": "远航"
+    },
+    {
+      "albumId": "story_amgoat_set_1",
+      "chapterId": "story_amgoat_set_1--obt__memory__story_amgoat_1_1",
+      "title": "学者之心"
+    },
+    {
+      "albumId": "story_amgoat_set_2",
+      "chapterId": "story_amgoat_set_2--obt__memory__story_amgoat_2_1",
+      "title": "火山"
+    },
+    {
+      "albumId": "story_angel_set_2",
+      "chapterId": "story_angel_set_2--obt__memory__story_angel_2_1",
+      "title": "改变中的不变"
+    },
+    {
+      "albumId": "story_ansel_set_1",
+      "chapterId": "story_ansel_set_1--obt__memory__story_ansel_1_1",
+      "title": "身为医者"
+    },
+    {
+      "albumId": "story_aosta_set_1",
+      "chapterId": "story_aosta_set_1--obt__memory__story_aosta_1_1",
+      "title": "编织来日"
+    },
+    {
+      "albumId": "story_aprl_set_1",
+      "chapterId": "story_aprl_set_1--obt__memory__story_aprl_1_1",
+      "title": "猎人的视线"
+    },
+    {
+      "albumId": "story_aprot2_set_1",
+      "chapterId": "story_aprot2_set_1--obt__memory__story_aprot2_1_1",
+      "title": "那一场戏"
+    },
+    {
+      "albumId": "story_archet_set_1",
+      "chapterId": "story_archet_set_1--obt__memory__story_archet_1_1",
+      "title": "偶像宣传"
+    },
+    {
+      "albumId": "story_ardign_set_1",
+      "chapterId": "story_ardign_set_1--obt__memory__story_ardign_1_1",
+      "title": "绝对能行！"
+    },
+    {
+      "albumId": "story_aroma_set_1",
+      "chapterId": "story_aroma_set_1--obt__memory__story_aroma_1_1",
+      "title": "入职邀请"
+    },
+    {
+      "albumId": "story_asbest_set_1",
+      "chapterId": "story_asbest_set_1--obt__memory__story_asbest_1_1",
+      "title": "奇景"
+    },
+    {
+      "albumId": "story_ascln_set_1",
+      "chapterId": "story_ascln_set_1--obt__memory__story_ascln_1_1",
+      "title": "同行人"
+    },
+    {
+      "albumId": "story_ash_set_1",
+      "chapterId": "story_ash_set_1--obt__memory__story_ash_1_1",
+      "title": "旅伴"
+    },
+    {
+      "albumId": "story_ashlok_set_1",
+      "chapterId": "story_ashlok_set_1--obt__memory__story_ashlok_1_1",
+      "title": "决斗"
+    },
+    {
+      "albumId": "story_astesi_set_1",
+      "chapterId": "story_astesi_set_1--obt__memory__story_astesi_1_1",
+      "title": "启明"
+    },
+    {
+      "albumId": "story_astesi_set_2",
+      "chapterId": "story_astesi_set_2--obt__memory__story_astesi_2_1",
+      "title": "复耀"
+    },
+    {
+      "albumId": "story_aurora_set_1",
+      "chapterId": "story_aurora_set_1--obt__memory__story_aurora_1_1",
+      "title": "她所见"
+    },
+    {
+      "albumId": "story_ayer_set_1",
+      "chapterId": "story_ayer_set_1--obt__memory__story_ayer_1_1",
+      "title": "黄沙觅迹"
+    },
+    {
+      "albumId": "story_baslin_set_1",
+      "chapterId": "story_baslin_set_1--obt__memory__story_baslin_1_1",
+      "title": "晚霞下的演奏"
+    },
+    {
+      "albumId": "story_bdhkgt_set_1",
+      "chapterId": "story_bdhkgt_set_1--obt__memory__story_bdhkgt_1_1",
+      "title": "最后的比武"
+    },
+    {
+      "albumId": "story_beagle_set_1",
+      "chapterId": "story_beagle_set_1--obt__memory__story_beagle_1_1",
+      "title": "小队的盾牌"
+    },
+    {
+      "albumId": "story_beewax_set_1",
+      "chapterId": "story_beewax_set_1--obt__memory__story_beewax_1_1",
+      "title": "黄沙归途"
+    },
+    {
+      "albumId": "story_bena_set_1",
+      "chapterId": "story_bena_set_1--obt__memory__story_bena_1_1",
+      "title": "简单的愿望"
+    },
+    {
+      "albumId": "story_bgsnow_set_1",
+      "chapterId": "story_bgsnow_set_1--obt__memory__story_bgsnow_1_1",
+      "title": "墨迹已落"
+    },
+    {
+      "albumId": "story_bibeak_set_1",
+      "chapterId": "story_bibeak_set_1--obt__memory__story_bibeak_1_1",
+      "title": "破壳"
+    },
+    {
+      "albumId": "story_bibeak_set_2",
+      "chapterId": "story_bibeak_set_2--obt__memory__story_bibeak_2_1",
+      "title": "走出那条长长的走廊"
+    },
+    {
+      "albumId": "story_billro_set_1",
+      "chapterId": "story_billro_set_1--obt__memory__story_billro_1_1",
+      "title": "保护者的本性"
+    },
+    {
+      "albumId": "story_bison_set_1",
+      "chapterId": "story_bison_set_1--obt__memory__story_bison_1_1",
+      "title": "充实的假期"
+    },
+    {
+      "albumId": "story_blackd_set_1",
+      "chapterId": "story_blackd_set_1--obt__memory__story_blackd_1_1",
+      "title": "希瓦艾什的影子"
+    },
+    {
+      "albumId": "story_blackd_set_2",
+      "chapterId": "story_blackd_set_2--obt__memory__story_blackd_2_1",
+      "title": "健步如飞"
+    },
+    {
+      "albumId": "story_bldsk_set_1",
+      "chapterId": "story_bldsk_set_1--obt__memory__story_bldsk_1_1",
+      "title": "怪物"
+    },
+    {
+      "albumId": "story_bldsk_set_2",
+      "chapterId": "story_bldsk_set_2--obt__memory__story_bldsk_2_1",
+      "title": "难得认真"
+    },
+    {
+      "albumId": "story_blemsh_set_1",
+      "chapterId": "story_blemsh_set_1--obt__memory__story_blemsh_1_1",
+      "title": "心甘情愿"
+    },
+    {
+      "albumId": "story_blitz_set_1",
+      "chapterId": "story_blitz_set_1--obt__memory__story_blitz_1_1",
+      "title": "团队坚盾"
+    },
+    {
+      "albumId": "story_blkkgt_set_1",
+      "chapterId": "story_blkkgt_set_1--obt__memory__story_blkkgt_1_1",
+      "title": "骑士的旅程"
+    },
+    {
+      "albumId": "story_blkngt_set_1",
+      "chapterId": "story_blkngt_set_1--obt__memory__story_blkngt_1_1",
+      "title": "荒地生灵"
+    },
+    {
+      "albumId": "story_blkngt_set_2",
+      "chapterId": "story_blkngt_set_2--obt__memory__story_blkngt_2_1",
+      "title": "赏金猎人转行后"
+    },
+    {
+      "albumId": "story_bluep_set_1",
+      "chapterId": "story_bluep_set_1--obt__memory__story_bluep_1_1",
+      "title": "触不可及"
+    },
+    {
+      "albumId": "story_bobb_set_1",
+      "chapterId": "story_bobb_set_1--obt__memory__story_bobb_1_1",
+      "title": "谁与同行"
+    },
+    {
+      "albumId": "story_botany_set_1",
+      "chapterId": "story_botany_set_1--obt__memory__story_botany_1_1",
+      "title": "发声"
+    }
+  ],
+  "otherStoryAlbums": 23,
+  "otherStoryChapters": 87,
+  "storylineIndexPath": "public/data/storyline/index.json"
+}

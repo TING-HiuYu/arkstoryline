@@ -1,21 +1,21 @@
 {
-  "albumId": "act41side",
-  "avgTag": "幕间",
-  "blocks": [],
-  "citations": [],
-  "code": "EA-ST-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "EA-ST-3_封底纪事/NBT",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/EA-ST-3_%E5%B0%81%E5%BA%95%E7%BA%AA%E4%BA%8B/NBT"
-  },
   "id": "act41side--activities__act41side__level_act41side_st03",
-  "navigation": {
-    "nextChapterId": null,
-    "previousChapterId": "act41side--activities__act41side__level_act41side_08_end"
-  },
+  "albumId": "act41side",
+  "title": "封底纪事",
   "subtitle": "EA-ST-3",
+  "code": "EA-ST-3",
+  "avgTag": "幕间",
   "summary": "info/activities/act41side/level_act41side_st03",
-  "title": "封底纪事"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/EA-ST-3_%E5%B0%81%E5%BA%95%E7%BA%AA%E4%BA%8B/NBT",
+    "page": "EA-ST-3_封底纪事/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act41side--activities__act41side__level_act41side_08_end",
+    "nextChapterId": null
+  },
+  "blocks": [],
+  "citations": []
 }

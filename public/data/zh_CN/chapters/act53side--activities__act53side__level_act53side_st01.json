@@ -1,0 +1,21 @@
+{
+  "id": "act53side--activities__act53side__level_act53side_st01",
+  "albumId": "act53side",
+  "title": "一封想写的信",
+  "subtitle": "TO-ST-1",
+  "code": "TO-ST-1",
+  "avgTag": "幕间",
+  "summary": "info/activities/act53side/level_act53side_st01",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TO-ST-1_%E4%B8%80%E5%B0%81%E6%83%B3%E5%86%99%E7%9A%84%E4%BF%A1/NBT",
+    "page": "TO-ST-1_一封想写的信/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": null,
+    "nextChapterId": "act53side--activities__act53side__level_act53side_01_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

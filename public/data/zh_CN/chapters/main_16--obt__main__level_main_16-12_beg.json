@@ -1,21 +1,21 @@
 {
-  "albumId": "main_16",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "16-12",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "16-12_深埋地底/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/16-12_%E6%B7%B1%E5%9F%8B%E5%9C%B0%E5%BA%95/BEG"
-  },
   "id": "main_16--obt__main__level_main_16-12_beg",
-  "navigation": {
-    "nextChapterId": "main_16--obt__main__level_main_16-13_beg",
-    "previousChapterId": "main_16--obt__main__level_main_16-11_end"
-  },
+  "albumId": "main_16",
+  "title": "深埋地底",
   "subtitle": "16-12",
+  "code": "16-12",
+  "avgTag": "行动前",
   "summary": "info/obt/main/level_main_16-12_beg",
-  "title": "深埋地底"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/16-12_%E6%B7%B1%E5%9F%8B%E5%9C%B0%E5%BA%95/BEG",
+    "page": "16-12_深埋地底/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_16--obt__main__level_main_16-11_end",
+    "nextChapterId": "main_16--obt__main__level_main_16-13_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

@@ -1,341 +1,341 @@
 {
+  "id": "act15side",
+  "slug": "act15side",
+  "title": "将进酒",
+  "sourceEntryType": "UNKNOWN",
   "albumKind": "intermezzi",
+  "homeSection": "sideStory",
+  "timelineRank": 1643083200,
+  "gameOrderRank": 3008,
+  "cover": {
+    "primaryImageId": "kv_invitation_to_wine",
+    "titleImageId": "title_invitation_to_wine",
+    "backgroundImageId": "storybg_invitation_to_wine",
+    "storyEntryPicId": "storyEntryPic_act15side",
+    "url": "https://media.prts.wiki/6/6e/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E5%B0%86%E8%BF%9B%E9%85%92.png",
+    "source": "stage-kv",
+    "assetStatus": "disabled",
+    "assetPath": "/assets/covers/zh_CN/placeholder.svg"
+  },
+  "startTime": 1643083200,
   "chapters": [
     {
-      "albumId": "act15side",
-      "avgTag": "幕间",
-      "code": "IW-ST-1",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-ST-1_客将至/NBT",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-ST-1_%E5%AE%A2%E5%B0%86%E8%87%B3/NBT"
-      },
-      "downloadable": true,
       "id": "act15side--activities__act15side__level_act15side_st01",
-      "path": "chapters/act15side--activities__act15side__level_act15side_st01.json",
+      "albumId": "act15side",
+      "title": "客将至",
+      "code": "IW-ST-1",
+      "avgTag": "幕间",
       "sort": 1,
-      "title": "客将至"
+      "path": "chapters/act15side--activities__act15side__level_act15side_st01.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-ST-1_%E5%AE%A2%E5%B0%86%E8%87%B3/NBT",
+        "page": "IW-ST-1_客将至/NBT",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act15side",
-      "avgTag": "行动前",
-      "code": "IW-1",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-1_化物/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-1_%E5%8C%96%E7%89%A9/BEG"
-      },
-      "downloadable": true,
       "id": "act15side--activities__act15side__level_act15side_01_beg",
-      "path": "chapters/act15side--activities__act15side__level_act15side_01_beg.json",
-      "sort": 2,
-      "title": "化物"
-    },
-    {
       "albumId": "act15side",
-      "avgTag": "行动后",
+      "title": "化物",
       "code": "IW-1",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-1_化物/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-1_%E5%8C%96%E7%89%A9/END"
-      },
+      "avgTag": "行动前",
+      "sort": 2,
+      "path": "chapters/act15side--activities__act15side__level_act15side_01_beg.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-1_%E5%8C%96%E7%89%A9/BEG",
+        "page": "IW-1_化物/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act15side--activities__act15side__level_act15side_01_end",
-      "path": "chapters/act15side--activities__act15side__level_act15side_01_end.json",
+      "albumId": "act15side",
+      "title": "化物",
+      "code": "IW-1",
+      "avgTag": "行动后",
       "sort": 3,
-      "title": "化物"
+      "path": "chapters/act15side--activities__act15side__level_act15side_01_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-1_%E5%8C%96%E7%89%A9/END",
+        "page": "IW-1_化物/END",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act15side",
-      "avgTag": "行动前",
-      "code": "IW-2",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-2_无寻处/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-2_%E6%97%A0%E5%AF%BB%E5%A4%84/BEG"
-      },
-      "downloadable": true,
       "id": "act15side--activities__act15side__level_act15side_02_beg",
-      "path": "chapters/act15side--activities__act15side__level_act15side_02_beg.json",
-      "sort": 4,
-      "title": "无寻处"
-    },
-    {
       "albumId": "act15side",
-      "avgTag": "行动后",
+      "title": "无寻处",
       "code": "IW-2",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-2_无寻处/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-2_%E6%97%A0%E5%AF%BB%E5%A4%84/END"
-      },
+      "avgTag": "行动前",
+      "sort": 4,
+      "path": "chapters/act15side--activities__act15side__level_act15side_02_beg.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-2_%E6%97%A0%E5%AF%BB%E5%A4%84/BEG",
+        "page": "IW-2_无寻处/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act15side--activities__act15side__level_act15side_02_end",
-      "path": "chapters/act15side--activities__act15side__level_act15side_02_end.json",
+      "albumId": "act15side",
+      "title": "无寻处",
+      "code": "IW-2",
+      "avgTag": "行动后",
       "sort": 5,
-      "title": "无寻处"
+      "path": "chapters/act15side--activities__act15side__level_act15side_02_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-2_%E6%97%A0%E5%AF%BB%E5%A4%84/END",
+        "page": "IW-2_无寻处/END",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act15side",
-      "avgTag": "行动前",
-      "code": "IW-3",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-3_光与影/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-3_%E5%85%89%E4%B8%8E%E5%BD%B1/BEG"
-      },
-      "downloadable": true,
       "id": "act15side--activities__act15side__level_act15side_03_beg",
-      "path": "chapters/act15side--activities__act15side__level_act15side_03_beg.json",
-      "sort": 6,
-      "title": "光与影"
-    },
-    {
       "albumId": "act15side",
-      "avgTag": "行动后",
+      "title": "光与影",
       "code": "IW-3",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "GA-7_光与影/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/GA-7_%E5%85%89%E4%B8%8E%E5%BD%B1/END"
-      },
+      "avgTag": "行动前",
+      "sort": 6,
+      "path": "chapters/act15side--activities__act15side__level_act15side_03_beg.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-3_%E5%85%89%E4%B8%8E%E5%BD%B1/BEG",
+        "page": "IW-3_光与影/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act15side--activities__act15side__level_act15side_03_end",
-      "path": "chapters/act15side--activities__act15side__level_act15side_03_end.json",
+      "albumId": "act15side",
+      "title": "光与影",
+      "code": "IW-3",
+      "avgTag": "行动后",
       "sort": 7,
-      "title": "光与影"
+      "path": "chapters/act15side--activities__act15side__level_act15side_03_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-3_%E5%85%89%E4%B8%8E%E5%BD%B1/END",
+        "page": "IW-3_光与影/END",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act15side",
-      "avgTag": "行动前",
-      "code": "IW-4",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-4_秉烛/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-4_%E7%A7%89%E7%83%9B/BEG"
-      },
-      "downloadable": true,
       "id": "act15side--activities__act15side__level_act15side_04_beg",
-      "path": "chapters/act15side--activities__act15side__level_act15side_04_beg.json",
-      "sort": 8,
-      "title": "秉烛"
-    },
-    {
       "albumId": "act15side",
-      "avgTag": "行动后",
+      "title": "秉烛",
       "code": "IW-4",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-4_秉烛/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-4_%E7%A7%89%E7%83%9B/END"
-      },
+      "avgTag": "行动前",
+      "sort": 8,
+      "path": "chapters/act15side--activities__act15side__level_act15side_04_beg.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-4_%E7%A7%89%E7%83%9B/BEG",
+        "page": "IW-4_秉烛/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act15side--activities__act15side__level_act15side_04_end",
-      "path": "chapters/act15side--activities__act15side__level_act15side_04_end.json",
+      "albumId": "act15side",
+      "title": "秉烛",
+      "code": "IW-4",
+      "avgTag": "行动后",
       "sort": 9,
-      "title": "秉烛"
+      "path": "chapters/act15side--activities__act15side__level_act15side_04_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-4_%E7%A7%89%E7%83%9B/END",
+        "page": "IW-4_秉烛/END",
+        "kind": "scenario-html"
+      }
     },
     {
-      "albumId": "act15side",
-      "avgTag": "幕间",
-      "code": "IW-ST-2",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-ST-2_万物有灵/NBT",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-ST-2_%E4%B8%87%E7%89%A9%E6%9C%89%E7%81%B5/NBT"
-      },
-      "downloadable": true,
       "id": "act15side--activities__act15side__level_act15side_st02",
-      "path": "chapters/act15side--activities__act15side__level_act15side_st02.json",
-      "sort": 10,
-      "title": "万物有灵"
-    },
-    {
       "albumId": "act15side",
-      "avgTag": "行动前",
-      "code": "IW-5",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-5_货与人/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-5_%E8%B4%A7%E4%B8%8E%E4%BA%BA/BEG"
-      },
-      "downloadable": true,
-      "id": "act15side--activities__act15side__level_act15side_05_beg",
-      "path": "chapters/act15side--activities__act15side__level_act15side_05_beg.json",
-      "sort": 11,
-      "title": "货与人"
-    },
-    {
-      "albumId": "act15side",
-      "avgTag": "行动后",
-      "code": "IW-5",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-5_货与人/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-5_%E8%B4%A7%E4%B8%8E%E4%BA%BA/END"
-      },
-      "downloadable": true,
-      "id": "act15side--activities__act15side__level_act15side_05_end",
-      "path": "chapters/act15side--activities__act15side__level_act15side_05_end.json",
-      "sort": 12,
-      "title": "货与人"
-    },
-    {
-      "albumId": "act15side",
-      "avgTag": "行动前",
-      "code": "IW-6",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-6_传说/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-6_%E4%BC%A0%E8%AF%B4/BEG"
-      },
-      "downloadable": true,
-      "id": "act15side--activities__act15side__level_act15side_06_beg",
-      "path": "chapters/act15side--activities__act15side__level_act15side_06_beg.json",
-      "sort": 13,
-      "title": "传说"
-    },
-    {
-      "albumId": "act15side",
-      "avgTag": "行动后",
-      "code": "IW-6",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-6_传说/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-6_%E4%BC%A0%E8%AF%B4/END"
-      },
-      "downloadable": true,
-      "id": "act15side--activities__act15side__level_act15side_06_end",
-      "path": "chapters/act15side--activities__act15side__level_act15side_06_end.json",
-      "sort": 14,
-      "title": "传说"
-    },
-    {
-      "albumId": "act15side",
-      "avgTag": "行动前",
-      "code": "IW-7",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-7_乱局/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-7_%E4%B9%B1%E5%B1%80/BEG"
-      },
-      "downloadable": true,
-      "id": "act15side--activities__act15side__level_act15side_07_beg",
-      "path": "chapters/act15side--activities__act15side__level_act15side_07_beg.json",
-      "sort": 15,
-      "title": "乱局"
-    },
-    {
-      "albumId": "act15side",
-      "avgTag": "行动后",
-      "code": "IW-7",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-7_乱局/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-7_%E4%B9%B1%E5%B1%80/END"
-      },
-      "downloadable": true,
-      "id": "act15side--activities__act15side__level_act15side_07_end",
-      "path": "chapters/act15side--activities__act15side__level_act15side_07_end.json",
-      "sort": 16,
-      "title": "乱局"
-    },
-    {
-      "albumId": "act15side",
-      "avgTag": "行动前",
-      "code": "IW-9",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-9_岁相/BEG",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-9_%E5%B2%81%E7%9B%B8/BEG"
-      },
-      "downloadable": true,
-      "id": "act15side--activities__act15side__level_act15side_09_beg",
-      "path": "chapters/act15side--activities__act15side__level_act15side_09_beg.json",
-      "sort": 19,
-      "title": "岁相"
-    },
-    {
-      "albumId": "act15side",
-      "avgTag": "行动后",
-      "code": "IW-9",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-9_岁相/END",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-9_%E5%B2%81%E7%9B%B8/END"
-      },
-      "downloadable": true,
-      "id": "act15side--activities__act15side__level_act15side_09_end",
-      "path": "chapters/act15side--activities__act15side__level_act15side_09_end.json",
-      "sort": 20,
-      "title": "岁相"
-    },
-    {
-      "albumId": "act15side",
+      "title": "万物有灵",
+      "code": "IW-ST-2",
       "avgTag": "幕间",
-      "code": "IW-ST-3",
-      "contentSource": {
-        "kind": "scenario-html",
-        "page": "IW-ST-3_再弈/NBT",
-        "provider": "prts",
-        "url": "https://prts.wiki/w/IW-ST-3_%E5%86%8D%E5%BC%88/NBT"
-      },
+      "sort": 10,
+      "path": "chapters/act15side--activities__act15side__level_act15side_st02.json",
       "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-ST-2_%E4%B8%87%E7%89%A9%E6%9C%89%E7%81%B5/NBT",
+        "page": "IW-ST-2_万物有灵/NBT",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act15side--activities__act15side__level_act15side_05_beg",
+      "albumId": "act15side",
+      "title": "货与人",
+      "code": "IW-5",
+      "avgTag": "行动前",
+      "sort": 11,
+      "path": "chapters/act15side--activities__act15side__level_act15side_05_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-5_%E8%B4%A7%E4%B8%8E%E4%BA%BA/BEG",
+        "page": "IW-5_货与人/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act15side--activities__act15side__level_act15side_05_end",
+      "albumId": "act15side",
+      "title": "货与人",
+      "code": "IW-5",
+      "avgTag": "行动后",
+      "sort": 12,
+      "path": "chapters/act15side--activities__act15side__level_act15side_05_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-5_%E8%B4%A7%E4%B8%8E%E4%BA%BA/END",
+        "page": "IW-5_货与人/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act15side--activities__act15side__level_act15side_06_beg",
+      "albumId": "act15side",
+      "title": "传说",
+      "code": "IW-6",
+      "avgTag": "行动前",
+      "sort": 13,
+      "path": "chapters/act15side--activities__act15side__level_act15side_06_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-6_%E4%BC%A0%E8%AF%B4/BEG",
+        "page": "IW-6_传说/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act15side--activities__act15side__level_act15side_06_end",
+      "albumId": "act15side",
+      "title": "传说",
+      "code": "IW-6",
+      "avgTag": "行动后",
+      "sort": 14,
+      "path": "chapters/act15side--activities__act15side__level_act15side_06_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-6_%E4%BC%A0%E8%AF%B4/END",
+        "page": "IW-6_传说/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act15side--activities__act15side__level_act15side_07_beg",
+      "albumId": "act15side",
+      "title": "乱局",
+      "code": "IW-7",
+      "avgTag": "行动前",
+      "sort": 15,
+      "path": "chapters/act15side--activities__act15side__level_act15side_07_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-7_%E4%B9%B1%E5%B1%80/BEG",
+        "page": "IW-7_乱局/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act15side--activities__act15side__level_act15side_07_end",
+      "albumId": "act15side",
+      "title": "乱局",
+      "code": "IW-7",
+      "avgTag": "行动后",
+      "sort": 16,
+      "path": "chapters/act15side--activities__act15side__level_act15side_07_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-7_%E4%B9%B1%E5%B1%80/END",
+        "page": "IW-7_乱局/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act15side--activities__act15side__level_act15side_09_beg",
+      "albumId": "act15side",
+      "title": "岁相",
+      "code": "IW-9",
+      "avgTag": "行动前",
+      "sort": 19,
+      "path": "chapters/act15side--activities__act15side__level_act15side_09_beg.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-9_%E5%B2%81%E7%9B%B8/BEG",
+        "page": "IW-9_岁相/BEG",
+        "kind": "scenario-html"
+      }
+    },
+    {
+      "id": "act15side--activities__act15side__level_act15side_09_end",
+      "albumId": "act15side",
+      "title": "岁相",
+      "code": "IW-9",
+      "avgTag": "行动后",
+      "sort": 20,
+      "path": "chapters/act15side--activities__act15side__level_act15side_09_end.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-9_%E5%B2%81%E7%9B%B8/END",
+        "page": "IW-9_岁相/END",
+        "kind": "scenario-html"
+      }
+    },
+    {
       "id": "act15side--activities__act15side__level_act15side_st03",
-      "path": "chapters/act15side--activities__act15side__level_act15side_st03.json",
+      "albumId": "act15side",
+      "title": "再弈",
+      "code": "IW-ST-3",
+      "avgTag": "幕间",
       "sort": 21,
-      "title": "再弈"
+      "path": "chapters/act15side--activities__act15side__level_act15side_st03.json",
+      "downloadable": true,
+      "contentSource": {
+        "provider": "prts",
+        "url": "https://prts.wiki/w/IW-ST-3_%E5%86%8D%E5%BC%88/NBT",
+        "page": "IW-ST-3_再弈/NBT",
+        "kind": "scenario-html"
+      }
     }
   ],
-  "cover": {
-    "assetPath": "/assets/covers/zh_CN/placeholder.svg",
-    "assetStatus": "disabled",
-    "backgroundImageId": "storybg_invitation_to_wine",
-    "primaryImageId": "kv_invitation_to_wine",
-    "source": "stage-kv",
-    "storyEntryPicId": "storyEntryPic_act15side",
-    "titleImageId": "title_invitation_to_wine",
-    "url": "https://media.prts.wiki/6/6e/%E6%B4%BB%E5%8A%A8%E5%9B%BE%E6%A0%87_%E5%B0%86%E8%BF%9B%E9%85%92.png"
+  "source": {
+    "providerId": "github-raw",
+    "revision": "63c7cec73c3858d0ae913f85cc89af3cef4d744f",
+    "path": "zh_CN/gamedata/excel/story_review_table.json"
   },
   "extras": [],
-  "gameOrderRank": 3008,
-  "homeSection": "sideStory",
-  "id": "act15side",
-  "music": {
-    "arcTitle": "岁岁今朝",
-    "movementTitle": "岁岁今朝",
-    "recommended": false,
-    "sourcePage": "stage_table.storylineStorySets",
-    "tags": []
-  },
-  "slug": "act15side",
-  "source": {
-    "path": "zh_CN/gamedata/excel/story_review_table.json",
-    "providerId": "github-raw",
-    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
-  },
-  "sourceEntryType": "UNKNOWN",
-  "startTime": 1643083200,
   "summary": "长梦之人仍在古亭醉去， \n凛冽春风吹彻三山十七峰，云翳后经年幻影露出真容。 \n江湖旧事未竟，尚蜀已然摆开新的棋局。 \n一位风尘仆仆的龙门远客， \n一只藏于匣中的古董酒盏， \n一枚早已落入局中的棋子， \n一叶轻舟，划入山城。",
-  "timelineRank": 1643083200,
-  "title": "将进酒"
+  "music": {
+    "movementTitle": "岁岁今朝",
+    "arcTitle": "岁岁今朝",
+    "tags": [],
+    "recommended": false,
+    "sourcePage": "stage_table.storylineStorySets"
+  }
 }

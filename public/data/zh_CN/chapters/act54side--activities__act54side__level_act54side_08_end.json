@@ -1,0 +1,21 @@
+{
+  "id": "act54side--activities__act54side__level_act54side_08_end",
+  "albumId": "act54side",
+  "title": "月满",
+  "subtitle": "SR-8",
+  "code": "SR-8",
+  "avgTag": "行动后",
+  "summary": "info/activities/act54side/level_act54side_08_end",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SR-8_%E6%9C%88%E6%BB%A1/END",
+    "page": "SR-8_月满/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act54side--activities__act54side__level_act54side_08_beg",
+    "nextChapterId": "act54side--activities__act54side__level_act54side_st02"
+  },
+  "blocks": [],
+  "citations": []
+}

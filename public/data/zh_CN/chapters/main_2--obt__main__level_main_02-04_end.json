@@ -1,21 +1,21 @@
 {
-  "albumId": "main_2",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "2-4",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "2-4_企鹅物流/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/2-4_%E4%BC%81%E9%B9%85%E7%89%A9%E6%B5%81/END"
-  },
   "id": "main_2--obt__main__level_main_02-04_end",
-  "navigation": {
-    "nextChapterId": "main_2--obt__main__level_main_02-05_beg",
-    "previousChapterId": "main_2--obt__main__level_main_02-04_beg"
-  },
+  "albumId": "main_2",
+  "title": "企鹅物流",
   "subtitle": "2-4",
+  "code": "2-4",
+  "avgTag": "行动后",
   "summary": "info/obt/main/level_main_02-04_end",
-  "title": "企鹅物流"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/2-4_%E4%BC%81%E9%B9%85%E7%89%A9%E6%B5%81/END",
+    "page": "2-4_企鹅物流/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_2--obt__main__level_main_02-04_beg",
+    "nextChapterId": "main_2--obt__main__level_main_02-05_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

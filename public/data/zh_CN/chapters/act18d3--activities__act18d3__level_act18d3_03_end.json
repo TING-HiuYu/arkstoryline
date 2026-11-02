@@ -1,21 +1,21 @@
 {
-  "albumId": "act18d3",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "SV-3",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "SV-3_外来者/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/SV-3_%E5%A4%96%E6%9D%A5%E8%80%85/END"
-  },
   "id": "act18d3--activities__act18d3__level_act18d3_03_end",
-  "navigation": {
-    "nextChapterId": "act18d3--activities__act18d3__level_act18d3_04_beg",
-    "previousChapterId": "act18d3--activities__act18d3__level_act18d3_03_beg"
-  },
+  "albumId": "act18d3",
+  "title": "外来者",
   "subtitle": "SV-3",
+  "code": "SV-3",
+  "avgTag": "行动后",
   "summary": "info/activities/act18d3/level_act18d3_03_end",
-  "title": "外来者"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-3_%E5%A4%96%E6%9D%A5%E8%80%85/END",
+    "page": "SV-3_外来者/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act18d3--activities__act18d3__level_act18d3_03_beg",
+    "nextChapterId": "act18d3--activities__act18d3__level_act18d3_04_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

@@ -1,21 +1,21 @@
 {
-  "albumId": "act36side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "DT-5",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "DT-5_会饮图/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/DT-5_%E4%BC%9A%E9%A5%AE%E5%9B%BE/BEG"
-  },
   "id": "act36side--activities__act36side__level_act36side_05_beg",
-  "navigation": {
-    "nextChapterId": "act36side--activities__act36side__level_act36side_05_end",
-    "previousChapterId": "act36side--activities__act36side__level_act36side_04_end"
-  },
+  "albumId": "act36side",
+  "title": "会饮图",
   "subtitle": "DT-5",
+  "code": "DT-5",
+  "avgTag": "行动前",
   "summary": "info/activities/act36side/level_act36side_05_beg",
-  "title": "会饮图"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DT-5_%E4%BC%9A%E9%A5%AE%E5%9B%BE/BEG",
+    "page": "DT-5_会饮图/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act36side--activities__act36side__level_act36side_04_end",
+    "nextChapterId": "act36side--activities__act36side__level_act36side_05_end"
+  },
+  "blocks": [],
+  "citations": []
 }

@@ -1,21 +1,21 @@
 {
-  "albumId": "act33side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "BB-9",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "BB-9_尘埃落定/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/BB-9_%E5%B0%98%E5%9F%83%E8%90%BD%E5%AE%9A/BEG"
-  },
   "id": "act33side--activities__act33side__level_act33side_09_beg",
-  "navigation": {
-    "nextChapterId": "act33side--activities__act33side__level_act33side_09_end",
-    "previousChapterId": "act33side--activities__act33side__level_act33side_08_end"
-  },
+  "albumId": "act33side",
+  "title": "尘埃落定",
   "subtitle": "BB-9",
+  "code": "BB-9",
+  "avgTag": "行动前",
   "summary": "info/activities/act33side/level_act33side_09_beg",
-  "title": "尘埃落定"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BB-9_%E5%B0%98%E5%9F%83%E8%90%BD%E5%AE%9A/BEG",
+    "page": "BB-9_尘埃落定/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act33side--activities__act33side__level_act33side_08_end",
+    "nextChapterId": "act33side--activities__act33side__level_act33side_09_end"
+  },
+  "blocks": [],
+  "citations": []
 }

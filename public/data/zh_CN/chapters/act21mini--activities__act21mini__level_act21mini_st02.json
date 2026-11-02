@@ -1,0 +1,19 @@
+{
+  "albumId": "act21mini",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "BD-ST2_退行性猎犬病/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/BD-ST2_%E9%80%80%E8%A1%8C%E6%80%A7%E7%8C%8E%E7%8A%AC%E7%97%85/NBT"
+  },
+  "id": "act21mini--activities__act21mini__level_act21mini_st02",
+  "navigation": {
+    "nextChapterId": "act21mini--activities__act21mini__level_act21mini_st03",
+    "previousChapterId": "act21mini--activities__act21mini__level_act21mini_st01"
+  },
+  "summary": "info/activities/act21mini/level_act21mini_st02",
+  "title": "退行性猎犬病"
+}

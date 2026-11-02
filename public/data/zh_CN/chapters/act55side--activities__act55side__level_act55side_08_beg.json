@@ -1,0 +1,21 @@
+{
+  "id": "act55side--activities__act55side__level_act55side_08_beg",
+  "albumId": "act55side",
+  "title": "潮湿的火焰",
+  "subtitle": "TL-8",
+  "code": "TL-8",
+  "avgTag": "行动前",
+  "summary": "info/activities/act55side/level_act55side_08_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TL-8_%E6%BD%AE%E6%B9%BF%E7%9A%84%E7%81%AB%E7%84%B0/BEG",
+    "page": "TL-8_潮湿的火焰/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act55side--activities__act55side__level_act55side_07_end",
+    "nextChapterId": "act55side--activities__act55side__level_act55side_08_end"
+  },
+  "blocks": [],
+  "citations": []
+}

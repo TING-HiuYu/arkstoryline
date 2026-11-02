@@ -1,21 +1,21 @@
 {
-  "albumId": "act18d3",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "SV-9",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "SV-9_笃信者/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/SV-9_%E7%AC%83%E4%BF%A1%E8%80%85/END"
-  },
   "id": "act18d3--activities__act18d3__level_act18d3_09_end",
-  "navigation": {
-    "nextChapterId": "act18d3--activities__act18d3__level_act18d3_st02",
-    "previousChapterId": "act18d3--activities__act18d3__level_act18d3_09_beg"
-  },
+  "albumId": "act18d3",
+  "title": "笃信者",
   "subtitle": "SV-9",
+  "code": "SV-9",
+  "avgTag": "行动后",
   "summary": "info/activities/act18d3/level_act18d3_09_end",
-  "title": "笃信者"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SV-9_%E7%AC%83%E4%BF%A1%E8%80%85/END",
+    "page": "SV-9_笃信者/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act18d3--activities__act18d3__level_act18d3_09_beg",
+    "nextChapterId": "act18d3--activities__act18d3__level_act18d3_st02"
+  },
+  "blocks": [],
+  "citations": []
 }

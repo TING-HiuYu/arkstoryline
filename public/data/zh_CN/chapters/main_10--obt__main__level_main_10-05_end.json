@@ -1,21 +1,21 @@
 {
-  "albumId": "main_10",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "10-6",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "10-6_虽非同族/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/10-6_%E8%99%BD%E9%9D%9E%E5%90%8C%E6%97%8F/END"
-  },
   "id": "main_10--obt__main__level_main_10-05_end",
-  "navigation": {
-    "nextChapterId": "main_10--obt__main__level_main_10-06_beg",
-    "previousChapterId": "main_10--obt__main__level_main_10-05_beg"
-  },
+  "albumId": "main_10",
+  "title": "虽非同族",
   "subtitle": "10-6",
+  "code": "10-6",
+  "avgTag": "行动后",
   "summary": "info/obt/main/level_main_10-05_end",
-  "title": "虽非同族"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-6_%E8%99%BD%E9%9D%9E%E5%90%8C%E6%97%8F/END",
+    "page": "10-6_虽非同族/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_10--obt__main__level_main_10-05_beg",
+    "nextChapterId": "main_10--obt__main__level_main_10-06_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

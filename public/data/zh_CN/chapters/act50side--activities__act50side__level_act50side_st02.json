@@ -1,0 +1,21 @@
+{
+  "id": "act50side--activities__act50side__level_act50side_st02",
+  "albumId": "act50side",
+  "title": "幻梦终醒，猎魂不息",
+  "subtitle": "TD-ST-2",
+  "code": "TD-ST-2",
+  "avgTag": "幕间",
+  "summary": "info/activities/act50side/level_act50side_st02",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TD-ST-2_%E5%B9%BB%E6%A2%A6%E7%BB%88%E9%86%92%EF%BC%8C%E7%8C%8E%E9%AD%82%E4%B8%8D%E6%81%AF/NBT",
+    "page": "TD-ST-2_幻梦终醒，猎魂不息/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act50side--activities__act50side__level_act50side_08_end",
+    "nextChapterId": null
+  },
+  "blocks": [],
+  "citations": []
+}

@@ -1,21 +1,21 @@
 {
-  "albumId": "act19side",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "DV-6",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "DV-6_挣脱美梦/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/DV-6_%E6%8C%A3%E8%84%B1%E7%BE%8E%E6%A2%A6/BEG"
-  },
   "id": "act19side--activities__act19side__level_act19side_06_beg",
-  "navigation": {
-    "nextChapterId": "act19side--activities__act19side__level_act19side_06_end",
-    "previousChapterId": "act19side--activities__act19side__level_act19side_05_end"
-  },
+  "albumId": "act19side",
+  "title": "挣脱美梦",
   "subtitle": "DV-6",
+  "code": "DV-6",
+  "avgTag": "行动前",
   "summary": "info/activities/act19side/level_act19side_06_beg",
-  "title": "挣脱美梦"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/DV-6_%E6%8C%A3%E8%84%B1%E7%BE%8E%E6%A2%A6/BEG",
+    "page": "DV-6_挣脱美梦/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act19side--activities__act19side__level_act19side_05_end",
+    "nextChapterId": "act19side--activities__act19side__level_act19side_06_end"
+  },
+  "blocks": [],
+  "citations": []
 }

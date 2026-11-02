@@ -1,21 +1,21 @@
 {
-  "albumId": "main_10",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "10-4",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "10-4_鸣铳示警/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/10-4_%E9%B8%A3%E9%93%B3%E7%A4%BA%E8%AD%A6/END"
-  },
   "id": "main_10--obt__main__level_main_10-03_end",
-  "navigation": {
-    "nextChapterId": "main_10--obt__main__level_main_10-04_beg",
-    "previousChapterId": "main_10--obt__main__level_main_10-03_beg"
-  },
+  "albumId": "main_10",
+  "title": "鸣铳示警",
   "subtitle": "10-4",
+  "code": "10-4",
+  "avgTag": "行动后",
   "summary": "info/obt/main/level_main_10-03_end",
-  "title": "鸣铳示警"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/10-4_%E9%B8%A3%E9%93%B3%E7%A4%BA%E8%AD%A6/END",
+    "page": "10-4_鸣铳示警/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_10--obt__main__level_main_10-03_beg",
+    "nextChapterId": "main_10--obt__main__level_main_10-04_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

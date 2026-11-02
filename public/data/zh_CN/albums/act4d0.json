@@ -133,11 +133,11 @@
   "source": {
     "path": "zh_CN/gamedata/excel/story_review_table.json",
     "providerId": "github-raw",
-    "revision": "54e8fbd3bcca0d2df9061b67e094916b896de163"
+    "revision": "63c7cec73c3858d0ae913f85cc89af3cef4d744f"
   },
   "sourceEntryType": "UNKNOWN",
   "startTime": 1571126400,
-  "summary": "硝烟中的低语，刀尖下的抉择......\n战争从来不以围墙划分其边界，\n而战场中，也从不缺乏被掩埋的故事。",
+  "summary": "硝烟中的低语，刀尖下的抉择……\n战争从来不以围墙划分其边界，\n而战场中，也从不缺乏被掩埋的故事。",
   "timelineRank": 1571126400,
   "title": "战地秘闻"
 }

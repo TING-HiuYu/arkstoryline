@@ -1,0 +1,21 @@
+{
+  "id": "act55side--activities__act55side__level_act55side_06_beg",
+  "albumId": "act55side",
+  "title": "元音的长度",
+  "subtitle": "TL-6",
+  "code": "TL-6",
+  "avgTag": "行动前",
+  "summary": "info/activities/act55side/level_act55side_06_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TL-6_%E5%85%83%E9%9F%B3%E7%9A%84%E9%95%BF%E5%BA%A6/BEG",
+    "page": "TL-6_元音的长度/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act55side--activities__act55side__level_act55side_05_end",
+    "nextChapterId": "act55side--activities__act55side__level_act55side_06_end"
+  },
+  "blocks": [],
+  "citations": []
+}

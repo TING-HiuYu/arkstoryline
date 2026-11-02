@@ -1,21 +1,21 @@
 {
-  "albumId": "main_5",
-  "avgTag": "行动后",
-  "blocks": [],
-  "citations": [],
-  "code": "5-6",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "5-6_疑兵之计/END",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/5-6_%E7%96%91%E5%85%B5%E4%B9%8B%E8%AE%A1/END"
-  },
   "id": "main_5--obt__main__level_main_05-06_end",
-  "navigation": {
-    "nextChapterId": "main_5--obt__main__level_main_05-07_beg",
-    "previousChapterId": "main_5--obt__main__level_main_05-06_beg"
-  },
+  "albumId": "main_5",
+  "title": "疑兵之计",
   "subtitle": "5-6",
+  "code": "5-6",
+  "avgTag": "行动后",
   "summary": "info/obt/main/level_main_05-06_end",
-  "title": "疑兵之计"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/5-6_%E7%96%91%E5%85%B5%E4%B9%8B%E8%AE%A1/END",
+    "page": "5-6_疑兵之计/END",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "main_5--obt__main__level_main_05-06_beg",
+    "nextChapterId": "main_5--obt__main__level_main_05-07_beg"
+  },
+  "blocks": [],
+  "citations": []
 }

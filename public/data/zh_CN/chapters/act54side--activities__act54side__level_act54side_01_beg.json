@@ -1,0 +1,21 @@
+{
+  "id": "act54side--activities__act54side__level_act54side_01_beg",
+  "albumId": "act54side",
+  "title": "月出",
+  "subtitle": "SR-1",
+  "code": "SR-1",
+  "avgTag": "行动前",
+  "summary": "info/activities/act54side/level_act54side_01_beg",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/SR-1_%E6%9C%88%E5%87%BA/BEG",
+    "page": "SR-1_月出/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act54side--activities__act54side__level_act54side_st01",
+    "nextChapterId": "act54side--activities__act54side__level_act54side_02_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

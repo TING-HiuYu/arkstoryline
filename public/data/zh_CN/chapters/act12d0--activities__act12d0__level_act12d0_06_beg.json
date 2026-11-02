@@ -1,21 +1,21 @@
 {
-  "albumId": "act12d0",
-  "avgTag": "行动前",
-  "blocks": [],
-  "citations": [],
-  "code": "RI-6",
-  "contentSource": {
-    "kind": "scenario-html",
-    "page": "RI-6_邂逅/BEG",
-    "provider": "prts",
-    "url": "https://prts.wiki/w/RI-6_%E9%82%82%E9%80%85/BEG"
-  },
   "id": "act12d0--activities__act12d0__level_act12d0_06_beg",
-  "navigation": {
-    "nextChapterId": "act12d0--activities__act12d0__level_act12d0_06_end",
-    "previousChapterId": "act12d0--activities__act12d0__level_act12d0_05_end"
-  },
+  "albumId": "act12d0",
+  "title": "邂逅",
   "subtitle": "RI-6",
+  "code": "RI-6",
+  "avgTag": "行动前",
   "summary": "info/activities/act12d0/level_act12d0_06_beg",
-  "title": "邂逅"
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RI-6_%E9%82%82%E9%80%85/BEG",
+    "page": "RI-6_邂逅/BEG",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act12d0--activities__act12d0__level_act12d0_05_end",
+    "nextChapterId": "act12d0--activities__act12d0__level_act12d0_06_end"
+  },
+  "blocks": [],
+  "citations": []
 }

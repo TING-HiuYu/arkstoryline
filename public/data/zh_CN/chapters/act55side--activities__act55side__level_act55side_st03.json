@@ -1,0 +1,21 @@
+{
+  "id": "act55side--activities__act55side__level_act55side_st03",
+  "albumId": "act55side",
+  "title": "孱弱的团结",
+  "subtitle": "TL-ST-3",
+  "code": "TL-ST-3",
+  "avgTag": "幕间",
+  "summary": "info/activities/act55side/level_act55side_st03",
+  "contentSource": {
+    "provider": "prts",
+    "url": "https://prts.wiki/w/TL-ST-3_%E5%AD%B1%E5%BC%B1%E7%9A%84%E5%9B%A2%E7%BB%93/NBT",
+    "page": "TL-ST-3_孱弱的团结/NBT",
+    "kind": "scenario-html"
+  },
+  "navigation": {
+    "previousChapterId": "act55side--activities__act55side__level_act55side_08_end",
+    "nextChapterId": "act55side--activities__act55side__level_act55side_09_beg"
+  },
+  "blocks": [],
+  "citations": []
+}

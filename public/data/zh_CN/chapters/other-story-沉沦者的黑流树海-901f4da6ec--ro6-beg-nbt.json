@@ -1,0 +1,20 @@
+{
+  "albumId": "other-story-沉沦者的黑流树海-901f4da6ec",
+  "avgTag": "幕间",
+  "blocks": [],
+  "citations": [],
+  "code": null,
+  "contentSource": {
+    "kind": "scenario-html",
+    "page": "RO6-BEG/NBT",
+    "provider": "prts",
+    "url": "https://prts.wiki/w/RO6-BEG/NBT"
+  },
+  "id": "other-story-沉沦者的黑流树海-901f4da6ec--ro6-beg-nbt",
+  "navigation": {
+    "nextChapterId": "other-story-沉沦者的黑流树海-901f4da6ec--ro6-end-1-nbt",
+    "previousChapterId": null
+  },
+  "subtitle": null,
+  "title": "序章"
+}
