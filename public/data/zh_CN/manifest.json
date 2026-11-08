@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "locale": "zh_CN",
-  "generatedAt": "2026-11-02T08:53:49.072Z",
+  "generatedAt": "2026-11-08T22:23:18.576Z",
   "source": {
     "providerId": "github-raw",
     "commitSha": "63c7cec73c3858d0ae913f85cc89af3cef4d744f"
@@ -9,7 +9,7 @@
   "files": {
     "catalog.json": "a50134869b2968d6446025f8b6d45107856ad18d8e9d1f7a5c0e367ecf45ff00",
     "timeline.json": "7fc49de05bf8528008f302c23c7d3fde87b3e4310e518e590da8cc6e4dabf60a",
-    "search-index.json": "cc8a97e7ad02a04b97fa554f523e7fbdf42c77f6a94436048428a8535dcf71c6",
+    "search-index.json": "e18c5e9a33a4e1d6f3264b01462bc846c32f3af64c2552451e229ecb23a64220",
     "albums/1stact.json": "d4b007f4bd651b9ac49f6136d06d0044a6cce9a8ce244b55ec51d790f250f3ba",
     "albums/act10d5.json": "dd3aee5e45717f4f060ed3ca37ce24fc06dded82a7c954d7c1d9308416c2d1aa",
     "albums/act10mini.json": "07c51725ff18c2cc261da2ca8257beb56f21604a164b9d8ed25c618ac6e89521",

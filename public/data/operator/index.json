@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T08:50:46.088086+00:00",
+  "generatedAt": "2026-11-08T22:18:32.923249+00:00",
   "operators": [
     {
       "exportManifest": {
@@ -12479,64 +12479,6 @@
       "slug": "operator-7c8ea94bba"
     },
     {
-      "exportManifest": {
-        "archive": [
-          {
-            "id": "operator-7cef32bd37:archive",
-            "kind": "archive",
-            "page": "纯烬艾雅法拉",
-            "sections": [
-              "基础档案",
-              "综合体检测试",
-              "综合性能检测结果",
-              "临床诊断分析"
-            ],
-            "sourceUrl": "https://prts.wiki/w/%E7%BA%AF%E7%83%AC%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89",
-            "title": "档案"
-          }
-        ],
-        "confidential": [
-          {
-            "id": "operator-7cef32bd37:confidential:operator-7cef32bd37:confidential:1",
-            "kind": "confidential",
-            "page": "纯烬艾雅法拉/干员密录/1",
-            "sourceUrl": "https://prts.wiki/w/%E7%BA%AF%E7%83%AC%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95/1",
-            "title": "夜色中的第一步"
-          }
-        ],
-        "modules": [
-          {
-            "id": "operator-7cef32bd37:module:operator-7cef32bd37:module:1",
-            "kind": "module",
-            "page": "纯烬艾雅法拉",
-            "sections": [
-              "基础信息"
-            ],
-            "sourceUrl": "https://prts.wiki/w/%E7%BA%AF%E7%83%AC%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89",
-            "title": "纯烬艾雅法拉证章"
-          },
-          {
-            "id": "operator-7cef32bd37:module:operator-7cef32bd37:module:2",
-            "kind": "module",
-            "page": "纯烬艾雅法拉",
-            "sections": [
-              "基础信息"
-            ],
-            "sourceUrl": "https://prts.wiki/w/%E7%BA%AF%E7%83%AC%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89",
-            "title": "想要留住的声音"
-          },
-          {
-            "id": "operator-7cef32bd37:module:operator-7cef32bd37:module:3",
-            "kind": "module",
-            "page": "纯烬艾雅法拉",
-            "sections": [
-              "基础信息"
-            ],
-            "sourceUrl": "https://prts.wiki/w/%E7%BA%AF%E7%83%AC%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89",
-            "title": "想要留下的生命"
-          }
-        ]
-      },
       "faction": "莱塔尼亚",
       "name": "纯烬艾雅法拉",
       "page": "纯烬艾雅法拉",
