@@ -5,5 +5,15 @@
   "assets": {
     "directory": "./dist",
     "not_found_handling": "single-page-application"
-  }
+  },
+  "routes": [
+    {
+      "pattern": "thy.icu/ark/storyline",
+      "zone_name": "thy.icu"
+    },
+    {
+      "pattern": "thy.icu/ark/storyline/*",
+      "zone_name": "thy.icu"
+    }
+  ]
 }
