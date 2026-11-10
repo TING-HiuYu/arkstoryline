@@ -86,8 +86,6 @@ jobs:
       - name: Setup pnpm
         if: steps.metadata.outputs.changed == 'true'
         uses: pnpm/action-setup@v4
-        with:
-          version: '10'
 
       - name: Setup Node
         if: steps.metadata.outputs.changed == 'true'
