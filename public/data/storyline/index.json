@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T22:38:19.779681+00:00",
+  "generatedAt": "2026-11-22T23:12:41.251214+00:00",
   "schemaVersion": 1,
   "sections": {
     "cc": [],
@@ -12611,7 +12611,7 @@
     ]
   },
   "source": {
-    "method": "parse-api",
+    "method": "rendered",
     "oldid": "275380",
     "page": "剧情一览"
   }
